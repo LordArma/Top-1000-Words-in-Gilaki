@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gilaki Words</title>
+  <title>Top 1000 Words in Gilaki</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vazir-font/27.2.2/font-face.min.css"/>
   <style>
     body {
@@ -60,9 +60,11 @@
     }
     table .col-word {
       width: 16%;
+      text-align: center;
     }
     table .col-example {
       width: 34%;
+      text-align: center;
     }
     .text-field {
       width: 100%;
@@ -172,7 +174,7 @@
 <body>
   <div id="app">
     <div class="container">
-      <h1>هزار کلمه گیلکی</h1>
+      <h1>Top 1000 Words in Gilaki</h1>
       <input
         :value="query"
         @input="onInput"
@@ -183,10 +185,10 @@
         <table>
           <thead>
             <tr class="list-item head">
-              <th class="col-word">کلمه گیلکی</td>
-              <th class="col-example">مثال گیلکی</td>
-              <th class="col-word">کلمه فارسی</td>
-              <th class="col-example">مثال فارسی</td>
+              <th class="col-word">Gilaki Word</td>
+              <th class="col-example">Gilaki Example</td>
+              <th class="col-word">Farsi Word</td>
+              <th class="col-example">Farsi Example</td>
             </tr>
           </thead>
           <tbody name="fade-list" is="transition-group">
