@@ -17,6 +17,9 @@ bc1qx7arvae99jv0s2qnaf3v9qaxr6f22p4cpwuaph
 <br/>
 [تقویم دیلمی](http://giltime.ir) 
 # Contributors
-Arma
-shabkhooon
-MeyT
+[Arma](https://github.com/LordArma)
+<br/>
+[Nima Rahbar](https://instagram.com/shabkhooon)
+<br/>
+[Meyti](https://github.com/meyt)
+<br/>
