@@ -205,18 +205,18 @@
           </thead>
           <tbody name="fade-list" is="transition-group">
             <tr v-for="(record, index) in items" :key="index" class="list-item">
-              <td class="col-word" data-label="کلمه گیلکی">
+              <td class="col-word" data-label="Gilaki Word">
                 <a :href="'https://glk.wikipedia.org/wiki/' + record.glk_word" target="_blank" >
                   {{ record.glk_word }}
                 </a>
               </td>
-              <td class="col-example" data-label="مثال گیلکی">{{ record.glk_example }}</div>
-              <td class="col-word" data-label="کلمه فارسی">
+              <td class="col-example" data-label="Gilaki Example">{{ record.glk_example }}</div>
+              <td class="col-word" data-label="Farsi Word">
                 <a :href="'https://fa.wikipedia.com/wiki/' + record.fa_word" target="_blank">
                   {{ record.fa_word }}
                 </a>
               </td>
-              <td class="col-example" data-label="مثال فارسی">{{ record.fa_example }}</td>
+              <td class="col-example" data-label="Farsi Example">{{ record.fa_example }}</td>
             </tr>
           </tbody>
         </table>
