@@ -215,17 +215,17 @@
           </tbody>
         </table>
         <div v-if="collapsed && items.length === visibleItemsLimit" @click="showAll" class="btn">
-          نمایش همه کلمات
+          Show All
         </div>
         <div v-if="items.length === 0" class="not-found-message">
-          کلمه‌ای مطابق با <span>{{ query }}</span> پیدا نشد.
+          Word Not Found
         </div>
       </div>
       <div v-else-if="loading" class="loading">
-        درحال بارگذاری...
+        Loading...
       </div>
       <div v-else-if="failed" @click="loadData" class="loading-failed">
-        خطا در بارگذاری! مجددا تلاش کنید
+        Error! Please try again.
       </div>
       <div class="footer">
         <p>&nbsp;</p>
