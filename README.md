@@ -1,6 +1,6 @@
 # Top 1000 Words in Gilaki
-Top 1000 words in Gilaki with Farsi (Persian) translation. You can download theme as JSON, XML, SQLite and so many more formats.
-You can also search in this list without download anything here.
+Top 1000 words in Gilaki with Farsi translation. You can download them as JSON, XML, SQLite and so many more formats.
+You can also search in this list without download anything here: [Top 1000 Words in Gilaki](https://lordarma.github.io/Top-1000-Words-in-Gilaki)
 
 # Support
 Do you like this project? You can donate Bitcoins here:
