@@ -15,9 +15,9 @@ bc1qx7arvae99jv0s2qnaf3v9qaxr6f22p4cpwuaph
 <br/>
 [Arduino Dilami Calendar](https://github.com/LordArma/Dilami-Calendar-Arduino)
 <br/>
-[کیبورد گیلکی](https://gilakikeyboard.ir)
+[Gilaki Keyboard](https://gilakikeyboard.ir)
 <br/>
-[تقویم دیلمی](https://giltime.ir)
+[Dilami Calendar](https://giltime.ir)
 
 # Contributors
 [Arma](https://github.com/LordArma)
