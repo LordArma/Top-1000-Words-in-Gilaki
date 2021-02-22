@@ -18,6 +18,14 @@
     }
     a {
       text-decoration: none;
+      color: black;
+    }
+    h1 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+    h5 {
+      color: gray;
     }
     .list {
       border: solid 1px #ccc;
@@ -186,7 +194,8 @@
 <body>
   <div id="app">
     <div class="container">
-      <h1>Top 1000 Words in Gilaki</h1>
+      <h1><a href="index.html">Top 1000 Words in Gilaki</a></h1>
+      <a href="https://github.com/LordArma/Top-1000-Words-in-Gilaki"><h5>Github Repository</h5></a>
       <input
         :value="query"
         @input="onInput"
