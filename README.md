@@ -3,6 +3,9 @@ Top 1000 words in Gilaki with Farsi translation. You can download them as JSON, 
 You can also search in this list without download anything here: [Top 1000 Words in Gilaki](https://lordarma.github.io/Top-1000-Words-in-Gilaki).
 <br/>
 <br/>
+Another project base on this list is ["Gilaki Word" page on Instagram](https://instagram.com/gilakiword).
+<br/>
+<br/>
 You may want to watch [Introducing "Top 1000 Words in Gilaki" project in English in Youtube](https://www.youtube.com/watch?v=MW1o3a_anTY&ab_channel=AlirezaAhmadi).
 
 # Support
