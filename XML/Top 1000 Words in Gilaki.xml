@@ -2509,7 +2509,7 @@
   <word>
     <id>359</id>
     <glk_word>چاپلا زئن</glk_word>
-    <glk_example>خؤشالي جأ کرأ چاپلا زئن دره </glk_example>
+    <glk_example>خؤشالي جأ کرأ چاپلا زنه </glk_example>
     <fa_word>کف زدن</fa_word>
     <fa_example>از خوشحالى دارد کف مى‌زند</fa_example>
   </word>
@@ -5261,8 +5261,8 @@
     <id>752</id>
     <glk_word>گؤرخانه</glk_word>
     <glk_example>ايمرۊ گؤرخانه وارش بۊ </glk_example>
-    <fa_word>آسمان قلنبه</fa_word>
-    <fa_example>امروز باران با آسمان قلنبه بود</fa_example>
+    <fa_word>رعد</fa_word>
+    <fa_example>امروز باران با رعد بود</fa_example>
   </word>
   <word>
     <id>753</id>
