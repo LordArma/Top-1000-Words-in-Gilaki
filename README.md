@@ -8,6 +8,9 @@ Another project base on this list is ["Gilaki Word" page on Instagram](https://i
 <br/>
 You may want to watch [Introducing "Top 1000 Words in Gilaki" project in English in Youtube](https://www.youtube.com/watch?v=MW1o3a_anTY&ab_channel=AlirezaAhmadi).
 
+# Last Update
+12, Mar 2021
+
 # Support
 Do you like this project? You can donate Bitcoins here:
 <br/>
