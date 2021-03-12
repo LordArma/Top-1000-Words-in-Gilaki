@@ -8,18 +8,18 @@ Another project base on this list is ["Gilaki Word" page on Instagram](https://i
 <br/>
 You may want to watch [Introducing "Top 1000 Words in Gilaki" project in English in Youtube](https://www.youtube.com/watch?v=MW1o3a_anTY&ab_channel=AlirezaAhmadi).
 
-# Last Update
-12, Mar 2021
+## Last Update
+13, Mar 2021
 
-# Generate Your Own List?
+## Generate Your Own List?
 You can easily visit [Top 1000 Words in Gilaki Helper](https://github.com/LordArma/Top-1000-Words-in-Gilaki-Helper) project and generate your own top N words in any language!
 
-# Support
+## Support
 Do you like this project? You can donate Bitcoins here:
 <br/>
 bc1qx7arvae99jv0s2qnaf3v9qaxr6f22p4cpwuaph
 
-# Maybe You Like
+## Maybe You Like
 [C++ Dilami Calendar](https://github.com/LordArma/Dilami-Calendar-C-)
 <br/>
 [Python Dilami Calendar](https://github.com/Jangal/python-dilami-calendar)
@@ -32,7 +32,7 @@ bc1qx7arvae99jv0s2qnaf3v9qaxr6f22p4cpwuaph
 <br/>
 [Dilami Calendar](https://giltime.ir)
 
-# Contributors
+## Contributors
 [Arma](https://github.com/LordArma)
 <br/>
 [Nima Rahbar](https://instagram.com/shabkhooon)
