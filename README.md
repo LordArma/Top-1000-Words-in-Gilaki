@@ -11,6 +11,9 @@ You may want to watch [Introducing "Top 1000 Words in Gilaki" project in English
 # Last Update
 12, Mar 2021
 
+# Generate Your Own List?
+You can easily visit [Top 1000 Words in Gilaki Helper](https://github.com/LordArma/Top-1000-Words-in-Gilaki-Helper) project and generate your own top N words in any language!
+
 # Support
 Do you like this project? You can donate Bitcoins here:
 <br/>
