@@ -9,7 +9,7 @@ Another project base on this list is ["Gilaki Word" page on Instagram](https://i
 You may want to watch [Introducing "Top 1000 Words in Gilaki" project in English in Youtube](https://www.youtube.com/watch?v=MW1o3a_anTY&ab_channel=AlirezaAhmadi).
 
 ## Last Update
-24, Mar 2021
+27, Mar 2021
 
 ## Generate Your Own List?
 You can easily visit [Top 1000 Words in Gilaki Helper](https://github.com/LordArma/Top-1000-Words-in-Gilaki-Helper) project and generate your own top N words in any language!
