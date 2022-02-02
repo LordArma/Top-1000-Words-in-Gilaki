@@ -2,361 +2,454 @@
 <html lang="fa" dir="rtl">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Top 1000 Words in Gilaki</title>
-    <link rel="shortcut icon" type="image/png" href="favicon.png" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vazir-font/27.2.2/font-face.min.css" />
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            text-align: center;
-            font-family: "Vazir", Arial, sans-serif;
-        }
-        
-        .container {
-            max-width: 960px;
-            margin: auto;
-        }
-        
-        a {
-            text-decoration: none;
-            color: black;
-        }
-        
-        h1 {
-            padding-left: 10px;
-            padding-right: 10px;
-        }
-        
-        h5 {
-            color: gray;
-        }
-        
-        .list {
-            border: solid 1px #ccc;
-            width: 100%;
-            box-sizing: border-box;
-            border-radius: 2px;
-            overflow: visible;
-        }
-        
-        table {
-            width: 100%;
-            border: none;
-            border-collapse: collapse;
-            overflow: visible;
-        }
-        
-        table tr {
-            border-bottom: solid 1px #ccc;
-            height: 40px;
-            overflow: hidden;
-        }
-        
-        table tr:last-child {
-            border-bottom: none;
-        }
-        
-        table tr.head {
-            background-color: #eee;
-            font-weight: bold;
-            user-select: none;
-            border-radius: 2px 2px 0 0;
-        }
-        
-        table td,
-        table th {
-            text-align: right;
-            display: inline-block;
-            box-sizing: border-box;
-            vertical-align: top;
-            padding: 8px;
-            font-size: 16px;
-        }
-        
-        table .col-no {
-            width: 4%;
-        }
-        
-        table .col-word {
-            width: 16%;
-        }
-        
-        table .col-example {
-            width: 34%;
-            text-align: center;
-        }
-        
-        table .col-word-head {
-            width: 16%;
-            text-align: center;
-        }
-        
-        table .col-example-head {
-            width: 34%;
-            text-align: center;
-        }
-        
-        .text-field {
-            width: 100%;
-            height: 50px;
-            padding: 10px;
-            box-sizing: border-box;
-            font-size: 24px;
-            font-family: Vazir, Arial, sans-serif;
-            border: solid 1px #ddd;
-            margin-top: 20px;
-            margin-bottom: 20px;
-            outline: none;
-            border-radius: 2px;
-        }
-        
-        .not-found-message {
-            padding: 50px;
-            box-sizing: border-box;
-        }
-        
-        .not-found-message span {
-            background-color: #eee;
-            display: inline-block;
-            padding: 0 6px;
-            border-radius: 2px;
-        }
-        
-        .btn {
-            display: inline-block;
-            padding: 8px;
-            font-weight: bold;
-            cursor: pointer;
-        }
-        
-        .footer {
-            color: #999;
-        }
-        
-        .loading {
-            direction: ltr;
-        }
-        
-        .loading-failed {
-            direction: ltr;
-        }
-        
-        @media screen and (max-width: 600px) {
-            .list {
-                border-right: none;
-                border-left: none;
-            }
-            table {
-                border: 0;
-            }
-            table tr.head {
-                display: none;
-            }
-            table caption {
-                font-size: 1.3em;
-            }
-            table thead {
-                border: none;
-                clip: rect(0 0 0 0);
-                height: 1px;
-                margin: -1px;
-                overflow: hidden;
-                padding: 0;
-                position: absolute;
-                width: 1px;
-            }
-            table tr {
-                border-bottom: 3px solid #ddd;
-                display: block;
-                height: auto;
-                margin-bottom: .625em;
-            }
-            table td {
-                border-bottom: 1px solid #ddd;
-                display: block;
-                font-size: 12px;
-                padding: 2px 8px;
-                text-align: right;
-                width: auto !important;
-            }
-            table td::before {
-                /*
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Top 1000 Words in Gilaki</title>
+  <link rel="shortcut icon" type="image/png" href="favicon.png" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vazir-font/27.2.2/font-face.min.css" />
+  <meta name=theme-color content="#00afff">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      font-family: "Vazir", Arial, sans-serif;
+      border-top: solid 3px #00afff;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: auto;
+    }
+
+    a {
+      text-decoration: none;
+      color: black;
+    }
+
+    h1 {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    h5 {
+      color: gray;
+      font-size: .9rem;
+    }
+
+    .lang-switch span {
+      cursor: pointer;
+      font-size: .8rem;
+    }
+
+    .list {
+      border: solid 1px #ccc;
+      width: 100%;
+      box-sizing: border-box;
+      border-radius: 2px;
+      overflow: visible;
+    }
+
+    table {
+      width: 100%;
+      border: none;
+      border-collapse: collapse;
+      overflow: visible;
+    }
+
+    table tr {
+      border-bottom: solid 1px #ccc;
+      height: 40px;
+      overflow: hidden;
+    }
+
+    table tr:last-child {
+      border-bottom: none;
+    }
+
+    table tr.head {
+      background-color: #eee;
+      font-weight: bold;
+      user-select: none;
+      border-radius: 2px 2px 0 0;
+    }
+
+    table td,
+    table th {
+      text-align: right;
+      display: inline-block;
+      box-sizing: border-box;
+      vertical-align: top;
+      padding: 8px;
+      font-size: 16px;
+    }
+
+    table .col-no {
+      width: 4%;
+    }
+
+    table .col-word {
+      width: 16%;
+    }
+
+    table .col-example {
+      width: 34%;
+      text-align: center;
+    }
+
+    table .col-word-head {
+      width: 16%;
+      text-align: center;
+    }
+
+    table .col-example-head {
+      width: 34%;
+      text-align: center;
+    }
+
+    .text-field {
+      width: 100%;
+      height: 50px;
+      padding: 10px;
+      box-sizing: border-box;
+      font-size: 24px;
+      font-family: Vazir, Arial, sans-serif;
+      border: solid 1px #ddd;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      outline: none;
+      border-radius: 2px;
+    }
+
+    .not-found-message {
+      padding: 50px;
+      box-sizing: border-box;
+    }
+
+    .not-found-message span {
+      background-color: #eee;
+      display: inline-block;
+      padding: 0 6px;
+      border-radius: 2px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 8px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .footer {
+      color: #999;
+    }
+
+    .loading {
+      direction: ltr;
+    }
+
+    .loading-failed {
+      direction: ltr;
+    }
+
+    @media screen and (max-width: 600px) {
+      .list {
+        border-right: none;
+        border-left: none;
+      }
+
+      table {
+        border: 0;
+      }
+
+      table tr.head {
+        display: none;
+      }
+
+      table caption {
+        font-size: 1.3em;
+      }
+
+      table thead {
+        border: none;
+        clip: rect(0 0 0 0);
+        height: 1px;
+        margin: -1px;
+        overflow: hidden;
+        padding: 0;
+        position: absolute;
+        width: 1px;
+      }
+
+      table tr {
+        border-bottom: 3px solid #ddd;
+        display: block;
+        height: auto;
+        margin-bottom: .625em;
+      }
+
+      table td {
+        border-bottom: 1px solid #ddd;
+        display: block;
+        font-size: 12px;
+        padding: 2px 8px;
+        text-align: right;
+        width: auto !important;
+      }
+
+      table td::before {
+        /*
         * aria-label has no advantage, it won't be read inside a table
         content: attr(aria-label);
         */
-                content: attr(data-label);
-                float: left;
-                font-weight: normal;
-                color: #555;
-                font-size: 11px;
-                text-transform: uppercase;
-            }
-            table td:last-child {
-                border-bottom: 0;
-            }
-        }
-        
-        .fade-list-move {
-            transition: transform 0.25s ease;
-        }
-        
-        .fade-list-leave-to {
-            transition: all 0.3s ease;
-            opacity: 0;
-        }
-    </style>
+        content: attr(data-label);
+        float: left;
+        font-weight: normal;
+        color: #555;
+        font-size: 11px;
+        text-transform: uppercase;
+      }
+
+      table td:last-child {
+        border-bottom: 0;
+      }
+    }
+
+    .fade-list-move {
+      transition: transform 0.25s ease;
+    }
+
+    .fade-list-leave-to {
+      transition: all 0.3s ease;
+      opacity: 0;
+    }
+  </style>
 </head>
 
 <body>
-    <div id="app">
-        <div class="container">
-            <h1><a href="index.html">Top 1000 Words in Gilaki</a></h1>
-            <a href="https://github.com/LordArma/Top-1000-Words-in-Gilaki">
-                <h5>Github Repository</h5>
-            </a>
-            <input :value="query" @input="onInput" class="text-field" placeholder="..." />
-            <div v-if="loaded" class="list">
-                <table>
-                    <thead>
-                        <tr class="list-item head">
-                            <th class="col-word-head">Gilaki Word</td>
-                                <th class="col-example-head">Gilaki Example</td>
-                                    <th class="col-word-head">Farsi Word</td>
-                                        <th class="col-example-head">Farsi Example</td>
-                        </tr>
-                    </thead>
-                    <tbody name="fade-list" is="transition-group">
-                        <tr v-for="(record, index) in items" :key="index" class="list-item">
-                            <td class="col-word" data-label="Gilaki Word">
-                                <a :href="'https://glk.wikipedia.org/wiki/' + record.glk_word" target="_blank">
-                  {{ record.glk_word }}
-                </a>
-                            </td>
-                            <td class="col-example" data-label="Gilaki Example">{{ record.glk_example }}</div>
-            <td class="col-word" data-label="Farsi Word">
-                <a :href="'https://fa.wikipedia.com/wiki/' + record.fa_word" target="_blank">
-                  {{ record.fa_word }}
-                </a>
-            </td>
-            <td class="col-example" data-label="Farsi Example">{{ record.fa_example }}</td>
-            </tr>
-            </tbody>
-            </table>
-            <div v-if="collapsed && items.length === visibleItemsLimit" @click="showAll" class="btn">
-                Show All
-            </div>
-            <div v-if="items.length === 0" class="not-found-message">
-                Word Not Found
-            </div>
-        </div>
-        <div v-else-if="loading" class="loading">
-            Loading...
-        </div>
-        <div v-else-if="failed" @click="loadData" class="loading-failed">
-            Error! Please try again.
-        </div>
-        <div class="footer">
-            <p>&nbsp;</p>
-        </div>
-    </div>
-    </div>
+  <div id="app">
+    <div class="container">
+      <h1><a href="index.html">{{ t('title') }}</a></h1>
+      <a href="https://github.com/LordArma/Top-1000-Words-in-Gilaki">
+        <h5>{{ t('githubRepository') }}</h5>
+      </a>
+      <div class="lang-switch">
+        <span @click="switchLang">
+          {{ t('langSwitchText') }}
+        </span>
+      </div>
+      <input :value="query" @input="onInput" class="text-field" :dir="query.length > 0 ? 'auto' : 'rtl'" placeholder="..." />
+      <div v-if="loaded" class="list">
+        <table>
+          <thead>
+            <tr class="list-item head">
+              <th class="col-word-head">{{ t('gilakiWord') }}</td>
+              <th class="col-example-head">{{ t('gilakiExample') }}</td>
 
-    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
-    <script>
-        var dataSource = './Top 1000 Words in Gilaki.min.json';
-        var searchKeys = [
-            'glk_word',
-            'glk_example',
-            'fa_word',
-            'fa_example',
-        ];
-        var words = [];
-        var wordsMap = [];
-        window.onload = function onload() {
-            new Vue({
-                el: '#app',
-                data: {
-                    loading: true,
-                    loaded: false,
-                    failed: false,
-                    collapsed: true,
-                    visibleItemsLimit: 50,
-                    query: '',
-                    items: [],
-                },
-                methods: {
-                    onInput: function(e) {
-                        this.query = e.target.value;
-                        this.applyFiltering();
-                    },
-                    applyFiltering() {
-                        const q = this.query
-                        if (q.length === 0) {
-                            this.items = wordsMap.slice(0, this.visibleItemsLimit);
-                            this.collapsed = true
-                        } else {
-                            var res = [];
-                            var cc = 0;
-                            this.collapsed = false
-                            for (var i = 0; i < wordsMap.length; i++) {
-                                var o = wordsMap[i];
-                                for (var ii = 0; ii < searchKeys.length; ii++) {
-                                    var key = searchKeys[ii];
-                                    if (o[key].substring(0, q.length) === q) {
-                                        res.push(o);
-                                        cc++;
-                                        break;
-                                    }
-                                }
-                                if (cc === this.visibleItemsLimit) {
-                                    break;
-                                }
-                            };
-                            this.items = res
-                        }
-                    },
-                    loadData: function(cb) {
-                        vm = this
-                        vm.loading = true
-                        vm.failed = false
-                        vm.loaded = false
-                        var request = new XMLHttpRequest();
-                        request.open('GET', dataSource, true);
-                        request.onload = function() {
-                            if (this.status >= 200 && this.status < 400) {
-                                words = JSON.parse(this.response);
-                                words = words.sort(function(a, b) {
-                                    return a.glk_word < b.glk_word
-                                })
-                                wordsMap = words.map(Object.freeze);
-                                vm.applyFiltering();
-                                vm.loaded = true;
-                                vm.loading = false;
-                            } else {
-                                vm.failed = true;
-                                vm.loading = false;
-                            }
-                        };
-                        request.onerror = function() {
-                            vm.failed = true;
-                            vm.loading = false;
-                        };
-                        request.send();
-                    },
-                    showAll() {
-                        this.items = wordsMap
-                        this.collapsed = false
-                    }
-                },
-                mounted() {
-                    this.loadData();
+                <th class="col-word-head">{{ t('translatedWord') }}</td>
+              <th class="col-example-head">{{ t('translatedExample') }}</td>
+            </tr>
+          </thead>
+          <tbody name="fade-list" is="transition-group">
+            <tr v-for="record in items" :key="record.id" class="list-item">
+              <td class="col-word" :data-label="t('gilakiWord')">
+                <a :href="record.gilakiUrl" target="_blank">
+                  {{ record.gilakiWord }}
+                </a>
+              </td>
+              <td class="col-example" :data-label="t('gilakiExample')">
+                {{ record.gilakiExample }}
+              </td>
+
+              <td class="col-word" :data-label="t('translatedWord')">
+                <a :href="record.translatedUrl" target="_blank">
+                  {{ record.translatedWord }}
+                </a>
+              </td>
+              <td class="col-example" :data-label="t('translatedExample')">
+                {{ record.translatedExample }}
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <div v-if="collapsed && items.length === visibleItemsLimit" @click="showAll" class="btn">
+          {{ t('showAll') }}
+        </div>
+        <div v-if="items.length === 0" class="not-found-message">
+          {{ t('wordNotFound') }}
+        </div>
+      </div>
+      <div v-else-if="loading" class="loading">
+        {{ t('loading') }}
+      </div>
+      <div v-else-if="failed" @click="loadData" class="loading-failed">
+        {{ t('errorTryAgain') }}
+      </div>
+      <div class="footer">
+        <p>&nbsp;</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+  <script>
+    var dataSource = './Top 1000 Words in Gilaki.min.json';
+    var words = [];
+    var wordsMapRaw = [];
+    var wordsMap = [];
+    var searchKeys = [
+      'gilakiWord',
+      'gilakiExample',
+      'translatedWord',
+      'translatedExample',
+    ]
+    var translations = {
+      fa: {
+        'title': 'هزار کلمه پرکاربرد در گیلکی',
+        'gilakiWord': 'کلمه گیلکی',
+        'gilakiExample': 'مثال گیلکی',
+        'translatedWord': 'کلمه فارسی',
+        'translatedExample': 'مثال فارسی',
+        'githubRepository': 'مخزن گیت‌هاب',
+        'showAll': 'نمایش همه',
+        'loading': 'بارگذاری...',
+        'wordNotFound': 'کلمه پیدا نشد',
+        'errorTryAgain': 'خطا! مجددا تلاش کنید',
+        'langSwitchText': 'English Version',
+      },
+      en: {
+        'title': 'Top 1000 Words in Gilaki',
+        'gilakiWord': 'Gilaki Word',
+        'gilakiExample': 'Gilaki Example',
+        'translatedWord': 'English Word',
+        'translatedExample': 'English Example',
+        'githubRepository': 'Github Repository',
+        'showAll': 'Show All',
+        'loading': 'Loading...',
+        'wordNotFound': 'Word not found',
+        'errorTryAgain': 'Error! try again',
+        'langSwitchText': 'نسخه فارسی',
+      }
+    };
+    function updateWordsMap (items, lang) {
+      var twKey = lang === 'en' ? 'en_word' : 'fa_word';
+      var teKey = lang === 'en' ? 'en_example' : 'fa_example';
+      var wikiPrefix = lang === 'en' ? 'https://en.wikipedia.com/wiki/' : 'https://fa.wikipedia.com/wiki/';
+      wordsMap = [];
+      for(var i = 0; i < items.length; i++) {
+        var item = items[i];
+        wordsMap.push({
+          id: i,
+          gilakiWord: item['glk_word'],
+          gilakiExample: item['glk_example'],
+          gilakiUrl: 'https://glk.wikipedia.org/wiki/',
+          translatedWord: item[twKey],
+          translatedExample: item[teKey],
+          translatedUrl: wikiPrefix + item[twKey]
+        });
+      }
+      wordsMap = wordsMap.map(Object.freeze);
+    }
+    window.onload = function onload() {
+      new Vue({
+        el: '#app',
+        data: {
+          loading: true,
+          loaded: false,
+          failed: false,
+          collapsed: true,
+          lang: null,
+          visibleItemsLimit: 50,
+          query: '',
+          items: []
+        },
+        methods: {
+          t: function (v) {
+            return translations[this.lang][v];
+          },
+          updatePageTitle: function () {
+            document.title = this.t('title');
+          },
+          switchLang: function () {
+            this.lang = this.lang === 'fa' ? 'en' : 'fa';
+            this.updatePageTitle();
+            if (this.loaded) {
+              updateWordsMap(words, this.lang);
+              this.applyFiltering();
+            }
+          },
+          onInput: function (e) {
+            this.query = e.target.value;
+            this.applyFiltering();
+          },
+          applyFiltering: function () {
+            const q = this.query.toLowerCase();
+            if (q.length === 0) {
+              this.items = wordsMap.slice(0, this.visibleItemsLimit);
+              this.collapsed = true;
+            } else {
+              var res = [];
+              var cc = 0;
+              this.collapsed = false;
+              for (var i = 0; i < wordsMap.length; i++) {
+                var o = wordsMap[i];
+                for (var ii = 0; ii < searchKeys.length; ii++) {
+                  var key = searchKeys[ii];
+                  if (o[key].toLowerCase().substring(0, q.length) === q) {
+                    res.push(o);
+                    cc++;
+                    break;
+                  }
                 }
-            })
+                if (cc === this.visibleItemsLimit) {
+                  break;
+                }
+              };
+              this.items = res;
+            }
+          },
+          loadData: function (cb) {
+            vm = this;
+            vm.loading = true;
+            vm.failed = false;
+            vm.loaded = false;
+            var request = new XMLHttpRequest();
+            request.open('GET', dataSource, true);
+            request.onload = function () {
+              if (this.status >= 200 && this.status < 400) {
+                words = JSON.parse(this.response);
+                words = words.sort(function (a, b) {
+                  return a.glk_word < b.glk_word;
+                })
+                updateWordsMap(words, this.lang);
+                vm.applyFiltering();
+                vm.loaded = true;
+                vm.loading = false;
+              } else {
+                vm.failed = true;
+                vm.loading = false;
+              }
+            };
+            request.onerror = function () {
+              vm.failed = true;
+              vm.loading = false;
+            };
+            request.send();
+          },
+          showAll: function () {
+            this.items = wordsMap;
+            this.collapsed = false;
+          }
+        },
+        beforeMount: function () {
+          this.switchLang('fa');
+        },
+        mounted: function () {
+          this.loadData();
         }
-    </script>
+      })
+    }
+  </script>
 </body>
 
 </html>
