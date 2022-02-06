@@ -261,12 +261,12 @@
                 {{ record.gilakiExample }}
               </td>
 
-              <td class="col-word" :data-label="t('translatedWord')">
+              <td class="col-word" dir="auto" :data-label="t('translatedWord')">
                 <a :href="record.translatedUrl" target="_blank">
                   {{ record.translatedWord }}
                 </a>
               </td>
-              <td class="col-example" :data-label="t('translatedExample')">
+              <td class="col-example" dir="auto" :data-label="t('translatedExample')">
                 {{ record.translatedExample }}
               </td>
             </tr>
@@ -342,7 +342,7 @@
           id: i,
           gilakiWord: item['glk_word'],
           gilakiExample: item['glk_example'],
-          gilakiUrl: 'https://glk.wikipedia.org/wiki/',
+          gilakiUrl: 'https://glk.wikipedia.org/wiki/' + item['glk_word'],
           translatedWord: item[twKey],
           translatedExample: item[teKey],
           translatedUrl: wikiPrefix + item[twKey]
