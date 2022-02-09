@@ -7,9 +7,11 @@ Another project base on this list is ["Gilaki Word" page on Instagram](https://i
 
 ## Something is Wrong
 If you found that something is wrong, please open an issue. For example if you think some meanings are wrong or there are some mistakes, please open an issue for each word.
+<br/>
+DON NOT CORRECT THEM DIRECTLY!
 
 ## Last Update
-Updated to version 3.1.0 in 09, Feb 2022.
+Updated to version 3.2.0 in 09, Feb 2022.
 
 ## Generate Your Own List?
 You can easily visit [Top 1000 Words in Gilaki Helper](https://github.com/LordArma/Top-1000-Words-in-Gilaki-Helper) project and generate your own top N words in any language!
