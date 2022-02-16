@@ -271,15 +271,6 @@
     },
     {
         "id": 31,
-        "glk_word": "ايسال",
-        "glk_example": "ايسال دئه مي درز تۊمانأ به",
-        "fa_word": "یک سال",
-        "fa_example": "یک سال دیگر درسم تمام مى‌شود",
-        "en_word": "One Year",
-        "en_example": "My education will end in one year"
-    },
-    {
-        "id": 32,
         "glk_word": "ايستۊل",
         "glk_example": "أشأن چۊب ٚ جأ ایستۊل چأکۊنيد",
         "fa_word": "صندلی",
@@ -288,7 +279,7 @@
         "en_example": "They make chair out of wood"
     },
     {
-        "id": 33,
+        "id": 32,
         "glk_word": "ايسم",
         "glk_example": "تي ايسم چيسه؟",
         "fa_word": "نام",
@@ -297,7 +288,7 @@
         "en_example": "What's your name?"
     },
     {
-        "id": 34,
+        "id": 33,
         "glk_word": "ايسيد؟",
         "glk_example": "شۊمان چن نفر ايسيد؟",
         "fa_word": "هستید؟",
@@ -306,7 +297,7 @@
         "en_example": "How many people are you?"
     },
     {
-        "id": 35,
+        "id": 34,
         "glk_word": "ايسکمۊ",
         "glk_example": "بۊشۊ دۊکان دۊتا ايسکمۊ بيهين",
         "fa_word": "بستنی یخی",
@@ -315,7 +306,7 @@
         "en_example": "Go to the shop and buy two ice pops"
     },
     {
-        "id": 36,
+        "id": 35,
         "glk_word": "ايشتاو",
         "glk_example": "هأی أمرأ ايشتاو ديهه",
         "fa_word": "هشدار",
@@ -324,7 +315,7 @@
         "en_example": "He/She constantly warning us"
     },
     {
-        "id": 37,
+        "id": 36,
         "glk_word": "ايشتاوي",
         "glk_example": "ايشتاوي چي گمه؟",
         "fa_word": "می‌شنوی",
@@ -333,7 +324,7 @@
         "en_example": "Do you hear what I'm saying?"
     },
     {
-        "id": 38,
+        "id": 37,
         "glk_word": "ايششه",
         "glk_example": "ايششه، لانتي",
         "fa_word": "اه (لفظ تنفر)",
@@ -342,7 +333,7 @@
         "en_example": "Ew, snake"
     },
     {
-        "id": 39,
+        "id": 38,
         "glk_word": "ايشماردن",
         "glk_example": "مي زأى ايشماردنأ نأنه",
         "fa_word": "شمارش",
@@ -351,7 +342,7 @@
         "en_example": "My kid doesn't know how to count"
     },
     {
-        "id": 40,
+        "id": 39,
         "glk_word": "ايشکؤر",
         "glk_example": "کيشکائان ٚ رئم ايشکؤر فۊکۊن",
         "fa_word": "خرده‌برنج",
@@ -360,7 +351,7 @@
         "en_example": "Sprinkle rice crumbs for chickens too"
     },
     {
-        "id": 41,
+        "id": 40,
         "glk_word": "ايشکنئن",
         "glk_example": "چي-يأ ايشکنئن دري؟",
         "fa_word": "شکستن",
@@ -369,7 +360,7 @@
         "en_example": "What are you breaking?"
     },
     {
-        "id": 42,
+        "id": 41,
         "glk_word": "ايمرۊ",
         "glk_example": "ايمرۊ بۊشؤم کيتابخانه",
         "fa_word": "امروز",
@@ -378,7 +369,7 @@
         "en_example": "Today I went to the library"
     },
     {
-        "id": 43,
+        "id": 42,
         "glk_word": "اينسان",
         "glk_example": "اينسان بۊبۊ",
         "fa_word": "انسان",
@@ -387,7 +378,7 @@
         "en_example": "Be human"
     },
     {
-        "id": 44,
+        "id": 43,
         "glk_word": "اينفر",
         "glk_example": "اينفر دئه خأئيم أمي جرگه چأکۊده ببه",
         "fa_word": "یک‌نفر",
@@ -396,7 +387,7 @@
         "en_example": "We need one more person to make our group"
     },
     {
-        "id": 45,
+        "id": 44,
         "glk_word": "ايوار ايوار",
         "glk_example": "ايوار ايوار شئطان مرأ گه . . .",
         "fa_word": "گهگاه",
@@ -405,25 +396,25 @@
         "en_example": "Occasionally, Satan tells me. . ."
     },
     {
-        "id": 46,
+        "id": 45,
         "glk_word": "ايواردم",
         "glk_example": "ايواردم وا بشم بازار",
-        "fa_word": "یک‌بار دیگر",
-        "fa_example": "یک‌بار دیگر باید به بازار بروم",
+        "fa_word": "یک بار دیگر",
+        "fa_example": "یک بار دیگر باید به بازار بروم",
         "en_word": "Once Again",
         "en_example": "I have to go to the market once again"
     },
     {
-        "id": 47,
+        "id": 46,
         "glk_word": "ايوارٚکي",
         "glk_example": "ايوارٚکي بۊگۊ نأيم ترأ راحتأ کۊن",
         "fa_word": "به یک‌باره",
-        "fa_example": "به یک‌باره بگو نمى‌آیم خودت را خلاص کن",
+        "fa_example": "به یک باره بگو نمى‌آیم خودت را خلاص کن",
         "en_word": "Suddenly",
         "en_example": "Suddenly say I'm not comming and get rif of yourself"
     },
     {
-        "id": 48,
+        "id": 47,
         "glk_word": "ايپيچم",
         "glk_example": "گۊش نۊکۊني ايپيچم ترأيأ",
         "fa_word": "برخورد تندی می‌کنم",
@@ -432,7 +423,7 @@
         "en_example": "I'll be aggressive if you don't pay attention"
     },
     {
-        "id": 49,
+        "id": 48,
         "glk_word": "ايپچه",
         "glk_example": "ايپچه پلا مه ره دۊکۊن",
         "fa_word": "کمی",
@@ -441,7 +432,7 @@
         "en_example": "Serve me a little bit of rice"
     },
     {
-        "id": 50,
+        "id": 49,
         "glk_word": "ايچي",
         "glk_example": "ايچي خأيم ترأ بگم",
         "fa_word": "یک‌چیز",
@@ -450,7 +441,7 @@
         "en_example": "I want to tell you something"
     },
     {
-        "id": 51,
+        "id": 50,
         "glk_word": "اۊتاق",
         "glk_example": "مي اۊتاق کؤيتأ ايسه؟",
         "fa_word": "اتاق",
@@ -459,7 +450,7 @@
         "en_example": "Which one is my room?"
     },
     {
-        "id": 52,
+        "id": 51,
         "glk_word": "اۊدۊشتن",
         "glk_example": "سۊمبۊر ٚ مأنستن أمي خۊنأ اۊدۊشتن دريد",
         "fa_word": "مکیدن",
@@ -468,7 +459,7 @@
         "en_example": "They're sucking our blood like a leech"
     },
     {
-        "id": 53,
+        "id": 52,
         "glk_word": "اۊرشين",
         "glk_example": "کترأيأ اۊسادم قاتؤقا اۊرشين بزئم",
         "fa_word": "هم زدن",
@@ -477,7 +468,7 @@
         "en_example": "I picked up wooden spoon and stir the stew"
     },
     {
-        "id": 54,
+        "id": 53,
         "glk_word": "اۊسان",
         "glk_example": "قاقؤشاقانأ اۊسان بأور",
         "fa_word": "بردار",
@@ -486,7 +477,7 @@
         "en_example": "Pick up the spoons and bring them"
     },
     {
-        "id": 55,
+        "id": 54,
         "glk_word": "اۊسه کۊد",
         "glk_example": "أ کيتابأ کي اۊسه کۊد؟",
         "fa_word": "فرستاد",
@@ -495,7 +486,7 @@
         "en_example": "Who sent this book?"
     },
     {
-        "id": 56,
+        "id": 55,
         "glk_word": "اۊشان",
         "glk_example": "اۊشان کيسيد؟",
         "fa_word": "آن‌ها",
@@ -504,7 +495,7 @@
         "en_example": "Who are they?"
     },
     {
-        "id": 57,
+        "id": 56,
         "glk_word": "اۊشکؤفت",
         "glk_example": "آب مرأ اۊشکؤفت",
         "fa_word": "در گلو گیر کرد",
@@ -513,7 +504,7 @@
         "en_example": "I choked on water"
     },
     {
-        "id": 58,
+        "id": 57,
         "glk_word": "اۊن",
         "glk_example": "اۊن چيسه؟",
         "fa_word": "آن",
@@ -522,7 +513,7 @@
         "en_example": "What is that?"
     },
     {
-        "id": 59,
+        "id": 58,
         "glk_word": "اۊيأ",
         "glk_example": "مهين ٚ کيف اۊيأ نهأ",
         "fa_word": "آن‌جا",
@@ -531,7 +522,7 @@
         "en_example": "Mahin's Bag is over there"
     },
     {
-        "id": 60,
+        "id": 59,
         "glk_word": "اۊچين",
         "glk_example": "تي کيتابانأ اۊچين",
         "fa_word": "جمع کن",
@@ -540,7 +531,7 @@
         "en_example": "Collect your book"
     },
     {
-        "id": 61,
+        "id": 60,
         "glk_word": "اۊکۊف",
         "glk_example": "أمه ره اۊکۊف دره",
         "fa_word": "شگون",
@@ -549,7 +540,7 @@
         "en_example": "It has presage for us"
     },
     {
-        "id": 62,
+        "id": 61,
         "glk_word": "أ",
         "glk_example": "شۊفاژأ چأکۊدي؟",
         "fa_word": "را",
@@ -558,7 +549,7 @@
         "en_example": "Did you repair the radiator?"
     },
     {
-        "id": 63,
+        "id": 62,
         "glk_word": "أتؤ",
         "glk_example": "أتؤ ني-يه",
         "fa_word": "چنین",
@@ -567,7 +558,7 @@
         "en_example": "It's not like this"
     },
     {
-        "id": 64,
+        "id": 63,
         "glk_word": "أجۊر",
         "glk_example": "أجۊر چي-يان مرأ حالي ني-يه",
         "fa_word": "این‌گونه",
@@ -576,7 +567,7 @@
         "en_example": "I don't understand such things"
     },
     {
-        "id": 65,
+        "id": 64,
         "glk_word": "أذب",
         "glk_example": "مي برار أذبه",
         "fa_word": "مجرد",
@@ -585,7 +576,7 @@
         "en_example": "My brother is single"
     },
     {
-        "id": 66,
+        "id": 65,
         "glk_word": "أرايم",
         "glk_example": "أرايم بيأ",
         "fa_word": "این‌طرف هم",
@@ -594,7 +585,7 @@
         "en_example": "Come this way too"
     },
     {
-        "id": 67,
+        "id": 66,
         "glk_word": "أرسۊ",
         "glk_example": "تي أرسۊئانأ پاکۊن",
         "fa_word": "اشک",
@@ -603,7 +594,7 @@
         "en_example": "Wipe your tears"
     },
     {
-        "id": 68,
+        "id": 67,
         "glk_word": "أزازيل",
         "glk_example": "أ أزازيل ٚ زاکانأ فأندر",
         "fa_word": "بسیار شیطان",
@@ -612,7 +603,7 @@
         "en_example": "Look at these very Naughty kids"
     },
     {
-        "id": 69,
+        "id": 68,
         "glk_word": "أسباب",
         "glk_example": "ايپچه أسباب بأورم بۊخۊري؟",
         "fa_word": "خوراکى",
@@ -621,7 +612,7 @@
         "en_example": "Should I get you some snack to eat?"
     },
     {
-        "id": 70,
+        "id": 69,
         "glk_word": "أشان",
         "glk_example": "أشان کي أمؤن دريد کيسيد؟",
         "fa_word": "ایشان",
@@ -630,7 +621,7 @@
         "en_example": "Who are they coming?"
     },
     {
-        "id": 71,
+        "id": 70,
         "glk_word": "أشبل",
         "glk_example": "مائي أشبل ٚ مرأ کۊکۊ چأکۊنيدي",
         "fa_word": "تخم ماهى",
@@ -639,7 +630,7 @@
         "en_example": "They make cutlet with fish egg"
     },
     {
-        "id": 72,
+        "id": 71,
         "glk_word": "ألاو",
         "glk_example": "جه وس هوا سرده أمي دهنأ ألاو بيرۊن أيه",
         "fa_word": "بخار",
@@ -648,7 +639,7 @@
         "en_example": "It's too cold that steam come from our mouth"
     },
     {
-        "id": 73,
+        "id": 72,
         "glk_word": "ألباقي",
         "glk_example": "شير ٚ ألباقي-يأ دۊکۊن جا دۊرۊن",
         "fa_word": "باقى‌مانده",
@@ -657,7 +648,7 @@
         "en_example": "Pour the remaining milk into the dish"
     },
     {
-        "id": 74,
+        "id": 73,
         "glk_word": "ألنگ",
         "glk_example": "مرأ ألنگ بزه بکفتم",
         "fa_word": "پشت پا",
@@ -666,7 +657,7 @@
         "en_example": "He/She tripped me and I fell"
     },
     {
-        "id": 75,
+        "id": 74,
         "glk_word": "أمأن",
         "glk_example": "أمأن دۊ نفريم",
         "fa_word": "ما",
@@ -675,7 +666,7 @@
         "en_example": "We are two people"
     },
     {
-        "id": 76,
+        "id": 75,
         "glk_word": "أمؤن",
         "glk_example": "ورزشگا جأ أمؤن درم",
         "fa_word": "آمدن",
@@ -684,7 +675,7 @@
         "en_example": "I'm coming from the stadium"
     },
     {
-        "id": 77,
+        "id": 76,
         "glk_word": "أمبست",
         "glk_example": "أ دؤغ پۊر أمبسته",
         "fa_word": "غلیظ",
@@ -693,16 +684,16 @@
         "en_example": "This yogurt is very thick"
     },
     {
-        "id": 78,
+        "id": 77,
         "glk_word": "أمرأ",
-        "glk_example": "منم تي أمرأ أيم",
+        "glk_example": "من تي أمرأ أيم",
         "fa_word": "با",
-        "fa_example": "من هم با تو مى‌آیم",
+        "fa_example": "من با تو مى‌آیم",
         "en_word": "With",
         "en_example": "I'm coming with you"
     },
     {
-        "id": 79,
+        "id": 78,
         "glk_word": "أمي",
         "glk_example": "شۊمانم أمي أمرأ أئيدي؟",
         "fa_word": "ما",
@@ -711,7 +702,7 @@
         "en_example": "Are you also come with us?"
     },
     {
-        "id": 80,
+        "id": 79,
         "glk_word": "أن",
         "glk_example": "أن چيسه؟",
         "fa_word": "این",
@@ -720,7 +711,7 @@
         "en_example": "What is this?"
     },
     {
-        "id": 81,
+        "id": 80,
         "glk_word": "أنديفه",
         "glk_example": "أ ساعت چارصد تۊمۊن أنديفه دأره؟",
         "fa_word": "ارزش",
@@ -729,7 +720,7 @@
         "en_example": "Is this watch worth four handred Tomans?"
     },
     {
-        "id": 82,
+        "id": 81,
         "glk_word": "أنگاره",
         "glk_example": "چي ره أنقد أنگاره بيده-ئي؟",
         "fa_word": "تدارک",
@@ -738,7 +729,7 @@
         "en_example": "Why did you prepare this much?"
     },
     {
-        "id": 83,
+        "id": 82,
         "glk_word": "أوانگاره",
         "glk_example": "هأچين أمه ره أوانگاره بيده-ئيم",
         "fa_word": "دردسر",
@@ -747,7 +738,7 @@
         "en_example": "We made trouble for ourselves because of nothing"
     },
     {
-        "id": 84,
+        "id": 83,
         "glk_word": "أوري",
         "glk_example": "مي کافشينأ أوري؟",
         "fa_word": "می‌آوری",
@@ -756,7 +747,7 @@
         "en_example": "Would you bring me my jacket?"
     },
     {
-        "id": 85,
+        "id": 84,
         "glk_word": "أولي",
         "glk_example": "تي أولي زاکه؟",
         "fa_word": "اول",
@@ -765,7 +756,7 @@
         "en_example": "Is this your first child?"
     },
     {
-        "id": 86,
+        "id": 85,
         "glk_word": "أوير",
         "glk_example": "مي ساعتأ أويرأ کۊدم",
         "fa_word": "گم",
@@ -774,7 +765,7 @@
         "en_example": "I lost my watch"
     },
     {
-        "id": 87,
+        "id": 86,
         "glk_word": "أويستي",
         "glk_example": "أشان دۊتا أويستي-يأ مأنيدي",
         "fa_word": "هوو",
@@ -783,7 +774,7 @@
         "en_example": "These two look like someone's rival wives"
     },
     {
-        "id": 88,
+        "id": 87,
         "glk_word": "أيأ",
         "glk_example": "تي کيليدانأ أيأ بنأ بۊم",
         "fa_word": "این‌جا",
@@ -792,7 +783,7 @@
         "en_example": "You left your keys here"
     },
     {
-        "id": 89,
+        "id": 88,
         "glk_word": "أياز",
         "glk_example": "أياز بينيشته گۊلان ٚ سر",
         "fa_word": "شبنم",
@@ -801,16 +792,16 @@
         "en_example": "There's dew on the flowers"
     },
     {
-        "id": 90,
+        "id": 89,
         "glk_word": "أپچ",
-        "glk_example": "أن أنار ٚ مزه أپچه",
-        "fa_word": "گس",
-        "fa_example": "مزه این انار گس است",
-        "en_word": "Astringent",
-        "en_example": "This pomegranate tsates astringent"
+        "glk_example": "أن خۊج أپچه",
+        "fa_word": "بی‌مزه",
+        "fa_example": "این گلابی وحشی بی‌مزه",
+        "en_word": "Tasteless",
+        "en_example": "This wild pear is tasteless"
     },
     {
-        "id": 91,
+        "id": 90,
         "glk_word": "أژدم",
         "glk_example": "تي پلا أژدمه",
         "fa_word": "بسیار شور",
@@ -819,7 +810,7 @@
         "en_example": "Your rice is very salty"
     },
     {
-        "id": 92,
+        "id": 91,
         "glk_word": "أکه",
         "glk_example": "أکه تأنيم بازي بۊکۊنيم؟",
         "fa_word": "چه وقت",
@@ -828,7 +819,7 @@
         "en_example": "When can we play?"
     },
     {
-        "id": 93,
+        "id": 92,
         "glk_word": "بأور",
         "glk_example": "بۊشۊ مي کيفأ بأور",
         "fa_word": "بیاور",
@@ -837,7 +828,7 @@
         "en_example": "Go Bring my bag"
     },
     {
-        "id": 94,
+        "id": 93,
         "glk_word": "بؤبؤسته",
         "glk_example": "أ پلا دئه بؤبؤسته",
         "fa_word": "آماده",
@@ -846,7 +837,7 @@
         "en_example": "The rice is ready"
     },
     {
-        "id": 95,
+        "id": 94,
         "glk_word": "بؤبؤسته",
         "glk_example": "چي بؤبؤسته؟",
         "fa_word": "شده است",
@@ -855,7 +846,7 @@
         "en_example": "What has been happened?"
     },
     {
-        "id": 96,
+        "id": 95,
         "glk_word": "بؤبؤسته",
         "glk_example": "مهسا مرد ٚ ره بؤبؤسته",
         "fa_word": "شوهر کردن",
@@ -864,7 +855,7 @@
         "en_example": "Mahsa married"
     },
     {
-        "id": 97,
+        "id": 96,
         "glk_word": "بؤرسفته",
         "glk_example": "مي کيف ٚ بند بؤرسفته",
         "fa_word": "پاره شد",
@@ -873,7 +864,7 @@
         "en_example": "My bag's handle is torn"
     },
     {
-        "id": 98,
+        "id": 97,
         "glk_word": "بؤرسن",
         "glk_example": "دئه بؤرسن",
         "fa_word": "تمام کن",
@@ -882,7 +873,7 @@
         "en_example": "Stop it"
     },
     {
-        "id": 99,
+        "id": 98,
         "glk_word": "بؤق",
         "glk_example": "ماشين ٚ شيشه بؤق بۊکۊده",
         "fa_word": "بخار",
@@ -891,7 +882,7 @@
         "en_example": "Car's glass has been steamed"
     },
     {
-        "id": 100,
+        "id": 99,
         "glk_word": "بئس",
         "glk_example": "ايمشبأ أمي خانه بئس",
         "fa_word": "بمان",
@@ -900,7 +891,7 @@
         "en_example": "Stay in our house tonight"
     },
     {
-        "id": 101,
+        "id": 100,
         "glk_word": "بئس",
         "glk_example": "ايپچه بئس",
         "fa_word": "صبر کن",
@@ -909,13 +900,22 @@
         "en_example": "Wait a little bit"
     },
     {
-        "id": 102,
+        "id": 101,
         "glk_word": "بئگان",
         "glk_example": "هۊيأ بئگان",
         "fa_word": "بیفکن",
         "fa_example": "همان‌جا بیفکن",
         "en_word": "Throw",
         "en_example": "Throw it there"
+    },
+    {
+        "id": 102,
+        "glk_word": "باتم",
+        "glk_example": "آخربسر خۊ باتمأ فأرسأ",
+        "fa_word": "سزای عمل",
+        "fa_example": "او در انتها به سزای عملش رسید",
+        "en_word": "Comeuppance",
+        "en_example": "He/She got his/her comeuppance in the end"
     },
     {
         "id": 103,
@@ -1082,11 +1082,11 @@
     {
         "id": 121,
         "glk_word": "بدگيل",
-        "glk_example": "أ مانتؤ بدگيل ني-يه أمما مي ديلأ نيگيفته",
+        "glk_example": "أ ويلایان چندي بدگيل ايسيد",
         "fa_word": "زشت",
-        "fa_example": "این مانتو زشت نیست اما مورد پسند من نیست",
+        "fa_example": "این ویلاها چقدر زشت هستند",
         "en_word": "Ugly",
-        "en_example": "This manteau is not ugly but not my favorite"
+        "en_example": "These villas are so ugly"
     },
     {
         "id": 122,
@@ -1774,24 +1774,15 @@
     },
     {
         "id": 198,
-        "glk_word": "پا بسر",
-        "glk_example": "زاکأ پا بسر کۊدن نوأ",
-        "fa_word": "از روى چیزى گذشتن",
-        "fa_example": "از روى بچه عبور نکن",
-        "en_word": "To Pass Over Something",
-        "en_example": "Don't pass over the baby"
-    },
-    {
-        "id": 199,
         "glk_word": "پا تۊک",
         "glk_example": "تي پا تۊک ٚ سر بئس خانه دۊرۊنأ فأندر",
         "fa_word": "نوک پا",
         "fa_example": "روى نوک پایت بایست داخل خانه را نگاه کن",
         "en_word": "Toe",
-        "en_example": "Stand on the tip of your toes and look inside the house"
+        "en_example": "Stand on your toes and look inside the house"
     },
     {
-        "id": 200,
+        "id": 199,
         "glk_word": "پابرانده",
         "glk_example": "پابرانده صارا شؤن نوأ",
         "fa_word": "پابرهنه",
@@ -1800,16 +1791,16 @@
         "en_example": "Don't go in the yard barefoot"
     },
     {
-        "id": 201,
+        "id": 200,
         "glk_word": "پاخت",
-        "glk_example": "دگرأ بۊخۊردم پاختا بؤستم زيمين ٚ سر",
+        "glk_example": "مي دۊماغ پاخته",
         "fa_word": "پهن",
-        "fa_example": "تلوتلو خوردم روی زمین پهن شدم",
-        "en_word": "Fell",
-        "en_example": "I wambled and fell on the ground"
+        "fa_example": "دماغ من پهن است",
+        "en_word": "Wide",
+        "en_example": "My nose is wide"
     },
     {
-        "id": 202,
+        "id": 201,
         "glk_word": "پاستن",
         "glk_example": "کۊجي زاکانأ وا پاستن",
         "fa_word": "محافظت کردن",
@@ -1818,7 +1809,7 @@
         "en_example": "Small children should be protected"
     },
     {
-        "id": 203,
+        "id": 202,
         "glk_word": "پاماله",
         "glk_example": "أن لۊاس ٚ پاماله-يه",
         "fa_word": "رد پا",
@@ -1827,7 +1818,7 @@
         "en_example": "This is a fox footprint"
     },
     {
-        "id": 204,
+        "id": 203,
         "glk_word": "پاپى",
         "glk_example": "أمي پاپى بؤبؤسته",
         "fa_word": "تعقیب",
@@ -1836,7 +1827,7 @@
         "en_example": "He/She chased us"
     },
     {
-        "id": 205,
+        "id": 204,
         "glk_word": "پاچ",
         "glk_example": "آدم پاچ ببه أمما آردال نبه",
         "fa_word": "کوتاه قد",
@@ -1845,7 +1836,7 @@
         "en_example": "Better be short than be tall and ugly"
     },
     {
-        "id": 206,
+        "id": 205,
         "glk_word": "پاک",
         "glk_example": "پاک خؤرأ بزه نيشتاوستن",
         "fa_word": "به کل",
@@ -1854,7 +1845,7 @@
         "en_example": "He/She totally acted like he/she didn't hear us"
     },
     {
-        "id": 207,
+        "id": 206,
         "glk_word": "پاک",
         "glk_example": "سبزي-يانأ پاکۊدي؟",
         "fa_word": "تمیز",
@@ -1863,7 +1854,7 @@
         "en_example": "Did you clean the vegetables?"
     },
     {
-        "id": 208,
+        "id": 207,
         "glk_word": "پت",
         "glk_example": "أمي مؤبل ٚ دسته ٰ پت بزه",
         "fa_word": "کرم چوب‌خوار",
@@ -1872,7 +1863,7 @@
         "en_example": "The handle of our sofa has been eaten by woodworm"
     },
     {
-        "id": 209,
+        "id": 208,
         "glk_word": "پرأ گيفته",
         "glk_example": "زأى تا خۊ مارأ بيده پرأ گيفته",
         "fa_word": "بسیار خوشحال شد",
@@ -1881,7 +1872,7 @@
         "en_example": "The child became very happy as soon as he/she saw his/her mother"
     },
     {
-        "id": 210,
+        "id": 209,
         "glk_word": "پرأ گيفتيد",
         "glk_example": "چيچيني-يان تا پيچايأ بيده-ئيد پرأ گيفتيد",
         "fa_word": "پرواز کردند",
@@ -1890,7 +1881,7 @@
         "en_example": "The sparrows flew away when they saw the cat"
     },
     {
-        "id": 211,
+        "id": 210,
         "glk_word": "پرکاله",
         "glk_example": "ايتأ پرکاله سئب مرأ فأدن",
         "fa_word": "تکه",
@@ -1899,7 +1890,7 @@
         "en_example": "Give me a piece of apple"
     },
     {
-        "id": 212,
+        "id": 211,
         "glk_word": "پرکيم",
         "glk_example": "سرمائي کرأ پرکيم",
         "fa_word": "می‌لرزیم",
@@ -1908,7 +1899,7 @@
         "en_example": "We're shaking because of the cold"
     },
     {
-        "id": 213,
+        "id": 212,
         "glk_word": "پس",
         "glk_example": "وا ويشتر حق ٚ سأى بۊکۊنم نيويره پس دکفم",
         "fa_word": "عقب",
@@ -1917,7 +1908,7 @@
         "en_example": "I should try more otherwise I'll fall behind"
     },
     {
-        "id": 214,
+        "id": 213,
         "glk_word": "پس بمأنسته",
         "glk_example": "تي پس-بمانسته غذايأ فۊکۊن چيري-يان ٚ ره",
         "fa_word": "باقى مانده",
@@ -1926,7 +1917,7 @@
         "en_example": "Throw your remaining foods for the birds"
     },
     {
-        "id": 215,
+        "id": 214,
         "glk_word": "پس ٚ پۊشت",
         "glk_example": "أشانأ ببر اۊ پس ٚ پۊشت تأود",
         "fa_word": "در آخرها",
@@ -1935,16 +1926,7 @@
         "en_example": "Tiger on those weeks"
     },
     {
-        "id": 216,
-        "glk_word": "پس ٚ کۊن ٚ قاف",
-        "glk_example": "مي تۊمانأ ببرده پس ٚ کۊن ٚ قاف بنأ",
-        "fa_word": "پشت کوه قاف",
-        "fa_example": "شلوارم را برده پشت کوه قاف گذاشته",
-        "en_word": "Behind the Ghaf Mountain",
-        "en_example": "He/She put pants behind the Ghaf mountain"
-    },
-    {
-        "id": 217,
+        "id": 215,
         "glk_word": "پسرزأک",
         "glk_example": "پسرزأکه، أن ٚ تامأ دکفه",
         "fa_word": "پسربچه",
@@ -1953,7 +1935,7 @@
         "en_example": "he's a little boy, he craves"
     },
     {
-        "id": 218,
+        "id": 216,
         "glk_word": "پسي",
         "glk_example": "أن ٚ پسي تي درزأ فأرس",
         "fa_word": "بعد از",
@@ -1962,16 +1944,7 @@
         "en_example": "After this study your lessons"
     },
     {
-        "id": 219,
-        "glk_word": "پسي",
-        "glk_example": "شام ٚ پسي أيم شيمي خانه",
-        "fa_word": "بعد از",
-        "fa_example": "بعد از شام به خانه شما مى‌آیم",
-        "en_word": "After",
-        "en_example": "After the dinner we will come to your house"
-    },
-    {
-        "id": 220,
+        "id": 217,
         "glk_word": "پشه دام",
         "glk_example": "تاوستانان أگه پشه-دام نمانه، خۊفتن نشأ",
         "fa_word": "پشه‌بند",
@@ -1980,7 +1953,7 @@
         "en_example": "if there is no mosquito net in summers, you can't sleep"
     },
     {
-        "id": 221,
+        "id": 218,
         "glk_word": "پلکان",
         "glk_example": "پلکان ٚ سر نيشتن نوأ",
         "fa_word": "پله",
@@ -1989,16 +1962,16 @@
         "en_example": "Do not sit on the stairs"
     },
     {
-        "id": 222,
+        "id": 219,
         "glk_word": "پيت",
-        "glk_example": "أمي سئخان همه پيتأ بؤستد",
+        "glk_example": "أمي خکاره پيتأ بؤسته",
         "fa_word": "غُر",
-        "fa_example": "تمام سیخ‌هاى ما غُر شده‌اند",
-        "en_word": "Nag",
-        "en_example": "All our skewer have been"
+        "fa_example": "ماهیتابه ما غُر شده است",
+        "en_word": "Deformed",
+        "en_example": "Our pan has been deformed"
     },
     {
-        "id": 223,
+        "id": 220,
         "glk_word": "پيسخاله",
         "glk_example": "ايتأ پيسخاله نمک دۊکۊن",
         "fa_word": "کمی",
@@ -2007,7 +1980,7 @@
         "en_example": "Add a little bit of salt"
     },
     {
-        "id": 224,
+        "id": 221,
         "glk_word": "پيش",
         "glk_example": "دریا أمي پيش دره",
         "fa_word": "جلو",
@@ -2016,7 +1989,7 @@
         "en_example": "The sea is in front of us"
     },
     {
-        "id": 225,
+        "id": 222,
         "glk_word": "پيش",
         "glk_example": "پيش کيسه؟",
         "fa_word": "شروع کننده بازى",
@@ -2025,7 +1998,7 @@
         "en_example": "Who is the one starting game?"
     },
     {
-        "id": 226,
+        "id": 223,
         "glk_word": "پيش دٚوٚد",
         "glk_example": "مي پيش دٚوٚد کۊيأ نهأ؟",
         "fa_word": "پیش‌بند",
@@ -2034,7 +2007,7 @@
         "en_example": "Where is my apron?"
     },
     {
-        "id": 227,
+        "id": 224,
         "glk_word": "پيش گب",
         "glk_example": "کيتاب تۊمانأ بؤسته بمانسته أن ٚ پيش گب",
         "fa_word": "مقدمه",
@@ -2043,7 +2016,7 @@
         "en_example": "The book has finished, only the introduction has left"
     },
     {
-        "id": 228,
+        "id": 225,
         "glk_word": "پيشأشؤ",
         "glk_example": "فردأ أمي مئمانان أئيدي وا بيشيم أشان ٚ پيشاشؤ",
         "fa_word": "پیشواز",
@@ -2052,7 +2025,7 @@
         "en_example": "Tomorrow Our guests should go to your sultan"
     },
     {
-        "id": 229,
+        "id": 226,
         "glk_word": "پيل",
         "glk_example": "مي دس پيل بۊکۊده",
         "fa_word": "تاول",
@@ -2061,7 +2034,7 @@
         "en_example": "My hand has got blistered"
     },
     {
-        "id": 230,
+        "id": 227,
         "glk_word": "پيله",
         "glk_example": "ايتأ پيله سئب مرأ فأدن",
         "fa_word": "بزرگ",
@@ -2070,7 +2043,7 @@
         "en_example": "Give me a big apple"
     },
     {
-        "id": 231,
+        "id": 228,
         "glk_word": "پيله مأر",
         "glk_example": "ديرۊ تي پيله مأرأ بیدئم",
         "fa_word": "مادربزرگ",
@@ -2079,7 +2052,7 @@
         "en_example": "I saw your grandmother yesterday"
     },
     {
-        "id": 232,
+        "id": 229,
         "glk_word": "پيله پئر",
         "glk_example": "مي پيله پئر بۊشؤ دریا",
         "fa_word": "پدربزرگ",
@@ -2088,7 +2061,7 @@
         "en_example": "My grandfather went to the sea"
     },
     {
-        "id": 233,
+        "id": 230,
         "glk_word": "پيله-سۊس",
         "glk_example": "کۊرؤش پيله-سۊس ایسه",
         "fa_word": "فضول",
@@ -2097,7 +2070,7 @@
         "en_example": "Kourosh is nosy"
     },
     {
-        "id": 234,
+        "id": 231,
         "glk_word": "پيلکي",
         "glk_example": "هأ پيلکي رۊخان مائي نأره",
         "fa_word": "بزرگى",
@@ -2106,7 +2079,7 @@
         "en_example": "Such a big river but doesn't have any fish"
     },
     {
-        "id": 235,
+        "id": 232,
         "glk_word": "پينيک",
         "glk_example": "تي رختان همه پينيک بزئکه",
         "fa_word": "وصله",
@@ -2115,7 +2088,7 @@
         "en_example": "All of your clothes has been patched"
     },
     {
-        "id": 236,
+        "id": 233,
         "glk_word": "پينيک-پاره",
         "glk_example": "پينيک-پاره رختان تازگي داب بؤبؤسته",
         "fa_word": "وصله پینه",
@@ -2124,7 +2097,7 @@
         "en_example": "Patched and ripped up clothes are trendy recently"
     },
     {
-        "id": 237,
+        "id": 234,
         "glk_word": "پيچ واپيچ",
         "glk_example": "أ مؤضۊ پۊر پيچ واپيچه",
         "fa_word": "پیچیده",
@@ -2133,7 +2106,7 @@
         "en_example": "This subject is very complicated"
     },
     {
-        "id": 238,
+        "id": 235,
         "glk_word": "پيچأ",
         "glk_example": "پيچأ کيشکائان ٚ ره جۊخۊفته دأره",
         "fa_word": "گربه",
@@ -2142,7 +2115,7 @@
         "en_example": "The cat has ambushed for the chickens"
     },
     {
-        "id": 239,
+        "id": 236,
         "glk_word": "پيچاک",
         "glk_example": "پيچاک ٚ وينجي-يأ مأنه",
         "fa_word": "چسبنده",
@@ -2151,7 +2124,7 @@
         "en_example": "It's sticky like Saghez gum"
     },
     {
-        "id": 240,
+        "id": 237,
         "glk_word": "پٚل",
         "glk_example": "مائيأ پٚلأ کۊدم",
         "fa_word": "تکه تکه",
@@ -2160,7 +2133,7 @@
         "en_example": "I cut the fish in pieces"
     },
     {
-        "id": 241,
+        "id": 238,
         "glk_word": "پٚلف",
         "glk_example": "ايتأ پلف ٚ خرس دامان ٚ مئن بيدئم",
         "fa_word": "چاق",
@@ -2169,7 +2142,7 @@
         "en_example": "I saw a fat bear in the jungle"
     },
     {
-        "id": 242,
+        "id": 239,
         "glk_word": "پۊتار",
         "glk_example": "أيأ چي فۊکۊدي؟ پۊتارأ کۊده",
         "fa_word": "مورچه",
@@ -2178,7 +2151,7 @@
         "en_example": "What did you spill here? the ants gathered"
     },
     {
-        "id": 243,
+        "id": 240,
         "glk_word": "پۊتۊ",
         "glk_example": "ترأ پۊتۊ دشان",
         "fa_word": "پتو",
@@ -2187,7 +2160,7 @@
         "en_example": "Cover yourself with blanket"
     },
     {
-        "id": 244,
+        "id": 241,
         "glk_word": "پۊر",
         "glk_example": "اۊتۊبۊسانأ آدم دره پۊر",
         "fa_word": "پر",
@@ -2196,7 +2169,7 @@
         "en_example": "Buses are full of people"
     },
     {
-        "id": 245,
+        "id": 242,
         "glk_word": "پۊرأ کۊن",
         "glk_example": "تيانأ آب دۊکۊن پۊرأ کۊن",
         "fa_word": "پرکن",
@@ -2205,7 +2178,7 @@
         "en_example": "Fill the stock pot with water"
     },
     {
-        "id": 246,
+        "id": 243,
         "glk_word": "پۊرد",
         "glk_example": "آهين پۊردأ دٚواريم دئه فأرسيم",
         "fa_word": "پل",
@@ -2214,7 +2187,7 @@
         "en_example": "We will reach after we pass through the iron bridge"
     },
     {
-        "id": 247,
+        "id": 244,
         "glk_word": "پۊسته ايشکنه-ئي",
         "glk_example": "خؤشحالي جأ پۊسته ايشکنه-ئي",
         "fa_word": "بشکن می‌زد",
@@ -2223,7 +2196,7 @@
         "en_example": "He/She is snapping because of happiness"
     },
     {
-        "id": 248,
+        "id": 245,
         "glk_word": "پۊشت",
         "glk_example": "بۊشۊ فأندر در ٚ پۊشت کي ايسأ؟",
         "fa_word": "پشت",
@@ -2232,7 +2205,7 @@
         "en_example": "Go and see who is behind the door?"
     },
     {
-        "id": 249,
+        "id": 246,
         "glk_word": "پۊشتابد",
         "glk_example": "تي پۊشتابدأ اۊسان بيشيم",
         "fa_word": "کوله‌پشتى",
@@ -2241,7 +2214,7 @@
         "en_example": "Pick up your backpack and let's go"
     },
     {
-        "id": 250,
+        "id": 247,
         "glk_word": "پۊشتين",
         "glk_example": "گيلک گيلک ٚ پۊشتينه",
         "fa_word": "پشتیبان",
@@ -2250,7 +2223,7 @@
         "en_example": "Gilak is Gilak's supporter"
     },
     {
-        "id": 251,
+        "id": 248,
         "glk_word": "پۊل",
         "glk_example": "ايپچه پۊل دأري مرأ فأدي؟",
         "fa_word": "پول",
@@ -2259,7 +2232,7 @@
         "en_example": "Do you have some money to give me?"
     },
     {
-        "id": 252,
+        "id": 249,
         "glk_word": "پۊلۊک",
         "glk_example": "مي پرهن ٚ پۊلۊک بکفته",
         "fa_word": "دکمه",
@@ -2268,7 +2241,7 @@
         "en_example": "My shirt button has fallen off"
     },
     {
-        "id": 253,
+        "id": 250,
         "glk_word": "تأنم",
         "glk_example": "تأنم أنأ چاکۊنم",
         "fa_word": "می‌توانم",
@@ -2277,7 +2250,7 @@
         "en_example": "I can fix it"
     },
     {
-        "id": 254,
+        "id": 251,
         "glk_word": "تا به تا",
         "glk_example": "تي جۊرافان چي وأسي تا به تايه؟",
         "fa_word": "لنگه به لنگه",
@@ -2286,7 +2259,7 @@
         "en_example": "Why are your socks mismatched?"
     },
     {
-        "id": 255,
+        "id": 252,
         "glk_word": "تا هسأ",
         "glk_example": "تا هسأ کۊرم کلاچ بازي بۊکۊده-ئي؟",
         "fa_word": "تا به حال",
@@ -2295,7 +2268,7 @@
         "en_example": "Have you ever played Kooram Kalacham?"
     },
     {
-        "id": 256,
+        "id": 253,
         "glk_word": "تاتایي",
         "glk_example": "أن تاتایيأ مرأ اۊسه کۊن",
         "fa_word": "عکس",
@@ -2304,7 +2277,7 @@
         "en_example": "Send me this picture"
     },
     {
-        "id": 257,
+        "id": 254,
         "glk_word": "تاخت",
         "glk_example": "تاختأگير بخانه",
         "fa_word": "سرعت",
@@ -2313,7 +2286,7 @@
         "en_example": "Go home quickly"
     },
     {
-        "id": 258,
+        "id": 255,
         "glk_word": "تارانه",
         "glk_example": "أن ٚ کرد ٚکار همهˈ اۊن ٚ جأ تارانه",
         "fa_word": "دور می‌کند",
@@ -2322,7 +2295,7 @@
         "en_example": "His/Her behavior keeps everyone away from him/her"
     },
     {
-        "id": 259,
+        "id": 256,
         "glk_word": "تازه",
         "glk_example": "تازه-چي بۊگۊ",
         "fa_word": "جدید",
@@ -2331,7 +2304,7 @@
         "en_example": "Say something new"
     },
     {
-        "id": 260,
+        "id": 257,
         "glk_word": "تازگي-يان",
         "glk_example": "تازگي-یان عليأ بيدئي؟",
         "fa_word": "به تازگى",
@@ -2340,7 +2313,7 @@
         "en_example": "Have you seen Ali recently?"
     },
     {
-        "id": 261,
+        "id": 258,
         "glk_word": "تاشتن",
         "glk_example": "مي ريشأ تاشتن درم",
         "fa_word": "تراشیدن",
@@ -2349,7 +2322,7 @@
         "en_example": "I'm shaving my beard"
     },
     {
-        "id": 262,
+        "id": 259,
         "glk_word": "تالان تالاني",
         "glk_example": "أ تالان تالاني دۊرۊن نان گيرانأ بؤسته",
         "fa_word": "هرج و مرج",
@@ -2358,7 +2331,7 @@
         "en_example": "In this chaos bread became more expensive"
     },
     {
-        "id": 263,
+        "id": 260,
         "glk_word": "تام",
         "glk_example": "تام بزن",
         "fa_word": "سکوت",
@@ -2367,7 +2340,7 @@
         "en_example": "Be quiet"
     },
     {
-        "id": 264,
+        "id": 261,
         "glk_word": "تام",
         "glk_example": "ايجۊر غذا خۊري آدم ٚ تامأ دکفه",
         "fa_word": "هوس",
@@ -2376,7 +2349,7 @@
         "en_example": "The way you eating makes me crave"
     },
     {
-        "id": 265,
+        "id": 262,
         "glk_word": "تامتۊمازه",
         "glk_example": "تامتۊمازه نيشته بۊ",
         "fa_word": "بى سر و صدا",
@@ -2385,7 +2358,7 @@
         "en_example": "He/She was sitting without any noise"
     },
     {
-        "id": 266,
+        "id": 263,
         "glk_word": "تان",
         "glk_example": "کاسپي دريا تان همه-جۊر مائي دره",
         "fa_word": "عمق",
@@ -2394,7 +2367,7 @@
         "en_example": "In the depth of Caspian sea, there are all kind of fishes"
     },
     {
-        "id": 267,
+        "id": 264,
         "glk_word": "تاوده",
         "glk_example": "آشخالانأ تاوده اۊرأ",
         "fa_word": "پرتاب می‌کند",
@@ -2403,7 +2376,7 @@
         "en_example": "He/She throws the garbages over there"
     },
     {
-        "id": 268,
+        "id": 265,
         "glk_word": "تترج",
         "glk_example": "هأتؤ تترج بنه",
         "fa_word": "پشت سر هم",
@@ -2412,7 +2385,7 @@
         "en_example": "Put it in a row"
     },
     {
-        "id": 269,
+        "id": 266,
         "glk_word": "تجرۊبه",
         "glk_example": "مي تجرۊبه گه أ کار آخرپس نأره",
         "fa_word": "تجربه",
@@ -2421,7 +2394,7 @@
         "en_example": "My experience says this doesn't work"
     },
     {
-        "id": 270,
+        "id": 267,
         "glk_word": "تر ٚ راکه",
         "glk_example": "تر ٚ راکه مرأ دکفته أمي دۊمبال",
         "fa_word": "شاخه نازک",
@@ -2430,16 +2403,16 @@
         "en_example": "He/She followed us with a thin branch"
     },
     {
-        "id": 271,
+        "id": 268,
         "glk_word": "تر ٚ چسب",
         "glk_example": "تر ٚ چسب بۊشۊ",
         "fa_word": "فرز",
         "fa_example": "فرز برو",
-        "en_word": "Quickly",
-        "en_example": "Go quickly"
+        "en_word": "Nimbly",
+        "en_example": "Go nimbly"
     },
     {
-        "id": 272,
+        "id": 269,
         "glk_word": "ترسانه",
         "glk_example": "تي گبان أمرأ ترسانه",
         "fa_word": "می‌ترساند",
@@ -2448,7 +2421,7 @@
         "en_example": "Your words scare us"
     },
     {
-        "id": 273,
+        "id": 270,
         "glk_word": "ترکمه",
         "glk_example": "أ زأى چقد ترکمه-يه؟",
         "fa_word": "حرف نشنو",
@@ -2457,7 +2430,7 @@
         "en_example": "How is this kid so disobedient?"
     },
     {
-        "id": 274,
+        "id": 271,
         "glk_word": "تس",
         "glk_example": "أنقد بۊخۊرده تسأ بؤسته",
         "fa_word": "ولو شدن بعد از پرخورى",
@@ -2466,7 +2439,7 @@
         "en_example": "He/She is relaxed after eating to much"
     },
     {
-        "id": 275,
+        "id": 272,
         "glk_word": "تسک ٚ ديل",
         "glk_example": "بۊشؤم مي مأر ٚ خبرأگير تسک ٚ ديل بۊ",
         "fa_word": "دلتنگ",
@@ -2475,7 +2448,7 @@
         "en_example": "I went to visit my mother she was missing me"
     },
     {
-        "id": 276,
+        "id": 273,
         "glk_word": "تشت",
         "glk_example": "تشتأ اۊسان بأور",
         "fa_word": "ظرف مسی (با لبه بلند)",
@@ -2484,7 +2457,7 @@
         "en_example": "Take that copper dish and bring it"
     },
     {
-        "id": 277,
+        "id": 274,
         "glk_word": "تشتا",
         "glk_example": "مرأ تشتايه",
         "fa_word": "تشنه",
@@ -2493,7 +2466,7 @@
         "en_example": "I'm thirsty"
     },
     {
-        "id": 278,
+        "id": 275,
         "glk_word": "تفاق دکفته",
         "glk_example": "منم نأنم چي تفاق دکفته دأره",
         "fa_word": "اتفاق افتاده",
@@ -2502,7 +2475,7 @@
         "en_example": "I don't know what happened either"
     },
     {
-        "id": 279,
+        "id": 276,
         "glk_word": "تفتک",
         "glk_example": "أ تفتک دۊمرتبه بامؤ",
         "fa_word": "مزاحم",
@@ -2511,7 +2484,7 @@
         "en_example": "This annoying person came again"
     },
     {
-        "id": 280,
+        "id": 277,
         "glk_word": "تنگام",
         "glk_example": "داوۊدأ ترسأ گيره أ تنگام ٚ کۊچهˈنأ دٚواره",
         "fa_word": "تنگ و تاریک",
@@ -2520,7 +2493,16 @@
         "en_example": "Davood scares to pass these narrow and dark alleys"
     },
     {
-        "id": 281,
+        "id": 278,
+        "glk_word": "تنگر",
+        "glk_example": "آسمان ٚ جأ تنگر أمؤن دره",
+        "fa_word": "تگرگ",
+        "fa_example": "تگرگ از آسمان می‌بارد",
+        "en_word": "Hail",
+        "en_example": "Hail is falling from the sky"
+    },
+    {
+        "id": 279,
         "glk_word": "ته ره",
         "glk_example": "أ پرهنأ ته ره بيهين",
         "fa_word": "براى خودت",
@@ -2529,7 +2511,7 @@
         "en_example": "Buy this shirt for yourself"
     },
     {
-        "id": 282,
+        "id": 280,
         "glk_word": "تهب بسر",
         "glk_example": "أمي أمبارأ جنس دره تهب بسر",
         "fa_word": "لبالب",
@@ -2538,7 +2520,7 @@
         "en_example": "Our warehouse is full of items"
     },
     {
-        "id": 283,
+        "id": 281,
         "glk_word": "تي",
         "glk_example": "أن تي کاره؟",
         "fa_word": "تو",
@@ -2547,7 +2529,7 @@
         "en_example": "It it your job?"
     },
     {
-        "id": 284,
+        "id": 282,
         "glk_word": "تي",
         "glk_example": "من تي مرأ أيم",
         "fa_word": "تو",
@@ -2556,7 +2538,7 @@
         "en_example": "I'll come with you"
     },
     {
-        "id": 285,
+        "id": 283,
         "glk_word": "تيان",
         "glk_example": "بۊشۊ تيانأ بأور",
         "fa_word": "دیگ",
@@ -2565,7 +2547,7 @@
         "en_example": "Go bring the pot"
     },
     {
-        "id": 286,
+        "id": 284,
         "glk_word": "تيتالي",
         "glk_example": "زاکان ٚ تيتالي ره کيتاب بخأنيد",
         "fa_word": "سرگرمى",
@@ -2574,7 +2556,7 @@
         "en_example": "Read books to entertain kids"
     },
     {
-        "id": 287,
+        "id": 285,
         "glk_word": "تيج",
         "glk_example": "أ چاقۊ تيج ني-يه",
         "fa_word": "تیز",
@@ -2583,7 +2565,7 @@
         "en_example": "This knife is not sharp"
     },
     {
-        "id": 288,
+        "id": 286,
         "glk_word": "تيري پيري",
         "glk_example": "مي چۊمان تيري پيري شه",
         "fa_word": "سیاهی",
@@ -2592,7 +2574,7 @@
         "en_example": "My eyes go dark"
     },
     {
-        "id": 289,
+        "id": 287,
         "glk_word": "تيريج مائي",
         "glk_example": "تيريج مائي کأسپي دریا مئن زيويسته",
         "fa_word": "ازون‌برون",
@@ -2601,7 +2583,7 @@
         "en_example": "Starry sturgeon fish lives in the Caspian sea"
     },
     {
-        "id": 290,
+        "id": 288,
         "glk_word": "تينتير",
         "glk_example": "هأی مه ره تينتير أمؤئي",
         "fa_word": "عشوه",
@@ -2610,7 +2592,7 @@
         "en_example": "He/she was constantly coquetting with me"
     },
     {
-        "id": 291,
+        "id": 289,
         "glk_word": "تي‌تي",
         "glk_example": "سئب دار تي‌تي بۊکۊده",
         "fa_word": "شکوفه",
@@ -2619,7 +2601,7 @@
         "en_example": "The apple tree has blossome"
     },
     {
-        "id": 292,
+        "id": 290,
         "glk_word": "تٚلٚس",
         "glk_example": "مي چۊم تلس بۊکۊد",
         "fa_word": "ورم",
@@ -2628,7 +2610,7 @@
         "en_example": "My eye is swollen"
     },
     {
-        "id": 293,
+        "id": 291,
         "glk_word": "تٚمٚش",
         "glk_example": "تٚمٚش مي دسأ جيجا کۊنه",
         "fa_word": "خار",
@@ -2637,7 +2619,7 @@
         "en_example": "Thorn wounds my hand"
     },
     {
-        "id": 294,
+        "id": 292,
         "glk_word": "تک",
         "glk_example": "بزه مي تکأ",
         "fa_word": "پهلو",
@@ -2646,7 +2628,7 @@
         "en_example": "He/she hit my rib"
     },
     {
-        "id": 295,
+        "id": 293,
         "glk_word": "تک دٚوٚد",
         "glk_example": "حسن تک دٚوٚده",
         "fa_word": "خالى‌بند",
@@ -2655,7 +2637,7 @@
         "en_example": "Hassan is a bluff"
     },
     {
-        "id": 296,
+        "id": 294,
         "glk_word": "تکام",
         "glk_example": "هأچين تي سرأ تکام دأن نوأ",
         "fa_word": "تکان",
@@ -2664,7 +2646,7 @@
         "en_example": "Don't shake your head for nothing"
     },
     {
-        "id": 297,
+        "id": 295,
         "glk_word": "تۊر",
         "glk_example": "پاک تۊرأ بؤسته دأره",
         "fa_word": "دیوانه",
@@ -2673,16 +2655,16 @@
         "en_example": "He/She is gone totally mad"
     },
     {
-        "id": 298,
+        "id": 296,
         "glk_word": "تۊرتۊره",
         "glk_example": "پارچهˈ همهˈ تۊرتۊره  ٰ کۊد",
         "fa_word": "پاره پاره",
         "fa_example": "تمام پارچه را پاره‌پاره کرد",
-        "en_word": "Tore Into Pieces",
-        "en_example": "He/She tore all the clothes into pieces"
+        "en_word": "Shredded",
+        "en_example": "He/She shredded all the cloth"
     },
     {
-        "id": 299,
+        "id": 297,
         "glk_word": "تۊشک",
         "glk_example": "خۊلي تۊشکأ فيشان",
         "fa_word": "هسته",
@@ -2691,7 +2673,7 @@
         "en_example": "Throw away the greengage's seed"
     },
     {
-        "id": 300,
+        "id": 298,
         "glk_word": "تۊشکه",
         "glk_example": "أ تۊشکه وا نيبه",
         "fa_word": "گره",
@@ -2700,7 +2682,7 @@
         "en_example": "This knot doesn't untie"
     },
     {
-        "id": 301,
+        "id": 299,
         "glk_word": "تۊقا",
         "glk_example": "من گيلان ٚ تۊقايم",
         "fa_word": "عاشق",
@@ -2709,7 +2691,7 @@
         "en_example": "I'm fond of Gilan"
     },
     {
-        "id": 302,
+        "id": 300,
         "glk_word": "تۊمان",
         "glk_example": "مي تۊمان کؤیا نهأ؟",
         "fa_word": "شلوار",
@@ -2718,7 +2700,7 @@
         "en_example": "Where are my pants?"
     },
     {
-        "id": 303,
+        "id": 301,
         "glk_word": "تۊمان",
         "glk_example": "فئلم تۊمانأ بؤسته؟",
         "fa_word": "تمام",
@@ -2727,16 +2709,16 @@
         "en_example": "Is the movie over?"
     },
     {
-        "id": 304,
+        "id": 302,
         "glk_word": "تۊند",
         "glk_example": "پۊر تۊند بۊ",
-        "fa_word": "بداخلاق",
+        "fa_word": "تند (بداخلاق)",
         "fa_example": "خیلى بداخلاق بود",
         "en_word": "Bad Tempered",
         "en_example": "He/She was very bad tempered"
     },
     {
-        "id": 305,
+        "id": 303,
         "glk_word": "تۊند",
         "glk_example": "تۊند بيأ",
         "fa_word": "سریع",
@@ -2745,7 +2727,7 @@
         "en_example": "Come quickly"
     },
     {
-        "id": 306,
+        "id": 304,
         "glk_word": "تۊنداتۊند",
         "glk_example": "تۊنداتۊند بۊشؤ",
         "fa_word": "با شتاب",
@@ -2754,16 +2736,16 @@
         "en_example": "He/She went hastily"
     },
     {
-        "id": 307,
+        "id": 305,
         "glk_word": "تۊنگۊله",
-        "glk_example": "ايتأ تۊنگۊله بزن",
-        "fa_word": "ضربه با سر انگشتان",
-        "fa_example": "با سر انگشت یک ضربه بزن",
+        "glk_example": "دۊتأ تۊنگۊله بزن",
+        "fa_word": "تلنگر",
+        "fa_example": "دو بار تلنگر بزن",
         "en_word": "Flick",
-        "en_example": "Flick with your finger"
+        "en_example": "Flick twice"
     },
     {
-        "id": 308,
+        "id": 306,
         "glk_word": "تۊک",
         "glk_example": "کيشکائانأ دۊمبالأ کۊني أشان ٚ مأر ترأ تۊک گيره",
         "fa_word": "نوک",
@@ -2772,7 +2754,7 @@
         "en_example": "When you following chickens their mother will peck you"
     },
     {
-        "id": 309,
+        "id": 307,
         "glk_word": "تۊک",
         "glk_example": "تي تۊک خۊن أمؤن دره",
         "fa_word": "لب",
@@ -2781,7 +2763,7 @@
         "en_example": "Your lip is bleeding"
     },
     {
-        "id": 310,
+        "id": 308,
         "glk_word": "تۊکاپره",
         "glk_example": "سجاد ؤ أکبر تۊکاپرهˈ ديبيد",
         "fa_word": "جر و بحث",
@@ -2790,7 +2772,7 @@
         "en_example": "Farzad and Ahmad were arguing"
     },
     {
-        "id": 311,
+        "id": 309,
         "glk_word": "تۊکه",
         "glk_example": "آب تۊکه کۊنه",
         "fa_word": "چکه",
@@ -2799,7 +2781,7 @@
         "en_example": "Water is dripping"
     },
     {
-        "id": 312,
+        "id": 310,
         "glk_word": "تۊکه",
         "glk_example": "ايتأ تۊکه آب مرأ فأدن",
         "fa_word": "اندک",
@@ -2808,7 +2790,7 @@
         "en_example": "Give me a little bit of water"
     },
     {
-        "id": 313,
+        "id": 311,
         "glk_word": "جأ",
         "glk_example": "نادر ٚ جأ فگيفتم",
         "fa_word": "از",
@@ -2817,7 +2799,7 @@
         "en_example": "I got it from Nader"
     },
     {
-        "id": 314,
+        "id": 312,
         "glk_word": "جأ",
         "glk_example": "کي جأ بامؤ دأري؟",
         "fa_word": "از جانب",
@@ -2826,7 +2808,7 @@
         "en_example": "Who did you come from?"
     },
     {
-        "id": 315,
+        "id": 313,
         "glk_word": "جأ",
         "glk_example": "تۊ لیلا جأ بيأ",
         "fa_word": "به جاى",
@@ -2835,7 +2817,7 @@
         "en_example": "You come instead of Leila"
     },
     {
-        "id": 316,
+        "id": 314,
         "glk_word": "جؤر",
         "glk_example": "تي وسيله ٰن کابينت ٚ جؤر نهأ",
         "fa_word": "بالا",
@@ -2844,7 +2826,7 @@
         "en_example": "Your stuff are on top of the cabinet"
     },
     {
-        "id": 317,
+        "id": 315,
         "glk_word": "جؤرأکش",
         "glk_example": "أن تاتایيأ جؤرأکش",
         "fa_word": "بارگذاری",
@@ -2853,7 +2835,7 @@
         "en_example": "Upload this picture"
     },
     {
-        "id": 318,
+        "id": 316,
         "glk_word": "جابجا",
         "glk_example": "تا أنأ بۊگؤفتيم، جابجا بۊشؤ",
         "fa_word": "سریع",
@@ -2862,7 +2844,7 @@
         "en_example": "When we told him/her, he/she left so fast"
     },
     {
-        "id": 319,
+        "id": 317,
         "glk_word": "جابه",
         "glk_example": "پرتخالانأ ديچين جابه دۊرۊن",
         "fa_word": "جعبه",
@@ -2871,16 +2853,16 @@
         "en_example": "Arrange the oranges in the box"
     },
     {
-        "id": 320,
+        "id": 318,
         "glk_word": "جاجيگا",
-        "glk_example": "گيلان تالش ؤ گيلک ٚ جاجيگايه",
+        "glk_example": "گيلان أمي جاجيگايه",
         "fa_word": "جایگاه",
-        "fa_example": "گیلان جایگاه گیلک و تالش است",
+        "fa_example": "گیلان جایگاه ما است",
         "en_word": "Place",
-        "en_example": "Gilan is Gilak and Talish's place"
+        "en_example": "Gilan is our place"
     },
     {
-        "id": 321,
+        "id": 319,
         "glk_word": "جخترأ دأ",
         "glk_example": "هرچي أنأ بۊگؤفته-بۊمأ جخترأ دأ",
         "fa_word": "فراموش کرد",
@@ -2889,7 +2871,7 @@
         "en_example": "He/She forgot whatever I told him/her"
     },
     {
-        "id": 322,
+        "id": 320,
         "glk_word": "جرگه",
         "glk_example": "أمي جرگه سي تا آدم-نفر دأره",
         "fa_word": "گروه",
@@ -2898,7 +2880,7 @@
         "en_example": "Our group has thirty members"
     },
     {
-        "id": 323,
+        "id": 321,
         "glk_word": "جزنه",
         "glk_example": "کرأ خؤرأ جزنه أمي جرگه دۊرۊن",
         "fa_word": "جا می‌کند",
@@ -2907,7 +2889,7 @@
         "en_example": "He/She incorporating himself/herself in our group"
     },
     {
-        "id": 324,
+        "id": 322,
         "glk_word": "جغله",
         "glk_example": "مي جغله هف ما دأره",
         "fa_word": "نوزاد",
@@ -2916,7 +2898,7 @@
         "en_example": "My baby is seven months old"
     },
     {
-        "id": 325,
+        "id": 323,
         "glk_word": "جندره",
         "glk_example": "اۊ زناى کيسه أمرأ جندره؟",
         "fa_word": "با خشم نگاه می‌کند",
@@ -2925,7 +2907,7 @@
         "en_example": "Who is that woman looking at us with anger?"
     },
     {
-        "id": 326,
+        "id": 324,
         "glk_word": "جنگستن دريم",
         "glk_example": "شباند ٚ رۊز کرأ جنگستن دريم",
         "fa_word": "داریم می‌جنگیم",
@@ -2934,7 +2916,7 @@
         "en_example": "We're fighting night and day"
     },
     {
-        "id": 327,
+        "id": 325,
         "glk_word": "جه غرز",
         "glk_example": "جه غرز نيما همه بأئيد بۊدۊرۊن",
         "fa_word": "به غیر از",
@@ -2943,7 +2925,7 @@
         "en_example": "Everyone come inside except Nima"
     },
     {
-        "id": 328,
+        "id": 326,
         "glk_word": "جه مأر بأورده",
         "glk_example": "أشان جه مأر بأورده پاچ بيد",
         "fa_word": "مادرزاد",
@@ -2952,7 +2934,7 @@
         "en_example": "They were short congenitally"
     },
     {
-        "id": 329,
+        "id": 327,
         "glk_word": "جيجا",
         "glk_example": "مي دس همه جيجا بؤبؤ",
         "fa_word": "زخم",
@@ -2961,7 +2943,7 @@
         "en_example": "My whole hand is injured"
     },
     {
-        "id": 330,
+        "id": 328,
         "glk_word": "جيجاماما",
         "glk_example": "خۊ وسيله ٰنأ جيجاماما کۊدن دره",
         "fa_word": "پنهان کردن",
@@ -2970,7 +2952,7 @@
         "en_example": "He/She is hiding his/her stuff"
     },
     {
-        "id": 331,
+        "id": 329,
         "glk_word": "جير",
         "glk_example": "مۊرغانه کرک ٚجير نهأ",
         "fa_word": "زیر",
@@ -2979,7 +2961,7 @@
         "en_example": "There's an egg under the chicken"
     },
     {
-        "id": 332,
+        "id": 330,
         "glk_word": "جيرأکش",
         "glk_example": "فئلم جيرأکش بۊبؤسته؟",
         "fa_word": "بارگیری",
@@ -2988,7 +2970,7 @@
         "en_example": "Has the movie download?"
     },
     {
-        "id": 333,
+        "id": 331,
         "glk_word": "جيليسکستيم",
         "glk_example": "ورف ٚ سرأ شؤن ديبيم هأ ايوار جيليسکستيم",
         "fa_word": "سُر خوردیم",
@@ -2997,7 +2979,7 @@
         "en_example": "We were walking on the snow suddenly we slipped"
     },
     {
-        "id": 334,
+        "id": 332,
         "glk_word": "جيميره",
         "glk_example": "هر کي شاد نبه أن ٚ ديل جيميره",
         "fa_word": "افسرده می‌شود",
@@ -3006,7 +2988,7 @@
         "en_example": "The person who's not happy will be depressed in his/her own heart"
     },
     {
-        "id": 335,
+        "id": 333,
         "glk_word": "جيويشت",
         "glk_example": "هأتؤ أمرأ بيده جيويشت",
         "fa_word": "در رفت",
@@ -3015,7 +2997,7 @@
         "en_example": "The moment he/She saw us he/she ran away"
     },
     {
-        "id": 336,
+        "id": 334,
         "glk_word": "جيويشت",
         "glk_example": "مي بال جيويشت",
         "fa_word": "در رفت (اعضای بدن)",
@@ -3024,7 +3006,7 @@
         "en_example": "My hand dislocated"
     },
     {
-        "id": 337,
+        "id": 335,
         "glk_word": "جکشه",
         "glk_example": "خؤرأ جکشه",
         "fa_word": "کنار می‌کشد",
@@ -3033,7 +3015,7 @@
         "en_example": "He/She pulls aside"
     },
     {
-        "id": 338,
+        "id": 336,
         "glk_word": "جکفت",
         "glk_example": "مي دهنأ آب جکفت",
         "fa_word": "آب افتاد",
@@ -3042,7 +3024,7 @@
         "en_example": "My mouth watered"
     },
     {
-        "id": 339,
+        "id": 337,
         "glk_word": "جۊخۊسانه",
         "glk_example": "خۊ پۊلانأ فرش ٚ جير جۊخۊسانه",
         "fa_word": "پنهان کرد",
@@ -3051,7 +3033,7 @@
         "en_example": "He/She hid his/her moneys under the carpet"
     },
     {
-        "id": 340,
+        "id": 338,
         "glk_word": "جۊخۊفت",
         "glk_example": "بۊشؤ دار ٚ پۊشت جۊخۊفت",
         "fa_word": "پنهان شد",
@@ -3060,7 +3042,7 @@
         "en_example": "He/She went and hid behind the tree"
     },
     {
-        "id": 341,
+        "id": 339,
         "glk_word": "جۊديکي",
         "glk_example": "هؤلأ بؤستم مرأ جۊديکي بيگيفت",
         "fa_word": "لکنت زبان",
@@ -3069,7 +3051,7 @@
         "en_example": "I panicked and I stuttered"
     },
     {
-        "id": 342,
+        "id": 340,
         "glk_word": "جۊرأ بيد",
         "glk_example": "زاکان کس کسه مرأ زۊد جۊرأ بيد",
         "fa_word": "خو می‌گیرند",
@@ -3078,7 +3060,7 @@
         "en_example": "Kids accustom to each other so soon"
     },
     {
-        "id": 343,
+        "id": 341,
         "glk_word": "جۊراف",
         "glk_example": "تي جۊرافانأ دۊکۊن",
         "fa_word": "جوراب",
@@ -3087,7 +3069,7 @@
         "en_example": "Wear your socks"
     },
     {
-        "id": 344,
+        "id": 342,
         "glk_word": "جۊفت",
         "glk_example": "ايتأ جۊفت کفش بهئم",
         "fa_word": "جفت",
@@ -3096,7 +3078,7 @@
         "en_example": "I bought a pair of shoes"
     },
     {
-        "id": 345,
+        "id": 343,
         "glk_word": "جۊل",
         "glk_example": "تي سۊرخ ٚ جۊلأ قۊربان",
         "fa_word": "لپ",
@@ -3105,7 +3087,7 @@
         "en_example": "I would die for your red cheek"
     },
     {
-        "id": 346,
+        "id": 344,
         "glk_word": "جۊلؤ",
         "glk_example": "بۊشۊ جۊلؤ",
         "fa_word": "جلو",
@@ -3114,7 +3096,7 @@
         "en_example": "Go ahead"
     },
     {
-        "id": 347,
+        "id": 345,
         "glk_word": "جۊلف",
         "glk_example": "کاسپي دريا جۊلفه",
         "fa_word": "عمیق",
@@ -3123,7 +3105,7 @@
         "en_example": "Caspian sea is deep"
     },
     {
-        "id": 348,
+        "id": 346,
         "glk_word": "جۊمجۊمه",
         "glk_example": "مرأ جۊمجۊمه اۊساد",
         "fa_word": "دلشوره",
@@ -3132,7 +3114,7 @@
         "en_example": "I got anxious"
     },
     {
-        "id": 349,
+        "id": 347,
         "glk_word": "جۊکۊن",
         "glk_example": "أ درزنأ مه ره نخ جۊکۊن",
         "fa_word": "سوزن را نخ کن",
@@ -3141,7 +3123,7 @@
         "en_example": "Thread this needle for me"
     },
     {
-        "id": 350,
+        "id": 348,
         "glk_word": "چأکۊنم",
         "glk_example": "کرأ خانه چأکۊنم",
         "fa_word": "می‌سازم",
@@ -3150,7 +3132,7 @@
         "en_example": "I am building a house"
     },
     {
-        "id": 351,
+        "id": 349,
         "glk_word": "چأکۊنه",
         "glk_example": "بۊشۊ رمضان ٚ ويجا، اۊن تأنه تي کارأ چأکۊنه",
         "fa_word": "درست می‌کند",
@@ -3159,7 +3141,7 @@
         "en_example": "Go to Ramezan, he can fix your problem"
     },
     {
-        "id": 352,
+        "id": 350,
         "glk_word": "چؤ",
         "glk_example": "چؤ دکفتهˈنأ باور کۊدن نوأ",
         "fa_word": "شایعه",
@@ -3168,7 +3150,7 @@
         "en_example": "Don't believe the rumors"
     },
     {
-        "id": 353,
+        "id": 351,
         "glk_word": "چؤرنيلي",
         "glk_example": "أ چؤرنيلي پرهنأ ديرۊ بيهئم",
         "fa_word": "بنفش",
@@ -3177,7 +3159,7 @@
         "en_example": "I bought this purple shirt yesterday"
     },
     {
-        "id": 354,
+        "id": 352,
         "glk_word": "چئل",
         "glk_example": "چئل سال پيش أيأ بامؤبۊم",
         "fa_word": "چهل",
@@ -3186,7 +3168,7 @@
         "en_example": "I had come here forty years ago"
     },
     {
-        "id": 355,
+        "id": 353,
         "glk_word": "چا",
         "glk_example": "بۊشۊ چا جأ آب واغۊش",
         "fa_word": "چاه",
@@ -3195,7 +3177,7 @@
         "en_example": "Go bring water from the well"
     },
     {
-        "id": 356,
+        "id": 354,
         "glk_word": "چار",
         "glk_example": "چار تا کۊئي مرأ فأدن",
         "fa_word": "چهار",
@@ -3204,7 +3186,7 @@
         "en_example": "Give me four pumpkin"
     },
     {
-        "id": 357,
+        "id": 355,
         "glk_word": "چارپاچه",
         "glk_example": "چارپاچه نيشته بۊ",
         "fa_word": "چهار زانو",
@@ -3213,7 +3195,7 @@
         "en_example": "He/She was sitting cross-legged"
     },
     {
-        "id": 358,
+        "id": 356,
         "glk_word": "چارچاک",
         "glk_example": "درأ چارچاک بنأ",
         "fa_word": "چارطاق",
@@ -3222,7 +3204,16 @@
         "en_example": "He/She left the door wide open"
     },
     {
-        "id": 359,
+        "id": 357,
+        "glk_word": "چارکۊنج",
+        "glk_example": "پارچه  ٰ چارکۊنج واوين",
+        "fa_word": "مربع",
+        "fa_example": "پارچه را به شکل مربع ببر",
+        "en_word": "Square",
+        "en_example": "Cut the cloth in a square shape"
+    },
+    {
+        "id": 358,
         "glk_word": "چالٚکا",
         "glk_example": "چالٚکا ميان دنکفي",
         "fa_word": "چاله",
@@ -3231,7 +3222,7 @@
         "en_example": "Don't fall inside the pit"
     },
     {
-        "id": 360,
+        "id": 359,
         "glk_word": "چان",
         "glk_example": "وحيدأ بيدئم ايتأ کيسه بج بچانأ گيفته بۊ",
         "fa_word": "دوش",
@@ -3240,7 +3231,7 @@
         "en_example": "I saw Vahid putting a bag of rice on his shoulder"
     },
     {
-        "id": 361,
+        "id": 360,
         "glk_word": "چاپ چاپ",
         "glk_example": "بۊلبۊل کرأ چاپ چاپ زنه",
         "fa_word": "چهچهه",
@@ -3249,7 +3240,7 @@
         "en_example": "The Nightingale is chirping"
     },
     {
-        "id": 362,
+        "id": 361,
         "glk_word": "چاپلا",
         "glk_example": "خؤشالي جأ کرأ چاپلا زنه",
         "fa_word": "کف زدن",
@@ -3258,7 +3249,7 @@
         "en_example": "He/She is clapping because of happiness"
     },
     {
-        "id": 363,
+        "id": 362,
         "glk_word": "چاک",
         "glk_example": "غذا بۊ هأ چاکأ پۊرأ کۊده",
         "fa_word": "فضاى اطراف",
@@ -3267,7 +3258,7 @@
         "en_example": "The smell of food has filled the space around"
     },
     {
-        "id": 364,
+        "id": 363,
         "glk_word": "چرت ٚ چۊلا",
         "glk_example": "دئه کرأ چرت ٚ چۊلا گي",
         "fa_word": "مزخرف",
@@ -3276,7 +3267,7 @@
         "en_example": "You are talking nonsense"
     },
     {
-        "id": 365,
+        "id": 364,
         "glk_word": "چرخ",
         "glk_example": "ديرۊ ايتأ چرخ بيهئم",
         "fa_word": "دوچرخه",
@@ -3285,7 +3276,7 @@
         "en_example": "I bought a bike yesterday"
     },
     {
-        "id": 366,
+        "id": 365,
         "glk_word": "چرخستن",
         "glk_example": "الا تي تي  زيمين ٚ دؤر چرخستن دره",
         "fa_word": "چرخیدن",
@@ -3294,7 +3285,7 @@
         "en_example": "The moon orbiting the Earth"
     },
     {
-        "id": 367,
+        "id": 366,
         "glk_word": "چف",
         "glk_example": "أنقد بۊخۊفتي چف بۊکۊدي",
         "fa_word": "ورم",
@@ -3303,7 +3294,7 @@
         "en_example": "You slept so much that you are swollen"
     },
     {
-        "id": 368,
+        "id": 367,
         "glk_word": "چفت",
         "glk_example": "درأ چفتأ کۊدي؟",
         "fa_word": "بستن",
@@ -3312,7 +3303,7 @@
         "en_example": "Did you close the door?"
     },
     {
-        "id": 369,
+        "id": 368,
         "glk_word": "چفتن",
         "glk_example": "سرمائي چفتن دٚوستيم",
         "fa_word": "یخ بستن",
@@ -3321,7 +3312,7 @@
         "en_example": "We froze from the cold"
     },
     {
-        "id": 370,
+        "id": 369,
         "glk_word": "چمچه",
         "glk_example": "چمچه ٰ بيدئي؟",
         "fa_word": "ملاقه",
@@ -3330,7 +3321,7 @@
         "en_example": "Have you seen the ladle?"
     },
     {
-        "id": 371,
+        "id": 370,
         "glk_word": "چنتا",
         "glk_example": "تۊ چنتا آغۊز دأري؟",
         "fa_word": "چند عدد",
@@ -3339,7 +3330,7 @@
         "en_example": "How many walnuts you have?"
     },
     {
-        "id": 372,
+        "id": 371,
         "glk_word": "چندر",
         "glk_example": "شيمي خانه چندر دۊره",
         "fa_word": "چه‌قدر",
@@ -3348,7 +3339,7 @@
         "en_example": "How far is your home?"
     },
     {
-        "id": 373,
+        "id": 372,
         "glk_word": "چيسه",
         "glk_example": "أن چيسه؟",
         "fa_word": "چیست",
@@ -3357,7 +3348,7 @@
         "en_example": "What is this?"
     },
     {
-        "id": 374,
+        "id": 373,
         "glk_word": "چيشتن",
         "glk_example": "کرأ غذائانأ ايتأ ايتأ چيشتن درم",
         "fa_word": "مزه کردن",
@@ -3366,7 +3357,7 @@
         "en_example": "I'm tasting the foods one by one"
     },
     {
-        "id": 375,
+        "id": 374,
         "glk_word": "چيچال",
         "glk_example": "تي دسأ چيچال ٚ آب ٚ مرأ بۊشؤر",
         "fa_word": "ولرم",
@@ -3375,7 +3366,7 @@
         "en_example": "Wash your hands with lukewarm water"
     },
     {
-        "id": 376,
+        "id": 375,
         "glk_word": "چيچيني",
         "glk_example": "ايمرۊ ايتأ چيچيني بيدئم",
         "fa_word": "گنجشک",
@@ -3384,7 +3375,7 @@
         "en_example": "I saw a sparrows today"
     },
     {
-        "id": 377,
+        "id": 376,
         "glk_word": "چٚسک",
         "glk_example": "بۊگؤفتم مي أمرأ بيأ، بۊگؤفت چٚسک",
         "fa_word": "نچ",
@@ -3393,7 +3384,7 @@
         "en_example": "I said come with me, he/she said nope"
     },
     {
-        "id": 378,
+        "id": 377,
         "glk_word": "چٚلک",
         "glk_example": "چرک",
         "fa_word": "تی چٚلک ٚ پرهنأ بۊشؤر",
@@ -3402,7 +3393,7 @@
         "en_example": "Wash your dirty shirt"
     },
     {
-        "id": 379,
+        "id": 378,
         "glk_word": "چک ٚ پر",
         "glk_example": "سينه-آبأ نأنستي هأچين چک ٚ پر زئي",
         "fa_word": "دست و پا زدن",
@@ -3411,7 +3402,7 @@
         "en_example": "He/She didn't know how to swim he/she was paddling aimlessly"
     },
     {
-        "id": 380,
+        "id": 379,
         "glk_word": "چۊ",
         "glk_example": "خؤشک ٚ چۊ هيمه ره خؤبه",
         "fa_word": "چوب",
@@ -3420,7 +3411,7 @@
         "en_example": "Dry woods are good for firewoods"
     },
     {
-        "id": 381,
+        "id": 380,
         "glk_word": "چۊتؤ",
         "glk_example": "أن چۊتؤ کار کۊنه؟",
         "fa_word": "چگونه",
@@ -3429,7 +3420,7 @@
         "en_example": "How does this work?"
     },
     {
-        "id": 382,
+        "id": 381,
         "glk_word": "چۊل",
         "glk_example": "تي کفشأ چۊل بۊکۊدي",
         "fa_word": "گل",
@@ -3438,7 +3429,7 @@
         "en_example": "You made your shoes muddy"
     },
     {
-        "id": 383,
+        "id": 382,
         "glk_word": "چۊله",
         "glk_example": "ايتأ کيبريت چۊله مرأ فأدن",
         "fa_word": "چوب کبریت",
@@ -3447,7 +3438,7 @@
         "en_example": "Give me a match"
     },
     {
-        "id": 384,
+        "id": 383,
         "glk_word": "چۊم",
         "glk_example": "مي چۊم نيدينه",
         "fa_word": "چشم",
@@ -3456,7 +3447,7 @@
         "en_example": "My eye doesn't see"
     },
     {
-        "id": 385,
+        "id": 384,
         "glk_word": "چۊم دکف",
         "glk_example": "أ خانه چۊم دکف بد ني-يه",
         "fa_word": "چشم انداز",
@@ -3465,7 +3456,7 @@
         "en_example": "The view of this house is not bad"
     },
     {
-        "id": 386,
+        "id": 385,
         "glk_word": "چۊمليز",
         "glk_example": "مرأ چۊمليز بيگيفته",
         "fa_word": "نیشگون",
@@ -3474,7 +3465,7 @@
         "en_example": "He/She pinched me"
     },
     {
-        "id": 387,
+        "id": 386,
         "glk_word": "حأيوان",
         "glk_example": "حأيوانانأ سربسر نهأن نوأ",
         "fa_word": "حیوان",
@@ -3483,7 +3474,7 @@
         "en_example": "Do not disturb animals"
     },
     {
-        "id": 388,
+        "id": 387,
         "glk_word": "حئيقت",
         "glk_example": "حئيقت گي؟",
         "fa_word": "حقیقت",
@@ -3492,7 +3483,7 @@
         "en_example": "Are you telling this for real?"
     },
     {
-        "id": 389,
+        "id": 388,
         "glk_word": "حق ٚ سأى",
         "glk_example": "تي حق ٚ سأيأ بۊکۊن آخربسر چأکۊده به",
         "fa_word": "تلاش",
@@ -3501,7 +3492,7 @@
         "en_example": "Try and finally it will be ok"
     },
     {
-        "id": 390,
+        "id": 389,
         "glk_word": "خألي",
         "glk_example": "اۊنقد کار بۊکۊدم خألي بيس تۊمۊن مرأ فأدأ",
         "fa_word": "فقط",
@@ -3510,7 +3501,7 @@
         "en_example": "I worked so much but he/she only gave me twenty Tomans"
     },
     {
-        "id": 391,
+        "id": 390,
         "glk_word": "خأندن",
         "glk_example": "کيتاب خأندن درم",
         "fa_word": "حواندن",
@@ -3519,7 +3510,7 @@
         "en_example": "I'm reading the book"
     },
     {
-        "id": 392,
+        "id": 391,
         "glk_word": "خأيه",
         "glk_example": "کي خأيه بأيه؟",
         "fa_word": "می‌خواهد",
@@ -3528,7 +3519,7 @@
         "en_example": "Who wants to come?"
     },
     {
-        "id": 393,
+        "id": 392,
         "glk_word": "خؤرم",
         "glk_example": "علي خؤرم زأکه",
         "fa_word": "خوب",
@@ -3537,7 +3528,7 @@
         "en_example": "Ali is a good kid"
     },
     {
-        "id": 394,
+        "id": 393,
         "glk_word": "خؤرنه",
         "glk_example": "أنقد خؤرنه کۊني کي خۊفتن نشأ",
         "fa_word": "خروپف",
@@ -3546,7 +3537,7 @@
         "en_example": "You snoring so much that no one can sleep"
     },
     {
-        "id": 395,
+        "id": 394,
         "glk_word": "خؤره",
         "glk_example": "خؤره بامؤ",
         "fa_word": "خودش",
@@ -3555,7 +3546,7 @@
         "en_example": "He/She came himself/herself"
     },
     {
-        "id": 396,
+        "id": 395,
         "glk_word": "خؤره خؤره",
         "glk_example": "مي کيف ٚ بند خؤره خؤره بؤرسفت",
         "fa_word": "خود به خود",
@@ -3564,7 +3555,7 @@
         "en_example": "The handle of my bag tore without any reason"
     },
     {
-        "id": 397,
+        "id": 396,
         "glk_word": "خؤشگيل",
         "glk_example": "أ گۊل چندر خؤشگيله",
         "fa_word": "زیبا",
@@ -3573,7 +3564,7 @@
         "en_example": "How beautiful is this flower"
     },
     {
-        "id": 398,
+        "id": 397,
         "glk_word": "خاج",
         "glk_example": "ايتأ خاج هيندانه مرأ فأدن",
         "fa_word": "برشى از چیزى",
@@ -3582,7 +3573,7 @@
         "en_example": "Give me a slice of watermelon"
     },
     {
-        "id": 399,
+        "id": 398,
         "glk_word": "خاخۊر",
         "glk_example": "مي خاخۊر ٚ مرأ بۊشؤئيم رستۊران",
         "fa_word": "خواهر",
@@ -3591,7 +3582,7 @@
         "en_example": "I went to the restaurant with my sister"
     },
     {
-        "id": 400,
+        "id": 399,
         "glk_word": "خاخۊرزا",
         "glk_example": "خاخۊرزا مي شين دانشجۊيه",
         "fa_word": "خواهرزاده",
@@ -3600,7 +3591,7 @@
         "en_example": "My niece is a student"
     },
     {
-        "id": 401,
+        "id": 400,
         "glk_word": "خاش",
         "glk_example": "أ مائي پۊر خاش دأره",
         "fa_word": "استخوان",
@@ -3609,7 +3600,7 @@
         "en_example": "This fish has a lot of bones"
     },
     {
-        "id": 402,
+        "id": 401,
         "glk_word": "خاص ٚ بخت",
         "glk_example": "حسۊد ٚ آدم خاص ٚ بخت نيبه",
         "fa_word": "خوش‌بخت",
@@ -3618,7 +3609,7 @@
         "en_example": "The jealous person won't get blessed"
     },
     {
-        "id": 403,
+        "id": 402,
         "glk_word": "خاطر",
         "glk_example": "مرأ خاطر نأيه",
         "fa_word": "یاد",
@@ -3627,7 +3618,7 @@
         "en_example": "I don't remember"
     },
     {
-        "id": 404,
+        "id": 403,
         "glk_word": "خاطرخا",
         "glk_example": "أشان دۊتا خاطرخائي دأشتيد",
         "fa_word": "عاشق",
@@ -3636,7 +3627,7 @@
         "en_example": "These two people were in love"
     },
     {
-        "id": 405,
+        "id": 404,
         "glk_word": "خال",
         "glk_example": "بپا خالانأ نشکني",
         "fa_word": "شاخه",
@@ -3645,7 +3636,7 @@
         "en_example": "Be careful not to break the branches"
     },
     {
-        "id": 406,
+        "id": 405,
         "glk_word": "خاليواش",
         "glk_example": "خاليواش ٚ مرأ درار چأکۊنيدي",
         "fa_word": "مرزنگوش",
@@ -3654,7 +3645,7 @@
         "en_example": "They make Darar with marjoram"
     },
     {
-        "id": 407,
+        "id": 406,
         "glk_word": "خبرأتر",
         "glk_example": "چي خبرأتر؟",
         "fa_word": "خبر و احوال",
@@ -3663,7 +3654,7 @@
         "en_example": "What's up?"
     },
     {
-        "id": 408,
+        "id": 407,
         "glk_word": "خبرأگير",
         "glk_example": "مؤسن ديرۊ بامؤبۊ تي خبرأگير",
         "fa_word": "سراغ گرفتن",
@@ -3672,7 +3663,7 @@
         "en_example": "Mohsen had come yesterday and he was asking about you"
     },
     {
-        "id": 409,
+        "id": 408,
         "glk_word": "خرابگي",
         "glk_example": "دۊمرتبه خرابگي بۊکۊدي؟",
         "fa_word": "خراب‌کارى",
@@ -3681,7 +3672,7 @@
         "en_example": "You messed up again?"
     },
     {
-        "id": 410,
+        "id": 409,
         "glk_word": "خرت ٚ خشال",
         "glk_example": "اۊ خرت ٚ خشالانأ فيشأن",
         "fa_word": "وسایل بى‌ارزش",
@@ -3690,7 +3681,7 @@
         "en_example": "Throw away those odds and ends"
     },
     {
-        "id": 411,
+        "id": 410,
         "glk_word": "خسته",
         "glk_example": "تۊرفانأ خسته بکأشتي",
         "fa_word": "متراکم",
@@ -3699,7 +3690,7 @@
         "en_example": "You planted those radishes compactly"
     },
     {
-        "id": 412,
+        "id": 411,
         "glk_word": "خفت",
         "glk_example": "مرأ خفتأ گيره",
         "fa_word": "چندش",
@@ -3708,7 +3699,7 @@
         "en_example": "I disgust"
     },
     {
-        "id": 413,
+        "id": 412,
         "glk_word": "خفت",
         "glk_example": "دئه مي خفت بسر أمؤن دره",
         "fa_word": "تحمل",
@@ -3717,7 +3708,7 @@
         "en_example": "I can't endure anymore"
     },
     {
-        "id": 414,
+        "id": 413,
         "glk_word": "خفتي",
         "glk_example": "خفتي آدمه",
         "fa_word": "کم تحمل",
@@ -3726,7 +3717,7 @@
         "en_example": "He/She is intolerant"
     },
     {
-        "id": 415,
+        "id": 414,
         "glk_word": "خفيانگي",
         "glk_example": "خۊ کارانأ خفيانگي کۊنه",
         "fa_word": "پنهانى",
@@ -3735,7 +3726,7 @@
         "en_example": "He/She does his/her job secretly"
     },
     {
-        "id": 416,
+        "id": 415,
         "glk_word": "خٚرٚک",
         "glk_example": "أمي بجانأ خٚرٚکأ کۊده",
         "fa_word": "شپشک برنج",
@@ -3744,7 +3735,7 @@
         "en_example": "There's rice weevil in our rice"
     },
     {
-        "id": 417,
+        "id": 416,
         "glk_word": "خکاره",
         "glk_example": "ايتأ پيله خکاره بيهين",
         "fa_word": "ماهی‌تابه",
@@ -3753,7 +3744,7 @@
         "en_example": "Buy a large frying pan"
     },
     {
-        "id": 418,
+        "id": 417,
         "glk_word": "خۊ",
         "glk_example": "هرکي خۊ ماشين ٚ مرأ بأيه",
         "fa_word": "خودش",
@@ -3762,7 +3753,7 @@
         "en_example": "Anyone come with their own car"
     },
     {
-        "id": 419,
+        "id": 418,
         "glk_word": "خۊج",
         "glk_example": "خۊج خۊري؟",
         "fa_word": "گلابی وحشی",
@@ -3771,7 +3762,7 @@
         "en_example": "Do you eat wild pear?"
     },
     {
-        "id": 420,
+        "id": 419,
         "glk_word": "خۊرانئن",
         "glk_example": "زاکأ دوا خۊرانئن درم",
         "fa_word": "خوراندن",
@@ -3780,7 +3771,7 @@
         "en_example": "I'm feeding medicine to the baby"
     },
     {
-        "id": 421,
+        "id": 420,
         "glk_word": "خۊرکأ",
         "glk_example": "خۊرکأ دامان ٚ مئن زيويسته",
         "fa_word": "جوجه‌تیغی",
@@ -3789,7 +3780,7 @@
         "en_example": "Hedgehog lives in the forest"
     },
     {
-        "id": 422,
+        "id": 421,
         "glk_word": "خۊس",
         "glk_example": "نأمم چي ره ايمرۊ خۊس کۊنمه",
         "fa_word": "سرفه",
@@ -3798,7 +3789,7 @@
         "en_example": "I don't know why I'm coughing today"
     },
     {
-        "id": 423,
+        "id": 422,
         "glk_word": "خۊسانه",
         "glk_example": "مهين کرأ خۊ زاکأ خۊسانه",
         "fa_word": "می‌خواباند",
@@ -3807,7 +3798,7 @@
         "en_example": "Mahin is putting her baby to sleep"
     },
     {
-        "id": 424,
+        "id": 423,
         "glk_word": "خۊسه",
         "glk_example": "زأک ٚ ره لالائي بيگي زۊتر خۊسه",
         "fa_word": "مى‌خوابد",
@@ -3816,7 +3807,7 @@
         "en_example": "Sing lullaby to the baby so he/she sleeps soon"
     },
     {
-        "id": 425,
+        "id": 424,
         "glk_word": "خۊشأدم",
         "glk_example": "أيأ بيأ ترأ خۊشأدم",
         "fa_word": "ببوسم",
@@ -3825,7 +3816,7 @@
         "en_example": "Come here let me kiss you"
     },
     {
-        "id": 426,
+        "id": 425,
         "glk_word": "خۊشانه",
         "glk_example": "أمان أشانأ وأده نيگيفته بيم، خۊشانه بامؤبيد",
         "fa_word": "خودسرانه",
@@ -3834,7 +3825,7 @@
         "en_example": "We didn't invite them, they came arbitrarily"
     },
     {
-        "id": 427,
+        "id": 426,
         "glk_word": "خۊشک",
         "glk_example": "سلان همه خۊشکأ بؤستده",
         "fa_word": "خشک",
@@ -3843,7 +3834,7 @@
         "en_example": "All ponds have dried up"
     },
     {
-        "id": 428,
+        "id": 427,
         "glk_word": "خۊله",
         "glk_example": "گرزه بۊشؤ خۊله مئن",
         "fa_word": "سوراخ",
@@ -3852,7 +3843,7 @@
         "en_example": "The mouse went into the hole"
     },
     {
-        "id": 429,
+        "id": 428,
         "glk_word": "خۊلي",
         "glk_example": "خۊلي-يانأ بيچه-ئي؟",
         "fa_word": "گوجه‌سبز",
@@ -3861,7 +3852,7 @@
         "en_example": "Did you pick the greengages?"
     },
     {
-        "id": 430,
+        "id": 429,
         "glk_word": "خۊمه",
         "glk_example": "حجحجي أمي هره سر خۊمه بنأ",
         "fa_word": "لانه",
@@ -3870,7 +3861,7 @@
         "en_example": "Swallow made a nest on the porch of our house"
     },
     {
-        "id": 431,
+        "id": 430,
         "glk_word": "خۊن ديمير",
         "glk_example": "مي پا أنگۊشت خۊن ديمير بؤبؤسته",
         "fa_word": "خون مرده",
@@ -3879,16 +3870,16 @@
         "en_example": "My toe got bruised"
     },
     {
-        "id": 432,
+        "id": 431,
         "glk_word": "خۊچک",
         "glk_example": "أ آشتالۊ خۊچکه",
-        "fa_word": "هسته‌جدا",
-        "fa_example": "این هلو هسته‌جدا است",
+        "fa_word": "هسته جدا",
+        "fa_example": "این هلو هسته جدا است",
         "en_word": "Easy Separable Seed",
         "en_example": "This peach has easy separable seed"
     },
     {
-        "id": 433,
+        "id": 432,
         "glk_word": "دأني",
         "glk_example": "دأني تي برار کؤيأ ايسأ؟",
         "fa_word": "می‌دانی",
@@ -3897,7 +3888,7 @@
         "en_example": "Do you know where's your brother?"
     },
     {
-        "id": 434,
+        "id": 433,
         "glk_word": "دؤجين",
         "glk_example": "ته ره دؤجين بۊکۊن",
         "fa_word": "انتخاب",
@@ -3906,16 +3897,16 @@
         "en_example": "Make a choice for yourself"
     },
     {
-        "id": 435,
+        "id": 434,
         "glk_word": "دؤر ٚ شر",
-        "glk_example": "اينفر کرأ دؤر ٚ شر ٚ جأ أيه",
+        "glk_example": "اي نفر کرأ دؤر ٚ شر ٚ جأ أيه",
         "fa_word": "دور دست",
         "fa_example": "یک نفر دارد از دور دست مى‌آید",
         "en_word": "Afar",
         "en_example": "Someone is coming from afar"
     },
     {
-        "id": 436,
+        "id": 435,
         "glk_word": "دؤرسفت",
         "glk_example": "مي زيبيل ٚ تان دؤرسفت",
         "fa_word": "پاره شد",
@@ -3924,7 +3915,7 @@
         "en_example": "The bottom of my bag tore"
     },
     {
-        "id": 437,
+        "id": 436,
         "glk_word": "دؤوانئن",
         "glk_example": "صؤب تا هسأ مرأ دؤوانئن دره",
         "fa_word": "دواندن",
@@ -3933,7 +3924,7 @@
         "en_example": "He/She is goofing me off since morning"
     },
     {
-        "id": 438,
+        "id": 437,
         "glk_word": "دؤوستن",
         "glk_example": "کرأ دؤوم",
         "fa_word": "دویدن",
@@ -3942,7 +3933,7 @@
         "en_example": "I'm running"
     },
     {
-        "id": 439,
+        "id": 438,
         "glk_word": "دؤککؤ",
         "glk_example": "دؤککؤ بۊخۊردم",
         "fa_word": "تعجب",
@@ -3951,7 +3942,7 @@
         "en_example": "I got surprised"
     },
     {
-        "id": 440,
+        "id": 439,
         "glk_word": "دئر",
         "glk_example": "مي مٚدٚرسه دئرأ بؤ",
         "fa_word": "دیر",
@@ -3960,7 +3951,7 @@
         "en_example": "I'm late for school"
     },
     {
-        "id": 441,
+        "id": 440,
         "glk_word": "دئن",
         "glk_example": "چي دئن دري؟",
         "fa_word": "دیدن",
@@ -3969,7 +3960,7 @@
         "en_example": "What are you seeing?"
     },
     {
-        "id": 442,
+        "id": 441,
         "glk_word": "دئه",
         "glk_example": "ايتأ دئه نان مرأ فأدن",
         "fa_word": "دیگر",
@@ -3978,7 +3969,7 @@
         "en_example": "Give me another bread"
     },
     {
-        "id": 443,
+        "id": 442,
         "glk_word": "دئه",
         "glk_example": "من دئه بازي نۊکۊنم",
         "fa_word": "دیگر",
@@ -3987,7 +3978,7 @@
         "en_example": "I don't play anymore"
     },
     {
-        "id": 444,
+        "id": 443,
         "glk_word": "داب",
         "glk_example": "أن تازه دابه؟",
         "fa_word": "روش",
@@ -3996,7 +3987,7 @@
         "en_example": "Is it a new method?"
     },
     {
-        "id": 445,
+        "id": 444,
         "glk_word": "دار",
         "glk_example": "خۊشک ٚ دار هيمه ره خؤبه",
         "fa_word": "درخت",
@@ -4005,7 +3996,7 @@
         "en_example": "Dried trees are good for firewood"
     },
     {
-        "id": 446,
+        "id": 445,
         "glk_word": "دار",
         "glk_example": "أ دارانأ کي وأوه؟",
         "fa_word": "درخت",
@@ -4014,13 +4005,22 @@
         "en_example": "Who cut these trees down?"
     },
     {
-        "id": 447,
+        "id": 446,
         "glk_word": "داشت ٚ دارائي",
         "glk_example": "بعضي-يان ٚ داشت ٚ دارائي-يأ ايشماردن نشأ",
         "fa_word": "ثروت",
         "fa_example": "ثروت بعضى‌ها را نمى‌شود شمرد",
         "en_word": "Wealth",
         "en_example": "You can't count some people's wealth"
+    },
+    {
+        "id": 447,
+        "glk_word": "داشکا",
+        "glk_example": "آجۊرانأ داشکا أمرأ باور",
+        "fa_word": "فرغون",
+        "fa_example": "آحجرها را با فرغون بیاور",
+        "en_word": "Wheelbarrow",
+        "en_example": "Bring the bricks with wheelbarrow"
     },
     {
         "id": 448,
@@ -4187,7 +4187,7 @@
     {
         "id": 466,
         "glk_word": "دس فأرس",
-        "glk_example": "ميقراض مرأ دس-فأرس ني-يه",
+        "glk_example": "ميقراض مرأ دس فأرس ني-يه",
         "fa_word": "در دسترس",
         "fa_example": "قیچى در دسترس من نیست",
         "en_word": "Available",
@@ -4676,7 +4676,7 @@
         "glk_example": "ته ره غذا دۊکۊن",
         "fa_word": "بریز",
         "fa_example": "برای خودت غذا بریز",
-        "en_word": "Serve (Food)",
+        "en_word": "Serve/Pour",
         "en_example": "Serve yourself some food"
     },
     {
@@ -4969,6 +4969,15 @@
     },
     {
         "id": 553,
+        "glk_word": "سأکۊته",
+        "glk_example": "مي زاک ايتأ سأکۊته دأره",
+        "fa_word": "توله سگ",
+        "fa_example": "بچه من یک توله سگ دارد",
+        "en_word": "puppy",
+        "en_example": "My child has a puppy"
+    },
+    {
+        "id": 554,
         "glk_word": "سئخ",
         "glk_example": "سئخانأ کؤيأ بنأئي؟",
         "fa_word": "سیخ",
@@ -4977,7 +4986,7 @@
         "en_example": "Where did you put the skewers?"
     },
     {
-        "id": 554,
+        "id": 555,
         "glk_word": "ساج",
         "glk_example": "تي ساجأ چأکۊن",
         "fa_word": "زلف",
@@ -4986,7 +4995,7 @@
         "en_example": "Fix your hair"
     },
     {
-        "id": 555,
+        "id": 556,
         "glk_word": "ساق",
         "glk_example": "أمي ناجه أن ٚ کي هميشک ساق بيبيد",
         "fa_word": "سلامتى",
@@ -4995,7 +5004,16 @@
         "en_example": "Our wish is that you always be healthy"
     },
     {
-        "id": 556,
+        "id": 557,
+        "glk_word": "سال",
+        "glk_example": "اي سال دئه مي درز تۊمانأ به",
+        "fa_word": "یک سال",
+        "fa_example": "یک سال دیگر درسم تمام مى‌شود",
+        "en_word": "Year",
+        "en_example": "My education will end in one year"
+    },
+    {
+        "id": 558,
         "glk_word": "سامان",
         "glk_example": "کؤ سامان شؤن دريم؟",
         "fa_word": "جا، مکان",
@@ -5004,7 +5022,7 @@
         "en_example": "What place are we going to?"
     },
     {
-        "id": 557,
+        "id": 559,
         "glk_word": "سانچؤ",
         "glk_example": "جه وس هوا سرده سانچؤ زئن درم",
         "fa_word": "سینه‌پهلو",
@@ -5013,7 +5031,7 @@
         "en_example": "It's too cold I'm getting pneumonia"
     },
     {
-        "id": 558,
+        "id": 560,
         "glk_word": "سخت",
         "glk_example": "همه-تا کاران سخته",
         "fa_word": "سخت",
@@ -5022,7 +5040,7 @@
         "en_example": "All jobs are difficult"
     },
     {
-        "id": 559,
+        "id": 561,
         "glk_word": "سختي أمؤن",
         "glk_example": "مرأ سختي أيه بشم بيرۊن",
         "fa_word": "تنبلى",
@@ -5031,7 +5049,7 @@
         "en_example": "I'm feeling lazy to go outside"
     },
     {
-        "id": 560,
+        "id": 562,
         "glk_word": "سر",
         "glk_example": "تي وسيله ٰنأ بنه ميز ٚ سر",
         "fa_word": "روى",
@@ -5040,7 +5058,7 @@
         "en_example": "Put your stuff on the table"
     },
     {
-        "id": 561,
+        "id": 563,
         "glk_word": "سر",
         "glk_example": "تۊ کي سر ايسي؟",
         "fa_word": "طرفدار",
@@ -5049,7 +5067,7 @@
         "en_example": "Whose side are you on?"
     },
     {
-        "id": 562,
+        "id": 564,
         "glk_word": "سر ٚ کؤره",
         "glk_example": "مي سر ٚ کؤره مرأ در کۊنه",
         "fa_word": "شقیقه",
@@ -5058,7 +5076,7 @@
         "en_example": "My temple hurts"
     },
     {
-        "id": 563,
+        "id": 565,
         "glk_word": "سرأ جيري",
         "glk_example": "أ سرأ جيري-يأ وا دٚواريم",
         "fa_word": "شیب",
@@ -5067,7 +5085,7 @@
         "en_example": "We should cross this downhill"
     },
     {
-        "id": 564,
+        "id": 566,
         "glk_word": "سرأ دن",
         "glk_example": "مي سفارشانأ سرأ دن",
         "fa_word": "ارسال کن",
@@ -5076,7 +5094,7 @@
         "en_example": "Send me my orders"
     },
     {
-        "id": 565,
+        "id": 567,
         "glk_word": "سرأ دن",
         "glk_example": "اۊ پيچأ زاکأ سرأدن",
         "fa_word": "رها کن",
@@ -5085,7 +5103,7 @@
         "en_example": "Release that kitten"
     },
     {
-        "id": 566,
+        "id": 568,
         "glk_word": "سراکۊنأ",
         "glk_example": "کيتابأ سراکۊنأ بيگيفتي",
         "fa_word": "برعکس",
@@ -5094,7 +5112,7 @@
         "en_example": "You're holding the book upside down"
     },
     {
-        "id": 567,
+        "id": 569,
         "glk_word": "سربس",
         "glk_example": "تي سربسأ بۊگۊ",
         "fa_word": "منبع",
@@ -5103,7 +5121,7 @@
         "en_example": "Tell me about your source"
     },
     {
-        "id": 568,
+        "id": 570,
         "glk_word": "سربسر",
         "glk_example": "مرأ سربسر نهأن نوأ",
         "fa_word": "اذیت",
@@ -5112,7 +5130,7 @@
         "en_example": "Don't bother me"
     },
     {
-        "id": 569,
+        "id": 571,
         "glk_word": "سربسر",
         "glk_example": "هۊتؤ سربسر بنه",
         "fa_word": "روى هم",
@@ -5121,7 +5139,7 @@
         "en_example": "Leave it overlay"
     },
     {
-        "id": 570,
+        "id": 572,
         "glk_word": "سرد ٚ وا",
         "glk_example": "سرد ٚ وا دمه",
         "fa_word": "باد سرد",
@@ -5130,7 +5148,7 @@
         "en_example": "Cold wind is blowing"
     },
     {
-        "id": 571,
+        "id": 573,
         "glk_word": "سردأ کۊده",
         "glk_example": "هوا سردأ کۊده",
         "fa_word": "سرد شده است",
@@ -5139,7 +5157,7 @@
         "en_example": "The weather has turned cold"
     },
     {
-        "id": 572,
+        "id": 574,
         "glk_word": "سردي",
         "glk_example": "بۊشۊ سردي-يأ بأور",
         "fa_word": "نردبان",
@@ -5148,16 +5166,16 @@
         "en_example": "Go bring the ladder"
     },
     {
-        "id": 573,
+        "id": 575,
         "glk_word": "سرسۊم",
-        "glk_example": "سرسۊم کي بکفتي بزين ترأ حالي-يه",
+        "glk_example": "سرسۊم کي بکفتي بزين ترأ حالي-به",
         "fa_word": "با سر افتادن",
         "fa_example": "با سر که افتادى بعد متوجه مى‌شوى",
         "en_word": "Falling Over Your Head",
-        "en_example": "You will understand when you fall over your head"
+        "en_example": "You will understand after you fall over your head"
     },
     {
-        "id": 574,
+        "id": 576,
         "glk_word": "سرفۊکؤ",
         "glk_example": "هأى أمرأ سرفۊکؤ زنه",
         "fa_word": "سرکوفت",
@@ -5166,7 +5184,7 @@
         "en_example": "He/She rebukes us constantly"
     },
     {
-        "id": 575,
+        "id": 577,
         "glk_word": "سرگمجي",
         "glk_example": "زأکأن ٚ سرگمجي ره، أشانه کيتاب بخأنيد",
         "fa_word": "سرگرم کردن",
@@ -5175,7 +5193,7 @@
         "en_example": "To Entertain kids, read a book for them"
     },
     {
-        "id": 576,
+        "id": 578,
         "glk_word": "سس",
         "glk_example": "تي پلا چي ره سسه؟",
         "fa_word": "بى‌نمک",
@@ -5184,16 +5202,16 @@
         "en_example": "Why is your rice tasteless?"
     },
     {
-        "id": 577,
+        "id": 579,
         "glk_word": "سفيان",
         "glk_example": "سفيان بۊکۊدم",
-        "fa_word": "ترس بسیار",
-        "fa_example": "بسیار ترسیدم",
-        "en_word": "Very Scared",
-        "en_example": "I was very scared"
+        "fa_word": "وحشت",
+        "fa_example": "وحشت کردم",
+        "en_word": "Panic",
+        "en_example": "I panicked"
     },
     {
-        "id": 578,
+        "id": 580,
         "glk_word": "سلامال",
         "glk_example": "مي سلاماله",
         "fa_word": "هم سن",
@@ -5202,7 +5220,7 @@
         "en_example": "He/She is the same age as me"
     },
     {
-        "id": 579,
+        "id": 581,
         "glk_word": "سه لنگه",
         "glk_example": "اۊ سه لنگه-يأ بأور",
         "fa_word": "سه پایه",
@@ -5211,7 +5229,7 @@
         "en_example": "Bring me that tripod"
     },
     {
-        "id": 580,
+        "id": 582,
         "glk_word": "سيا",
         "glk_example": "مي سيا تۊمانأ بيدئي؟",
         "fa_word": "سیاه",
@@ -5220,7 +5238,7 @@
         "en_example": "Have you seen my black pants?"
     },
     {
-        "id": 581,
+        "id": 583,
         "glk_word": "سيبيشکا",
         "glk_example": "سيبيشکا خۊري؟",
         "fa_word": "تخمه آفتابگردان",
@@ -5229,7 +5247,7 @@
         "en_example": "Do you eat sunflower seeds?"
     },
     {
-        "id": 582,
+        "id": 584,
         "glk_word": "سيفيد",
         "glk_example": "اۊ سيفيد ٚ کفشأ خأيم",
         "fa_word": "سفید",
@@ -5238,7 +5256,7 @@
         "en_example": "I want those white shoes"
     },
     {
-        "id": 583,
+        "id": 585,
         "glk_word": "سيوا",
         "glk_example": "أشانأ سيوا بنه",
         "fa_word": "جدا",
@@ -5247,7 +5265,7 @@
         "en_example": "keep these separated"
     },
     {
-        "id": 584,
+        "id": 586,
         "glk_word": "سٚبٚج",
         "glk_example": "تي سرأ سٚبٚجأ کۊده؟",
         "fa_word": "شپش",
@@ -5256,7 +5274,7 @@
         "en_example": "Did you get head lice?"
     },
     {
-        "id": 585,
+        "id": 587,
         "glk_word": "سٚفره",
         "glk_example": "سٚفره  ٰ بۊشؤستم",
         "fa_word": "سفره",
@@ -5265,7 +5283,7 @@
         "en_example": "I washed the tablecloth"
     },
     {
-        "id": 586,
+        "id": 588,
         "glk_word": "سٚند",
         "glk_example": "تي سٚند چقده؟",
         "fa_word": "سن",
@@ -5274,7 +5292,7 @@
         "en_example": "How old are you?"
     },
     {
-        "id": 587,
+        "id": 589,
         "glk_word": "سٚودا",
         "glk_example": "خليل بۊشؤ بازار سٚودا بۊکۊنه",
         "fa_word": "معامله",
@@ -5283,7 +5301,7 @@
         "en_example": "Khalil went to the bazaar to trade"
     },
     {
-        "id": 588,
+        "id": 590,
         "glk_word": "سک",
         "glk_example": "سکان پيچائان ٚ وأسي لاب کۊديد",
         "fa_word": "سگ",
@@ -5292,7 +5310,7 @@
         "en_example": "Dogs were barking because of cats"
     },
     {
-        "id": 589,
+        "id": 591,
         "glk_word": "سۊ",
         "glk_example": "بۊخاري سۊ زياده",
         "fa_word": "شعله",
@@ -5301,7 +5319,7 @@
         "en_example": "The flame of the heater is too high"
     },
     {
-        "id": 590,
+        "id": 592,
         "glk_word": "سۊ",
         "glk_example": "الا تي تي سۊ کۊنه",
         "fa_word": "روشنایى",
@@ -5310,16 +5328,16 @@
         "en_example": "The moon shines"
     },
     {
-        "id": 591,
+        "id": 593,
         "glk_word": "سۊبۊل",
-        "glk_example": "ترأ سۊبۊلأ کۊده مگه؟",
+        "glk_example": "أ سأکۊته-یأ سۊبۊلأ کۊده",
         "fa_word": "کک",
-        "fa_example": "مگر کک داری؟",
+        "fa_example": "این توله سگ کک دارد",
         "en_word": "Flea",
-        "en_example": "Do you got flea?"
+        "en_example": "This puppy has fleas"
     },
     {
-        "id": 592,
+        "id": 594,
         "glk_word": "سۊبۊک",
         "glk_example": "أ کفش چندر سۊبۊکه",
         "fa_word": "سبک",
@@ -5328,7 +5346,7 @@
         "en_example": "These shoes are so light"
     },
     {
-        "id": 593,
+        "id": 595,
         "glk_word": "سۊج",
         "glk_example": "مي گۊلي مرأ سۊج کۊنه",
         "fa_word": "سوزش",
@@ -5337,7 +5355,7 @@
         "en_example": "My throat is burning"
     },
     {
-        "id": 594,
+        "id": 596,
         "glk_word": "سۊج",
         "glk_example": "هوا سۊج دأره",
         "fa_word": "سوز",
@@ -5346,7 +5364,7 @@
         "en_example": "The weather is burning cold"
     },
     {
-        "id": 595,
+        "id": 597,
         "glk_word": "سۊرخ",
         "glk_example": "أ سۊرخ ٚ پرهنأ دۊکۊن",
         "fa_word": "قرمز",
@@ -5355,7 +5373,7 @@
         "en_example": "Wear this red shirt"
     },
     {
-        "id": 596,
+        "id": 598,
         "glk_word": "سۊستي",
         "glk_example": "سۊستي کۊدن نوأ",
         "fa_word": "تنبلى",
@@ -5364,7 +5382,7 @@
         "en_example": "Don't be lazy"
     },
     {
-        "id": 597,
+        "id": 599,
         "glk_word": "سۊفته",
         "glk_example": "تا هسأ سۊفته نۊکۊديم",
         "fa_word": "دشت",
@@ -5373,7 +5391,7 @@
         "en_example": "I didn't get my first sale of the day so far"
     },
     {
-        "id": 598,
+        "id": 600,
         "glk_word": "سۊماپالان",
         "glk_example": "کابينت ٚ جأ سۊماپالانأ مرأ فأدن",
         "fa_word": "آبکش",
@@ -5382,7 +5400,7 @@
         "en_example": "Give me the colander from the cabinet"
     },
     {
-        "id": 599,
+        "id": 601,
         "glk_word": "سۊک",
         "glk_example": "سردي-يأ سۊک بني کفه",
         "fa_word": "عمودی",
@@ -5391,7 +5409,7 @@
         "en_example": "If you put the ladder vertically it will fall"
     },
     {
-        "id": 600,
+        "id": 602,
         "glk_word": "سۊکۊله",
         "glk_example": "سۊکۊله کۊکۊره کۊ کۊدن دره",
         "fa_word": "خروس",
@@ -5400,7 +5418,7 @@
         "en_example": "Rooster is crowing"
     },
     {
-        "id": 601,
+        "id": 603,
         "glk_word": "سۊکۊنج",
         "glk_example": "سۊکۊنج سۊتأ کۊنج دره",
         "fa_word": "مثلث",
@@ -5409,7 +5427,7 @@
         "en_example": "Triangle has three angles"
     },
     {
-        "id": 602,
+        "id": 604,
         "glk_word": "شأ",
         "glk_example": "چي شأ کۊدن؟",
         "fa_word": "مى‌شود",
@@ -5418,7 +5436,16 @@
         "en_example": "What can be done?"
     },
     {
-        "id": 603,
+        "id": 605,
+        "glk_word": "شأل",
+        "glk_example": "شأل دۊتا أمي کرکانأ ببرد",
+        "fa_word": "شغال",
+        "fa_example": "شغال دو عدد از مرغ‌های ما را برد",
+        "en_word": "Jackal",
+        "en_example": "The jackal took two of our chickens"
+    },
+    {
+        "id": 606,
         "glk_word": "شؤت",
         "glk_example": "اۊ شؤتأ مرأ فأدن",
         "fa_word": "فرچه",
@@ -5427,7 +5454,7 @@
         "en_example": "Give me the brush"
     },
     {
-        "id": 604,
+        "id": 607,
         "glk_word": "شؤن",
         "glk_example": "شؤن ٚ مؤقه مرأ دۊخان",
         "fa_word": "رفتن",
@@ -5436,7 +5463,7 @@
         "en_example": "Call me when it's time to go"
     },
     {
-        "id": 605,
+        "id": 608,
         "glk_word": "شؤن أمؤن",
         "glk_example": "أمي شؤن أمؤن خۊ جأ سر مأنه",
         "fa_word": "رفت و آمد",
@@ -5445,16 +5472,7 @@
         "en_example": "Our commute will stay like this"
     },
     {
-        "id": 606,
-        "glk_word": "شال",
-        "glk_example": "شال دۊتا أمي کرکانأ ببرد",
-        "fa_word": "شغال",
-        "fa_example": "شغال دو عدد از مرغ‌های ما را برد",
-        "en_word": "Jackal",
-        "en_example": "The jackal took two of our chickens"
-    },
-    {
-        "id": 607,
+        "id": 609,
         "glk_word": "شب",
         "glk_example": "شب دکفته",
         "fa_word": "شب",
@@ -5463,7 +5481,7 @@
         "en_example": "It's night"
     },
     {
-        "id": 608,
+        "id": 610,
         "glk_word": "شباند ٚرۊز",
         "glk_example": "نؤرۊزبل ٚ ره شباند ٚرۊز بيداريم",
         "fa_word": "شب و روز",
@@ -5472,7 +5490,7 @@
         "en_example": "We're awake day and night for Nowruzbal"
     },
     {
-        "id": 609,
+        "id": 611,
         "glk_word": "شل",
         "glk_example": "چي ره شل شلکأ را شي؟",
         "fa_word": "لنگ",
@@ -5481,16 +5499,25 @@
         "en_example": "Why are you limping?"
     },
     {
-        "id": 610,
+        "id": 612,
         "glk_word": "شلار",
         "glk_example": "هأی خۊ گبأ شلار دأئي",
         "fa_word": "کش دادن",
         "fa_example": "مدام حرف‌اش را کش مى‌داد",
-        "en_word": "Drag Out (Something)",
-        "en_example": "He/She was constantly dragging out his/her words"
+        "en_word": "Prolong",
+        "en_example": "He/She was constantly prolonging his/her words"
     },
     {
-        "id": 611,
+        "id": 613,
+        "glk_word": "شلخت",
+        "glk_example": "ايتأ پيله شلخت بيهئم",
+        "fa_word": "غاز",
+        "fa_example": "یک غاز بزرگ خریدم",
+        "en_word": "Goose",
+        "en_example": "I bought a big goose"
+    },
+    {
+        "id": 614,
         "glk_word": "شلله",
         "glk_example": "مي پلا شلله بؤبؤ",
         "fa_word": "خمیر شدن پلو",
@@ -5499,7 +5526,7 @@
         "en_example": "My rice got mushy"
     },
     {
-        "id": 612,
+        "id": 615,
         "glk_word": "شه",
         "glk_example": "أيأ چقد گرمه، شه بزم",
         "fa_word": "عرق",
@@ -5508,7 +5535,7 @@
         "en_example": "It's too hot here, I sweat"
     },
     {
-        "id": 613,
+        "id": 616,
         "glk_word": "شواله",
         "glk_example": "تش شواله کشه",
         "fa_word": "شعله",
@@ -5517,7 +5544,7 @@
         "en_example": "The fire is flaming"
     },
     {
-        "id": 614,
+        "id": 617,
         "glk_word": "شيب",
         "glk_example": "شيب بزن",
         "fa_word": "سوت",
@@ -5526,7 +5553,7 @@
         "en_example": "Whistle"
     },
     {
-        "id": 615,
+        "id": 618,
         "glk_word": "شيش",
         "glk_example": "أمان شيش نفر بيم",
         "fa_word": "شش",
@@ -5535,7 +5562,7 @@
         "en_example": "We were six people"
     },
     {
-        "id": 616,
+        "id": 619,
         "glk_word": "شيمي",
         "glk_example": "اۊى سفر أمان بامؤئيم أى سفر شيمي نؤبه-يه",
         "fa_word": "شما",
@@ -5544,7 +5571,7 @@
         "en_example": "We came last time now it's your turn"
     },
     {
-        "id": 617,
+        "id": 620,
         "glk_word": "شکمدار",
         "glk_example": "شکمدار ٚ زناکانأ مأنه",
         "fa_word": "حامله",
@@ -5553,7 +5580,7 @@
         "en_example": "He/She looks like a pregnant woman"
     },
     {
-        "id": 618,
+        "id": 621,
         "glk_word": "شۊتۊر",
         "glk_example": "شۊتۊر بيابان ٚ مئن زيويسته",
         "fa_word": "شتر",
@@ -5562,7 +5589,7 @@
         "en_example": "Camel lives in the desert"
     },
     {
-        "id": 619,
+        "id": 622,
         "glk_word": "شۊرۊم",
         "glk_example": "شۊرۊم بيگيفته",
         "fa_word": "مه",
@@ -5571,7 +5598,7 @@
         "en_example": "It's foggy"
     },
     {
-        "id": 620,
+        "id": 623,
         "glk_word": "شۊماره",
         "glk_example": "سيرۊس قايقران ٚ شۊماره ۹ بۊ",
         "fa_word": "شماره",
@@ -5580,7 +5607,7 @@
         "en_example": "Siroos Ghayeghran's number was 9"
     },
     {
-        "id": 621,
+        "id": 624,
         "glk_word": "شۊمان",
         "glk_example": "شۊمان بيشيد",
         "fa_word": "شما",
@@ -5589,7 +5616,7 @@
         "en_example": "You go"
     },
     {
-        "id": 622,
+        "id": 625,
         "glk_word": "صؤب",
         "glk_example": "من صؤبان زۊد شم کار ٚ سر",
         "fa_word": "صبح",
@@ -5598,7 +5625,7 @@
         "en_example": "I go to work early in the morning"
     },
     {
-        "id": 623,
+        "id": 626,
         "glk_word": "صبر",
         "glk_example": "صبر بزه",
         "fa_word": "عطسه",
@@ -5607,7 +5634,7 @@
         "en_example": "He/She sneezed"
     },
     {
-        "id": 624,
+        "id": 627,
         "glk_word": "صۊندؤق",
         "glk_example": "صۊندؤق ٚ دۊرۊن بنأم",
         "fa_word": "صندوق",
@@ -5616,7 +5643,7 @@
         "en_example": "I put it inside the coffer"
     },
     {
-        "id": 625,
+        "id": 628,
         "glk_word": "عأيدبيني",
         "glk_example": "ايمسال کؤرؤنا وأسي عأيدبيني نأريم",
         "fa_word": "عید دیدنى",
@@ -5625,7 +5652,7 @@
         "en_example": "This year we don't visit family in the Eid because of Corona"
     },
     {
-        "id": 626,
+        "id": 629,
         "glk_word": "عأينک",
         "glk_example": "مي عأينکأ بيدئي؟",
         "fa_word": "عینک",
@@ -5634,7 +5661,7 @@
         "en_example": "Have you seen my glasses?"
     },
     {
-        "id": 627,
+        "id": 630,
         "glk_word": "عار ؤ مۊر",
         "glk_example": "أن ٚ عار ؤ مۊر بشکفته",
         "fa_word": "غرور",
@@ -5643,7 +5670,7 @@
         "en_example": "His/Her pride was hurt"
     },
     {
-        "id": 628,
+        "id": 631,
         "glk_word": "عارنامۊس",
         "glk_example": "أمي مرأ عارنامۊسي دأره",
         "fa_word": "رودربایستى",
@@ -5652,7 +5679,7 @@
         "en_example": "He/She is being too formal with us"
     },
     {
-        "id": 629,
+        "id": 632,
         "glk_word": "عسکي",
         "glk_example": "کي عسکي بزه؟",
         "fa_word": "عطسه",
@@ -5661,7 +5688,7 @@
         "en_example": "Who sneezed?"
     },
     {
-        "id": 630,
+        "id": 633,
         "glk_word": "عم پسرزا",
         "glk_example": "تي عم پسر زأکه؟",
         "fa_word": "بچه پسرعمه",
@@ -5670,7 +5697,7 @@
         "en_example": "Is he/she your cousin's son/daughter?"
     },
     {
-        "id": 631,
+        "id": 634,
         "glk_word": "عمجان",
         "glk_example": "ديرۊ بۊشؤم مي عمجان ٚ خانه",
         "fa_word": "عمه",
@@ -5679,7 +5706,7 @@
         "en_example": "I went to my aunt's house yesterday"
     },
     {
-        "id": 632,
+        "id": 635,
         "glk_word": "عمجان دؤختر",
         "glk_example": "فردأ مي عمجان دؤختر ٚ خانه ايسائيم",
         "fa_word": "دخترعمه",
@@ -5688,7 +5715,7 @@
         "en_example": "We are at my cousin's house tomorrow"
     },
     {
-        "id": 633,
+        "id": 636,
         "glk_word": "عمجان پسر",
         "glk_example": "مي عمجان پسر رشت ايسأ",
         "fa_word": "پسرعمه",
@@ -5697,7 +5724,7 @@
         "en_example": "My cousin is in Rasht"
     },
     {
-        "id": 634,
+        "id": 637,
         "glk_word": "عنقص",
         "glk_example": "أن ٚ کاران عنقص ني-يه",
         "fa_word": "از روى عمد",
@@ -5706,7 +5733,7 @@
         "en_example": "His acts are not on purpose"
     },
     {
-        "id": 635,
+        "id": 638,
         "glk_word": "عوض",
         "glk_example": "أن همه پۊل فأدأئي اۊن ٚ عوض چي فأگيفتي؟",
         "fa_word": "به جاى",
@@ -5715,7 +5742,7 @@
         "en_example": "You spent a lot of money, what did you get in return?"
     },
     {
-        "id": 636,
+        "id": 639,
         "glk_word": "عوض دکش",
         "glk_example": "أمي پرهنانأ عوض دکش بۊکۊديم",
         "fa_word": "معاوضه",
@@ -5724,7 +5751,7 @@
         "en_example": "We exchanged our shirts"
     },
     {
-        "id": 637,
+        "id": 640,
         "glk_word": "عيلاج",
         "glk_example": "حسودي-يأ هيچ عيلاج ني-يه",
         "fa_word": "مداوا",
@@ -5733,7 +5760,7 @@
         "en_example": "There's no Cure for jealousy"
     },
     {
-        "id": 638,
+        "id": 641,
         "glk_word": "عيلاوه",
         "glk_example": "ايتأ دئه عيلاوهˈ کۊن",
         "fa_word": "اضافه",
@@ -5742,7 +5769,7 @@
         "en_example": "Add another one"
     },
     {
-        "id": 639,
+        "id": 642,
         "glk_word": "غۊرصه",
         "glk_example": "غۊرصه خۊردن نوأ",
         "fa_word": "غصه",
@@ -5751,7 +5778,7 @@
         "en_example": "Don't be sad"
     },
     {
-        "id": 640,
+        "id": 643,
         "glk_word": "فأدأ",
         "glk_example": "ترأ چي فأدأ؟",
         "fa_word": "داد",
@@ -5760,7 +5787,7 @@
         "en_example": "What did he/she gave to you?"
     },
     {
-        "id": 641,
+        "id": 644,
         "glk_word": "فأده",
         "glk_example": "تي نظر أمي پۊلأ فأده؟",
         "fa_word": "می‌دهد",
@@ -5769,7 +5796,7 @@
         "en_example": "Do you think he/she gives us our money?"
     },
     {
-        "id": 642,
+        "id": 645,
         "glk_word": "فأرسه",
         "glk_example": "شانس بأوردم ماسۊ مرأ فأرسه",
         "fa_word": "کمک کرد",
@@ -5778,7 +5805,7 @@
         "en_example": "I was lucky that Masoo helped me"
     },
     {
-        "id": 643,
+        "id": 646,
         "glk_word": "فأمستن",
         "glk_example": "أ مؤضۊ فأمستن أنقد سخته؟",
         "fa_word": "فهمیدن",
@@ -5787,7 +5814,7 @@
         "en_example": "Is this so hard to understand?"
     },
     {
-        "id": 644,
+        "id": 647,
         "glk_word": "فأندر",
         "glk_example": "مرأ فأندر",
         "fa_word": "نگاه کن",
@@ -5796,7 +5823,7 @@
         "en_example": "look at me"
     },
     {
-        "id": 645,
+        "id": 648,
         "glk_word": "فأکش",
         "glk_example": "أ لافندأ فأکش",
         "fa_word": "بکش",
@@ -5805,7 +5832,7 @@
         "en_example": "Pull this rope"
     },
     {
-        "id": 646,
+        "id": 649,
         "glk_word": "فأکش",
         "glk_example": "دئه مي کله فأکش نأره",
         "fa_word": "کشش",
@@ -5814,7 +5841,7 @@
         "en_example": "My brain can't focus anymore"
     },
     {
-        "id": 647,
+        "id": 650,
         "glk_word": "فأکش",
         "glk_example": "من گم وا بدن هأى فأکش دأن دره",
         "fa_word": "ادامه",
@@ -5823,7 +5850,7 @@
         "en_example": "I'm telling him/her to stop but he/she continues"
     },
     {
-        "id": 648,
+        "id": 651,
         "glk_word": "فؤقا",
         "glk_example": "آهينأ  فؤقا گيل ٚ دۊرۊن",
         "fa_word": "فرو کن",
@@ -5832,7 +5859,7 @@
         "en_example": "Dip the iron in the mud"
     },
     {
-        "id": 649,
+        "id": 652,
         "glk_word": "فئلم",
         "glk_example": "أ فئلمأ بيدئي؟",
         "fa_word": "فیلم",
@@ -5841,7 +5868,7 @@
         "en_example": "Have you seen this movie?"
     },
     {
-        "id": 650,
+        "id": 653,
         "glk_word": "فادار",
         "glk_example": "بۊشۊ تي زاکأ فادار",
         "fa_word": "سرپا بگیر",
@@ -5850,7 +5877,7 @@
         "en_example": "Go and hold your baby over the toilet"
     },
     {
-        "id": 651,
+        "id": 654,
         "glk_word": "فارسانه",
         "glk_example": "بؤشؤ مأمدأ فارسانه",
         "fa_word": "رساند",
@@ -5859,7 +5886,7 @@
         "en_example": "He went to give Mohamad a ride"
     },
     {
-        "id": 652,
+        "id": 655,
         "glk_word": "فاش",
         "glk_example": "فاش دأن دره",
         "fa_word": "فحش",
@@ -5868,7 +5895,7 @@
         "en_example": "He is cursing"
     },
     {
-        "id": 653,
+        "id": 656,
         "glk_word": "فال",
         "glk_example": "أ پرهن ته ره فاله",
         "fa_word": "گشاد",
@@ -5877,7 +5904,7 @@
         "en_example": "This shirt is loose for you"
     },
     {
-        "id": 654,
+        "id": 657,
         "glk_word": "فاکشيم",
         "glk_example": "بيأ أ ميزأ فأکشيم ببريم اۊرأ",
         "fa_word": "بکشیم",
@@ -5886,7 +5913,7 @@
         "en_example": "Let's pull this table over there"
     },
     {
-        "id": 655,
+        "id": 658,
         "glk_word": "فترات",
         "glk_example": "أشان دئه فترات کاشتن دريد",
         "fa_word": "بیداد",
@@ -5895,7 +5922,7 @@
         "en_example": "They are doing injustice"
     },
     {
-        "id": 656,
+        "id": 659,
         "glk_word": "فته کۊدن",
         "glk_example": "دئه أمرأ فته کۊدن دره",
         "fa_word": "به تنگ آوردن",
@@ -5904,7 +5931,7 @@
         "en_example": "He/She is annoying us"
     },
     {
-        "id": 657,
+        "id": 660,
         "glk_word": "فجه",
         "glk_example": "أيأ چي فجه؟",
         "fa_word": "ریخته",
@@ -5913,7 +5940,7 @@
         "en_example": "What's spilled here?"
     },
     {
-        "id": 658,
+        "id": 661,
         "glk_word": "فرخ",
         "glk_example": "أن اۊن ٚ مرأ فرخ کۊنه",
         "fa_word": "تفاوت",
@@ -5922,7 +5949,7 @@
         "en_example": "This is different from that"
     },
     {
-        "id": 659,
+        "id": 662,
         "glk_word": "فسفاله",
         "glk_example": "چائي فسفالهˈ فيشان",
         "fa_word": "تفاله",
@@ -5931,7 +5958,7 @@
         "en_example": "Throw away the tea residue"
     },
     {
-        "id": 660,
+        "id": 663,
         "glk_word": "فسک",
         "glk_example": "مي فسکأ بۊرۊز ندي",
         "fa_word": "راز",
@@ -5940,7 +5967,7 @@
         "en_example": "Don't reveal my secret"
     },
     {
-        "id": 661,
+        "id": 664,
         "glk_word": "ففه",
         "glk_example": "ففه خۊري؟",
         "fa_word": "جگر سفید",
@@ -5949,7 +5976,7 @@
         "en_example": "Would you eat white liver?"
     },
     {
-        "id": 662,
+        "id": 665,
         "glk_word": "فلنگي",
         "glk_example": "چي ره فلنگي؟",
         "fa_word": "می‌لنگی",
@@ -5958,7 +5985,7 @@
         "en_example": "Why are you limping?"
     },
     {
-        "id": 663,
+        "id": 666,
         "glk_word": "فلگان",
         "glk_example": "سٚفره  ٰ فلگان",
         "fa_word": "بتکان",
@@ -5967,7 +5994,7 @@
         "en_example": "Shake the tablecloth"
     },
     {
-        "id": 664,
+        "id": 667,
         "glk_word": "فيت",
         "glk_example": "أمرأ فيت دأن دره",
         "fa_word": "تحریک",
@@ -5976,7 +6003,7 @@
         "en_example": "He/She is provoking us"
     },
     {
-        "id": 665,
+        "id": 668,
         "glk_word": "فيريني",
         "glk_example": "فيريني خۊري؟",
         "fa_word": "فرنی",
@@ -5985,16 +6012,16 @@
         "en_example": "Would you eat porridge?"
     },
     {
-        "id": 666,
-        "glk_word": "فيشادن",
-        "glk_example": "أشان فيشادني-ئيد",
-        "fa_word": "دور ریختن",
-        "fa_example": "این‌ها دور ریختنى هستند",
-        "en_word": "Throwing Away",
-        "en_example": "These are thrown away"
+        "id": 669,
+        "glk_word": "فيشان",
+        "glk_example": "مۊس بۊکۊده نانأ فيشان",
+        "fa_word": "دور بریز",
+        "fa_example": "نان کپک زده را دور بریز",
+        "en_word": "Throw Away",
+        "en_example": "Throw away the moldy bread"
     },
     {
-        "id": 667,
+        "id": 670,
         "glk_word": "فيللي",
         "glk_example": "فيللي تاودن خيابان ٚ دۊرۊن خؤرم کار ني-يه",
         "fa_word": "آب دهان",
@@ -6003,7 +6030,7 @@
         "en_example": "Spitting in the street is not a good thing"
     },
     {
-        "id": 668,
+        "id": 671,
         "glk_word": "فيللي",
         "glk_example": "فيللي تاودأ",
         "fa_word": "آب دهان",
@@ -6012,7 +6039,7 @@
         "en_example": "He/She spat"
     },
     {
-        "id": 669,
+        "id": 672,
         "glk_word": "فينگي",
         "glk_example": "چي ره فينگي-يان ٚ مأنستن گب زني؟",
         "fa_word": "تو دماغى",
@@ -6021,7 +6048,7 @@
         "en_example": "Why are you snuffling?"
     },
     {
-        "id": 670,
+        "id": 673,
         "glk_word": "فيچال",
         "glk_example": "فيچال أن ٚ آبأ بيگير",
         "fa_word": "بچلان",
@@ -6030,7 +6057,7 @@
         "en_example": "Wring it and take its water"
     },
     {
-        "id": 671,
+        "id": 674,
         "glk_word": "فچم",
         "glk_example": "أمأن بجار ٚ مئن فچم کار کۊنيم",
         "fa_word": "خمیده",
@@ -6039,7 +6066,7 @@
         "en_example": "We bend over to work in the rice field"
     },
     {
-        "id": 672,
+        "id": 675,
         "glk_word": "فک",
         "glk_example": "فک بأورده",
         "fa_word": "بدبیارى",
@@ -6048,7 +6075,7 @@
         "en_example": "He/She is misfortunate"
     },
     {
-        "id": 673,
+        "id": 676,
         "glk_word": "فگيفتم",
         "glk_example": "ايمرۊ حۊقۊق فگيفتم",
         "fa_word": "گرفتم",
@@ -6057,7 +6084,7 @@
         "en_example": "I got salary today"
     },
     {
-        "id": 674,
+        "id": 677,
         "glk_word": "فۊ",
         "glk_example": "فۊ بزن سردأ به بزين بۊخۊر",
         "fa_word": "فوت",
@@ -6066,7 +6093,7 @@
         "en_example": "Blow it until it's cool and then eat"
     },
     {
-        "id": 675,
+        "id": 678,
         "glk_word": "فۊبرده",
         "glk_example": "تا کيکأ بأورديم فۊبرده",
         "fa_word": "بلعید",
@@ -6075,7 +6102,7 @@
         "en_example": "He/She swallowed the cake as soon as we bring it"
     },
     {
-        "id": 676,
+        "id": 679,
         "glk_word": "فۊتۊرکسته",
         "glk_example": "شال أمي کرکانأ فۊتۊرکسته",
         "fa_word": "حمله کرد",
@@ -6084,7 +6111,7 @@
         "en_example": "Jackal attacked our chickens"
     },
     {
-        "id": 677,
+        "id": 680,
         "glk_word": "فۊداشتن",
         "glk_example": "کي بۊ فۊداشته؟",
         "fa_word": "شلیک کردن",
@@ -6093,7 +6120,7 @@
         "en_example": "Who was the one shooting?"
     },
     {
-        "id": 678,
+        "id": 681,
         "glk_word": "فۊرانه",
         "glk_example": "أن ٚ کاران همهˈ فۊرانه",
         "fa_word": "دور می‌کند",
@@ -6102,7 +6129,7 @@
         "en_example": "His/Her behavior keeps everyone away"
     },
     {
-        "id": 679,
+        "id": 682,
         "glk_word": "فۊندؤق",
         "glk_example": "چنتا فۊندؤق دأري؟",
         "fa_word": "فندق",
@@ -6111,7 +6138,7 @@
         "en_example": "How many hazelnuts do you have?"
     },
     {
-        "id": 680,
+        "id": 683,
         "glk_word": "فۊچين",
         "glk_example": "تي چۊمانأ فۊچين بۊخۊس",
         "fa_word": "چشم‌ها را ببند",
@@ -6120,7 +6147,7 @@
         "en_example": "Close your eyes and sleep"
     },
     {
-        "id": 681,
+        "id": 684,
         "glk_word": "فۊکۊده",
         "glk_example": "شيرأ فۊکۊده فرش ٚ سر",
         "fa_word": "ریخت",
@@ -6129,7 +6156,7 @@
         "en_example": "He/She spilled the milk on the carpet"
     },
     {
-        "id": 682,
+        "id": 685,
         "glk_word": "فۊکۊن فيشان",
         "glk_example": "أيأ هميشک فۊکۊن فيشانه",
         "fa_word": "ریخت و پاش",
@@ -6138,7 +6165,7 @@
         "en_example": "It's always messy here"
     },
     {
-        "id": 683,
+        "id": 686,
         "glk_word": "فۊگۊردسته",
         "glk_example": "فۊگۊردسته خۊفته",
         "fa_word": "روى شکم خوابیدن",
@@ -6147,7 +6174,7 @@
         "en_example": "He/She is sleeping on the stomach"
     },
     {
-        "id": 684,
+        "id": 687,
         "glk_word": "فۊگۊردسته",
         "glk_example": "أمي خانه ديفار فۊگۊردسته",
         "fa_word": "واژگون شد",
@@ -6156,7 +6183,7 @@
         "en_example": "The wall of our house was knocked down"
     },
     {
-        "id": 685,
+        "id": 688,
         "glk_word": "قؤوت",
         "glk_example": "أن ٚ دسأ قؤوت دينه",
         "fa_word": "توان",
@@ -6165,7 +6192,7 @@
         "en_example": "His hand has no strength"
     },
     {
-        "id": 686,
+        "id": 689,
         "glk_word": "قاتؤق",
         "glk_example": "ايپچه قاتؤق دۊکۊن کاسه مئن",
         "fa_word": "خورش",
@@ -6174,7 +6201,7 @@
         "en_example": "Serve some stew in the bowl"
     },
     {
-        "id": 687,
+        "id": 690,
         "glk_word": "قار",
         "glk_example": "مي مرأ قاره",
         "fa_word": "قهر",
@@ -6183,7 +6210,7 @@
         "en_example": "He/She is angry with me"
     },
     {
-        "id": 688,
+        "id": 691,
         "glk_word": "قاق",
         "glk_example": "خبرأ کي بيشتاوستيم قاقأ بؤستيم",
         "fa_word": "حیران",
@@ -6192,7 +6219,7 @@
         "en_example": "I was wandering when I heard the news"
     },
     {
-        "id": 689,
+        "id": 692,
         "glk_word": "قاينا",
         "glk_example": "بيلاخره بتأنستم اۊنأ قاينا بۊکۊنم",
         "fa_word": "متقاعد",
@@ -6201,7 +6228,7 @@
         "en_example": "I could finally convinced him/her"
     },
     {
-        "id": 690,
+        "id": 693,
         "glk_word": "قيش",
         "glk_example": "مي قيشأ بيدئي؟",
         "fa_word": "کمربند",
@@ -6210,7 +6237,7 @@
         "en_example": "Have you not seen my belt?"
     },
     {
-        "id": 691,
+        "id": 694,
         "glk_word": "قٚزٚنج",
         "glk_example": "ايپچه پۊل قٚزٚنج بۊکۊدم",
         "fa_word": "پس انداز",
@@ -6219,7 +6246,7 @@
         "en_example": "I saved some money"
     },
     {
-        "id": 692,
+        "id": 695,
         "glk_word": "قۊشمه مۊ",
         "glk_example": "بۊشۊ تي قۊشمه مۊيأ چأکۊن",
         "fa_word": "آشفته مو",
@@ -6228,7 +6255,7 @@
         "en_example": "Go fix your disheveled hair"
     },
     {
-        "id": 693,
+        "id": 696,
         "glk_word": "کأشکأرأت",
         "glk_example": "ايتأ کأشکأرأت دار ٚ جؤر نیشته",
         "fa_word": "زاغ",
@@ -6237,7 +6264,7 @@
         "en_example": "A magpie is sitting on the tree"
     },
     {
-        "id": 694,
+        "id": 697,
         "glk_word": "کؤتر",
         "glk_example": "کؤترانأ سرأدن",
         "fa_word": "کبوتر",
@@ -6246,7 +6273,7 @@
         "en_example": "Release the pigeons"
     },
     {
-        "id": 695,
+        "id": 698,
         "glk_word": "کؤر",
         "glk_example": "اۊ کؤرأ فأندر",
         "fa_word": "دختر",
@@ -6255,7 +6282,7 @@
         "en_example": "Look at that girl"
     },
     {
-        "id": 696,
+        "id": 699,
         "glk_word": "کؤرأ",
         "glk_example": "کؤرأ بيشيم؟",
         "fa_word": "کدام طرف",
@@ -6264,7 +6291,7 @@
         "en_example": "Which direction do we go?"
     },
     {
-        "id": 697,
+        "id": 700,
         "glk_word": "کؤل",
         "glk_example": "بنأ خۊ کؤل ٚ سر",
         "fa_word": "شانه",
@@ -6273,7 +6300,7 @@
         "en_example": "He/She put it on his/her shoulder"
     },
     {
-        "id": 698,
+        "id": 701,
         "glk_word": "کؤل",
         "glk_example": "أ چاقۊ کؤله",
         "fa_word": "کند",
@@ -6282,7 +6309,7 @@
         "en_example": "This knife is dull"
     },
     {
-        "id": 699,
+        "id": 702,
         "glk_word": "کؤيأ",
         "glk_example": "مي شارژر کؤيأ نهأ؟",
         "fa_word": "کجا",
@@ -6291,7 +6318,7 @@
         "en_example": "Where is my charger?"
     },
     {
-        "id": 700,
+        "id": 703,
         "glk_word": "کؤيتأ",
         "glk_example": "کؤيتأ دسکش تي شين ايسه؟",
         "fa_word": "کدام یک",
@@ -6300,7 +6327,7 @@
         "en_example": "Which one is your glove?"
     },
     {
-        "id": 701,
+        "id": 704,
         "glk_word": "کؤيدانه",
         "glk_example": "کؤيدانه-يأ گي؟",
         "fa_word": "کدام یک",
@@ -6309,7 +6336,7 @@
         "en_example": "Which one do you say?"
     },
     {
-        "id": 702,
+        "id": 705,
         "glk_word": "کئخۊدامردي",
         "glk_example": "تي کئخۊدامردي ته ره بدر خۊره",
         "fa_word": "داورى",
@@ -6318,7 +6345,7 @@
         "en_example": "Your judgement have only use for yourself"
     },
     {
-        "id": 703,
+        "id": 706,
         "glk_word": "کئن کئن",
         "glk_example": "کئن کئن دأشتي أکه أئي",
         "fa_word": "این پا آن پا کردن",
@@ -6327,7 +6354,7 @@
         "en_example": "He/She was lingering to see when will you come"
     },
     {
-        "id": 704,
+        "id": 707,
         "glk_word": "کئواني",
         "glk_example": "مي پيله مآر ايتأ کئواني-يه",
         "fa_word": "کدبانو",
@@ -6336,7 +6363,7 @@
         "en_example": "My grandmother is a dame"
     },
     {
-        "id": 705,
+        "id": 708,
         "glk_word": "کاباسي",
         "glk_example": "کاباسي بأورديم",
         "fa_word": "نحسی",
@@ -6345,7 +6372,7 @@
         "en_example": "We've been cursed"
     },
     {
-        "id": 706,
+        "id": 709,
         "glk_word": "کاس",
         "glk_example": "تي کاس ٚ چۊمأ خۊش دأرم",
         "fa_word": "آبی",
@@ -6354,16 +6381,7 @@
         "en_example": "I love your blue eyes"
     },
     {
-        "id": 707,
-        "glk_word": "کاسه",
-        "glk_example": "ايتأ کاسه ماست مه ره دۊکۊن",
-        "fa_word": "بشقاب",
-        "fa_example": "یک کاسه ماست براى من بریز",
-        "en_word": "Bowl",
-        "en_example": "Serve me a bowl of yogurt"
-    },
-    {
-        "id": 708,
+        "id": 710,
         "glk_word": "کال",
         "glk_example": "أ به کاله",
         "fa_word": "نارس",
@@ -6372,7 +6390,7 @@
         "en_example": "This quince is unripe"
     },
     {
-        "id": 709,
+        "id": 711,
         "glk_word": "کاکا",
         "glk_example": "ايپچه کاکا چأکۊن بۊخۊريم",
         "fa_word": "پنکیک",
@@ -6381,7 +6399,7 @@
         "en_example": "Make some pancakes to eat"
     },
     {
-        "id": 710,
+        "id": 712,
         "glk_word": "کخ",
         "glk_example": "أ شامپؤ کخ نۊکۊنه",
         "fa_word": "کف",
@@ -6390,7 +6408,7 @@
         "en_example": "This shampoo doesn't foam"
     },
     {
-        "id": 711,
+        "id": 713,
         "glk_word": "کرأ",
         "glk_example": "کرأ شم",
         "fa_word": "همین الان",
@@ -6399,7 +6417,7 @@
         "en_example": "I'm going right now"
     },
     {
-        "id": 712,
+        "id": 714,
         "glk_word": "کرد ٚکار",
         "glk_example": "تي کرد ٚ کارأ چأکۊن",
         "fa_word": "رفتار",
@@ -6408,7 +6426,7 @@
         "en_example": "Correct your behavior"
     },
     {
-        "id": 713,
+        "id": 715,
         "glk_word": "کرچ",
         "glk_example": "پۊر کرچه",
         "fa_word": "ترد",
@@ -6417,7 +6435,7 @@
         "en_example": "It's very crispy"
     },
     {
-        "id": 714,
+        "id": 716,
         "glk_word": "کرک",
         "glk_example": "کرکان کتکتاس کۊنيدي",
         "fa_word": "مرغ",
@@ -6426,7 +6444,7 @@
         "en_example": "Hens go cluck cluck"
     },
     {
-        "id": 715,
+        "id": 717,
         "glk_word": "کش",
         "glk_example": "اۊن کيسه اۊ کش نيشته؟",
         "fa_word": "گوشه",
@@ -6435,7 +6453,7 @@
         "en_example": "Who is that sitting in the corner?"
     },
     {
-        "id": 716,
+        "id": 718,
         "glk_word": "کشه",
         "glk_example": "بيأ مي کشه",
         "fa_word": "آغوش",
@@ -6444,7 +6462,7 @@
         "en_example": "Come to my embrace"
     },
     {
-        "id": 717,
+        "id": 719,
         "glk_word": "کشک",
         "glk_example": "دۊمرتبه کشکأ بؤستي؟",
         "fa_word": "لوس",
@@ -6453,7 +6471,7 @@
         "en_example": "Are you being spoiled again?"
     },
     {
-        "id": 718,
+        "id": 720,
         "glk_word": "کفته",
         "glk_example": "تي ميداد زيمين ٚ سر کفته",
         "fa_word": "افتاده است",
@@ -6462,7 +6480,7 @@
         "en_example": "Your pencil has fallen on the ground"
     },
     {
-        "id": 719,
+        "id": 721,
         "glk_word": "کل",
         "glk_example": "أ مردأی کله",
         "fa_word": "کچل",
@@ -6471,7 +6489,7 @@
         "en_example": "This man is bald"
     },
     {
-        "id": 720,
+        "id": 722,
         "glk_word": "کلانه",
         "glk_example": "بۊشۊ اۊ کلانه ٰ بأور",
         "fa_word": "منقل",
@@ -6480,7 +6498,7 @@
         "en_example": "Go bring that brazier"
     },
     {
-        "id": 721,
+        "id": 723,
         "glk_word": "کلاچ",
         "glk_example": "کلاچ پینیرأ اۊساد",
         "fa_word": "کلاغ",
@@ -6489,7 +6507,7 @@
         "en_example": "The crow took the cheese"
     },
     {
-        "id": 722,
+        "id": 724,
         "glk_word": "کلاچ ملاچي",
         "glk_example": "أميرحۊسئن ايتأ کلاچ ملاچي پرهن دۊکۊده بۊ",
         "fa_word": "سیاه و سفید",
@@ -6498,7 +6516,7 @@
         "en_example": "Amir Hossein was wearing a black and white shirt"
     },
     {
-        "id": 723,
+        "id": 725,
         "glk_word": "کلماجين",
         "glk_example": "أ سئب کلماجينه",
         "fa_word": "کرم‌خورده",
@@ -6507,7 +6525,7 @@
         "en_example": "This apple is wormy"
     },
     {
-        "id": 724,
+        "id": 726,
         "glk_word": "کله",
         "glk_example": "بۊشۊ کله ٰ وأگيران",
         "fa_word": "اجاق",
@@ -6516,7 +6534,7 @@
         "en_example": "Go turn the stove on"
     },
     {
-        "id": 725,
+        "id": 727,
         "glk_word": "کي",
         "glk_example": "کي تأنه مي مرأ بأيه؟",
         "fa_word": "چه کسى",
@@ -6525,7 +6543,7 @@
         "en_example": "Who can come with me?"
     },
     {
-        "id": 726,
+        "id": 728,
         "glk_word": "کي",
         "glk_example": "أتؤ نيه کي...",
         "fa_word": "که",
@@ -6534,7 +6552,7 @@
         "en_example": "It's not like that..."
     },
     {
-        "id": 727,
+        "id": 729,
         "glk_word": "کيتاب",
         "glk_example": "أ کيتاب مي شينه",
         "fa_word": "کتاب",
@@ -6543,7 +6561,7 @@
         "en_example": "This book is mine"
     },
     {
-        "id": 728,
+        "id": 730,
         "glk_word": "کيس",
         "glk_example": "مي رختان کيس بۊخۊرده",
         "fa_word": "چروک لباس",
@@ -6552,7 +6570,7 @@
         "en_example": "My clothes are wrinkled"
     },
     {
-        "id": 729,
+        "id": 731,
         "glk_word": "کيشؤ",
         "glk_example": "میداد کيشؤ دۊرۊن ننأبۊ",
         "fa_word": "کشو",
@@ -6561,7 +6579,7 @@
         "en_example": "The pencil wasn't in the drawer"
     },
     {
-        "id": 730,
+        "id": 732,
         "glk_word": "کيشکا",
         "glk_example": "کيشکائان مۊرغانه جأ بيرۊن أیيد",
         "fa_word": "جوجه",
@@ -6570,7 +6588,7 @@
         "en_example": "Chickens come out of eggs"
     },
     {
-        "id": 731,
+        "id": 733,
         "glk_word": "کٚتٚل",
         "glk_example": "بۊشۊ ايتأ کٚتٚل مه ره بأور بينيشينم",
         "fa_word": "چهارپایه کوچک",
@@ -6579,7 +6597,7 @@
         "en_example": "Go bring me a small stool to sit on"
     },
     {
-        "id": 732,
+        "id": 734,
         "glk_word": "کٚوار",
         "glk_example": "أمأن کٚوار ٚ أمرأ غذا چأکۊنیم",
         "fa_word": "تره",
@@ -6588,7 +6606,7 @@
         "en_example": "We make food with chives"
     },
     {
-        "id": 733,
+        "id": 735,
         "glk_word": "کٚکٚج",
         "glk_example": "سبزي-يان ٚ دۊرۊن کٚکٚج مرأ ويشتر خۊش أيه",
         "fa_word": "شاهی",
@@ -6597,7 +6615,7 @@
         "en_example": "I love garden cress the most among the vegetables"
     },
     {
-        "id": 734,
+        "id": 736,
         "glk_word": "کۊ",
         "glk_example": "بیأ بيشيم کۊ",
         "fa_word": "کوه",
@@ -6606,7 +6624,7 @@
         "en_example": "Let's go to the mountain"
     },
     {
-        "id": 735,
+        "id": 737,
         "glk_word": "کۊجدانه",
         "glk_example": "مي کۊجدانه برارأ بيدئي؟",
         "fa_word": "کوچک",
@@ -6615,7 +6633,7 @@
         "en_example": "Have you seen my little brother?"
     },
     {
-        "id": 736,
+        "id": 738,
         "glk_word": "کۊدن",
         "glk_example": "چي کۊدن دري؟",
         "fa_word": "انجام دادن",
@@ -6624,7 +6642,7 @@
         "en_example": "What are you doing?"
     },
     {
-        "id": 737,
+        "id": 739,
         "glk_word": "کۊر ٚ قۊقۊ",
         "glk_example": "کۊر ٚ قۊقۊيأ فأندر",
         "fa_word": "جغد",
@@ -6633,7 +6651,7 @@
         "en_example": "Look at the owl"
     },
     {
-        "id": 738,
+        "id": 740,
         "glk_word": "کۊرش",
         "glk_example": "مي غذا کۊرشأ بؤ",
         "fa_word": "جزغاله",
@@ -6642,7 +6660,7 @@
         "en_example": "My food got burnt"
     },
     {
-        "id": 739,
+        "id": 741,
         "glk_word": "کۊشتن",
         "glk_example": "پۊتارانأ کۊشتن نوأئيد",
         "fa_word": "کشتن",
@@ -6651,7 +6669,7 @@
         "en_example": "Do not kill the ants"
     },
     {
-        "id": 740,
+        "id": 742,
         "glk_word": "کۊلک",
         "glk_example": "کاموا کۊلکأ بؤسته",
         "fa_word": "درهم",
@@ -6660,7 +6678,7 @@
         "en_example": "The yarn has been tangled"
     },
     {
-        "id": 741,
+        "id": 743,
         "glk_word": "کۊمۊش",
         "glk_example": "کۊمۊشأ فأندر",
         "fa_word": "لاک‌پشت",
@@ -6669,7 +6687,7 @@
         "en_example": "Look at the turtle"
     },
     {
-        "id": 742,
+        "id": 744,
         "glk_word": "کۊناکۊنا",
         "glk_example": "کۊچه دوسته بۊ کۊناکۊنا وأگردستيم",
         "fa_word": "عقب‌عقب",
@@ -6678,7 +6696,7 @@
         "en_example": "The alley was closed we had to go backwards"
     },
     {
-        "id": 743,
+        "id": 745,
         "glk_word": "کۊنه",
         "glk_example": "أ دارأ کۊنه سخته",
         "fa_word": "ریشه",
@@ -6687,7 +6705,7 @@
         "en_example": "The root of this tree is strong"
     },
     {
-        "id": 744,
+        "id": 746,
         "glk_word": "کۊنه مۊنه",
         "glk_example": "کۊنه مۊنه کۊدن نوأ",
         "fa_word": "تردید",
@@ -6696,7 +6714,7 @@
         "en_example": "Do not doubt"
     },
     {
-        "id": 745,
+        "id": 747,
         "glk_word": "کۊنۊس",
         "glk_example": "کۊنۊس خأیي؟",
         "fa_word": "ازگیل",
@@ -6705,7 +6723,7 @@
         "en_example": "Do you want common medlar?"
     },
     {
-        "id": 746,
+        "id": 748,
         "glk_word": "کۊکلا",
         "glk_example": "کۊکلا ديچئن دره",
         "fa_word": "توطئه",
@@ -6714,7 +6732,7 @@
         "en_example": "He/She is conspiring"
     },
     {
-        "id": 747,
+        "id": 749,
         "glk_word": "گؤرخانه",
         "glk_example": "ايمرۊ گؤرخانه وارش بۊ",
         "fa_word": "رعد",
@@ -6723,7 +6741,7 @@
         "en_example": "Today was raining with thunder"
     },
     {
-        "id": 748,
+        "id": 750,
         "glk_word": "گؤزکا",
         "glk_example": "گؤزکايأ بيده-ئي؟",
         "fa_word": "قۊرباغه",
@@ -6732,7 +6750,7 @@
         "en_example": "Did you see the frog?"
     },
     {
-        "id": 749,
+        "id": 751,
         "glk_word": "گئسه",
         "glk_example": "خۊ مۊئانأ گئسه کۊنه",
         "fa_word": "بافتن مو",
@@ -6741,7 +6759,7 @@
         "en_example": "He/She braids his/her hair"
     },
     {
-        "id": 750,
+        "id": 752,
         "glk_word": "گاب",
         "glk_example": "رجب خۊ گابأ فۊرؤختن دره",
         "fa_word": "گاو",
@@ -6750,7 +6768,7 @@
         "en_example": "Rajab is selling his cow"
     },
     {
-        "id": 751,
+        "id": 753,
         "glk_word": "گاره",
         "glk_example": "جغله ٰ ببر گاره دۊرۊن بۊخۊسان",
         "fa_word": "گهواره",
@@ -6759,7 +6777,7 @@
         "en_example": "Put the baby in the cradle to sleep"
     },
     {
-        "id": 752,
+        "id": 754,
         "glk_word": "گاز",
         "glk_example": "مي گاز مرأ در کۊنه",
         "fa_word": "دندان",
@@ -6768,7 +6786,7 @@
         "en_example": "My tooth hurts"
     },
     {
-        "id": 753,
+        "id": 755,
         "glk_word": "گاز ايشکره",
         "glk_example": "ديشب خۊفته-بي گاز ايشکره کۊدي",
         "fa_word": "ساییدن دندان‌ها به هم",
@@ -6777,7 +6795,7 @@
         "en_example": "You were grating your teeth together when you were sleeping last night"
     },
     {
-        "id": 754,
+        "id": 756,
         "glk_word": "گاچ",
         "glk_example": "تي پا گاچه مگه؟",
         "fa_word": "پاى ناراست",
@@ -6786,7 +6804,7 @@
         "en_example": "Are you bow legged?"
     },
     {
-        "id": 755,
+        "id": 757,
         "glk_word": "گاگٚلٚف",
         "glk_example": "گاگٚلٚف أرأ دٚوار کۊنم",
         "fa_word": "بعضی اوقات",
@@ -6795,7 +6813,7 @@
         "en_example": "Sometimes I pass through this way"
     },
     {
-        "id": 756,
+        "id": 758,
         "glk_word": "گب",
         "glk_example": "أ گب کي گؤفتن درم اۊرارسالان ٚ شينه",
         "fa_word": "سخن",
@@ -6804,7 +6822,7 @@
         "en_example": "These words I'm telling you are from years ago"
     },
     {
-        "id": 757,
+        "id": 759,
         "glk_word": "گب",
         "glk_example": "مي أمرأ گب بزن",
         "fa_word": "سخن",
@@ -6813,7 +6831,7 @@
         "en_example": "Speak to me"
     },
     {
-        "id": 758,
+        "id": 760,
         "glk_word": "گب جکشه",
         "glk_example": "بۊزۊر خأستي مي جا گب جکشه",
         "fa_word": "حرف بکشد",
@@ -6822,7 +6840,7 @@
         "en_example": "He/She wanted to make me talk forcefully"
     },
     {
-        "id": 759,
+        "id": 761,
         "glk_word": "گب خبربر",
         "glk_example": "گب خبربر ٚ أمرأ گب زئن نوأ",
         "fa_word": "خبرچین",
@@ -6831,7 +6849,7 @@
         "en_example": "Don't talk to the gossiper"
     },
     {
-        "id": 760,
+        "id": 762,
         "glk_word": "گب گب ٚ سر",
         "glk_example": "گب گب ٚ سر بأورده",
         "fa_word": "حرف تو حرف",
@@ -6840,7 +6858,7 @@
         "en_example": "He/She interrupted the subject with another subject"
     },
     {
-        "id": 761,
+        "id": 763,
         "glk_word": "گرا دن",
         "glk_example": "گرا دن بأيه",
         "fa_word": "سُر بده",
@@ -6849,7 +6867,7 @@
         "en_example": "Slip it to me"
     },
     {
-        "id": 762,
+        "id": 764,
         "glk_word": "گراپئت",
         "glk_example": "گراپئتأ بيدين",
         "fa_word": "کج و کوله",
@@ -6858,7 +6876,7 @@
         "en_example": "Look at that disfigured"
     },
     {
-        "id": 763,
+        "id": 765,
         "glk_word": "گرد ٚکله",
         "glk_example": "أمي گرد ٚ کلهˈ لاف دکفته",
         "fa_word": "دورهمی",
@@ -6867,7 +6885,7 @@
         "en_example": "Our gathering got canceled"
     },
     {
-        "id": 764,
+        "id": 766,
         "glk_word": "گردستن",
         "glk_example": "هرأ گردستن ديبيم",
         "fa_word": "قدم زدن",
@@ -6876,7 +6894,7 @@
         "en_example": "We were walking around here"
     },
     {
-        "id": 765,
+        "id": 767,
         "glk_word": "گردن پسه",
         "glk_example": "مي گردن پسه-يأ جۊش بزه",
         "fa_word": "پشت گردن",
@@ -6885,7 +6903,7 @@
         "en_example": "There's pimple on my nape"
     },
     {
-        "id": 766,
+        "id": 768,
         "glk_word": "گرديم",
         "glk_example": "هرأ گرديم",
         "fa_word": "قدم می‌زنیم",
@@ -6894,7 +6912,7 @@
         "en_example": "We are walking around here"
     },
     {
-        "id": 767,
+        "id": 769,
         "glk_word": "گرزه",
         "glk_example": "گرزه خۊراک آغۊزه",
         "fa_word": "موش",
@@ -6903,7 +6921,7 @@
         "en_example": "The food of the mouse is walnuts"
     },
     {
-        "id": 768,
+        "id": 770,
         "glk_word": "گرزک",
         "glk_example": "گرزک مرأ بگشته",
         "fa_word": "زنبور",
@@ -6912,7 +6930,7 @@
         "en_example": "The bee stung me"
     },
     {
-        "id": 769,
+        "id": 771,
         "glk_word": "گرمش",
         "glk_example": "گرمش أمؤن دره",
         "fa_word": "باد گرم",
@@ -6921,7 +6939,7 @@
         "en_example": "Warm wind is blowing"
     },
     {
-        "id": 770,
+        "id": 772,
         "glk_word": "گرگر",
         "glk_example": "زاکان ٚ گرگر ونأشته بۊخۊسم",
         "fa_word": "سر و صدا",
@@ -6930,7 +6948,7 @@
         "en_example": "the noise from the kids didn't let me sleep"
     },
     {
-        "id": 771,
+        "id": 773,
         "glk_word": "گلاس",
         "glk_example": "درجکأ گلاس بۊم",
         "fa_word": "خیره",
@@ -6939,7 +6957,16 @@
         "en_example": "I was staring to the window"
     },
     {
-        "id": 772,
+        "id": 774,
+        "glk_word": "گمج",
+        "glk_example": "گمج ٚ مئن آغۊز قاتؤق چأکۊن",
+        "fa_word": "گمج",
+        "fa_example": "در گمج فسنجان درست کن",
+        "en_word": "Gamaj",
+        "en_example": "Make the fesenjan in the gamaj"
+    },
+    {
+        "id": 775,
         "glk_word": "گه",
         "glk_example": "خؤره گه",
         "fa_word": "می‌گوید",
@@ -6948,7 +6975,7 @@
         "en_example": "He/She says that from himself/herself"
     },
     {
-        "id": 773,
+        "id": 776,
         "glk_word": "گيج گيجي",
         "glk_example": "مرأ گيج گيجي دأن نوأ",
         "fa_word": "قلقلک",
@@ -6957,7 +6984,7 @@
         "en_example": "Don't tickle me"
     },
     {
-        "id": 774,
+        "id": 777,
         "glk_word": "گيرينجي",
         "glk_example": "گيرينجي مۊ مرأ خۊش أيه",
         "fa_word": "موى فر",
@@ -6966,7 +6993,7 @@
         "en_example": "I like curly hair"
     },
     {
-        "id": 775,
+        "id": 778,
         "glk_word": "گٚزٚر",
         "glk_example": "گزر ٚ آب چۊم ٚ ره خؤبه",
         "fa_word": "هویج",
@@ -6975,16 +7002,16 @@
         "en_example": "Carrot juice is good for the eyes"
     },
     {
-        "id": 776,
+        "id": 779,
         "glk_word": "گٚل",
-        "glk_example": "ميرزاکۊچي خان ايتأ پيله گٚل بۊ",
+        "glk_example": "ميرزا کۊچي خان ايتأ پيله گٚل بۊ",
         "fa_word": "شخصیت",
-        "fa_example": "میرزاکوچک خان یک شخصیت بزرگ بود",
+        "fa_example": "میرزا کوچک خان یک شخصیت بزرگ بود",
         "en_word": "Person",
-        "en_example": "Mirza kuchak Khan was a great person"
+        "en_example": "Mirza Kuchak Khan was a great person"
     },
     {
-        "id": 777,
+        "id": 780,
         "glk_word": "گٚلٚف",
         "glk_example": "گٚلٚف بينيشينيد",
         "fa_word": "با فاصله",
@@ -6993,7 +7020,7 @@
         "en_example": "Sit with distance"
     },
     {
-        "id": 778,
+        "id": 781,
         "glk_word": "گۊد",
         "glk_example": "مي مرد ٚ گۊدان ديرۊ بامؤبيد أمي خانه",
         "fa_word": "خانواده",
@@ -7002,7 +7029,7 @@
         "en_example": "Yesterday my husband's family came to our house"
     },
     {
-        "id": 779,
+        "id": 782,
         "glk_word": "گۊده",
         "glk_example": "خۊ رختانأ گۊده بۊکۊد",
         "fa_word": "قلمبه",
@@ -7011,7 +7038,7 @@
         "en_example": "He/She squeezed his/her clothes"
     },
     {
-        "id": 780,
+        "id": 783,
         "glk_word": "گۊزارش",
         "glk_example": "ايمشب وا مي گۊزارشأ تۊمانأ کۊنم",
         "fa_word": "گزارش",
@@ -7020,7 +7047,7 @@
         "en_example": "I have to finish my report tonight"
     },
     {
-        "id": 781,
+        "id": 784,
         "glk_word": "گۊش ٚ کۊن",
         "glk_example": "مي گۊش ٚ کۊن بۊگؤفته",
         "fa_word": "دم گوش",
@@ -7029,7 +7056,7 @@
         "en_example": "He/She whispered beside my ear"
     },
     {
-        "id": 782,
+        "id": 785,
         "glk_word": "گۊل",
         "glk_example": "أ گۊلأ ته ره بيهئم",
         "fa_word": "گل",
@@ -7038,7 +7065,7 @@
         "en_example": "I bought this flower for you"
     },
     {
-        "id": 783,
+        "id": 786,
         "glk_word": "گۊلاز",
         "glk_example": "أمي گۊلاز أن ٚ کي گيلکيم",
         "fa_word": "افتخار",
@@ -7047,7 +7074,7 @@
         "en_example": "This is our honor that we are Gilak"
     },
     {
-        "id": 784,
+        "id": 787,
         "glk_word": "گۊلدان",
         "glk_example": "مي گۊلدان بشکفته",
         "fa_word": "گلدان",
@@ -7056,7 +7083,7 @@
         "en_example": "My flower pot broke"
     },
     {
-        "id": 785,
+        "id": 788,
         "glk_word": "گۊلي",
         "glk_example": "مي گۊلي مرأ در کۊنه",
         "fa_word": "گلو",
@@ -7065,7 +7092,7 @@
         "en_example": "My throat hurts"
     },
     {
-        "id": 786,
+        "id": 789,
         "glk_word": "گۊمار",
         "glk_example": "گۊمار ٚ پۊشت جۊخۊفت",
         "fa_word": "بوته‌های خار",
@@ -7074,7 +7101,7 @@
         "en_example": "He/She hid behind the thorn bushes"
     },
     {
-        "id": 787,
+        "id": 790,
         "glk_word": "گۊمگۊمه",
         "glk_example": "مي گۊش ٚ کۊن گۊمگۊمه کۊدي",
         "fa_word": "پچ پچ",
@@ -7083,7 +7110,7 @@
         "en_example": "He/She whispered beside my ear"
     },
     {
-        "id": 788,
+        "id": 791,
         "glk_word": "لؤجنک",
         "glk_example": "بۊشۊ لؤجنکأ دود پيچأ نأيه بۊدۊرۊن",
         "fa_word": "دریچه پشت‌بام",
@@ -7092,7 +7119,7 @@
         "en_example": "Go and close the dormer so cat won't come inside"
     },
     {
-        "id": 789,
+        "id": 792,
         "glk_word": "لؤفٚت",
         "glk_example": "تي پا سر بئس هي کس ٚ لؤفٚتأ کشئن نوأ",
         "fa_word": "منت",
@@ -7101,7 +7128,7 @@
         "en_example": "Stand on your feet and don't stoop to a favor"
     },
     {
-        "id": 790,
+        "id": 793,
         "glk_word": "لا",
         "glk_example": "أ کاغذأ بنه تي دفتر ٚ لا",
         "fa_word": "بین دو چیز",
@@ -7110,7 +7137,7 @@
         "en_example": "Put this paper between your notebook"
     },
     {
-        "id": 791,
+        "id": 794,
         "glk_word": "لا",
         "glk_example": "هرچي زأمت بکشه-بيمأ لا بۊکۊد",
         "fa_word": "تباه",
@@ -7119,7 +7146,7 @@
         "en_example": "He/She ruined all of our hard work"
     },
     {
-        "id": 792,
+        "id": 795,
         "glk_word": "لابدان",
         "glk_example": "لابدانأ‌ بيگير",
         "fa_word": "عنکبوت",
@@ -7128,7 +7155,7 @@
         "en_example": "Catch the spider"
     },
     {
-        "id": 793,
+        "id": 796,
         "glk_word": "لار",
         "glk_example": "أ تۊرف لاره",
         "fa_word": "پوک",
@@ -7137,7 +7164,7 @@
         "en_example": "This radish is hollow inside"
     },
     {
-        "id": 794,
+        "id": 797,
         "glk_word": "لافند",
         "glk_example": "لافندأ کؤيأ بنأئي؟",
         "fa_word": "طناب",
@@ -7146,7 +7173,7 @@
         "en_example": "Where did you put the rope?"
     },
     {
-        "id": 795,
+        "id": 798,
         "glk_word": "لانتي",
         "glk_example": "أ لانتيأ بيدين",
         "fa_word": "مار",
@@ -7155,7 +7182,7 @@
         "en_example": "Look at this snake"
     },
     {
-        "id": 796,
+        "id": 799,
         "glk_word": "لانتۊز",
         "glk_example": "چي ره لانتۊز تأوده؟",
         "fa_word": "جفتک",
@@ -7164,7 +7191,7 @@
         "en_example": "Why is he/she kicking?"
     },
     {
-        "id": 797,
+        "id": 800,
         "glk_word": "لته",
         "glk_example": "اۊ لته ٰ مرأ فأدن ميزأ پأکۊنم",
         "fa_word": "دستمال",
@@ -7173,7 +7200,7 @@
         "en_example": "Give me the handkerchief to clean the table"
     },
     {
-        "id": 798,
+        "id": 801,
         "glk_word": "لس",
         "glk_example": "غذا خۊردن ٚ پسي آدم لسأ به",
         "fa_word": "شل و وارفته",
@@ -7182,7 +7209,7 @@
         "en_example": "One become flimsy after eating"
     },
     {
-        "id": 799,
+        "id": 802,
         "glk_word": "لپه",
         "glk_example": "لپه ٰ تأود",
         "fa_word": "توپ",
@@ -7191,7 +7218,7 @@
         "en_example": "Throw the ball"
     },
     {
-        "id": 800,
+        "id": 803,
         "glk_word": "لچه",
         "glk_example": "چیچینی دار ٚ لچه نیشته",
         "fa_word": "فراز",
@@ -7200,7 +7227,7 @@
         "en_example": "Sparrow is sitting on the top of the tree"
     },
     {
-        "id": 801,
+        "id": 804,
         "glk_word": "لۊاس",
         "glk_example": "لۊاس دامان ٚ مئن زيويسته",
         "fa_word": "روباه",
@@ -7209,7 +7236,7 @@
         "en_example": "The fox lives in the jungle"
     },
     {
-        "id": 802,
+        "id": 805,
         "glk_word": "لۊچ",
         "glk_example": "لۊچي مگه؟",
         "fa_word": "چپ چشم",
@@ -7218,7 +7245,7 @@
         "en_example": "Are you cross-eyed?"
     },
     {
-        "id": 803,
+        "id": 806,
         "glk_word": "لۊچان",
         "glk_example": "أمرأ لۊچان زنه",
         "fa_word": "پشت چشم نازک کردن",
@@ -7227,7 +7254,7 @@
         "en_example": "He/She rolling his/her eyes at us"
     },
     {
-        "id": 804,
+        "id": 807,
         "glk_word": "مأر",
         "glk_example": "مي مأر بۊشؤ کار ٚ سر",
         "fa_word": "مادر",
@@ -7236,7 +7263,7 @@
         "en_example": "My mother has gone to work"
     },
     {
-        "id": 805,
+        "id": 808,
         "glk_word": "مأر ٚ مرد",
         "glk_example": "بعضي-تأ زأکان مأر ٚ مرد دأريدي",
         "fa_word": "ناپدرى",
@@ -7245,7 +7272,7 @@
         "en_example": "Some kids have a stepfather"
     },
     {
-        "id": 806,
+        "id": 809,
         "glk_word": "مأنستن",
         "glk_example": "خۊ پئر ٚ مأنستن گب زنه",
         "fa_word": "مانند",
@@ -7254,7 +7281,7 @@
         "en_example": "He/She speaks like his father"
     },
     {
-        "id": 807,
+        "id": 810,
         "glk_word": "مئخ",
         "glk_example": "بچمسته مئخانأ فيشان",
         "fa_word": "میخ",
@@ -7263,7 +7290,7 @@
         "en_example": "Throw away crooked nails"
     },
     {
-        "id": 808,
+        "id": 811,
         "glk_word": "مئوه",
         "glk_example": "مئوه ٰنأ بۊشؤستي؟",
         "fa_word": "میوه",
@@ -7272,7 +7299,7 @@
         "en_example": "Did you wash the fruits?"
     },
     {
-        "id": 809,
+        "id": 812,
         "glk_word": "ما",
         "glk_example": "ايتأ ما بدن",
         "fa_word": "بوسه",
@@ -7281,7 +7308,7 @@
         "en_example": "Give me a kiss"
     },
     {
-        "id": 810,
+        "id": 813,
         "glk_word": "ما",
         "glk_example": "أ ما وا بشم مۊسافرت",
         "fa_word": "ماه",
@@ -7290,7 +7317,7 @@
         "en_example": "I should go on a trip this month"
     },
     {
-        "id": 811,
+        "id": 814,
         "glk_word": "مائي",
         "glk_example": "أکبر دۊتا سيفيد مائي بيهه-بۊ",
         "fa_word": "ماهی",
@@ -7299,7 +7326,7 @@
         "en_example": "Akbar had bought two Caspian white fish"
     },
     {
-        "id": 812,
+        "id": 815,
         "glk_word": "مات",
         "glk_example": "چي ره ماتأ زئي؟",
         "fa_word": "حیران",
@@ -7308,7 +7335,7 @@
         "en_example": "Why are you astonished?"
     },
     {
-        "id": 813,
+        "id": 816,
         "glk_word": "ماتؤر",
         "glk_example": "مي ماتؤر رؤشنأ نيبه",
         "fa_word": "موتور",
@@ -7317,7 +7344,7 @@
         "en_example": "My motorcycle doesn't start"
     },
     {
-        "id": 814,
+        "id": 817,
         "glk_word": "ماده",
         "glk_example": "مي ماده مرأ در کۊنه",
         "fa_word": "معده",
@@ -7326,7 +7353,7 @@
         "en_example": "My stomach hurts"
     },
     {
-        "id": 815,
+        "id": 818,
         "glk_word": "ماز",
         "glk_example": "اۊ مازأ مرأ وأسينم مي کفشأ",
         "fa_word": "واکس",
@@ -7335,7 +7362,7 @@
         "en_example": "Give me that wax to applying it to my shoes"
     },
     {
-        "id": 816,
+        "id": 819,
         "glk_word": "ماسکأ",
         "glk_example": "ماسکأ بازي-يأ تۊمانأ کۊن",
         "fa_word": "مسخره",
@@ -7344,7 +7371,7 @@
         "en_example": "Stop being Ridiculous"
     },
     {
-        "id": 817,
+        "id": 820,
         "glk_word": "ماشل",
         "glk_example": "مي مأر ٚ مرأ شؤن دريم مي ماشل ٚ خانه",
         "fa_word": "خاله",
@@ -7353,7 +7380,7 @@
         "en_example": "I'm going to my aunt's house with my mother"
     },
     {
-        "id": 818,
+        "id": 821,
         "glk_word": "ماشه",
         "glk_example": "اۊ ماشه-يأ مرأ فأدن",
         "fa_word": "انبر فلزی",
@@ -7362,7 +7389,7 @@
         "en_example": "Give me that metal pincers"
     },
     {
-        "id": 819,
+        "id": 822,
         "glk_word": "ماشک",
         "glk_example": "ماشکأ تأود",
         "fa_word": "تور ماهی‌گیری",
@@ -7371,16 +7398,16 @@
         "en_example": "Throw the fishing net"
     },
     {
-        "id": 820,
+        "id": 823,
         "glk_word": "ماقؤل",
         "glk_example": "ماقؤل بۊگؤفتم",
-        "fa_word": "چه خوب",
-        "fa_example": "چه خوب شد گفتم",
-        "en_word": "It's Good That",
+        "fa_word": "چه خوب شد که...",
+        "fa_example": "چه خوب شد که گفتم",
+        "en_word": "It's Good That...",
         "en_example": "It's good that I said that"
     },
     {
-        "id": 821,
+        "id": 824,
         "glk_word": "مالا",
         "glk_example": "مي پئر مالايه",
         "fa_word": "ماهى‌گیر",
@@ -7389,16 +7416,16 @@
         "en_example": "My father is a fisherman"
     },
     {
-        "id": 822,
-        "glk_word": "ماندگي",
+        "id": 825,
+        "glk_word": "ماندگي گيفتن",
         "glk_example": "بدأ ايپچه ماندگي بيگيرم",
-        "fa_word": "خستگى",
+        "fa_word": "خستگى در کردن",
         "fa_example": "اجازه بده کمى خستگى در کنم",
         "en_word": "Getting Rest",
         "en_example": "Let me get some rest"
     },
     {
-        "id": 823,
+        "id": 826,
         "glk_word": "ماچي",
         "glk_example": "ايتأ ماچي مرأ ديهي؟",
         "fa_word": "بوسه",
@@ -7407,7 +7434,7 @@
         "en_example": "Would you give me a kiss?"
     },
     {
-        "id": 824,
+        "id": 827,
         "glk_word": "مترس",
         "glk_example": "باقلا باغ ٚ مترسه",
         "fa_word": "مترسک",
@@ -7416,7 +7443,7 @@
         "en_example": "He's the scarecrow of the bean garden"
     },
     {
-        "id": 825,
+        "id": 828,
         "glk_word": "مته",
         "glk_example": "مته نهأن نوأ",
         "fa_word": "مزاحمت",
@@ -7425,7 +7452,7 @@
         "en_example": "do not make a nuisance"
     },
     {
-        "id": 826,
+        "id": 829,
         "glk_word": "مجاز",
         "glk_example": "مي مجاز نبره",
         "fa_word": "مزاج",
@@ -7434,7 +7461,7 @@
         "en_example": "It's not my taste"
     },
     {
-        "id": 827,
+        "id": 830,
         "glk_word": "مدار",
         "glk_example": "هأ مدار بۊشۊ جۊلؤ",
         "fa_word": "روش",
@@ -7443,7 +7470,7 @@
         "en_example": "Go forward with this method"
     },
     {
-        "id": 828,
+        "id": 831,
         "glk_word": "مرأ",
         "glk_example": "مرأ بۊگۊ چي خأئي؟",
         "fa_word": "به من",
@@ -7452,7 +7479,7 @@
         "en_example": "Tell me what you want?"
     },
     {
-        "id": 829,
+        "id": 832,
         "glk_word": "مراغ",
         "glk_example": "آدمأ مراغأ گيره",
         "fa_word": "چندش",
@@ -7461,7 +7488,7 @@
         "en_example": "Adam is a problem"
     },
     {
-        "id": 830,
+        "id": 833,
         "glk_word": "مرجانه",
         "glk_example": "أ کارتانأ مرجانه فگيفتم",
         "fa_word": "رایگان",
@@ -7470,7 +7497,7 @@
         "en_example": "I got these cards for free"
     },
     {
-        "id": 831,
+        "id": 834,
         "glk_word": "مرد ٚ خاخۊرزا",
         "glk_example": "مي مرد ٚ خاخۊرزا أمي خانه ايسأ",
         "fa_word": "خواهرزاده شوهر",
@@ -7479,7 +7506,7 @@
         "en_example": "My husband's niece is in our house"
     },
     {
-        "id": 832,
+        "id": 835,
         "glk_word": "مرد ٚ برار",
         "glk_example": "مي مرد ٚ برار ٚ خانه هأ کۊچه دۊرۊنه",
         "fa_word": "برادر شوهر",
@@ -7488,7 +7515,7 @@
         "en_example": "My husband's brother's house is in this alley"
     },
     {
-        "id": 833,
+        "id": 836,
         "glk_word": "مرد ٚ برار زن",
         "glk_example": "تي مرد ٚ برار زنأ بيدئم",
         "fa_word": "زن برادر شوهر",
@@ -7497,7 +7524,7 @@
         "en_example": "I saw your sister in law"
     },
     {
-        "id": 834,
+        "id": 837,
         "glk_word": "مرد ٚ خاخۊر",
         "glk_example": "مي مرد ٚ خاخۊر بۊشؤ خارج",
         "fa_word": "خواهر شوهر",
@@ -7506,7 +7533,7 @@
         "en_example": "My sister in law went abroad"
     },
     {
-        "id": 835,
+        "id": 838,
         "glk_word": "مردأى",
         "glk_example": "أ مردأى ديرۊز بامؤ",
         "fa_word": "مرد",
@@ -7515,7 +7542,7 @@
         "en_example": "This man came yesterday"
     },
     {
-        "id": 836,
+        "id": 839,
         "glk_word": "مردۊم",
         "glk_example": "مردۊم همه بامؤبيد",
         "fa_word": "مردم",
@@ -7524,16 +7551,7 @@
         "en_example": "All people had come"
     },
     {
-        "id": 837,
-        "glk_word": "مرگٚنا",
-        "glk_example": "مرگٚنا بزن",
-        "fa_word": "کپه مرگ",
-        "fa_example": "کپه مرگ‌ات را بگذار",
-        "en_word": "Putting Head Down",
-        "en_example": "Put your head down"
-    },
-    {
-        "id": 838,
+        "id": 840,
         "glk_word": "مضرت",
         "glk_example": "أنقد کي مضرتي تي جان همه جيجايه",
         "fa_word": "شرور",
@@ -7542,7 +7560,16 @@
         "en_example": "You're so mischievous that all of your body is wounded"
     },
     {
-        "id": 839,
+        "id": 841,
+        "glk_word": "مل",
+        "glk_example": "أن أنار ٚ مزه مله",
+        "fa_word": "گس",
+        "fa_example": "مزه این انار گس است",
+        "en_word": "Astringent",
+        "en_example": "This pomegranate tsates astringent"
+    },
+    {
+        "id": 842,
         "glk_word": "من",
         "glk_example": "من بۊشؤم",
         "fa_word": "من",
@@ -7551,7 +7578,7 @@
         "en_example": "I went"
     },
     {
-        "id": 840,
+        "id": 843,
         "glk_word": "مه ره",
         "glk_example": "أ کفشأ مه ره بيهئم",
         "fa_word": "براى خودم",
@@ -7560,7 +7587,7 @@
         "en_example": "I bought these shoes for myself"
     },
     {
-        "id": 841,
+        "id": 844,
         "glk_word": "مي",
         "glk_example": "مي مأر أمؤن دره",
         "fa_word": "من",
@@ -7569,7 +7596,7 @@
         "en_example": "My mother is comeing"
     },
     {
-        "id": 842,
+        "id": 845,
         "glk_word": "ميان",
         "glk_example": "أ گب أمي ميان بمانه",
         "fa_word": "بین",
@@ -7578,7 +7605,7 @@
         "en_example": "Keep these words between us"
     },
     {
-        "id": 843,
+        "id": 846,
         "glk_word": "مچد",
         "glk_example": "مچد شؤن دري؟",
         "fa_word": "مسجد",
@@ -7587,7 +7614,7 @@
         "en_example": "Are you going to the mosque?"
     },
     {
-        "id": 844,
+        "id": 847,
         "glk_word": "مچه",
         "glk_example": "أمين خۊ مچه ٰ عمل بۊکۊده",
         "fa_word": "چانه",
@@ -7596,7 +7623,7 @@
         "en_example": "Amin got a chin surgery"
     },
     {
-        "id": 845,
+        "id": 848,
         "glk_word": "مک",
         "glk_example": "مي سرأ مکأ کۊده",
         "fa_word": "شوره سر",
@@ -7605,7 +7632,7 @@
         "en_example": "I got dandruff"
     },
     {
-        "id": 846,
+        "id": 849,
         "glk_word": "مۊران",
         "glk_example": "آهين مۊران بزه",
         "fa_word": "زنگ آهن",
@@ -7614,34 +7641,34 @@
         "en_example": "The iron is rusty"
     },
     {
-        "id": 847,
-        "glk_word": "مۊرجه",
-        "glk_example": "ايپچه مۊرجه دۊکۊن",
-        "fa_word": "عدس",
-        "fa_example": "کمی عدس بریز",
-        "en_word": "Lentil",
-        "en_example": "Add some lentil"
-    },
-    {
-        "id": 848,
-        "glk_word": "مۊرجه",
-        "glk_example": "ايپچه مۊرجه دۊکۊن",
-        "fa_word": "عدس",
-        "fa_example": "کمی عدس بریز",
-        "en_word": "Lentil",
-        "en_example": "Add some lentil"
-    },
-    {
-        "id": 849,
-        "glk_word": "مۊرغانه",
-        "glk_example": "دۊتا مۊرغانه بأور مۊرغانه دشکن بۊخۊريم",
-        "fa_word": "تخم‌مرغ",
-        "fa_example": "دو عدد تخم‌مرغ بیاور نیمرو بخوریم",
-        "en_word": "Egg",
-        "en_example": "Bring two eggs to eat fried eggs"
-    },
-    {
         "id": 850,
+        "glk_word": "مۊرجه",
+        "glk_example": "ايپچه مۊرجه دۊکۊن",
+        "fa_word": "عدس",
+        "fa_example": "کمی عدس بریز",
+        "en_word": "Lentil",
+        "en_example": "Add some lentil"
+    },
+    {
+        "id": 851,
+        "glk_word": "مۊرغانه",
+        "glk_example": "دۊتا مۊرغانه بأور",
+        "fa_word": "تخم‌مرغ",
+        "fa_example": "دو عدد تخم‌مرغ بیاور",
+        "en_word": "Egg",
+        "en_example": "Bring two eggs"
+    },
+    {
+        "id": 852,
+        "glk_word": "مۊرغانه دشکن",
+        "glk_example": "بیأ مۊرغانه دشکن چاکۊنيم",
+        "fa_word": "نیمرو",
+        "fa_example": "بیا نیمرو درست کنیم",
+        "en_word": "Fried Egg",
+        "en_example": "Let's make fried eggs"
+    },
+    {
+        "id": 853,
         "glk_word": "مۊس",
         "glk_example": "مۊس بۊکۊده",
         "fa_word": "کپک",
@@ -7650,7 +7677,7 @@
         "en_example": "It got moldy"
     },
     {
-        "id": 851,
+        "id": 854,
         "glk_word": "مۊسافرت",
         "glk_example": "أئي بيشيم مۊسافرت؟",
         "fa_word": "مسافرت",
@@ -7659,16 +7686,16 @@
         "en_example": "Do you wanna go on a trip together?"
     },
     {
-        "id": 852,
+        "id": 855,
         "glk_word": "نأرم",
         "glk_example": "تي شۊمارهˈ نأرم",
         "fa_word": "ندارم",
         "fa_example": "شماره‌ات را ندارم",
         "en_word": "I Do Not Have",
-        "en_example": "I do not have your number"
+        "en_example": "I don't have your number"
     },
     {
-        "id": 853,
+        "id": 856,
         "glk_word": "نأنسته-بؤ",
         "glk_example": "نأنسته-بؤ أ کارأ بۊکۊده",
         "fa_word": "ناآگاهانه",
@@ -7677,16 +7704,16 @@
         "en_example": "He/She did this unknowingly"
     },
     {
-        "id": 854,
+        "id": 857,
         "glk_word": "نؤبدان",
-        "glk_example": "اينفرأ بأور نؤبدانأ چأکۊنه",
+        "glk_example": "اي نفرأ بأور نؤبدانأ چأکۊنه",
         "fa_word": "ناودان",
-        "fa_example": "یک‌نفر را بیاور ناودان را درست کند",
+        "fa_example": "یک نفر را بیاور ناودان را درست کند",
         "en_word": "Gutters",
         "en_example": "Bring someone to fix the gutters"
     },
     {
-        "id": 855,
+        "id": 858,
         "glk_word": "نؤرۊزبل",
         "glk_example": "جلالي تقویم ٚ مئن ۱۷ مۊرداد نؤرۊزبله",
         "fa_word": "نوروزبل",
@@ -7695,7 +7722,16 @@
         "en_example": "In Jalali calendar Mordad 17 is Nowruzbal"
     },
     {
-        "id": 856,
+        "id": 859,
+        "glk_word": "نؤغان",
+        "glk_example": "أمأن گیلان ٚ مئن پۊر نؤغان دأریم",
+        "fa_word": "کرم ابریشم",
+        "fa_example": "ما در گیلان کرم‌های ابریشک زیادی داریم",
+        "en_word": "Silkworm",
+        "en_example": "‌We have a lot of silkworms in Gilan"
+    },
+    {
+        "id": 860,
         "glk_word": "نابراري",
         "glk_example": "أن مي نابراري-يه",
         "fa_word": "نابرادری",
@@ -7704,7 +7740,7 @@
         "en_example": "This is my step brother"
     },
     {
-        "id": 857,
+        "id": 861,
         "glk_word": "ناجه",
         "glk_example": "ناجه دأرم ايمرۊ بازي-يأ سر بيبيم",
         "fa_word": "امید",
@@ -7713,7 +7749,7 @@
         "en_example": "I hope to win the game today"
     },
     {
-        "id": 858,
+        "id": 862,
         "glk_word": "ناحق ؤ نابۊد",
         "glk_example": "ناحق ؤ نابۊد کرأ زٚجٚر کشیم",
         "fa_word": "به ناحق",
@@ -7722,16 +7758,16 @@
         "en_example": "We are suffering unjustly"
     },
     {
-        "id": 859,
+        "id": 863,
         "glk_word": "ناخبر",
         "glk_example": "رضا ناخبر بامؤ أمي خانه",
         "fa_word": "سرزده",
         "fa_example": "رضا سرزده به خانه ما آمد",
         "en_word": "Intrude",
-        "en_example": "Reza intrude to our house"
+        "en_example": "Reza intruded to our house"
     },
     {
-        "id": 860,
+        "id": 864,
         "glk_word": "ناخۊش آوال",
         "glk_example": "ايمرۊ ايپچه ناخۊش آوالم",
         "fa_word": "مریض",
@@ -7740,7 +7776,7 @@
         "en_example": "I'm a little bit sick today"
     },
     {
-        "id": 861,
+        "id": 865,
         "glk_word": "ناخۊن",
         "glk_example": "مي پا ناخۊن بشکفته",
         "fa_word": "ناخن",
@@ -7749,7 +7785,7 @@
         "en_example": "My toe nail broke"
     },
     {
-        "id": 862,
+        "id": 866,
         "glk_word": "ناخۊن",
         "glk_example": "تي ناخۊنأ بيگير",
         "fa_word": "ناخن",
@@ -7758,7 +7794,7 @@
         "en_example": "Clip your nail"
     },
     {
-        "id": 863,
+        "id": 867,
         "glk_word": "ناره",
         "glk_example": "ناره کۊدن دره",
         "fa_word": "نعره",
@@ -7767,7 +7803,7 @@
         "en_example": "It is silent"
     },
     {
-        "id": 864,
+        "id": 868,
         "glk_word": "نازبداشته",
         "glk_example": "أمي زأکأن نازبداشته-ئيد",
         "fa_word": "نازپرورده",
@@ -7776,7 +7812,7 @@
         "en_example": "Our kids are spoiled"
     },
     {
-        "id": 865,
+        "id": 869,
         "glk_word": "ناسۊس",
         "glk_example": "بۊشۊ ناسۊسأ بأور",
         "fa_word": "تلمبه",
@@ -7785,7 +7821,7 @@
         "en_example": "Go bring the air pump"
     },
     {
-        "id": 866,
+        "id": 870,
         "glk_word": "ناقلن",
         "glk_example": "ناقلن تۊ أمي مرأ بيأ",
         "fa_word": "لااقل",
@@ -7794,7 +7830,7 @@
         "en_example": "At least you come with us"
     },
     {
-        "id": 867,
+        "id": 871,
         "glk_word": "ناکس",
         "glk_example": "ناکس ٚ پۊشتين بؤستن نوأ",
         "fa_word": "نامرد",
@@ -7803,7 +7839,7 @@
         "en_example": "Do not support the coward"
     },
     {
-        "id": 868,
+        "id": 872,
         "glk_word": "نتاج",
         "glk_example": "أمان گيلک ٚ نتاجيم",
         "fa_word": "نسل",
@@ -7812,7 +7848,7 @@
         "en_example": "We are gilak generation"
     },
     {
-        "id": 869,
+        "id": 873,
         "glk_word": "نجاق",
         "glk_example": "نخأستي بأيه نجاق ٚ مرأ أنأ بأوردم",
         "fa_word": "اجبار",
@@ -7821,7 +7857,7 @@
         "en_example": "HE/She didn't want to come we forced him/her"
     },
     {
-        "id": 870,
+        "id": 874,
         "glk_word": "ندار",
         "glk_example": "ندار ٚ آدمه",
         "fa_word": "فقیر",
@@ -7830,16 +7866,16 @@
         "en_example": "He/She is broke"
     },
     {
-        "id": 871,
+        "id": 875,
         "glk_word": "نشأ",
-        "glk_example": "جاده-يأ آب بيگيفته شؤن نشأ",
+        "glk_example": "راشيأ آب بيگيفته شؤن نشأ",
         "fa_word": "نمى‌توان",
         "fa_example": "آب جاده را فراگرفته است نمى‌توان رفت",
         "en_word": "Can't",
         "en_example": "The water closed the road we can't go"
     },
     {
-        "id": 872,
+        "id": 876,
         "glk_word": "نقل",
         "glk_example": "ايتأ نقل بۊگۊ",
         "fa_word": "داستان",
@@ -7848,7 +7884,7 @@
         "en_example": "Tell a story"
     },
     {
-        "id": 873,
+        "id": 877,
         "glk_word": "نم",
         "glk_example": "أمي وسيلهˈنأ نم بزه",
         "fa_word": "رطوبت",
@@ -7857,7 +7893,7 @@
         "en_example": "Our stuff got moisten"
     },
     {
-        "id": 874,
+        "id": 878,
         "glk_word": "ننأ",
         "glk_example": "فاکتؤران ميز ٚ سر ننأ",
         "fa_word": "نیست",
@@ -7866,7 +7902,7 @@
         "en_example": "Invoices are not on the table"
     },
     {
-        "id": 875,
+        "id": 879,
         "glk_word": "نهأن",
         "glk_example": "پلايأ نهأن درم کله ٚ سر",
         "fa_word": "گذاشتن",
@@ -7875,7 +7911,7 @@
         "en_example": "I'm putting the rice on the stove"
     },
     {
-        "id": 876,
+        "id": 880,
         "glk_word": "نوأ",
         "glk_example": "اۊتؤ گب زئن نوأ",
         "fa_word": "نکن",
@@ -7884,7 +7920,7 @@
         "en_example": "Don't talk like that"
     },
     {
-        "id": 877,
+        "id": 881,
         "glk_word": "نيده بيده",
         "glk_example": "نيده بيده-کانأ مأنه",
         "fa_word": "ندید بدید",
@@ -7893,7 +7929,7 @@
         "en_example": "He/She looks like an upstart"
     },
     {
-        "id": 878,
+        "id": 882,
         "glk_word": "نيشت",
         "glk_example": "همه-تا نيشت مئن ايسأبيد",
         "fa_word": "نشست",
@@ -7902,7 +7938,7 @@
         "en_example": "All of them were in the session"
     },
     {
-        "id": 879,
+        "id": 883,
         "glk_word": "نيشتاو",
         "glk_example": "زأکي-يم نيشتاو بي",
         "fa_word": "سرتق و لجوج",
@@ -7911,7 +7947,7 @@
         "en_example": "You were stubborn in your childhood too"
     },
     {
-        "id": 880,
+        "id": 884,
         "glk_word": "نيميزگيره",
         "glk_example": "درأ نيميزگيره وأکۊن",
         "fa_word": "اندکى",
@@ -7920,7 +7956,7 @@
         "en_example": "Open the door slightly"
     },
     {
-        "id": 881,
+        "id": 885,
         "glk_word": "نيويره",
         "glk_example": "مرأ سربسر نهأن نوأ نيويره بد ديني-يأ",
         "fa_word": "وگرنه",
@@ -7929,7 +7965,7 @@
         "en_example": "Don't bother me otherwise you'll see badly"
     },
     {
-        "id": 882,
+        "id": 886,
         "glk_word": "نيويشتن",
         "glk_example": "کيتاب نيويشتن درم",
         "fa_word": "نوشتن",
@@ -7938,7 +7974,7 @@
         "en_example": "I'm writing a book"
     },
     {
-        "id": 883,
+        "id": 887,
         "glk_word": "نپج",
         "glk_example": "أ نۊخۊدان نپجه",
         "fa_word": "دیرپز",
@@ -7947,7 +7983,7 @@
         "en_example": "These peas take too long to cook"
     },
     {
-        "id": 884,
+        "id": 888,
         "glk_word": "وأبرازه",
         "glk_example": "أ پرهن ترأ وابرازه",
         "fa_word": "شایسته است",
@@ -7956,7 +7992,7 @@
         "en_example": "This shirt suits you"
     },
     {
-        "id": 885,
+        "id": 889,
         "glk_word": "وأجه",
         "glk_example": "تي دۊماغأ اي چي وأجه",
         "fa_word": "چسبیده است",
@@ -7965,7 +8001,7 @@
         "en_example": "Something's sticking on your nose"
     },
     {
-        "id": 886,
+        "id": 890,
         "glk_word": "وأده",
         "glk_example": "أمرأ وأده بيگيفته",
         "fa_word": "دعوت",
@@ -7974,7 +8010,7 @@
         "en_example": "He/She has invited us"
     },
     {
-        "id": 887,
+        "id": 891,
         "glk_word": "وأسي",
         "glk_example": "وأسي دۊ تا نان فگيفته-بيم",
         "fa_word": "باید",
@@ -7983,7 +8019,7 @@
         "en_example": "I should have bought two breads"
     },
     {
-        "id": 888,
+        "id": 892,
         "glk_word": "وأسي",
         "glk_example": "ايمرۊ پۊر کار دأرم، هأن ٚ وأسي زۊد بأمؤم",
         "fa_word": "به خاطر",
@@ -7992,7 +8028,7 @@
         "en_example": "There's a lot of work, I came early because of that"
     },
     {
-        "id": 889,
+        "id": 893,
         "glk_word": "وأمجي",
         "glk_example": "چي ره وأمجي؟",
         "fa_word": "جستجو می‌کنی",
@@ -8001,7 +8037,7 @@
         "en_example": "What are you looking for?"
     },
     {
-        "id": 890,
+        "id": 894,
         "glk_word": "وأمرازه",
         "glk_example": "أ گبان ترأ وأمرازه",
         "fa_word": "شایسته نیست",
@@ -8010,7 +8046,7 @@
         "en_example": "These words doesn't suit you"
     },
     {
-        "id": 891,
+        "id": 895,
         "glk_word": "وأورس",
         "glk_example": "اۊ زناکأ وأورس",
         "fa_word": "بپرس",
@@ -8019,7 +8055,7 @@
         "en_example": "Ask that woman"
     },
     {
-        "id": 892,
+        "id": 896,
         "glk_word": "وأورسي",
         "glk_example": "هرچي وأورسي ترأ گب بسرأ کۊنه",
         "fa_word": "بپرسی",
@@ -8028,16 +8064,16 @@
         "en_example": "Whatever you ask he/she changes the subject"
     },
     {
-        "id": 893,
+        "id": 897,
         "glk_word": "وأچئن",
         "glk_example": "خۊ خانه سرأ وأچئن دره",
         "fa_word": "کندن",
-        "fa_example": "دارد سقف خانه‌اش را برمی‌کند",
-        "en_word": "Destroying",
-        "en_example": "He/She is destroying the roof of his/her house"
+        "fa_example": "دارد سقف خانه‌اش را می‌کند",
+        "en_word": "Remove",
+        "en_example": "He/She is removeing the roof of his/her house"
     },
     {
-        "id": 894,
+        "id": 898,
         "glk_word": "وأچۊک",
         "glk_example": "دارأ وأچۊک",
         "fa_word": "بچسب و بالا برو",
@@ -8046,16 +8082,7 @@
         "en_example": "Climb the tree"
     },
     {
-        "id": 895,
-        "glk_word": "وأکفتم",
-        "glk_example": "دئه وأکفتم",
-        "fa_word": "از پا افتادم",
-        "fa_example": "دیگر از پا افتادم",
-        "en_word": "I'm Being Exhusted",
-        "en_example": "I'm Exhusted"
-    },
-    {
-        "id": 896,
+        "id": 899,
         "glk_word": "وأکفته",
         "glk_example": "أمرأ وأکفته",
         "fa_word": "پیله کرد",
@@ -8064,7 +8091,16 @@
         "en_example": "He/She pestered us"
     },
     {
-        "id": 897,
+        "id": 900,
+        "glk_word": "وأکفتيم",
+        "glk_example": "أمأن وأکفتيم",
+        "fa_word": "از پا افتادیم",
+        "fa_example": "ما از پا افتادیم",
+        "en_word": "We're Exhusted",
+        "en_example": "We're exhusted"
+    },
+    {
+        "id": 901,
         "glk_word": "وأکۊده",
         "glk_example": "مأمدأ وأکۊده بامؤ",
         "fa_word": "رساند",
@@ -8073,7 +8109,7 @@
         "en_example": "He/She Dropped Mohammad off and he/she came back"
     },
     {
-        "id": 898,
+        "id": 902,
         "glk_word": "وأکۊن",
         "glk_example": "درأ وأکۊن",
         "fa_word": "باز کن",
@@ -8082,7 +8118,7 @@
         "en_example": "Open the door"
     },
     {
-        "id": 899,
+        "id": 903,
         "glk_word": "وأگردان",
         "glk_example": "أ کيتابأ تۊ وأگردان بۊکۊدي؟",
         "fa_word": "ترجمه",
@@ -8091,7 +8127,7 @@
         "en_example": "Did you translate this book?"
     },
     {
-        "id": 900,
+        "id": 904,
         "glk_word": "وأگردان",
         "glk_example": "اۊ شامي-یأ وأگردان",
         "fa_word": "پشت و رو کن",
@@ -8100,7 +8136,7 @@
         "en_example": "Flip that cutlet"
     },
     {
-        "id": 901,
+        "id": 905,
         "glk_word": "وأگردانئده",
         "glk_example": "أ خيابان ٚ ايسمأ وأگردانئده",
         "fa_word": "تغییر داده‌اند",
@@ -8109,7 +8145,7 @@
         "en_example": "They have changed the name of this street"
     },
     {
-        "id": 902,
+        "id": 906,
         "glk_word": "وأگردانئم",
         "glk_example": "کيتابأ وأگردانئم",
         "fa_word": "عودت دادم",
@@ -8118,7 +8154,7 @@
         "en_example": "I returned the book"
     },
     {
-        "id": 903,
+        "id": 907,
         "glk_word": "وأگيران",
         "glk_example": "گازأ وأگيران",
         "fa_word": "روشن کن",
@@ -8127,7 +8163,7 @@
         "en_example": "Turn the Stove on"
     },
     {
-        "id": 904,
+        "id": 908,
         "glk_word": "وئر",
         "glk_example": "تأني أ رۊخانأ وئر بزني؟",
         "fa_word": "گذشتن از عرض رودخانه",
@@ -8136,7 +8172,7 @@
         "en_example": "Can you cross the width of this river?"
     },
     {
-        "id": 905,
+        "id": 909,
         "glk_word": "وا",
         "glk_example": "أيتأ اۊيتأ نأره همه وا بأئيد",
         "fa_word": "باید",
@@ -8145,7 +8181,7 @@
         "en_example": "There's no this and that, everyone must come"
     },
     {
-        "id": 906,
+        "id": 910,
         "glk_word": "وا",
         "glk_example": "سرد ٚ وا دمه",
         "fa_word": "باد",
@@ -8154,7 +8190,7 @@
         "en_example": "Cold wind is blowing"
     },
     {
-        "id": 907,
+        "id": 911,
         "glk_word": "وا",
         "glk_example": "هرچي خۊرم هنده مرأ وا",
         "fa_word": "میل داشتن",
@@ -8163,7 +8199,7 @@
         "en_example": "Whatever i eat I'm still craving"
     },
     {
-        "id": 908,
+        "id": 912,
         "glk_word": "وابؤن",
         "glk_example": "در وابؤ",
         "fa_word": "باز شدن",
@@ -8172,16 +8208,7 @@
         "en_example": "The door opened"
     },
     {
-        "id": 909,
-        "glk_word": "واترکانم",
-        "glk_example": "ترأ بيدينم واترکانم",
-        "fa_word": "جر می‌دهم",
-        "fa_example": "تو را ببینم جر می‌دهم",
-        "en_word": "I Rip Apart",
-        "en_example": "If I see you I'm gonna rip you apart"
-    },
-    {
-        "id": 910,
+        "id": 913,
         "glk_word": "واترکستم",
         "glk_example": "خأنده جأ واترکستم",
         "fa_word": "ترکیدم",
@@ -8190,7 +8217,7 @@
         "en_example": "I burst out laughing"
     },
     {
-        "id": 911,
+        "id": 914,
         "glk_word": "واتين",
         "glk_example": "گيدي کؤرؤنا واتين دأره",
         "fa_word": "مسرى",
@@ -8199,34 +8226,34 @@
         "en_example": "They say Corona is communicable"
     },
     {
-        "id": 912,
+        "id": 915,
         "glk_word": "واجؤر",
         "glk_example": "أ بج واجؤر کۊنه",
         "fa_word": "رى",
         "fa_example": "این برنج رى مى‌کند",
         "en_word": "Fluffy",
-        "en_example": "This rice is fluffy"
+        "en_example": "This rice becomes fluffy"
     },
     {
-        "id": 913,
+        "id": 916,
         "glk_word": "واجام",
-        "glk_example": "زرد ٚ واجامأ مأنه",
+        "glk_example": "ميرزاقاسمي واجام ٚ جأ چأکۊده به",
         "fa_word": "بادنجان",
-        "fa_example": "مانند بادنجان زرد است",
+        "fa_example": "میرزاقاسمی از بادنجان درست می‌شود",
         "en_word": "Eggplant",
-        "en_example": "It looks like a yellow eggplant"
+        "en_example": "Mirza Ghasemi is made from eggplant"
     },
     {
-        "id": 914,
+        "id": 917,
         "glk_word": "واجاوره",
-        "glk_example": "أمرأ خۊره واجاوره",
+        "glk_example": "هر چي خۊره واجاوره",
         "fa_word": "قى می‌کند",
-        "fa_example": "ما را مى‌خورد دوباره قى مى‌کند",
+        "fa_example": "هر چیزی مى‌خورد قى مى‌کند",
         "en_word": "He/She Vomits",
-        "en_example": "He/She eats us and vomits agine"
+        "en_example": "Whatever he/she eats he/she vomits"
     },
     {
-        "id": 915,
+        "id": 918,
         "glk_word": "واخان",
         "glk_example": "أنأ واخان",
         "fa_word": "دوباره بخوان",
@@ -8235,7 +8262,7 @@
         "en_example": "Re-read this"
     },
     {
-        "id": 916,
+        "id": 919,
         "glk_word": "واخب",
         "glk_example": "أمان ديرۊ واخبأ بؤستيم",
         "fa_word": "آگاه",
@@ -8244,7 +8271,7 @@
         "en_example": "We got informed yesterday"
     },
     {
-        "id": 917,
+        "id": 920,
         "glk_word": "واخۊر",
         "glk_example": "آب واخۊر",
         "fa_word": "بنوش",
@@ -8253,25 +8280,25 @@
         "en_example": "Drink water"
     },
     {
-        "id": 918,
+        "id": 921,
         "glk_word": "واد",
-        "glk_example": "فچم تي وادأ بيگيرم",
+        "glk_example": "ويريز تي وادأ بيگيرم",
         "fa_word": "اندازه",
-        "fa_example": "خم شو اندازه‌ات را بگیرم",
+        "fa_example": "بلند شو اندازه‌ات را بگیرم",
         "en_word": "Measure",
-        "en_example": "Bend and let me measure you"
+        "en_example": "Stand up and let me measure you"
     },
     {
-        "id": 919,
+        "id": 922,
         "glk_word": "واداشته",
         "glk_example": "أمرأ واداشته أ سرد ٚ هوا دۊرۊن بئسيم",
         "fa_word": "وادار کرد",
-        "fa_example": "ما را وادار کرد در این  هواى سرد بمانیم",
+        "fa_example": "ما را وادار کرد در این هواى سرد بمانیم",
         "en_word": "Forced",
         "en_example": "He/She forced us to stay in this cold weather"
     },
     {
-        "id": 920,
+        "id": 923,
         "glk_word": "وارؤختن",
         "glk_example": "گيلانأ وارؤختن درد",
         "fa_word": "غارت کردن",
@@ -8280,25 +8307,16 @@
         "en_example": "They are plundering Gilan"
     },
     {
-        "id": 921,
-        "glk_word": "واران",
-        "glk_example": "ديرۊ واران بامؤ",
-        "fa_word": "باران",
-        "fa_example": "دیروز باران آمد",
-        "en_word": "Rain",
-        "en_example": "It rained yesterday"
-    },
-    {
-        "id": 922,
+        "id": 924,
         "glk_word": "وارستن",
-        "glk_example": "واران وارستن دره",
+        "glk_example": "وارش وارستن دره",
         "fa_word": "باریدن",
         "fa_example": "دارد باران مى‌بارد",
         "en_word": "Raining",
         "en_example": "It is raining"
     },
     {
-        "id": 923,
+        "id": 925,
         "glk_word": "وارسي",
         "glk_example": "ايپچه اۊشنتر همه ٰ وارسي کۊديد",
         "fa_word": "بازرسی",
@@ -8307,7 +8325,7 @@
         "en_example": "A little further they were inspecting everyone"
     },
     {
-        "id": 924,
+        "id": 926,
         "glk_word": "وارسي",
         "glk_example": "وا أول وارسي بۊکۊنيد",
         "fa_word": "تحقیق",
@@ -8316,16 +8334,25 @@
         "en_example": "We should research first"
     },
     {
-        "id": 925,
-        "glk_word": "واز",
-        "glk_example": "چيچيني-يانأ فأندر چۊتؤ واز کۊنیدي",
-        "fa_word": "پرواز",
-        "fa_example": "گنجشک‌ها را نگاه کن چگونه پرواز می‌کنند",
-        "en_word": "Flying",
-        "en_example": "Look the sparrows how they are flying"
+        "id": 927,
+        "glk_word": "وارش",
+        "glk_example": "ديرۊ وارش بامؤ",
+        "fa_word": "باران",
+        "fa_example": "دیروز باران آمد",
+        "en_word": "Rain",
+        "en_example": "It rained yesterday"
     },
     {
-        "id": 926,
+        "id": 928,
+        "glk_word": "واز",
+        "glk_example": "گؤزکايأ فأندر چۊتؤ واز کۊنه",
+        "fa_word": "پریدن",
+        "fa_example": "قورباغه را ببین که چطور می‌پرد",
+        "en_word": "Jump",
+        "en_example": "Look at the frog how it's jumping"
+    },
+    {
+        "id": 929,
         "glk_word": "واز ؤ ولنگ",
         "glk_example": "زاکان پارک ٚ دۊرۊن چي واز ؤ ولنگي کۊنيدي",
         "fa_word": "جست و خیز",
@@ -8334,16 +8361,16 @@
         "en_example": "Children capering in the park"
     },
     {
-        "id": 927,
+        "id": 930,
         "glk_word": "وازده",
         "glk_example": "مرأ وازده بأورده",
         "fa_word": "به تنگ آمدن",
         "fa_example": "من را به تنگ آورده است",
-        "en_word": "Hassle",
-        "en_example": "He/She hassling me"
+        "en_word": "Being Under Pressure",
+        "en_example": "He/She is putting me under pressure"
     },
     {
-        "id": 928,
+        "id": 931,
         "glk_word": "وازن",
         "glk_example": "تي کفشأ وازن بيشيم",
         "fa_word": "بپوش",
@@ -8352,16 +8379,16 @@
         "en_example": "Wear your shoes let's go"
     },
     {
-        "id": 929,
+        "id": 932,
         "glk_word": "واسئن",
-        "glk_example": "اۊن چیسه ترأ وأسئن دري؟",
+        "glk_example": "اۊن چیسه تي دينأ وأسئن دري؟",
         "fa_word": "مالیدن",
-        "fa_example": "آن چیست داری به خودت می‌مالی؟",
+        "fa_example": "آن چیست داری به صورتت می‌مالی؟",
         "en_word": "Rub",
-        "en_example": "What are you rubbing to yourself?"
+        "en_example": "What are you rubbing to your face?"
     },
     {
-        "id": 930,
+        "id": 933,
         "glk_word": "واسرأ دأن",
         "glk_example": "أمرأ واسرأ دأ",
         "fa_word": "پى نخود سیاه فرستادن",
@@ -8370,16 +8397,16 @@
         "en_example": "He/She Sent us on a fool's errand"
     },
     {
-        "id": 931,
+        "id": 934,
         "glk_word": "واسۊجانه",
         "glk_example": "أمي خۊنا واسۊجانه تا خۊ مدرکأ فأگيفت",
-        "fa_word": "تا نهایت سوزاند",
-        "fa_example": "خون ما را تا نهایت سوزاند تا مدرک‌اش را گرفت",
+        "fa_word": "سوزاند",
+        "fa_example": "خون ما را سوزاند تا مدرک‌اش را گرفت",
         "en_word": "He/She Burned Up",
-        "en_example": "He/She burned all of our blood up until he/she graduated"
+        "en_example": "He/She burned our blood up until he/she graduated"
     },
     {
-        "id": 932,
+        "id": 935,
         "glk_word": "واسۊخسته",
         "glk_example": "ترأ واسۊخسته آدم هفتاد سال پاکي نأره",
         "fa_word": "برخورد کرده",
@@ -8388,7 +8415,7 @@
         "en_example": "Someone who ran into you won't be cleansed for seventy years"
     },
     {
-        "id": 933,
+        "id": 936,
         "glk_word": "واش",
         "glk_example": "گاب ٚ ره خاش فۊکۊنه سک ٚ ره واش",
         "fa_word": "علف",
@@ -8397,7 +8424,7 @@
         "en_example": "He/She throws bone for the cow and grass for the dog"
     },
     {
-        "id": 934,
+        "id": 937,
         "glk_word": "واشان",
         "glk_example": "بۊشۊ جايأ واشان",
         "fa_word": "پهن کن",
@@ -8406,7 +8433,7 @@
         "en_example": "Go and spread the bed sheets"
     },
     {
-        "id": 935,
+        "id": 938,
         "glk_word": "واشکاف",
         "glk_example": "أ پرهن ٚ درزأ واشکاف",
         "fa_word": "بازکن",
@@ -8415,7 +8442,7 @@
         "en_example": "Open the seam of this shirt"
     },
     {
-        "id": 936,
+        "id": 939,
         "glk_word": "واشکاف",
         "glk_example": "مرأ حالي نؤبؤسته، ايپچه واشکاف",
         "fa_word": "بیشتر توضیح بده",
@@ -8424,7 +8451,7 @@
         "en_example": "I didn't understand, explain a little bit more"
     },
     {
-        "id": 937,
+        "id": 940,
         "glk_word": "واشکافيدي",
         "glk_example": "باهار ٚ وخت گۊلان واشکافيدي",
         "fa_word": "می‌شکفند",
@@ -8433,7 +8460,7 @@
         "en_example": "In the spring the flowers bloom"
     },
     {
-        "id": 938,
+        "id": 941,
         "glk_word": "والان",
         "glk_example": "تي پرهنأ اۊيأ والان",
         "fa_word": "آویزان کن",
@@ -8442,7 +8469,7 @@
         "en_example": "Hang your shirt over there"
     },
     {
-        "id": 939,
+        "id": 942,
         "glk_word": "والنگ",
         "glk_example": "نيصف ٚ را والنگأ دأ",
         "fa_word": "انصراف",
@@ -8451,7 +8478,7 @@
         "en_example": "He/She quit halfway through"
     },
     {
-        "id": 940,
+        "id": 943,
         "glk_word": "واليشتن",
         "glk_example": "گاب خۊ مانده ٰ واليشتن دره",
         "fa_word": "لیسیدن",
@@ -8460,7 +8487,7 @@
         "en_example": "Cow is licking its calf"
     },
     {
-        "id": 941,
+        "id": 944,
         "glk_word": "وامختن",
         "glk_example": "چي-يأ وأمختن دري؟",
         "fa_word": "جستجو",
@@ -8469,25 +8496,16 @@
         "en_example": "What are you searching for?"
     },
     {
-        "id": 942,
-        "glk_word": "وامختن دري",
-        "glk_example": "چي-يأ وأمختن دري؟",
-        "fa_word": "جستجو می‌کنی",
-        "fa_example": "چه چیزی را جستجو می‌کنی؟",
-        "en_word": "You Searching",
-        "en_example": "What are you searching for?"
-    },
-    {
-        "id": 943,
+        "id": 945,
         "glk_word": "واهيل",
         "glk_example": "مي ديل واهيلأ بؤسته",
-        "fa_word": "بى تاب",
-        "fa_example": "دلم بى تاب شده است",
-        "en_word": "Impatient",
-        "en_example": "My heart has been impatient"
+        "fa_word": "بى‌تاب",
+        "fa_example": "دلم بى‌تاب شده است",
+        "en_word": "Restless",
+        "en_example": "My heart has been restless"
     },
     {
-        "id": 944,
+        "id": 946,
         "glk_word": "واويجان",
         "glk_example": "مائي-يأ خؤب واويجان",
         "fa_word": "برشته کن",
@@ -8496,7 +8514,7 @@
         "en_example": "Grill the fish properly"
     },
     {
-        "id": 945,
+        "id": 947,
         "glk_word": "واوين",
         "glk_example": "أ خالأ واوين",
         "fa_word": "ببر",
@@ -8505,7 +8523,7 @@
         "en_example": "Cut this branch"
     },
     {
-        "id": 946,
+        "id": 948,
         "glk_word": "واپس",
         "glk_example": "چي ره واپس شؤن دري؟",
         "fa_word": "عقب",
@@ -8514,7 +8532,7 @@
         "en_example": "Why are you going backward?"
     },
     {
-        "id": 947,
+        "id": 949,
         "glk_word": "واپلکه",
         "glk_example": "تيانأ بنه بدأ ايپچه واپلکه",
         "fa_word": "خیس بخورد",
@@ -8523,16 +8541,16 @@
         "en_example": "Leave the stock pot to get soaked"
     },
     {
-        "id": 948,
+        "id": 950,
         "glk_word": "واچرد",
         "glk_example": "تا نانأ بيده نيصفأ وأچرد",
-        "fa_word": "تکه‌ای از چیزی را کندن",
-        "fa_example": "به محض دیدن نان نیمى از آن را کند",
-        "en_word": "Cut Something Into Pieces",
+        "fa_word": "تکه کرد",
+        "fa_example": "به محض دیدن نان نیمى از آن را تکه کرد",
+        "en_word": "Cut",
         "en_example": "As soon as he/she saw the bread he/she cut it into half"
     },
     {
-        "id": 949,
+        "id": 951,
         "glk_word": "واکاريد",
         "glk_example": "بعضي-يان خأئيد أمي ميانأ واکاريد",
         "fa_word": "شکرآب کنند",
@@ -8541,16 +8559,7 @@
         "en_example": "Some people want to make a quarrel between us"
     },
     {
-        "id": 950,
-        "glk_word": "واکاشته",
-        "glk_example": "أمرأ أيأ واکاشته",
-        "fa_word": "به انتظار گذاشت",
-        "fa_example": "ما را این‌جا به انتظار گذاشت",
-        "en_word": "Made Us Wait",
-        "en_example": "He/She made us wait here"
-    },
-    {
-        "id": 951,
+        "id": 952,
         "glk_word": "واکاشته",
         "glk_example": "أمرأ أيأ واکاشته",
         "fa_word": "منتظر گذاشت",
@@ -8559,7 +8568,7 @@
         "en_example": "He/She made us wait here"
     },
     {
-        "id": 952,
+        "id": 953,
         "glk_word": "واگير",
         "glk_example": "أن ٚ مأر أن ٚ گبأ واگير کۊنه",
         "fa_word": "تصدیق حرف",
@@ -8568,16 +8577,16 @@
         "en_example": "His/Her mother Confirms his/her Words"
     },
     {
-        "id": 953,
+        "id": 954,
         "glk_word": "وخت",
         "glk_example": "باهار ٚ وخت أيم گيلان",
-        "fa_word": "فصل",
-        "fa_example": "فصل بهار به گیلان مى‌آیم",
-        "en_word": "Season",
-        "en_example": "I'll come to Gilan in the spring season"
+        "fa_word": "وقت",
+        "fa_example": "وقت بهار به گیلان مى‌آیم",
+        "en_word": "Time",
+        "en_example": "I'll come to Gilan in the spring time"
     },
     {
-        "id": 954,
+        "id": 955,
         "glk_word": "ودره",
         "glk_example": "اۊ ودرهˈ فأدن مرأ",
         "fa_word": "سطل",
@@ -8586,7 +8595,7 @@
         "en_example": "Give me that bucket"
     },
     {
-        "id": 955,
+        "id": 956,
         "glk_word": "ورأچۊک",
         "glk_example": "بامؤ أمي ورأچۊک بينيشته",
         "fa_word": "در کنار",
@@ -8595,7 +8604,7 @@
         "en_example": "He/She came and sat next to us"
     },
     {
-        "id": 956,
+        "id": 957,
         "glk_word": "ورجا",
         "glk_example": "کيتابان أمد ٚ ورجا نهأ",
         "fa_word": "نزد",
@@ -8604,7 +8613,7 @@
         "en_example": "The books are with Ahmad"
     },
     {
-        "id": 957,
+        "id": 958,
         "glk_word": "ورف",
         "glk_example": "أجۊر ورف کي تا هسأ بيده بۊ؟",
         "fa_word": "برف",
@@ -8613,7 +8622,7 @@
         "en_example": "Who had seen such snow?"
     },
     {
-        "id": 958,
+        "id": 959,
         "glk_word": "ورگ",
         "glk_example": "ايتأ سيا ورگ بيدئم",
         "fa_word": "گرگ",
@@ -8622,7 +8631,7 @@
         "en_example": "I saw a black wolf"
     },
     {
-        "id": 959,
+        "id": 960,
         "glk_word": "وسته",
         "glk_example": "هأنقد مرأ وسته",
         "fa_word": "کافى است",
@@ -8631,7 +8640,7 @@
         "en_example": "This much is enough for me"
     },
     {
-        "id": 960,
+        "id": 961,
         "glk_word": "ول",
         "glk_example": "آتش ٚ ولأ فأندر",
         "fa_word": "شعله آتش",
@@ -8640,7 +8649,7 @@
         "en_example": "Look the fire flame"
     },
     {
-        "id": 961,
+        "id": 962,
         "glk_word": "ولکي",
         "glk_example": "ايپچه بئسيد ولکي أميرم بأيه",
         "fa_word": "شاید",
@@ -8649,7 +8658,7 @@
         "en_example": "Wait a little maybe Amir comes too"
     },
     {
-        "id": 962,
+        "id": 963,
         "glk_word": "ولگ",
         "glk_example": "مي اينستا ولگأ دأري؟",
         "fa_word": "صفحه",
@@ -8658,16 +8667,16 @@
         "en_example": "Do you have my Instagram page?"
     },
     {
-        "id": 963,
+        "id": 964,
         "glk_word": "ولگ",
-        "glk_example": "پئيز ولگان چي خؤشگيلأ بيد",
+        "glk_example": "پئيز ولگان خؤشگيلأ بيد",
         "fa_word": "برگ",
-        "fa_example": "در پاییز برگ‌ها چه زیبا می‌شوند",
+        "fa_example": "در پاییز برگ‌ها خوشگل می‌شوند",
         "en_word": "Leaf",
-        "en_example": "In the autumn leaves become so beautiful"
+        "en_example": "In the autumn leaves become beautiful"
     },
     {
-        "id": 964,
+        "id": 965,
         "glk_word": "وهاشته",
         "glk_example": "مي پئر مرأ وهاشته بأيم",
         "fa_word": "اجازه داد",
@@ -8676,7 +8685,7 @@
         "en_example": "My father allowed me to come"
     },
     {
-        "id": 965,
+        "id": 966,
         "glk_word": "ويريزانه",
         "glk_example": "أمرأ أمي جا سر ويريزانه",
         "fa_word": "بلند کرد",
@@ -8685,22 +8694,13 @@
         "en_example": "He/She made me get up from my seat"
     },
     {
-        "id": 966,
+        "id": 967,
         "glk_word": "ويريزانه",
         "glk_example": "خاب ٚ جا أمرأ ويريزانه",
         "fa_word": "بیدار کرد",
         "fa_example": "ما را از خواب بیدار کرد",
         "en_word": "Woke Someone Up",
         "en_example": "He/She woke us up"
-    },
-    {
-        "id": 967,
-        "glk_word": "ويريشتد",
-        "glk_example": "گيلکان هأتؤئيد، مشرۊطه زماتم هأ ايوار ويريشتد",
-        "fa_word": "قیام کردند",
-        "fa_example": "گیلک‌ها همین‌گونه هستند، در زمان مشروطه هم به‌یک‌باره قیام کردند",
-        "en_word": "They Stood Up",
-        "en_example": "Gilaks are Like this, they suddenly stood up in the constitutional period too"
     },
     {
         "id": 968,
@@ -8795,11 +8795,11 @@
     {
         "id": 978,
         "glk_word": "هأچين",
-        "glk_example": "هأچين پلا خۊردن دريم",
-        "fa_word": "خالی",
-        "fa_example": "داریم پلو خالی می‌خوریم",
-        "en_word": "Plain",
-        "en_example": "We're eating plain rice"
+        "glk_example": "هأچين حق ٚ سأى بۊکۊديم",
+        "fa_word": "بیخود",
+        "fa_example": "بیخود تلاش کردیم",
+        "en_word": "For Nothing",
+        "en_example": "We tried for nothing"
     },
     {
         "id": 979,
@@ -8834,8 +8834,8 @@
         "glk_example": "هر ساعت دقه أيه أمي خانه",
         "fa_word": "دم به دقیقه",
         "fa_example": "دم به دقیقه به خانه ما مى‌آید",
-        "en_word": "Every Minute",
-        "en_example": "He/She comes to our house every minute"
+        "en_word": "All The Time",
+        "en_example": "He/She comes to our house all the time"
     },
     {
         "id": 983,

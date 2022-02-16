@@ -11,7 +11,7 @@ If you found that something is wrong, please open an issue. For example if you t
 DON NOT CORRECT THEM DIRECTLY!
 
 ## Last Update
-Updated to version 3.2.0 in 09, Feb 2022.
+Updated to version 3.2.2 in 16, Feb 2022.
 
 ## Generate Your Own List?
 You can easily visit [Top 1000 Words in Gilaki Helper](https://github.com/LordArma/Top-1000-Words-in-Gilaki-Helper) project and generate your own top N words in any language!
