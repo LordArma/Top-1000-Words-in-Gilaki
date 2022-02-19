@@ -20,6 +20,15 @@
 	</word>
 	<word>
 		<id>3</id>
+		<glk_word>آبدۊ</glk_word>
+		<glk_example>آبدۊ کشئن دره</glk_example>
+		<fa_word>خمیازه</fa_word>
+		<fa_example>او خمیازه می‌کشد</fa_example>
+		<en_word>Yawning</en_word>
+		<en_example>He/She is yawning</en_example>
+	</word>
+	<word>
+		<id>4</id>
 		<glk_word>آج</glk_word>
 		<glk_example>آج بأورده</glk_example>
 		<fa_word>سیری‌ناپذیر</fa_word>
@@ -28,7 +37,7 @@
 		<en_example>He/She is insatiable</en_example>
 	</word>
 	<word>
-		<id>4</id>
+		<id>5</id>
 		<glk_word>آجۊر</glk_word>
 		<glk_example>آجۊر ديفار ٚ جأ کفتن دره</glk_example>
 		<fa_word>آجر</fa_word>
@@ -37,7 +46,7 @@
 		<en_example>The brick is falling from the wall</en_example>
 	</word>
 	<word>
-		<id>5</id>
+		<id>6</id>
 		<glk_word>آخربسر</glk_word>
 		<glk_example>من کي دأنم آخربسر وا بأئي مي ويجأ</glk_example>
 		<fa_word>سرانجام</fa_word>
@@ -46,7 +55,7 @@
 		<en_example>I know that you finally must come to me</en_example>
 	</word>
 	<word>
-		<id>6</id>
+		<id>7</id>
 		<glk_word>آخرپس</glk_word>
 		<glk_example>شانامه آخرپس خۊشه</glk_example>
 		<fa_word>پایان</fa_word>
@@ -55,7 +64,7 @@
 		<en_example>The end of Shahnameh is happy</en_example>
 	</word>
 	<word>
-		<id>7</id>
+		<id>8</id>
 		<glk_word>آدم-نفر</glk_word>
 		<glk_example>شيمي آدم -نفران کؤيأ ايسأئيد؟</glk_example>
 		<fa_word>اعضا</fa_word>
@@ -64,7 +73,7 @@
 		<en_example>Where are your members?</en_example>
 	</word>
 	<word>
-		<id>8</id>
+		<id>9</id>
 		<glk_word>آشخال جابه</glk_word>
 		<glk_example>آشخالانأ تأود آشخال جابه</glk_example>
 		<fa_word>سطل زباله</fa_word>
@@ -73,7 +82,7 @@
 		<en_example>Throw garbage in the trash bin</en_example>
 	</word>
 	<word>
-		<id>9</id>
+		<id>10</id>
 		<glk_word>آغۊز</glk_word>
 		<glk_example>آغۊز خۊري؟</glk_example>
 		<fa_word>گردو</fa_word>
@@ -82,7 +91,7 @@
 		<en_example>Do you eat walnut?</en_example>
 	</word>
 	<word>
-		<id>10</id>
+		<id>11</id>
 		<glk_word>آلاخان والاخان</glk_word>
 		<glk_example>آلاخان والاخاني جأ بئتره</glk_example>
 		<fa_word>دربه‌در</fa_word>
@@ -91,7 +100,7 @@
 		<en_example>It is better than being homeless</en_example>
 	</word>
 	<word>
-		<id>11</id>
+		<id>12</id>
 		<glk_word>آها</glk_word>
 		<glk_example>آها، منم أيم</glk_example>
 		<fa_word>بله</fa_word>
@@ -100,7 +109,7 @@
 		<en_example>Yes, I come too</en_example>
 	</word>
 	<word>
-		<id>12</id>
+		<id>13</id>
 		<glk_word>آهين</glk_word>
 		<glk_example>مي دۊکان آهين پۊرد ٚ ور نهأ</glk_example>
 		<fa_word>آهن</fa_word>
@@ -109,7 +118,7 @@
 		<en_example>My shop is next to the iron bridge</en_example>
 	</word>
 	<word>
-		<id>13</id>
+		<id>14</id>
 		<glk_word>آوج</glk_word>
 		<glk_example>هرچي زنگ بزئم آوجأ ندأ</glk_example>
 		<fa_word>جواب</fa_word>
@@ -118,7 +127,7 @@
 		<en_example>Whatever I called he/she didn't answer</en_example>
 	</word>
 	<word>
-		<id>14</id>
+		<id>15</id>
 		<glk_word>ارجئن ارجئن</glk_word>
 		<glk_example>﻿کاغذانأ همهˈ ارجئن ارجئنأ کۊده</glk_example>
 		<fa_word>ریز ریز</fa_word>
@@ -127,7 +136,7 @@
 		<en_example>He/She shred all the papers</en_example>
 	</word>
 	<word>
-		<id>15</id>
+		<id>16</id>
 		<glk_word>اي</glk_word>
 		<glk_example>اي ميليۊن تۊمۊن پۊل خأیم</glk_example>
 		<fa_word>یک</fa_word>
@@ -136,7 +145,7 @@
 		<en_example>I need one million Tomans cash</en_example>
 	</word>
 	<word>
-		<id>16</id>
+		<id>17</id>
 		<glk_word>اي فچم</glk_word>
 		<glk_example>ترأ بيدينم اي فچم ماچي دهم</glk_example>
 		<fa_word>بسیار زیاد</fa_word>
@@ -145,7 +154,7 @@
 		<en_example>If I see you I'll give you a lot of kisses</en_example>
 	</word>
 	<word>
-		<id>17</id>
+		<id>18</id>
 		<glk_word>اي مۊشته</glk_word>
 		<glk_example>اي مۊشته بج مرأ فأدن</glk_example>
 		<fa_word>یک مشت</fa_word>
@@ -154,7 +163,7 @@
 		<en_example>Give me a fistful of rice</en_example>
 	</word>
 	<word>
-		<id>18</id>
+		<id>19</id>
 		<glk_word>اي وخت</glk_word>
 		<glk_example>اي وخت پۊر ترأ خأستيم</glk_example>
 		<fa_word>زمانی</fa_word>
@@ -163,7 +172,7 @@
 		<en_example>I once wanted you so much</en_example>
 	</word>
 	<word>
-		<id>19</id>
+		<id>20</id>
 		<glk_word>اي ور</glk_word>
 		<glk_example>أن ٚ رختان هرتأ اي ور کفته</glk_example>
 		<fa_word>یک گوشه</fa_word>
@@ -172,7 +181,7 @@
 		<en_example>Each one of his/her clothes lies in one corner</en_example>
 	</word>
 	<word>
-		<id>20</id>
+		<id>21</id>
 		<glk_word>اي وري</glk_word>
 		<glk_example>أ تابلؤ چي ره اي وري نهأ؟</glk_example>
 		<fa_word>کج</fa_word>
@@ -181,7 +190,7 @@
 		<en_example>Why is this board crooked?</en_example>
 	</word>
 	<word>
-		<id>21</id>
+		<id>22</id>
 		<glk_word>اي پئم</glk_word>
 		<glk_example>اي پئم سيبيشکا مرأ فأدي؟</glk_example>
 		<fa_word>یک مشت</fa_word>
@@ -190,7 +199,7 @@
 		<en_example>Will you give me a fistful of sunflower seeds?</en_example>
 	</word>
 	<word>
-		<id>22</id>
+		<id>23</id>
 		<glk_word>ايتأ</glk_word>
 		<glk_example>ايتأ کاغذ مرأ فأدن</glk_example>
 		<fa_word>یک</fa_word>
@@ -199,7 +208,7 @@
 		<en_example>Give me a paper</en_example>
 	</word>
 	<word>
-		<id>23</id>
+		<id>24</id>
 		<glk_word>ايجانا</glk_word>
 		<glk_example>من ؤ ميعاد ايجانا بۊشؤئيم بيرۊن</glk_example>
 		<fa_word>با هم</fa_word>
@@ -208,7 +217,7 @@
 		<en_example>Miad and I went out together</en_example>
 	</word>
 	<word>
-		<id>24</id>
+		<id>25</id>
 		<glk_word>ايدانه</glk_word>
 		<glk_example>ايدانه کۊئي خأيم</glk_example>
 		<fa_word>یک عدد</fa_word>
@@ -217,7 +226,7 @@
 		<en_example>I want one pumpkin</en_example>
 	</word>
 	<word>
-		<id>25</id>
+		<id>26</id>
 		<glk_word>ايدفأ</glk_word>
 		<glk_example>ايدفأ بامؤم شيمي خانه</glk_example>
 		<fa_word>یک‌بار</fa_word>
@@ -226,7 +235,7 @@
 		<en_example>I once came to your home</en_example>
 	</word>
 	<word>
-		<id>26</id>
+		<id>27</id>
 		<glk_word>ايدفأئي</glk_word>
 		<glk_example>ناصر ايدفأئي بامؤ اۊتاق ٚ دۊرۊن</glk_example>
 		<fa_word>ناگهان</fa_word>
@@ -235,7 +244,7 @@
 		<en_example>Nasser suddenly entered the room</en_example>
 	</word>
 	<word>
-		<id>27</id>
+		<id>28</id>
 		<glk_word>ايدقه</glk_word>
 		<glk_example>ايدقه بئس</glk_example>
 		<fa_word>یک دقیقه</fa_word>
@@ -244,7 +253,7 @@
 		<en_example>Wait a minute</en_example>
 	</word>
 	<word>
-		<id>28</id>
+		<id>29</id>
 		<glk_word>ايرۊز</glk_word>
 		<glk_example>ايرۊز دئه بمانسته مي تعطيلي-يان تۊمانأ به</glk_example>
 		<fa_word>یک‌روز</fa_word>
@@ -253,7 +262,7 @@
 		<en_example>One day remains until my holidays end</en_example>
 	</word>
 	<word>
-		<id>29</id>
+		<id>30</id>
 		<glk_word>ايزه</glk_word>
 		<glk_example>ايزه بۊشۊ اۊشنتر</glk_example>
 		<fa_word>کمى</fa_word>
@@ -262,7 +271,7 @@
 		<en_example>Move over a little bit</en_example>
 	</word>
 	<word>
-		<id>30</id>
+		<id>31</id>
 		<glk_word>ايسأبيد</glk_word>
 		<glk_example>ديشب همه أمي خانه ايسابيد</glk_example>
 		<fa_word>بودند</fa_word>
@@ -271,7 +280,7 @@
 		<en_example>They were all in our house last night</en_example>
 	</word>
 	<word>
-		<id>31</id>
+		<id>32</id>
 		<glk_word>ايستۊل</glk_word>
 		<glk_example>أشأن چۊب ٚ جأ ایستۊل چأکۊنيد</glk_example>
 		<fa_word>صندلی</fa_word>
@@ -280,7 +289,7 @@
 		<en_example>They make chair out of wood</en_example>
 	</word>
 	<word>
-		<id>32</id>
+		<id>33</id>
 		<glk_word>ايسم</glk_word>
 		<glk_example>تي ايسم چيسه؟</glk_example>
 		<fa_word>نام</fa_word>
@@ -289,7 +298,7 @@
 		<en_example>What's your name?</en_example>
 	</word>
 	<word>
-		<id>33</id>
+		<id>34</id>
 		<glk_word>ايسيد؟</glk_word>
 		<glk_example>شۊمان چن نفر ايسيد؟</glk_example>
 		<fa_word>هستید؟</fa_word>
@@ -298,7 +307,7 @@
 		<en_example>How many people are you?</en_example>
 	</word>
 	<word>
-		<id>34</id>
+		<id>35</id>
 		<glk_word>ايسکمۊ</glk_word>
 		<glk_example>بۊشۊ دۊکان دۊتا ايسکمۊ بيهين</glk_example>
 		<fa_word>بستنی یخی</fa_word>
@@ -307,7 +316,7 @@
 		<en_example>Go to the shop and buy two ice pops</en_example>
 	</word>
 	<word>
-		<id>35</id>
+		<id>36</id>
 		<glk_word>ايشتاو</glk_word>
 		<glk_example>هأی أمرأ ايشتاو ديهه</glk_example>
 		<fa_word>هشدار</fa_word>
@@ -316,7 +325,7 @@
 		<en_example>He/She constantly warning us</en_example>
 	</word>
 	<word>
-		<id>36</id>
+		<id>37</id>
 		<glk_word>ايشتاوي</glk_word>
 		<glk_example>ايشتاوي چي گمه؟</glk_example>
 		<fa_word>می‌شنوی</fa_word>
@@ -325,7 +334,7 @@
 		<en_example>Do you hear what I'm saying?</en_example>
 	</word>
 	<word>
-		<id>37</id>
+		<id>38</id>
 		<glk_word>ايششه</glk_word>
 		<glk_example>ايششه، لانتي</glk_example>
 		<fa_word>اه (لفظ تنفر)</fa_word>
@@ -334,7 +343,7 @@
 		<en_example>Ew, snake</en_example>
 	</word>
 	<word>
-		<id>38</id>
+		<id>39</id>
 		<glk_word>ايشماردن</glk_word>
 		<glk_example>مي زأى ايشماردنأ نأنه</glk_example>
 		<fa_word>شمارش</fa_word>
@@ -343,7 +352,7 @@
 		<en_example>My kid doesn't know how to count</en_example>
 	</word>
 	<word>
-		<id>39</id>
+		<id>40</id>
 		<glk_word>ايشکؤر</glk_word>
 		<glk_example>کيشکائان ٚ رئم ايشکؤر فۊکۊن</glk_example>
 		<fa_word>خرده‌برنج</fa_word>
@@ -352,7 +361,7 @@
 		<en_example>Sprinkle rice crumbs for chickens too</en_example>
 	</word>
 	<word>
-		<id>40</id>
+		<id>41</id>
 		<glk_word>ايشکنئن</glk_word>
 		<glk_example>چي-يأ ايشکنئن دري؟</glk_example>
 		<fa_word>شکستن</fa_word>
@@ -361,7 +370,7 @@
 		<en_example>What are you breaking?</en_example>
 	</word>
 	<word>
-		<id>41</id>
+		<id>42</id>
 		<glk_word>ايمرۊ</glk_word>
 		<glk_example>ايمرۊ بۊشؤم کيتابخانه</glk_example>
 		<fa_word>امروز</fa_word>
@@ -370,22 +379,13 @@
 		<en_example>Today I went to the library</en_example>
 	</word>
 	<word>
-		<id>42</id>
+		<id>43</id>
 		<glk_word>اينسان</glk_word>
 		<glk_example>اينسان بۊبۊ</glk_example>
 		<fa_word>انسان</fa_word>
 		<fa_example>انسان باش</fa_example>
 		<en_word>Human</en_word>
 		<en_example>Be human</en_example>
-	</word>
-	<word>
-		<id>43</id>
-		<glk_word>اينفر</glk_word>
-		<glk_example>اينفر دئه خأئيم أمي جرگه چأکۊده ببه</glk_example>
-		<fa_word>یک‌نفر</fa_word>
-		<fa_example>یک‌نفر دیگر مى‌خواهیم تا گروه‌مان درست شود</fa_example>
-		<en_word>One Person</en_word>
-		<en_example>We need one more person to make our group</en_example>
 	</word>
 	<word>
 		<id>44</id>
@@ -552,7 +552,7 @@
 	<word>
 		<id>62</id>
 		<glk_word>أتؤ</glk_word>
-		<glk_example>أتؤ ني-يه</glk_example>
+		<glk_example>أتؤ نيه</glk_example>
 		<fa_word>چنین</fa_word>
 		<fa_example>چنین نیست</fa_example>
 		<en_word>Like This</en_word>
@@ -561,7 +561,7 @@
 	<word>
 		<id>63</id>
 		<glk_word>أجۊر</glk_word>
-		<glk_example>أجۊر چي-يان مرأ حالي ني-يه</glk_example>
+		<glk_example>أجۊر چي-يان مرأ حالي نيه</glk_example>
 		<fa_word>این‌گونه</fa_word>
 		<fa_example>این‌گونه چیزها را متوجه نمى‌شوم</fa_example>
 		<en_word>Such</en_word>
@@ -632,6 +632,15 @@
 	</word>
 	<word>
 		<id>71</id>
+		<glk_word>ألؤغ</glk_word>
+		<glk_example>باغ ٚ مئن ایتأ ألؤغ بیدئم</glk_example>
+		<fa_word>عقاب</fa_word>
+		<fa_example>در باغ یک عقاب دیدم</fa_example>
+		<en_word>Eagle</en_word>
+		<en_example>I saw an eagle in the garden</en_example>
+	</word>
+	<word>
+		<id>72</id>
 		<glk_word>ألاو</glk_word>
 		<glk_example>جه وس هوا سرده أمي دهنأ ألاو بيرۊن أيه</glk_example>
 		<fa_word>بخار</fa_word>
@@ -640,7 +649,7 @@
 		<en_example>It's too cold that steam come from our mouth</en_example>
 	</word>
 	<word>
-		<id>72</id>
+		<id>73</id>
 		<glk_word>ألباقي</glk_word>
 		<glk_example>شير ٚ ألباقي-يأ دۊکۊن جا دۊرۊن</glk_example>
 		<fa_word>باقى‌مانده</fa_word>
@@ -649,7 +658,7 @@
 		<en_example>Pour the remaining milk into the dish</en_example>
 	</word>
 	<word>
-		<id>73</id>
+		<id>74</id>
 		<glk_word>ألنگ</glk_word>
 		<glk_example>مرأ ألنگ بزه بکفتم</glk_example>
 		<fa_word>پشت پا</fa_word>
@@ -658,7 +667,7 @@
 		<en_example>He/She tripped me and I fell</en_example>
 	</word>
 	<word>
-		<id>74</id>
+		<id>75</id>
 		<glk_word>أمأن</glk_word>
 		<glk_example>أمأن دۊ نفريم</glk_example>
 		<fa_word>ما</fa_word>
@@ -667,7 +676,7 @@
 		<en_example>We are two people</en_example>
 	</word>
 	<word>
-		<id>75</id>
+		<id>76</id>
 		<glk_word>أمؤن</glk_word>
 		<glk_example>ورزشگا جأ أمؤن درم</glk_example>
 		<fa_word>آمدن</fa_word>
@@ -676,7 +685,7 @@
 		<en_example>I'm coming from the stadium</en_example>
 	</word>
 	<word>
-		<id>76</id>
+		<id>77</id>
 		<glk_word>أمبست</glk_word>
 		<glk_example>أ دؤغ پۊر أمبسته</glk_example>
 		<fa_word>غلیظ</fa_word>
@@ -685,7 +694,7 @@
 		<en_example>This yogurt is very thick</en_example>
 	</word>
 	<word>
-		<id>77</id>
+		<id>78</id>
 		<glk_word>أمرأ</glk_word>
 		<glk_example>من تي أمرأ أيم</glk_example>
 		<fa_word>با</fa_word>
@@ -694,7 +703,7 @@
 		<en_example>I'm coming with you</en_example>
 	</word>
 	<word>
-		<id>78</id>
+		<id>79</id>
 		<glk_word>أمي</glk_word>
 		<glk_example>شۊمانم أمي أمرأ أئيدي؟</glk_example>
 		<fa_word>ما</fa_word>
@@ -703,7 +712,7 @@
 		<en_example>Are you also come with us?</en_example>
 	</word>
 	<word>
-		<id>79</id>
+		<id>80</id>
 		<glk_word>أن</glk_word>
 		<glk_example>أن چيسه؟</glk_example>
 		<fa_word>این</fa_word>
@@ -712,7 +721,7 @@
 		<en_example>What is this?</en_example>
 	</word>
 	<word>
-		<id>80</id>
+		<id>81</id>
 		<glk_word>أنديفه</glk_word>
 		<glk_example>أ ساعت چارصد تۊمۊن أنديفه دأره؟</glk_example>
 		<fa_word>ارزش</fa_word>
@@ -721,7 +730,7 @@
 		<en_example>Is this watch worth four handred Tomans?</en_example>
 	</word>
 	<word>
-		<id>81</id>
+		<id>82</id>
 		<glk_word>أنگاره</glk_word>
 		<glk_example>چي ره أنقد أنگاره بيده-ئي؟</glk_example>
 		<fa_word>تدارک</fa_word>
@@ -730,7 +739,7 @@
 		<en_example>Why did you prepare this much?</en_example>
 	</word>
 	<word>
-		<id>82</id>
+		<id>83</id>
 		<glk_word>أوانگاره</glk_word>
 		<glk_example>هأچين أمه ره أوانگاره بيده-ئيم</glk_example>
 		<fa_word>دردسر</fa_word>
@@ -739,7 +748,7 @@
 		<en_example>We made trouble for ourselves because of nothing</en_example>
 	</word>
 	<word>
-		<id>83</id>
+		<id>84</id>
 		<glk_word>أوري</glk_word>
 		<glk_example>مي کافشينأ أوري؟</glk_example>
 		<fa_word>می‌آوری</fa_word>
@@ -748,7 +757,7 @@
 		<en_example>Would you bring me my jacket?</en_example>
 	</word>
 	<word>
-		<id>84</id>
+		<id>85</id>
 		<glk_word>أولي</glk_word>
 		<glk_example>تي أولي زاکه؟</glk_example>
 		<fa_word>اول</fa_word>
@@ -757,7 +766,7 @@
 		<en_example>Is this your first child?</en_example>
 	</word>
 	<word>
-		<id>85</id>
+		<id>86</id>
 		<glk_word>أوير</glk_word>
 		<glk_example>مي ساعتأ أويرأ کۊدم</glk_example>
 		<fa_word>گم</fa_word>
@@ -766,7 +775,7 @@
 		<en_example>I lost my watch</en_example>
 	</word>
 	<word>
-		<id>86</id>
+		<id>87</id>
 		<glk_word>أويستي</glk_word>
 		<glk_example>أشان دۊتا أويستي-يأ مأنيدي</glk_example>
 		<fa_word>هوو</fa_word>
@@ -775,7 +784,7 @@
 		<en_example>These two look like someone's rival wives</en_example>
 	</word>
 	<word>
-		<id>87</id>
+		<id>88</id>
 		<glk_word>أيأ</glk_word>
 		<glk_example>تي کيليدانأ أيأ بنأ بۊم</glk_example>
 		<fa_word>این‌جا</fa_word>
@@ -784,7 +793,7 @@
 		<en_example>You left your keys here</en_example>
 	</word>
 	<word>
-		<id>88</id>
+		<id>89</id>
 		<glk_word>أياز</glk_word>
 		<glk_example>أياز بينيشته گۊلان ٚ سر</glk_example>
 		<fa_word>شبنم</fa_word>
@@ -793,16 +802,16 @@
 		<en_example>There's dew on the flowers</en_example>
 	</word>
 	<word>
-		<id>89</id>
+		<id>90</id>
 		<glk_word>أپچ</glk_word>
 		<glk_example>أن خۊج أپچه</glk_example>
 		<fa_word>بی‌مزه</fa_word>
-		<fa_example>این گلابی وحشی بی‌مزه</fa_example>
+		<fa_example>این گلابی وحشی بی‌مزه است</fa_example>
 		<en_word>Tasteless</en_word>
 		<en_example>This wild pear is tasteless</en_example>
 	</word>
 	<word>
-		<id>90</id>
+		<id>91</id>
 		<glk_word>أژدم</glk_word>
 		<glk_example>تي پلا أژدمه</glk_example>
 		<fa_word>بسیار شور</fa_word>
@@ -811,7 +820,7 @@
 		<en_example>Your rice is very salty</en_example>
 	</word>
 	<word>
-		<id>91</id>
+		<id>92</id>
 		<glk_word>أکه</glk_word>
 		<glk_example>أکه تأنيم بازي بۊکۊنيم؟</glk_example>
 		<fa_word>چه وقت</fa_word>
@@ -820,7 +829,7 @@
 		<en_example>When can we play?</en_example>
 	</word>
 	<word>
-		<id>92</id>
+		<id>93</id>
 		<glk_word>بأور</glk_word>
 		<glk_example>بۊشۊ مي کيفأ بأور</glk_example>
 		<fa_word>بیاور</fa_word>
@@ -829,7 +838,7 @@
 		<en_example>Go Bring my bag</en_example>
 	</word>
 	<word>
-		<id>93</id>
+		<id>94</id>
 		<glk_word>بؤبؤسته</glk_word>
 		<glk_example>أ پلا دئه بؤبؤسته</glk_example>
 		<fa_word>آماده</fa_word>
@@ -838,7 +847,7 @@
 		<en_example>The rice is ready</en_example>
 	</word>
 	<word>
-		<id>94</id>
+		<id>95</id>
 		<glk_word>بؤبؤسته</glk_word>
 		<glk_example>چي بؤبؤسته؟</glk_example>
 		<fa_word>شده است</fa_word>
@@ -847,7 +856,7 @@
 		<en_example>What has been happened?</en_example>
 	</word>
 	<word>
-		<id>95</id>
+		<id>96</id>
 		<glk_word>بؤبؤسته</glk_word>
 		<glk_example>مهسا مرد ٚ ره بؤبؤسته</glk_example>
 		<fa_word>شوهر کردن</fa_word>
@@ -856,7 +865,7 @@
 		<en_example>Mahsa married</en_example>
 	</word>
 	<word>
-		<id>96</id>
+		<id>97</id>
 		<glk_word>بؤرسفته</glk_word>
 		<glk_example>مي کيف ٚ بند بؤرسفته</glk_example>
 		<fa_word>پاره شد</fa_word>
@@ -865,7 +874,7 @@
 		<en_example>My bag's handle is torn</en_example>
 	</word>
 	<word>
-		<id>97</id>
+		<id>98</id>
 		<glk_word>بؤرسن</glk_word>
 		<glk_example>دئه بؤرسن</glk_example>
 		<fa_word>تمام کن</fa_word>
@@ -874,7 +883,7 @@
 		<en_example>Stop it</en_example>
 	</word>
 	<word>
-		<id>98</id>
+		<id>99</id>
 		<glk_word>بؤق</glk_word>
 		<glk_example>ماشين ٚ شيشه بؤق بۊکۊده</glk_example>
 		<fa_word>بخار</fa_word>
@@ -883,7 +892,7 @@
 		<en_example>Car's glass has been steamed</en_example>
 	</word>
 	<word>
-		<id>99</id>
+		<id>100</id>
 		<glk_word>بئس</glk_word>
 		<glk_example>ايمشبأ أمي خانه بئس</glk_example>
 		<fa_word>بمان</fa_word>
@@ -892,7 +901,7 @@
 		<en_example>Stay in our house tonight</en_example>
 	</word>
 	<word>
-		<id>100</id>
+		<id>101</id>
 		<glk_word>بئس</glk_word>
 		<glk_example>ايپچه بئس</glk_example>
 		<fa_word>صبر کن</fa_word>
@@ -901,7 +910,7 @@
 		<en_example>Wait a little bit</en_example>
 	</word>
 	<word>
-		<id>101</id>
+		<id>102</id>
 		<glk_word>بئگان</glk_word>
 		<glk_example>هۊيأ بئگان</glk_example>
 		<fa_word>بیفکن</fa_word>
@@ -910,7 +919,7 @@
 		<en_example>Throw it there</en_example>
 	</word>
 	<word>
-		<id>102</id>
+		<id>103</id>
 		<glk_word>باتم</glk_word>
 		<glk_example>آخربسر خۊ باتمأ فأرسأ</glk_example>
 		<fa_word>سزای عمل</fa_word>
@@ -919,7 +928,7 @@
 		<en_example>He/She got his/her comeuppance in the end</en_example>
 	</word>
 	<word>
-		<id>103</id>
+		<id>104</id>
 		<glk_word>بار بامؤئيد</glk_word>
 		<glk_example>گيلکان نترس بار بامؤئيد</glk_example>
 		<fa_word>تربیت شده‌اند</fa_word>
@@ -928,7 +937,7 @@
 		<en_example>Gileks are trained to be brave</en_example>
 	</word>
 	<word>
-		<id>104</id>
+		<id>105</id>
 		<glk_word>باش</glk_word>
 		<glk_example>خۊ پيله برارأ باشه</glk_example>
 		<fa_word>پیروز</fa_word>
@@ -937,7 +946,7 @@
 		<en_example>He/She is dominant over his/her older brother</en_example>
 	</word>
 	<word>
-		<id>105</id>
+		<id>106</id>
 		<glk_word>باقي بمأنسته</glk_word>
 		<glk_example>أن ٚ باقي بمانسته ٰ چي بۊکۊنم؟</glk_example>
 		<fa_word>باقى‌مانده</fa_word>
@@ -946,7 +955,7 @@
 		<en_example>What shuld I do with the remaining?</en_example>
 	</word>
 	<word>
-		<id>106</id>
+		<id>107</id>
 		<glk_word>بال</glk_word>
 		<glk_example>مي بالأ بيگير</glk_example>
 		<fa_word>دست</fa_word>
@@ -955,7 +964,7 @@
 		<en_example>Take my hand</en_example>
 	</word>
 	<word>
-		<id>107</id>
+		<id>108</id>
 		<glk_word>بال زئن</glk_word>
 		<glk_example>أن ٚ پئر أنأ بال بزه</glk_example>
 		<fa_word>حمایت کردن</fa_word>
@@ -964,7 +973,7 @@
 		<en_example>His/her father supported him/her</en_example>
 	</word>
 	<word>
-		<id>108</id>
+		<id>109</id>
 		<glk_word>بالاخا</glk_word>
 		<glk_example>أمي بالاخا ويريشته</glk_example>
 		<fa_word>هواخواه</fa_word>
@@ -973,7 +982,7 @@
 		<en_example>He/She stood up for us</en_example>
 	</word>
 	<word>
-		<id>109</id>
+		<id>110</id>
 		<glk_word>بامؤخته</glk_word>
 		<glk_example>بامؤخته آدمأ همه دۊس دأريدي</glk_example>
 		<fa_word>با ادب</fa_word>
@@ -982,7 +991,7 @@
 		<en_example>Everyone loves a polite person</en_example>
 	</word>
 	<word>
-		<id>110</id>
+		<id>111</id>
 		<glk_word>بامؤختي</glk_word>
 		<glk_example>اۊشاني کي بۊگؤفتمه بامؤختي؟</glk_example>
 		<fa_word>یاد گرفتی</fa_word>
@@ -991,7 +1000,7 @@
 		<en_example>Did you learn what I said?</en_example>
 	</word>
 	<word>
-		<id>111</id>
+		<id>112</id>
 		<glk_word>ببه</glk_word>
 		<glk_example>أگه أتؤ ببه</glk_example>
 		<fa_word>باشد</fa_word>
@@ -1000,7 +1009,7 @@
 		<en_example>If it be like this</en_example>
 	</word>
 	<word>
-		<id>112</id>
+		<id>113</id>
 		<glk_word>ببه</glk_word>
 		<glk_example>من گب خبربري نۊکۊنم هرچي خأيه ببه بدأ ببه</glk_example>
 		<fa_word>بشود</fa_word>
@@ -1009,7 +1018,7 @@
 		<en_example>I don't gossip whatever it is let it be</en_example>
 	</word>
 	<word>
-		<id>113</id>
+		<id>114</id>
 		<glk_word>بتپسته</glk_word>
 		<glk_example>يخچال أسباب ٚ جأ بتپسته-يه</glk_example>
 		<fa_word>پر</fa_word>
@@ -1018,7 +1027,7 @@
 		<en_example>The fridge is full of things</en_example>
 	</word>
 	<word>
-		<id>114</id>
+		<id>115</id>
 		<glk_word>بج</glk_word>
 		<glk_example>ايمسال بج گيرانأ بؤسته</glk_example>
 		<fa_word>برنج</fa_word>
@@ -1027,7 +1036,7 @@
 		<en_example>Rice has become expensive this year</en_example>
 	</word>
 	<word>
-		<id>115</id>
+		<id>116</id>
 		<glk_word>بجار</glk_word>
 		<glk_example>أگه کاري نۊکۊنيم أمي بجاران همه دس جه شيدي</glk_example>
 		<fa_word>شالیزار</fa_word>
@@ -1036,7 +1045,7 @@
 		<en_example>If we don't do anything all of our rice fields will be gone</en_example>
 	</word>
 	<word>
-		<id>116</id>
+		<id>117</id>
 		<glk_word>بجارکار</glk_word>
 		<glk_example>بجارکار کۊدن دره</glk_example>
 		<fa_word>کشاورزی (در شالیزار)</fa_word>
@@ -1045,7 +1054,7 @@
 		<en_example>He/She is farming on the rice field</en_example>
 	</word>
 	<word>
-		<id>117</id>
+		<id>118</id>
 		<glk_word>بجاوسته</glk_word>
 		<glk_example>کي خۊ بجاوسته آدامسأ تاودأ خيابان ٚ دۊرۊن؟</glk_example>
 		<fa_word>جویده</fa_word>
@@ -1054,7 +1063,7 @@
 		<en_example>Who threw his/her chewed gum in the street?</en_example>
 	</word>
 	<word>
-		<id>118</id>
+		<id>119</id>
 		<glk_word>بجسته</glk_word>
 		<glk_example>مي دس ٚ رگ بجسته</glk_example>
 		<fa_word>برجسته</fa_word>
@@ -1063,7 +1072,7 @@
 		<en_example>The veins on my hand got prominent</en_example>
 	</word>
 	<word>
-		<id>119</id>
+		<id>120</id>
 		<glk_word>بخألي</glk_word>
 		<glk_example>بخألي آخري سال ببه</glk_example>
 		<fa_word>به گمانم</fa_word>
@@ -1072,7 +1081,7 @@
 		<en_example>I guess it's the last year</en_example>
 	</word>
 	<word>
-		<id>120</id>
+		<id>121</id>
 		<glk_word>بدأ</glk_word>
 		<glk_example>بدأ بيدينم چي تأنم بۊکۊنم</glk_example>
 		<fa_word>بگذار</fa_word>
@@ -1081,7 +1090,7 @@
 		<en_example>Let me see what can I do</en_example>
 	</word>
 	<word>
-		<id>121</id>
+		<id>122</id>
 		<glk_word>بدگيل</glk_word>
 		<glk_example>أ ويلایان چندي بدگيل ايسيد</glk_example>
 		<fa_word>زشت</fa_word>
@@ -1090,7 +1099,7 @@
 		<en_example>These villas are so ugly</en_example>
 	</word>
 	<word>
-		<id>122</id>
+		<id>123</id>
 		<glk_word>برأر</glk_word>
 		<glk_example>مي برار بۊشؤ ايجباري</glk_example>
 		<fa_word>برادر</fa_word>
@@ -1099,7 +1108,7 @@
 		<en_example>My brother has gone to military</en_example>
 	</word>
 	<word>
-		<id>123</id>
+		<id>124</id>
 		<glk_word>برار زن</glk_word>
 		<glk_example>أفشين ٚ برارزن مي ريفئقه</glk_example>
 		<fa_word>زن برادر</fa_word>
@@ -1108,7 +1117,7 @@
 		<en_example>Afshin's sister in law is my friend</en_example>
 	</word>
 	<word>
-		<id>124</id>
+		<id>125</id>
 		<glk_word>برارزا</glk_word>
 		<glk_example>مي برارزا بۊشؤ مٚدٚرسه</glk_example>
 		<fa_word>برادرزاده</fa_word>
@@ -1117,7 +1126,7 @@
 		<en_example>My nephew has gone to school</en_example>
 	</word>
 	<word>
-		<id>125</id>
+		<id>126</id>
 		<glk_word>بردن</glk_word>
 		<glk_example>تقي زن ببرده</glk_example>
 		<fa_word>ازدواج (با زن)</fa_word>
@@ -1126,7 +1135,7 @@
 		<en_example>Taghi married</en_example>
 	</word>
 	<word>
-		<id>126</id>
+		<id>127</id>
 		<glk_word>برسه</glk_word>
 		<glk_example>أ خۊرمالۊئان برسه</glk_example>
 		<fa_word>پخته</fa_word>
@@ -1135,7 +1144,7 @@
 		<en_example>These persimmons are ripe</en_example>
 	</word>
 	<word>
-		<id>127</id>
+		<id>128</id>
 		<glk_word>بزن بزن</glk_word>
 		<glk_example>ديرۊ أمي کۊچه سر بزن بزن بۊ</glk_example>
 		<fa_word>درگیرى</fa_word>
@@ -1144,7 +1153,7 @@
 		<en_example>There was a fight in our alley yesterday</en_example>
 	</word>
 	<word>
-		<id>128</id>
+		<id>129</id>
 		<glk_word>بسته</glk_word>
 		<glk_example>بسته کۊني؟</glk_example>
 		<fa_word>شرط</fa_word>
@@ -1153,7 +1162,7 @@
 		<en_example>Do you bet?</en_example>
 	</word>
 	<word>
-		<id>129</id>
+		<id>130</id>
 		<glk_word>بسر تأودأ</glk_word>
 		<glk_example>مأمد مرأ بسر تأودأ بشم بانک</glk_example>
 		<fa_word>یادآورى کرد</fa_word>
@@ -1162,7 +1171,7 @@
 		<en_example>Mohammed reminded me to go to the bank</en_example>
 	</word>
 	<word>
-		<id>130</id>
+		<id>131</id>
 		<glk_word>بسر دکفتم</glk_word>
 		<glk_example>بسر دکفتم ايمسال بشم دانشگا</glk_example>
 		<fa_word>تصمیم گرفتم</fa_word>
@@ -1171,7 +1180,7 @@
 		<en_example>I decided to go to university this year</en_example>
 	</word>
 	<word>
-		<id>131</id>
+		<id>132</id>
 		<glk_word>بسچي</glk_word>
 		<glk_example>بسچي کي أيم</glk_example>
 		<fa_word>به‌طور قطع و یقین</fa_word>
@@ -1180,7 +1189,7 @@
 		<en_example>I'll definitely come</en_example>
 	</word>
 	<word>
-		<id>132</id>
+		<id>133</id>
 		<glk_word>بشکفت</glk_word>
 		<glk_example>ورف ٚ سينگيني جأ أ دار بشکفت</glk_example>
 		<fa_word>شکست</fa_word>
@@ -1189,7 +1198,7 @@
 		<en_example>Because of heavy snow this tree broke</en_example>
 	</word>
 	<word>
-		<id>133</id>
+		<id>134</id>
 		<glk_word>بل</glk_word>
 		<glk_example>أن ٚ بل بل ٚ گۊشأ فأندر</glk_example>
 		<fa_word>پهن و درشت</fa_word>
@@ -1198,7 +1207,7 @@
 		<en_example>Look at his/her protruding ears</en_example>
 	</word>
 	<word>
-		<id>134</id>
+		<id>135</id>
 		<glk_word>بمأنستم</glk_word>
 		<glk_example>دئه بمأنستم</glk_example>
 		<fa_word>از پا افتادنم</fa_word>
@@ -1207,7 +1216,7 @@
 		<en_example>I'm exhausted</en_example>
 	</word>
 	<word>
-		<id>135</id>
+		<id>136</id>
 		<glk_word>بمأنسته</glk_word>
 		<glk_example>أ نان بمانسته-يه</glk_example>
 		<fa_word>بیات</fa_word>
@@ -1216,7 +1225,7 @@
 		<en_example>This bread is stale</en_example>
 	</word>
 	<word>
-		<id>136</id>
+		<id>137</id>
 		<glk_word>بمرده</glk_word>
 		<glk_example>کؤرؤنا وأسي دأني چن نفر بمرده؟</glk_example>
 		<fa_word>مرده</fa_word>
@@ -1225,7 +1234,7 @@
 		<en_example>Do you know how many people are dead because of Corona?</en_example>
 	</word>
 	<word>
-		<id>137</id>
+		<id>138</id>
 		<glk_word>بنأ اۊسان</glk_word>
 		<glk_example>آدم وا خۊ بنأ اۊسانأ بدأنه</glk_example>
 		<fa_word>راه و روش زندگى</fa_word>
@@ -1234,7 +1243,7 @@
 		<en_example>One must know his/her own lifestyle</en_example>
 	</word>
 	<word>
-		<id>138</id>
+		<id>139</id>
 		<glk_word>بندام</glk_word>
 		<glk_example>بندام ٚ آدم ٚ مرأ نوأسي نيشتن</glk_example>
 		<fa_word>بدنام</fa_word>
@@ -1243,7 +1252,7 @@
 		<en_example>Should not communicate with the infamous person</en_example>
 	</word>
 	<word>
-		<id>139</id>
+		<id>140</id>
 		<glk_word>بنماسته</glk_word>
 		<glk_example>خؤرأ أمرأ بنماسته</glk_example>
 		<fa_word>نشان داد</fa_word>
@@ -1252,7 +1261,7 @@
 		<en_example>He/She showed himself/herself to us</en_example>
 	</word>
 	<word>
-		<id>140</id>
+		<id>141</id>
 		<glk_word>بنه</glk_word>
 		<glk_example>تي ماشينأ هأيأ بنه</glk_example>
 		<fa_word>بگذار</fa_word>
@@ -1261,7 +1270,7 @@
 		<en_example>Leave your car right here</en_example>
 	</word>
 	<word>
-		<id>141</id>
+		<id>142</id>
 		<glk_word>به</glk_word>
 		<glk_example>أ راديؤ چأکۊده به؟</glk_example>
 		<fa_word>مى‌شود</fa_word>
@@ -1270,7 +1279,7 @@
 		<en_example>Will this radio be fixed?</en_example>
 	</word>
 	<word>
-		<id>142</id>
+		<id>143</id>
 		<glk_word>به زرف</glk_word>
 		<glk_example>پئله-يأ به زرف بزه زيمين بشکنه</glk_example>
 		<fa_word>محکم</fa_word>
@@ -1279,7 +1288,7 @@
 		<en_example>He/She throw the saucer very hard on the ground and broke it</en_example>
 	</word>
 	<word>
-		<id>143</id>
+		<id>144</id>
 		<glk_word>به فسکأ دأ</glk_word>
 		<glk_example>أمرأ به فسکأ دأ</glk_example>
 		<fa_word>لو داد</fa_word>
@@ -1288,7 +1297,7 @@
 		<en_example>He/She exposed us</en_example>
 	</word>
 	<word>
-		<id>144</id>
+		<id>145</id>
 		<glk_word>بي</glk_word>
 		<glk_example>تۊ ناصر ٚ أمرأ بي</glk_example>
 		<fa_word>بودى</fa_word>
@@ -1297,7 +1306,7 @@
 		<en_example>You where with Naser</en_example>
 	</word>
 	<word>
-		<id>145</id>
+		<id>146</id>
 		<glk_word>بي</glk_word>
 		<glk_example>مي أمرأ ريفئقأ بي؟</glk_example>
 		<fa_word>مى‌شوى</fa_word>
@@ -1306,7 +1315,7 @@
 		<en_example>Will you be my friend?</en_example>
 	</word>
 	<word>
-		<id>146</id>
+		<id>147</id>
 		<glk_word>بي شناق</glk_word>
 		<glk_example>بعضي-يان پۊر بي شناقيد</glk_example>
 		<fa_word>حق نشناس</fa_word>
@@ -1315,7 +1324,7 @@
 		<en_example>Some people are very ungrateful</en_example>
 	</word>
 	<word>
-		<id>147</id>
+		<id>148</id>
 		<glk_word>بي پا</glk_word>
 		<glk_example>گيلان ٚ بجاران همه بي پا بؤستن دره</glk_example>
 		<fa_word>نابود</fa_word>
@@ -1324,7 +1333,7 @@
 		<en_example>All of Gilan's rice fields are being destroyed</en_example>
 	</word>
 	<word>
-		<id>148</id>
+		<id>149</id>
 		<glk_word>بي پۊشت</glk_word>
 		<glk_example>خۊدا بۊکۊنه هي کس بي پۊشت نبه</glk_example>
 		<fa_word>تنها</fa_word>
@@ -1333,7 +1342,7 @@
 		<en_example>May no one be alone</en_example>
 	</word>
 	<word>
-		<id>149</id>
+		<id>150</id>
 		<glk_word>بي چنگ ؤ مۊشت</glk_word>
 		<glk_example>آدم نوأ بي چنگ ؤ مۊشت ببه</glk_example>
 		<fa_word>بى‌عرضه</fa_word>
@@ -1342,7 +1351,7 @@
 		<en_example>One must not be incapable</en_example>
 	</word>
 	<word>
-		<id>150</id>
+		<id>151</id>
 		<glk_word>بياره</glk_word>
 		<glk_example>هرکي وا بياره خۊ گبأ بزنه</glk_example>
 		<fa_word>جرأت کند</fa_word>
@@ -1351,7 +1360,7 @@
 		<en_example>Everyone should dare to tell his/her words</en_example>
 	</word>
 	<word>
-		<id>151</id>
+		<id>152</id>
 		<glk_word>بيافتي</glk_word>
 		<glk_example>وأمج ولکي بيافتي</glk_example>
 		<fa_word>پیدا کردی</fa_word>
@@ -1360,7 +1369,7 @@
 		<en_example>Search it maybe you found it</en_example>
 	</word>
 	<word>
-		<id>152</id>
+		<id>153</id>
 		<glk_word>بيبيشته</glk_word>
 		<glk_example>بيبيشته بج خأيم</glk_example>
 		<fa_word>سرخ شده</fa_word>
@@ -1369,7 +1378,7 @@
 		<en_example>I want fried rice</en_example>
 	</word>
 	<word>
-		<id>153</id>
+		<id>154</id>
 		<glk_word>بيجير</glk_word>
 		<glk_example>بيأ بيجير</glk_example>
 		<fa_word>پایین</fa_word>
@@ -1378,7 +1387,7 @@
 		<en_example>Come down</en_example>
 	</word>
 	<word>
-		<id>154</id>
+		<id>155</id>
 		<glk_word>بيرۊن</glk_word>
 		<glk_example>بۊشۊ بيرۊن</glk_example>
 		<fa_word>بیرون</fa_word>
@@ -1387,7 +1396,7 @@
 		<en_example>Get out</en_example>
 	</word>
 	<word>
-		<id>155</id>
+		<id>156</id>
 		<glk_word>بيسپاردم</glk_word>
 		<glk_example>مرجانأ بيسپاردم</glk_example>
 		<fa_word>سفارش کردم</fa_word>
@@ -1396,7 +1405,7 @@
 		<en_example>I assigned Marjan</en_example>
 	</word>
 	<word>
-		<id>156</id>
+		<id>157</id>
 		<glk_word>بينا کۊده</glk_word>
 		<glk_example>سعيد ديرۊ تا هسأ بينا کۊده درز خأندن</glk_example>
 		<fa_word>شروع کرد</fa_word>
@@ -1405,7 +1414,7 @@
 		<en_example>Saeed started to study from yesterday until now</en_example>
 	</word>
 	<word>
-		<id>157</id>
+		<id>158</id>
 		<glk_word>بينيش</glk_word>
 		<glk_example>أيأ بينيش</glk_example>
 		<fa_word>بنشین</fa_word>
@@ -1414,7 +1423,7 @@
 		<en_example>Sit down Here</en_example>
 	</word>
 	<word>
-		<id>158</id>
+		<id>159</id>
 		<glk_word>بينيويشته-کس</glk_word>
 		<glk_example>أ کيتاب ٚ بينيويشته-کس کيسه؟</glk_example>
 		<fa_word>نویسنده</fa_word>
@@ -1423,7 +1432,7 @@
 		<en_example>Who is the writer of this book?</en_example>
 	</word>
 	<word>
-		<id>159</id>
+		<id>160</id>
 		<glk_word>بيچه-ئي</glk_word>
 		<glk_example>اۊ کۊنۊسأ بيچه-ئي؟</glk_example>
 		<fa_word>چیدی</fa_word>
@@ -1432,7 +1441,7 @@
 		<en_example>Did you pick that common medlar?</en_example>
 	</word>
 	<word>
-		<id>160</id>
+		<id>161</id>
 		<glk_word>بيگيفت</glk_word>
 		<glk_example>مي پۊلأ بيگيفت</glk_example>
 		<fa_word>گرفت</fa_word>
@@ -1441,7 +1450,7 @@
 		<en_example>He/She took my money</en_example>
 	</word>
 	<word>
-		<id>161</id>
+		<id>162</id>
 		<glk_word>بٚسٚر</glk_word>
 		<glk_example>چار ما بسر وا بشم پاریس</glk_example>
 		<fa_word>در میان</fa_word>
@@ -1450,7 +1459,7 @@
 		<en_example>Four months in between I have to go to Paris</en_example>
 	</word>
 	<word>
-		<id>162</id>
+		<id>163</id>
 		<glk_word>بچمسته</glk_word>
 		<glk_example>أنقد بجارکار بۊکۊدد أشان ٚ کمر بچمسته دأره</glk_example>
 		<fa_word>خمیده</fa_word>
@@ -1459,7 +1468,7 @@
 		<en_example>They worked too much in the rice fields that their backs got bent</en_example>
 	</word>
 	<word>
-		<id>163</id>
+		<id>164</id>
 		<glk_word>بچنگأ دأ</glk_word>
 		<glk_example>خۊ پۊلانأ همهˈ بچنگأ دأ</glk_example>
 		<fa_word>از دست داد</fa_word>
@@ -1468,7 +1477,7 @@
 		<en_example>He/She lost all his/her money</en_example>
 	</word>
 	<word>
-		<id>164</id>
+		<id>165</id>
 		<glk_word>بچکسته</glk_word>
 		<glk_example>کارن بچکسته فني کاران ٚ ره</glk_example>
 		<fa_word>شایسته</fa_word>
@@ -1477,7 +1486,7 @@
 		<en_example>Karen is worthy for technical work</en_example>
 	</word>
 	<word>
-		<id>165</id>
+		<id>166</id>
 		<glk_word>بچۊک</glk_word>
 		<glk_example>وحيدأ بيدئم بچۊک نيشته بۊ</glk_example>
 		<fa_word>چمباتمه</fa_word>
@@ -1486,7 +1495,7 @@
 		<en_example>I saw Vahid was sitting in squat</en_example>
 	</word>
 	<word>
-		<id>166</id>
+		<id>167</id>
 		<glk_word>بکأشته</glk_word>
 		<glk_example>أ گۊلانأ حسن بکأشته</glk_example>
 		<fa_word>کاشته</fa_word>
@@ -1495,7 +1504,7 @@
 		<en_example>Hasan planted these flowers</en_example>
 	</word>
 	<word>
-		<id>167</id>
+		<id>168</id>
 		<glk_word>بکشه-ئي</glk_word>
 		<glk_example>چي بکشه-ئي؟</glk_example>
 		<fa_word>رسم کردی</fa_word>
@@ -1504,7 +1513,7 @@
 		<en_example>What did you draw?</en_example>
 	</word>
 	<word>
-		<id>168</id>
+		<id>169</id>
 		<glk_word>بکشه-ئي</glk_word>
 		<glk_example>أشانأ بکشه-ئي</glk_example>
 		<fa_word>وزن کردی</fa_word>
@@ -1513,7 +1522,7 @@
 		<en_example>You weighed these</en_example>
 	</word>
 	<word>
-		<id>169</id>
+		<id>170</id>
 		<glk_word>بکفت</glk_word>
 		<glk_example>زأی دار ٚ جه بکفت</glk_example>
 		<fa_word>افتاد</fa_word>
@@ -1522,7 +1531,7 @@
 		<en_example>The kid fell from the tree</en_example>
 	</word>
 	<word>
-		<id>170</id>
+		<id>171</id>
 		<glk_word>بکفته راشي</glk_word>
 		<glk_example>أرأ شؤن نوأ بکفته راشي-يه</glk_example>
 		<fa_word>جاده متروکه</fa_word>
@@ -1531,7 +1540,7 @@
 		<en_example>Don't go this way it is an abandoned road</en_example>
 	</word>
 	<word>
-		<id>171</id>
+		<id>172</id>
 		<glk_word>بگردستيد</glk_word>
 		<glk_example>أول أمرأ بگردستيد</glk_example>
 		<fa_word>بازرسى کردند</fa_word>
@@ -1540,7 +1549,7 @@
 		<en_example>They inspected us first</en_example>
 	</word>
 	<word>
-		<id>172</id>
+		<id>173</id>
 		<glk_word>بگشت</glk_word>
 		<glk_example>نأنم چي مرأ بگشت</glk_example>
 		<fa_word>نیش زد</fa_word>
@@ -1549,7 +1558,7 @@
 		<en_example>I don't know what bit me?</en_example>
 	</word>
 	<word>
-		<id>173</id>
+		<id>174</id>
 		<glk_word>بگنسته</glk_word>
 		<glk_example>آغۊز بگنسته مي سرأ</glk_example>
 		<fa_word>برخورد کرد</fa_word>
@@ -1558,7 +1567,7 @@
 		<en_example>Walnut hit my head</en_example>
 	</word>
 	<word>
-		<id>174</id>
+		<id>175</id>
 		<glk_word>بگيلأ کۊن</glk_word>
 		<glk_example>أ گبانأ هأيأ بگيلأ کۊن</glk_example>
 		<fa_word>دفن کن</fa_word>
@@ -1567,7 +1576,7 @@
 		<en_example>Bury these words right here</en_example>
 	</word>
 	<word>
-		<id>175</id>
+		<id>176</id>
 		<glk_word>بۊ</glk_word>
 		<glk_example>تي کار بۊ؟</glk_example>
 		<fa_word>بود</fa_word>
@@ -1576,7 +1585,7 @@
 		<en_example>Was it your job?</en_example>
 	</word>
 	<word>
-		<id>176</id>
+		<id>177</id>
 		<glk_word>بۊجؤر</glk_word>
 		<glk_example>بۊشۊ بۊجؤر</glk_example>
 		<fa_word>بالا</fa_word>
@@ -1585,7 +1594,7 @@
 		<en_example>Go up</en_example>
 	</word>
 	<word>
-		<id>177</id>
+		<id>178</id>
 		<glk_word>بۊجؤر اۊتاق</glk_word>
 		<glk_example>زاکانأ ببر بۊجؤر اۊتاق</glk_example>
 		<fa_word>اتاق بالا</fa_word>
@@ -1594,7 +1603,7 @@
 		<en_example>Take the kids to the room the upstairs</en_example>
 	</word>
 	<word>
-		<id>178</id>
+		<id>179</id>
 		<glk_word>بۊخۊس</glk_word>
 		<glk_example>دئره، بۊشۊ بۊخۊس</glk_example>
 		<fa_word>بخواب</fa_word>
@@ -1603,7 +1612,7 @@
 		<en_example>It's late, go to sleep</en_example>
 	</word>
 	<word>
-		<id>179</id>
+		<id>180</id>
 		<glk_word>بۊدۊج</glk_word>
 		<glk_example>تأني مي پرهنأ بۊدۊجي؟</glk_example>
 		<fa_word>بدوز</fa_word>
@@ -1612,7 +1621,7 @@
 		<en_example>Can you sew my shirt?</en_example>
 	</word>
 	<word>
-		<id>180</id>
+		<id>181</id>
 		<glk_word>بۊدۊرۊن</glk_word>
 		<glk_example>بۊشۊ بۊدۊرۊن</glk_example>
 		<fa_word>داخل</fa_word>
@@ -1621,7 +1630,7 @@
 		<en_example>Go inside</en_example>
 	</word>
 	<word>
-		<id>181</id>
+		<id>182</id>
 		<glk_word>بۊرۊز</glk_word>
 		<glk_example>تي فسکأ بۊرۊز دأن نوأ</glk_example>
 		<fa_word>فاش</fa_word>
@@ -1630,7 +1639,7 @@
 		<en_example>Don't reveal your secret</en_example>
 	</word>
 	<word>
-		<id>182</id>
+		<id>183</id>
 		<glk_word>بۊز</glk_word>
 		<glk_example>مي پا بۊز مرأ در کۊنه</glk_example>
 		<fa_word>پاشنه پا</fa_word>
@@ -1639,7 +1648,7 @@
 		<en_example>The heel of my foot hurts</en_example>
 	</word>
 	<word>
-		<id>183</id>
+		<id>184</id>
 		<glk_word>بۊسۊجانه</glk_word>
 		<glk_example>غذايأ همهˈ بۊسۊجانه</glk_example>
 		<fa_word>سوزاند</fa_word>
@@ -1648,7 +1657,7 @@
 		<en_example>He/She burned all the food</en_example>
 	</word>
 	<word>
-		<id>184</id>
+		<id>185</id>
 		<glk_word>بۊشؤستم</glk_word>
 		<glk_example>تي رختانأ بۊشؤستم</glk_example>
 		<fa_word>شستم</fa_word>
@@ -1657,7 +1666,7 @@
 		<en_example>I washed your clothes</en_example>
 	</word>
 	<word>
-		<id>185</id>
+		<id>186</id>
 		<glk_word>بۊفۊرؤختم</glk_word>
 		<glk_example>مي گۊشي-يأ تازگي-يان بۊفرؤختم</glk_example>
 		<fa_word>فروختم</fa_word>
@@ -1666,7 +1675,7 @@
 		<en_example>I sold my phone recently</en_example>
 	</word>
 	<word>
-		<id>186</id>
+		<id>187</id>
 		<glk_word>بۊچۊلکسته</glk_word>
 		<glk_example>أمي باغچه گۊلان بۊچۊلکسته</glk_example>
 		<fa_word>پژمرده</fa_word>
@@ -1675,7 +1684,7 @@
 		<en_example>Our garden's flowers have withered</en_example>
 	</word>
 	<word>
-		<id>187</id>
+		<id>188</id>
 		<glk_word>بۊک بۊکۊده</glk_word>
 		<glk_example>ايمرۊ چي ره بۊک بۊکۊده-ئي؟</glk_example>
 		<fa_word>پکر</fa_word>
@@ -1684,7 +1693,7 @@
 		<en_example>Why are you despondent today?</en_example>
 	</word>
 	<word>
-		<id>188</id>
+		<id>189</id>
 		<glk_word>بۊکۊشيد</glk_word>
 		<glk_example>أشان خأئيد همه ٰ بۊکۊشيد</glk_example>
 		<fa_word>بکشند</fa_word>
@@ -1693,7 +1702,7 @@
 		<en_example>They want to kill everybody</en_example>
 	</word>
 	<word>
-		<id>189</id>
+		<id>190</id>
 		<glk_word>بۊگرؤختيم</glk_word>
 		<glk_example>صابخانه کي بامؤ أمان بۊگرؤختيم</glk_example>
 		<fa_word>فرار کردیم</fa_word>
@@ -1702,7 +1711,7 @@
 		<en_example>When the house owner came we ran away</en_example>
 	</word>
 	<word>
-		<id>190</id>
+		<id>191</id>
 		<glk_word>بۊگۊ بيشتاو</glk_word>
 		<glk_example>شيمي بۊگۊ بيشتاوأ نيشتاوستم</glk_example>
 		<fa_word>گفتگو</fa_word>
@@ -1711,7 +1720,7 @@
 		<en_example>I didn't hear your conversation</en_example>
 	</word>
 	<word>
-		<id>191</id>
+		<id>192</id>
 		<glk_word>بۊگۊ مۊگۊ</glk_word>
 		<glk_example>مي دۊماغ خارش کۊنه بۊگۊ مۊگۊيه</glk_example>
 		<fa_word>غیبت</fa_word>
@@ -1720,7 +1729,7 @@
 		<en_example>My nose itches someone gossiping about me</en_example>
 	</word>
 	<word>
-		<id>192</id>
+		<id>193</id>
 		<glk_word>پئر</glk_word>
 		<glk_example>مي پئر بۊشؤ کار ٚ سر</glk_example>
 		<fa_word>پدر</fa_word>
@@ -1729,7 +1738,7 @@
 		<en_example>My father went to work</en_example>
 	</word>
 	<word>
-		<id>193</id>
+		<id>194</id>
 		<glk_word>پئر ؤ مأر</glk_word>
 		<glk_example>مي پئر ؤ مأر بخانه نئسائيد</glk_example>
 		<fa_word>پدر و مادر</fa_word>
@@ -1738,7 +1747,7 @@
 		<en_example>My parents aren't home</en_example>
 	</word>
 	<word>
-		<id>194</id>
+		<id>195</id>
 		<glk_word>پئر ٚ زن</glk_word>
 		<glk_example>همه-تا پئر ٚ زنان کي بد ني-ئيد</glk_example>
 		<fa_word>نامادرى</fa_word>
@@ -1747,7 +1756,7 @@
 		<en_example>Not all step mothers are bad</en_example>
 	</word>
 	<word>
-		<id>195</id>
+		<id>196</id>
 		<glk_word>پئله</glk_word>
 		<glk_example>چائي-يأ دۊکۊن پئله دۊرۊن</glk_example>
 		<fa_word>نعلبکی</fa_word>
@@ -1756,7 +1765,7 @@
 		<en_example>Pour the tea inside the saucer</en_example>
 	</word>
 	<word>
-		<id>196</id>
+		<id>197</id>
 		<glk_word>پئنج</glk_word>
 		<glk_example>پئنج تا نان خأيم</glk_example>
 		<fa_word>پنج</fa_word>
@@ -1765,7 +1774,7 @@
 		<en_example>I want five breads</en_example>
 	</word>
 	<word>
-		<id>197</id>
+		<id>198</id>
 		<glk_word>پئنجا</glk_word>
 		<glk_example>زري-يم خۊ پئنجا ريالأ فأدأ</glk_example>
 		<fa_word>پنجاه</fa_word>
@@ -1774,7 +1783,7 @@
 		<en_example>Zary also paid her own fifty Rials</en_example>
 	</word>
 	<word>
-		<id>198</id>
+		<id>199</id>
 		<glk_word>پا تۊک</glk_word>
 		<glk_example>تي پا تۊک ٚ سر بئس خانه دۊرۊنأ فأندر</glk_example>
 		<fa_word>نوک پا</fa_word>
@@ -1783,7 +1792,7 @@
 		<en_example>Stand on your toes and look inside the house</en_example>
 	</word>
 	<word>
-		<id>199</id>
+		<id>200</id>
 		<glk_word>پابرانده</glk_word>
 		<glk_example>پابرانده صارا شؤن نوأ</glk_example>
 		<fa_word>پابرهنه</fa_word>
@@ -1792,7 +1801,7 @@
 		<en_example>Don't go in the yard barefoot</en_example>
 	</word>
 	<word>
-		<id>200</id>
+		<id>201</id>
 		<glk_word>پاخت</glk_word>
 		<glk_example>مي دۊماغ پاخته</glk_example>
 		<fa_word>پهن</fa_word>
@@ -1801,7 +1810,7 @@
 		<en_example>My nose is wide</en_example>
 	</word>
 	<word>
-		<id>201</id>
+		<id>202</id>
 		<glk_word>پاستن</glk_word>
 		<glk_example>کۊجي زاکانأ وا پاستن</glk_example>
 		<fa_word>محافظت کردن</fa_word>
@@ -1810,7 +1819,7 @@
 		<en_example>Small children should be protected</en_example>
 	</word>
 	<word>
-		<id>202</id>
+		<id>203</id>
 		<glk_word>پاماله</glk_word>
 		<glk_example>أن لۊاس ٚ پاماله-يه</glk_example>
 		<fa_word>رد پا</fa_word>
@@ -1819,7 +1828,7 @@
 		<en_example>This is a fox footprint</en_example>
 	</word>
 	<word>
-		<id>203</id>
+		<id>204</id>
 		<glk_word>پاپى</glk_word>
 		<glk_example>أمي پاپى بؤبؤسته</glk_example>
 		<fa_word>تعقیب</fa_word>
@@ -1828,16 +1837,16 @@
 		<en_example>He/She chased us</en_example>
 	</word>
 	<word>
-		<id>204</id>
+		<id>205</id>
 		<glk_word>پاچ</glk_word>
-		<glk_example>آدم پاچ ببه أمما آردال نبه</glk_example>
-		<fa_word>کوتاه قد</fa_word>
-		<fa_example>آدم کوتاه قد باشد اما بلند قد بى‌قواره نباشد</fa_example>
+		<glk_example>أمي آغۊز دار هني پاچه</glk_example>
+		<fa_word>کوتاه</fa_word>
+		<fa_example>درخت گردوی ما هنوز کوتاه است</fa_example>
 		<en_word>Short</en_word>
-		<en_example>Better be short than be tall and ugly</en_example>
+		<en_example>Our walnut tree is still short</en_example>
 	</word>
 	<word>
-		<id>205</id>
+		<id>206</id>
 		<glk_word>پاک</glk_word>
 		<glk_example>پاک خؤرأ بزه نيشتاوستن</glk_example>
 		<fa_word>به کل</fa_word>
@@ -1846,7 +1855,7 @@
 		<en_example>He/She totally acted like he/she didn't hear us</en_example>
 	</word>
 	<word>
-		<id>206</id>
+		<id>207</id>
 		<glk_word>پاک</glk_word>
 		<glk_example>سبزي-يانأ پاکۊدي؟</glk_example>
 		<fa_word>تمیز</fa_word>
@@ -1855,7 +1864,7 @@
 		<en_example>Did you clean the vegetables?</en_example>
 	</word>
 	<word>
-		<id>207</id>
+		<id>208</id>
 		<glk_word>پت</glk_word>
 		<glk_example>أمي مؤبل ٚ دسته ٰ پت بزه</glk_example>
 		<fa_word>کرم چوب‌خوار</fa_word>
@@ -1864,7 +1873,7 @@
 		<en_example>The handle of our sofa has been eaten by woodworm</en_example>
 	</word>
 	<word>
-		<id>208</id>
+		<id>209</id>
 		<glk_word>پرأ گيفته</glk_word>
 		<glk_example>زأى تا خۊ مارأ بيده پرأ گيفته</glk_example>
 		<fa_word>بسیار خوشحال شد</fa_word>
@@ -1873,7 +1882,7 @@
 		<en_example>The child became very happy as soon as he/she saw his/her mother</en_example>
 	</word>
 	<word>
-		<id>209</id>
+		<id>210</id>
 		<glk_word>پرأ گيفتيد</glk_word>
 		<glk_example>چيچيني-يان تا پيچايأ بيده-ئيد پرأ گيفتيد</glk_example>
 		<fa_word>پرواز کردند</fa_word>
@@ -1882,7 +1891,7 @@
 		<en_example>The sparrows flew away when they saw the cat</en_example>
 	</word>
 	<word>
-		<id>210</id>
+		<id>211</id>
 		<glk_word>پرکاله</glk_word>
 		<glk_example>ايتأ پرکاله سئب مرأ فأدن</glk_example>
 		<fa_word>تکه</fa_word>
@@ -1891,7 +1900,7 @@
 		<en_example>Give me a piece of apple</en_example>
 	</word>
 	<word>
-		<id>211</id>
+		<id>212</id>
 		<glk_word>پرکيم</glk_word>
 		<glk_example>سرمائي کرأ پرکيم</glk_example>
 		<fa_word>می‌لرزیم</fa_word>
@@ -1900,7 +1909,7 @@
 		<en_example>We're shaking because of the cold</en_example>
 	</word>
 	<word>
-		<id>212</id>
+		<id>213</id>
 		<glk_word>پس</glk_word>
 		<glk_example>وا ويشتر حق ٚ سأى بۊکۊنم نيويره پس دکفم</glk_example>
 		<fa_word>عقب</fa_word>
@@ -1909,7 +1918,7 @@
 		<en_example>I should try more otherwise I'll fall behind</en_example>
 	</word>
 	<word>
-		<id>213</id>
+		<id>214</id>
 		<glk_word>پس بمأنسته</glk_word>
 		<glk_example>تي پس-بمانسته غذايأ فۊکۊن چيري-يان ٚ ره</glk_example>
 		<fa_word>باقى مانده</fa_word>
@@ -1918,7 +1927,7 @@
 		<en_example>Throw your remaining foods for the birds</en_example>
 	</word>
 	<word>
-		<id>214</id>
+		<id>215</id>
 		<glk_word>پس ٚ پۊشت</glk_word>
 		<glk_example>أشانأ ببر اۊ پس ٚ پۊشت تأود</glk_example>
 		<fa_word>در آخرها</fa_word>
@@ -1927,7 +1936,7 @@
 		<en_example>Tiger on those weeks</en_example>
 	</word>
 	<word>
-		<id>215</id>
+		<id>216</id>
 		<glk_word>پسرزأک</glk_word>
 		<glk_example>پسرزأکه، أن ٚ تامأ دکفه</glk_example>
 		<fa_word>پسربچه</fa_word>
@@ -1936,7 +1945,7 @@
 		<en_example>he's a little boy, he craves</en_example>
 	</word>
 	<word>
-		<id>216</id>
+		<id>217</id>
 		<glk_word>پسي</glk_word>
 		<glk_example>أن ٚ پسي تي درزأ فأرس</glk_example>
 		<fa_word>بعد از</fa_word>
@@ -1945,7 +1954,7 @@
 		<en_example>After this study your lessons</en_example>
 	</word>
 	<word>
-		<id>217</id>
+		<id>218</id>
 		<glk_word>پشه دام</glk_word>
 		<glk_example>تاوستانان أگه پشه-دام نمانه، خۊفتن نشأ</glk_example>
 		<fa_word>پشه‌بند</fa_word>
@@ -1954,7 +1963,7 @@
 		<en_example>if there is no mosquito net in summers, you can't sleep</en_example>
 	</word>
 	<word>
-		<id>218</id>
+		<id>219</id>
 		<glk_word>پلکان</glk_word>
 		<glk_example>پلکان ٚ سر نيشتن نوأ</glk_example>
 		<fa_word>پله</fa_word>
@@ -1963,7 +1972,7 @@
 		<en_example>Do not sit on the stairs</en_example>
 	</word>
 	<word>
-		<id>219</id>
+		<id>220</id>
 		<glk_word>پيت</glk_word>
 		<glk_example>أمي خکاره پيتأ بؤسته</glk_example>
 		<fa_word>غُر</fa_word>
@@ -1972,7 +1981,7 @@
 		<en_example>Our pan has been deformed</en_example>
 	</word>
 	<word>
-		<id>220</id>
+		<id>221</id>
 		<glk_word>پيسخاله</glk_word>
 		<glk_example>ايتأ پيسخاله نمک دۊکۊن</glk_example>
 		<fa_word>کمی</fa_word>
@@ -1981,7 +1990,7 @@
 		<en_example>Add a little bit of salt</en_example>
 	</word>
 	<word>
-		<id>221</id>
+		<id>222</id>
 		<glk_word>پيش</glk_word>
 		<glk_example>دریا أمي پيش دره</glk_example>
 		<fa_word>جلو</fa_word>
@@ -1990,7 +1999,7 @@
 		<en_example>The sea is in front of us</en_example>
 	</word>
 	<word>
-		<id>222</id>
+		<id>223</id>
 		<glk_word>پيش</glk_word>
 		<glk_example>پيش کيسه؟</glk_example>
 		<fa_word>شروع کننده بازى</fa_word>
@@ -1999,7 +2008,7 @@
 		<en_example>Who is the one starting game?</en_example>
 	</word>
 	<word>
-		<id>223</id>
+		<id>224</id>
 		<glk_word>پيش دٚوٚد</glk_word>
 		<glk_example>مي پيش دٚوٚد کۊيأ نهأ؟</glk_example>
 		<fa_word>پیش‌بند</fa_word>
@@ -2008,7 +2017,7 @@
 		<en_example>Where is my apron?</en_example>
 	</word>
 	<word>
-		<id>224</id>
+		<id>225</id>
 		<glk_word>پيش گب</glk_word>
 		<glk_example>کيتاب تۊمانأ بؤسته بمانسته أن ٚ پيش گب</glk_example>
 		<fa_word>مقدمه</fa_word>
@@ -2017,7 +2026,7 @@
 		<en_example>The book has finished, only the introduction has left</en_example>
 	</word>
 	<word>
-		<id>225</id>
+		<id>226</id>
 		<glk_word>پيشأشؤ</glk_word>
 		<glk_example>فردأ أمي مئمانان أئيدي وا بيشيم أشان ٚ پيشاشؤ</glk_example>
 		<fa_word>پیشواز</fa_word>
@@ -2026,7 +2035,7 @@
 		<en_example>Tomorrow Our guests should go to your sultan</en_example>
 	</word>
 	<word>
-		<id>226</id>
+		<id>227</id>
 		<glk_word>پيل</glk_word>
 		<glk_example>مي دس پيل بۊکۊده</glk_example>
 		<fa_word>تاول</fa_word>
@@ -2035,7 +2044,7 @@
 		<en_example>My hand has got blistered</en_example>
 	</word>
 	<word>
-		<id>227</id>
+		<id>228</id>
 		<glk_word>پيله</glk_word>
 		<glk_example>ايتأ پيله سئب مرأ فأدن</glk_example>
 		<fa_word>بزرگ</fa_word>
@@ -2044,7 +2053,7 @@
 		<en_example>Give me a big apple</en_example>
 	</word>
 	<word>
-		<id>228</id>
+		<id>229</id>
 		<glk_word>پيله مأر</glk_word>
 		<glk_example>ديرۊ تي پيله مأرأ بیدئم</glk_example>
 		<fa_word>مادربزرگ</fa_word>
@@ -2053,7 +2062,7 @@
 		<en_example>I saw your grandmother yesterday</en_example>
 	</word>
 	<word>
-		<id>229</id>
+		<id>230</id>
 		<glk_word>پيله پئر</glk_word>
 		<glk_example>مي پيله پئر بۊشؤ دریا</glk_example>
 		<fa_word>پدربزرگ</fa_word>
@@ -2062,7 +2071,7 @@
 		<en_example>My grandfather went to the sea</en_example>
 	</word>
 	<word>
-		<id>230</id>
+		<id>231</id>
 		<glk_word>پيله-سۊس</glk_word>
 		<glk_example>کۊرؤش پيله-سۊس ایسه</glk_example>
 		<fa_word>فضول</fa_word>
@@ -2071,7 +2080,7 @@
 		<en_example>Kourosh is nosy</en_example>
 	</word>
 	<word>
-		<id>231</id>
+		<id>232</id>
 		<glk_word>پيلکي</glk_word>
 		<glk_example>هأ پيلکي رۊخان مائي نأره</glk_example>
 		<fa_word>بزرگى</fa_word>
@@ -2080,7 +2089,7 @@
 		<en_example>Such a big river but doesn't have any fish</en_example>
 	</word>
 	<word>
-		<id>232</id>
+		<id>233</id>
 		<glk_word>پينيک</glk_word>
 		<glk_example>تي رختان همه پينيک بزئکه</glk_example>
 		<fa_word>وصله</fa_word>
@@ -2089,7 +2098,7 @@
 		<en_example>All of your clothes has been patched</en_example>
 	</word>
 	<word>
-		<id>233</id>
+		<id>234</id>
 		<glk_word>پينيک-پاره</glk_word>
 		<glk_example>پينيک-پاره رختان تازگي داب بؤبؤسته</glk_example>
 		<fa_word>وصله پینه</fa_word>
@@ -2098,7 +2107,7 @@
 		<en_example>Patched and ripped up clothes are trendy recently</en_example>
 	</word>
 	<word>
-		<id>234</id>
+		<id>235</id>
 		<glk_word>پيچ واپيچ</glk_word>
 		<glk_example>أ مؤضۊ پۊر پيچ واپيچه</glk_example>
 		<fa_word>پیچیده</fa_word>
@@ -2107,7 +2116,7 @@
 		<en_example>This subject is very complicated</en_example>
 	</word>
 	<word>
-		<id>235</id>
+		<id>236</id>
 		<glk_word>پيچأ</glk_word>
 		<glk_example>پيچأ کيشکائان ٚ ره جۊخۊفته دأره</glk_example>
 		<fa_word>گربه</fa_word>
@@ -2116,7 +2125,7 @@
 		<en_example>The cat has ambushed for the chickens</en_example>
 	</word>
 	<word>
-		<id>236</id>
+		<id>237</id>
 		<glk_word>پيچاک</glk_word>
 		<glk_example>پيچاک ٚ وينجي-يأ مأنه</glk_example>
 		<fa_word>چسبنده</fa_word>
@@ -2125,7 +2134,7 @@
 		<en_example>It's sticky like Saghez gum</en_example>
 	</word>
 	<word>
-		<id>237</id>
+		<id>238</id>
 		<glk_word>پٚل</glk_word>
 		<glk_example>مائيأ پٚلأ کۊدم</glk_example>
 		<fa_word>تکه تکه</fa_word>
@@ -2134,7 +2143,7 @@
 		<en_example>I cut the fish in pieces</en_example>
 	</word>
 	<word>
-		<id>238</id>
+		<id>239</id>
 		<glk_word>پٚلف</glk_word>
 		<glk_example>ايتأ پلف ٚ خرس دامان ٚ مئن بيدئم</glk_example>
 		<fa_word>چاق</fa_word>
@@ -2143,7 +2152,7 @@
 		<en_example>I saw a fat bear in the jungle</en_example>
 	</word>
 	<word>
-		<id>239</id>
+		<id>240</id>
 		<glk_word>پۊتار</glk_word>
 		<glk_example>أيأ چي فۊکۊدي؟ پۊتارأ کۊده</glk_example>
 		<fa_word>مورچه</fa_word>
@@ -2152,7 +2161,7 @@
 		<en_example>What did you spill here? the ants gathered</en_example>
 	</word>
 	<word>
-		<id>240</id>
+		<id>241</id>
 		<glk_word>پۊتۊ</glk_word>
 		<glk_example>ترأ پۊتۊ دشان</glk_example>
 		<fa_word>پتو</fa_word>
@@ -2161,7 +2170,7 @@
 		<en_example>Cover yourself with blanket</en_example>
 	</word>
 	<word>
-		<id>241</id>
+		<id>242</id>
 		<glk_word>پۊر</glk_word>
 		<glk_example>اۊتۊبۊسانأ آدم دره پۊر</glk_example>
 		<fa_word>پر</fa_word>
@@ -2170,7 +2179,7 @@
 		<en_example>Buses are full of people</en_example>
 	</word>
 	<word>
-		<id>242</id>
+		<id>243</id>
 		<glk_word>پۊرأ کۊن</glk_word>
 		<glk_example>تيانأ آب دۊکۊن پۊرأ کۊن</glk_example>
 		<fa_word>پرکن</fa_word>
@@ -2179,7 +2188,7 @@
 		<en_example>Fill the stock pot with water</en_example>
 	</word>
 	<word>
-		<id>243</id>
+		<id>244</id>
 		<glk_word>پۊرد</glk_word>
 		<glk_example>آهين پۊردأ دٚواريم دئه فأرسيم</glk_example>
 		<fa_word>پل</fa_word>
@@ -2188,7 +2197,7 @@
 		<en_example>We will reach after we pass through the iron bridge</en_example>
 	</word>
 	<word>
-		<id>244</id>
+		<id>245</id>
 		<glk_word>پۊسته ايشکنه-ئي</glk_word>
 		<glk_example>خؤشحالي جأ پۊسته ايشکنه-ئي</glk_example>
 		<fa_word>بشکن می‌زد</fa_word>
@@ -2197,7 +2206,7 @@
 		<en_example>He/She is snapping because of happiness</en_example>
 	</word>
 	<word>
-		<id>245</id>
+		<id>246</id>
 		<glk_word>پۊشت</glk_word>
 		<glk_example>بۊشۊ فأندر در ٚ پۊشت کي ايسأ؟</glk_example>
 		<fa_word>پشت</fa_word>
@@ -2206,7 +2215,7 @@
 		<en_example>Go and see who is behind the door?</en_example>
 	</word>
 	<word>
-		<id>246</id>
+		<id>247</id>
 		<glk_word>پۊشتابد</glk_word>
 		<glk_example>تي پۊشتابدأ اۊسان بيشيم</glk_example>
 		<fa_word>کوله‌پشتى</fa_word>
@@ -2215,7 +2224,7 @@
 		<en_example>Pick up your backpack and let's go</en_example>
 	</word>
 	<word>
-		<id>247</id>
+		<id>248</id>
 		<glk_word>پۊشتين</glk_word>
 		<glk_example>گيلک گيلک ٚ پۊشتينه</glk_example>
 		<fa_word>پشتیبان</fa_word>
@@ -2224,7 +2233,7 @@
 		<en_example>Gilak is Gilak's supporter</en_example>
 	</word>
 	<word>
-		<id>248</id>
+		<id>249</id>
 		<glk_word>پۊل</glk_word>
 		<glk_example>ايپچه پۊل دأري مرأ فأدي؟</glk_example>
 		<fa_word>پول</fa_word>
@@ -2233,7 +2242,7 @@
 		<en_example>Do you have some money to give me?</en_example>
 	</word>
 	<word>
-		<id>249</id>
+		<id>250</id>
 		<glk_word>پۊلۊک</glk_word>
 		<glk_example>مي پرهن ٚ پۊلۊک بکفته</glk_example>
 		<fa_word>دکمه</fa_word>
@@ -2242,7 +2251,7 @@
 		<en_example>My shirt button has fallen off</en_example>
 	</word>
 	<word>
-		<id>250</id>
+		<id>251</id>
 		<glk_word>تأنم</glk_word>
 		<glk_example>تأنم أنأ چاکۊنم</glk_example>
 		<fa_word>می‌توانم</fa_word>
@@ -2251,7 +2260,7 @@
 		<en_example>I can fix it</en_example>
 	</word>
 	<word>
-		<id>251</id>
+		<id>252</id>
 		<glk_word>تا به تا</glk_word>
 		<glk_example>تي جۊرافان چي وأسي تا به تايه؟</glk_example>
 		<fa_word>لنگه به لنگه</fa_word>
@@ -2260,7 +2269,7 @@
 		<en_example>Why are your socks mismatched?</en_example>
 	</word>
 	<word>
-		<id>252</id>
+		<id>253</id>
 		<glk_word>تا هسأ</glk_word>
 		<glk_example>تا هسأ کۊرم کلاچ بازي بۊکۊده-ئي؟</glk_example>
 		<fa_word>تا به حال</fa_word>
@@ -2269,7 +2278,7 @@
 		<en_example>Have you ever played Kooram Kalacham?</en_example>
 	</word>
 	<word>
-		<id>253</id>
+		<id>254</id>
 		<glk_word>تاتایي</glk_word>
 		<glk_example>أن تاتایيأ مرأ اۊسه کۊن</glk_example>
 		<fa_word>عکس</fa_word>
@@ -2278,7 +2287,7 @@
 		<en_example>Send me this picture</en_example>
 	</word>
 	<word>
-		<id>254</id>
+		<id>255</id>
 		<glk_word>تاخت</glk_word>
 		<glk_example>تاختأگير بخانه</glk_example>
 		<fa_word>سرعت</fa_word>
@@ -2287,7 +2296,7 @@
 		<en_example>Go home quickly</en_example>
 	</word>
 	<word>
-		<id>255</id>
+		<id>256</id>
 		<glk_word>تارانه</glk_word>
 		<glk_example>أن ٚ کرد ٚکار همهˈ اۊن ٚ جأ تارانه</glk_example>
 		<fa_word>دور می‌کند</fa_word>
@@ -2296,7 +2305,7 @@
 		<en_example>His/Her behavior keeps everyone away from him/her</en_example>
 	</word>
 	<word>
-		<id>256</id>
+		<id>257</id>
 		<glk_word>تازه</glk_word>
 		<glk_example>تازه-چي بۊگۊ</glk_example>
 		<fa_word>جدید</fa_word>
@@ -2305,7 +2314,7 @@
 		<en_example>Say something new</en_example>
 	</word>
 	<word>
-		<id>257</id>
+		<id>258</id>
 		<glk_word>تازگي-يان</glk_word>
 		<glk_example>تازگي-یان عليأ بيدئي؟</glk_example>
 		<fa_word>به تازگى</fa_word>
@@ -2314,7 +2323,7 @@
 		<en_example>Have you seen Ali recently?</en_example>
 	</word>
 	<word>
-		<id>258</id>
+		<id>259</id>
 		<glk_word>تاشتن</glk_word>
 		<glk_example>مي ريشأ تاشتن درم</glk_example>
 		<fa_word>تراشیدن</fa_word>
@@ -2323,7 +2332,7 @@
 		<en_example>I'm shaving my beard</en_example>
 	</word>
 	<word>
-		<id>259</id>
+		<id>260</id>
 		<glk_word>تالان تالاني</glk_word>
 		<glk_example>أ تالان تالاني دۊرۊن نان گيرانأ بؤسته</glk_example>
 		<fa_word>هرج و مرج</fa_word>
@@ -2332,7 +2341,7 @@
 		<en_example>In this chaos bread became more expensive</en_example>
 	</word>
 	<word>
-		<id>260</id>
+		<id>261</id>
 		<glk_word>تام</glk_word>
 		<glk_example>تام بزن</glk_example>
 		<fa_word>سکوت</fa_word>
@@ -2341,7 +2350,7 @@
 		<en_example>Be quiet</en_example>
 	</word>
 	<word>
-		<id>261</id>
+		<id>262</id>
 		<glk_word>تام</glk_word>
 		<glk_example>ايجۊر غذا خۊري آدم ٚ تامأ دکفه</glk_example>
 		<fa_word>هوس</fa_word>
@@ -2350,7 +2359,7 @@
 		<en_example>The way you eating makes me crave</en_example>
 	</word>
 	<word>
-		<id>262</id>
+		<id>263</id>
 		<glk_word>تامتۊمازه</glk_word>
 		<glk_example>تامتۊمازه نيشته بۊ</glk_example>
 		<fa_word>بى سر و صدا</fa_word>
@@ -2359,7 +2368,7 @@
 		<en_example>He/She was sitting without any noise</en_example>
 	</word>
 	<word>
-		<id>263</id>
+		<id>264</id>
 		<glk_word>تان</glk_word>
 		<glk_example>کاسپي دريا تان همه-جۊر مائي دره</glk_example>
 		<fa_word>عمق</fa_word>
@@ -2368,7 +2377,7 @@
 		<en_example>In the depth of Caspian sea, there are all kind of fishes</en_example>
 	</word>
 	<word>
-		<id>264</id>
+		<id>265</id>
 		<glk_word>تاوده</glk_word>
 		<glk_example>آشخالانأ تاوده اۊرأ</glk_example>
 		<fa_word>پرتاب می‌کند</fa_word>
@@ -2377,7 +2386,7 @@
 		<en_example>He/She throws the garbages over there</en_example>
 	</word>
 	<word>
-		<id>265</id>
+		<id>266</id>
 		<glk_word>تترج</glk_word>
 		<glk_example>هأتؤ تترج بنه</glk_example>
 		<fa_word>پشت سر هم</fa_word>
@@ -2386,7 +2395,7 @@
 		<en_example>Put it in a row</en_example>
 	</word>
 	<word>
-		<id>266</id>
+		<id>267</id>
 		<glk_word>تجرۊبه</glk_word>
 		<glk_example>مي تجرۊبه گه أ کار آخرپس نأره</glk_example>
 		<fa_word>تجربه</fa_word>
@@ -2395,7 +2404,7 @@
 		<en_example>My experience says this doesn't work</en_example>
 	</word>
 	<word>
-		<id>267</id>
+		<id>268</id>
 		<glk_word>تر ٚ راکه</glk_word>
 		<glk_example>تر ٚ راکه مرأ دکفته أمي دۊمبال</glk_example>
 		<fa_word>شاخه نازک</fa_word>
@@ -2404,7 +2413,7 @@
 		<en_example>He/She followed us with a thin branch</en_example>
 	</word>
 	<word>
-		<id>268</id>
+		<id>269</id>
 		<glk_word>تر ٚ چسب</glk_word>
 		<glk_example>تر ٚ چسب بۊشۊ</glk_example>
 		<fa_word>فرز</fa_word>
@@ -2413,7 +2422,7 @@
 		<en_example>Go nimbly</en_example>
 	</word>
 	<word>
-		<id>269</id>
+		<id>270</id>
 		<glk_word>ترسانه</glk_word>
 		<glk_example>تي گبان أمرأ ترسانه</glk_example>
 		<fa_word>می‌ترساند</fa_word>
@@ -2422,7 +2431,7 @@
 		<en_example>Your words scare us</en_example>
 	</word>
 	<word>
-		<id>270</id>
+		<id>271</id>
 		<glk_word>ترکمه</glk_word>
 		<glk_example>أ زأى چقد ترکمه-يه؟</glk_example>
 		<fa_word>حرف نشنو</fa_word>
@@ -2431,7 +2440,7 @@
 		<en_example>How is this kid so disobedient?</en_example>
 	</word>
 	<word>
-		<id>271</id>
+		<id>272</id>
 		<glk_word>تس</glk_word>
 		<glk_example>أنقد بۊخۊرده تسأ بؤسته</glk_example>
 		<fa_word>ولو شدن بعد از پرخورى</fa_word>
@@ -2440,7 +2449,7 @@
 		<en_example>He/She is relaxed after eating to much</en_example>
 	</word>
 	<word>
-		<id>272</id>
+		<id>273</id>
 		<glk_word>تسک ٚ ديل</glk_word>
 		<glk_example>بۊشؤم مي مأر ٚ خبرأگير تسک ٚ ديل بۊ</glk_example>
 		<fa_word>دلتنگ</fa_word>
@@ -2449,7 +2458,7 @@
 		<en_example>I went to visit my mother she was missing me</en_example>
 	</word>
 	<word>
-		<id>273</id>
+		<id>274</id>
 		<glk_word>تشت</glk_word>
 		<glk_example>تشتأ اۊسان بأور</glk_example>
 		<fa_word>ظرف مسی (با لبه بلند)</fa_word>
@@ -2458,7 +2467,7 @@
 		<en_example>Take that copper dish and bring it</en_example>
 	</word>
 	<word>
-		<id>274</id>
+		<id>275</id>
 		<glk_word>تشتا</glk_word>
 		<glk_example>مرأ تشتايه</glk_example>
 		<fa_word>تشنه</fa_word>
@@ -2467,7 +2476,7 @@
 		<en_example>I'm thirsty</en_example>
 	</word>
 	<word>
-		<id>275</id>
+		<id>276</id>
 		<glk_word>تفاق دکفته</glk_word>
 		<glk_example>منم نأنم چي تفاق دکفته دأره</glk_example>
 		<fa_word>اتفاق افتاده</fa_word>
@@ -2476,7 +2485,7 @@
 		<en_example>I don't know what happened either</en_example>
 	</word>
 	<word>
-		<id>276</id>
+		<id>277</id>
 		<glk_word>تفتک</glk_word>
 		<glk_example>أ تفتک دۊمرتبه بامؤ</glk_example>
 		<fa_word>مزاحم</fa_word>
@@ -2485,7 +2494,7 @@
 		<en_example>This annoying person came again</en_example>
 	</word>
 	<word>
-		<id>277</id>
+		<id>278</id>
 		<glk_word>تنگام</glk_word>
 		<glk_example>داوۊدأ ترسأ گيره أ تنگام ٚ کۊچهˈنأ دٚواره</glk_example>
 		<fa_word>تنگ و تاریک</fa_word>
@@ -2494,7 +2503,7 @@
 		<en_example>Davood scares to pass these narrow and dark alleys</en_example>
 	</word>
 	<word>
-		<id>278</id>
+		<id>279</id>
 		<glk_word>تنگر</glk_word>
 		<glk_example>آسمان ٚ جأ تنگر أمؤن دره</glk_example>
 		<fa_word>تگرگ</fa_word>
@@ -2503,7 +2512,7 @@
 		<en_example>Hail is falling from the sky</en_example>
 	</word>
 	<word>
-		<id>279</id>
+		<id>280</id>
 		<glk_word>ته ره</glk_word>
 		<glk_example>أ پرهنأ ته ره بيهين</glk_example>
 		<fa_word>براى خودت</fa_word>
@@ -2512,7 +2521,7 @@
 		<en_example>Buy this shirt for yourself</en_example>
 	</word>
 	<word>
-		<id>280</id>
+		<id>281</id>
 		<glk_word>تهب بسر</glk_word>
 		<glk_example>أمي أمبارأ جنس دره تهب بسر</glk_example>
 		<fa_word>لبالب</fa_word>
@@ -2521,7 +2530,7 @@
 		<en_example>Our warehouse is full of items</en_example>
 	</word>
 	<word>
-		<id>281</id>
+		<id>282</id>
 		<glk_word>تي</glk_word>
 		<glk_example>أن تي کاره؟</glk_example>
 		<fa_word>تو</fa_word>
@@ -2530,7 +2539,7 @@
 		<en_example>It it your job?</en_example>
 	</word>
 	<word>
-		<id>282</id>
+		<id>283</id>
 		<glk_word>تي</glk_word>
 		<glk_example>من تي مرأ أيم</glk_example>
 		<fa_word>تو</fa_word>
@@ -2539,7 +2548,7 @@
 		<en_example>I'll come with you</en_example>
 	</word>
 	<word>
-		<id>283</id>
+		<id>284</id>
 		<glk_word>تيان</glk_word>
 		<glk_example>بۊشۊ تيانأ بأور</glk_example>
 		<fa_word>دیگ</fa_word>
@@ -2548,7 +2557,7 @@
 		<en_example>Go bring the pot</en_example>
 	</word>
 	<word>
-		<id>284</id>
+		<id>285</id>
 		<glk_word>تيتالي</glk_word>
 		<glk_example>زاکان ٚ تيتالي ره کيتاب بخأنيد</glk_example>
 		<fa_word>سرگرمى</fa_word>
@@ -2557,16 +2566,16 @@
 		<en_example>Read books to entertain kids</en_example>
 	</word>
 	<word>
-		<id>285</id>
+		<id>286</id>
 		<glk_word>تيج</glk_word>
-		<glk_example>أ چاقۊ تيج ني-يه</glk_example>
+		<glk_example>أ چاقۊ تيج نيه</glk_example>
 		<fa_word>تیز</fa_word>
 		<fa_example>این چاقو تیز نیست</fa_example>
 		<en_word>Sharp</en_word>
 		<en_example>This knife is not sharp</en_example>
 	</word>
 	<word>
-		<id>286</id>
+		<id>287</id>
 		<glk_word>تيري پيري</glk_word>
 		<glk_example>مي چۊمان تيري پيري شه</glk_example>
 		<fa_word>سیاهی</fa_word>
@@ -2575,7 +2584,7 @@
 		<en_example>My eyes go dark</en_example>
 	</word>
 	<word>
-		<id>287</id>
+		<id>288</id>
 		<glk_word>تيريج مائي</glk_word>
 		<glk_example>تيريج مائي کأسپي دریا مئن زيويسته</glk_example>
 		<fa_word>ازون‌برون</fa_word>
@@ -2584,7 +2593,7 @@
 		<en_example>Starry sturgeon fish lives in the Caspian sea</en_example>
 	</word>
 	<word>
-		<id>288</id>
+		<id>289</id>
 		<glk_word>تينتير</glk_word>
 		<glk_example>هأی مه ره تينتير أمؤئي</glk_example>
 		<fa_word>عشوه</fa_word>
@@ -2593,7 +2602,7 @@
 		<en_example>He/she was constantly coquetting with me</en_example>
 	</word>
 	<word>
-		<id>289</id>
+		<id>290</id>
 		<glk_word>تي‌تي</glk_word>
 		<glk_example>سئب دار تي‌تي بۊکۊده</glk_example>
 		<fa_word>شکوفه</fa_word>
@@ -2602,7 +2611,7 @@
 		<en_example>The apple tree has blossome</en_example>
 	</word>
 	<word>
-		<id>290</id>
+		<id>291</id>
 		<glk_word>تٚلٚس</glk_word>
 		<glk_example>مي چۊم تلس بۊکۊد</glk_example>
 		<fa_word>ورم</fa_word>
@@ -2611,7 +2620,7 @@
 		<en_example>My eye is swollen</en_example>
 	</word>
 	<word>
-		<id>291</id>
+		<id>292</id>
 		<glk_word>تٚمٚش</glk_word>
 		<glk_example>تٚمٚش مي دسأ جيجا کۊنه</glk_example>
 		<fa_word>خار</fa_word>
@@ -2620,7 +2629,7 @@
 		<en_example>Thorn wounds my hand</en_example>
 	</word>
 	<word>
-		<id>292</id>
+		<id>293</id>
 		<glk_word>تک</glk_word>
 		<glk_example>بزه مي تکأ</glk_example>
 		<fa_word>پهلو</fa_word>
@@ -2629,7 +2638,7 @@
 		<en_example>He/she hit my rib</en_example>
 	</word>
 	<word>
-		<id>293</id>
+		<id>294</id>
 		<glk_word>تک دٚوٚد</glk_word>
 		<glk_example>حسن تک دٚوٚده</glk_example>
 		<fa_word>خالى‌بند</fa_word>
@@ -2638,7 +2647,7 @@
 		<en_example>Hassan is a bluff</en_example>
 	</word>
 	<word>
-		<id>294</id>
+		<id>295</id>
 		<glk_word>تکام</glk_word>
 		<glk_example>هأچين تي سرأ تکام دأن نوأ</glk_example>
 		<fa_word>تکان</fa_word>
@@ -2647,7 +2656,7 @@
 		<en_example>Don't shake your head for nothing</en_example>
 	</word>
 	<word>
-		<id>295</id>
+		<id>296</id>
 		<glk_word>تۊر</glk_word>
 		<glk_example>پاک تۊرأ بؤسته دأره</glk_example>
 		<fa_word>دیوانه</fa_word>
@@ -2656,7 +2665,7 @@
 		<en_example>He/She is gone totally mad</en_example>
 	</word>
 	<word>
-		<id>296</id>
+		<id>297</id>
 		<glk_word>تۊرتۊره</glk_word>
 		<glk_example>پارچهˈ همهˈ تۊرتۊره  ٰ کۊد</glk_example>
 		<fa_word>پاره پاره</fa_word>
@@ -2665,7 +2674,7 @@
 		<en_example>He/She shredded all the cloth</en_example>
 	</word>
 	<word>
-		<id>297</id>
+		<id>298</id>
 		<glk_word>تۊشک</glk_word>
 		<glk_example>خۊلي تۊشکأ فيشان</glk_example>
 		<fa_word>هسته</fa_word>
@@ -2674,7 +2683,7 @@
 		<en_example>Throw away the greengage's seed</en_example>
 	</word>
 	<word>
-		<id>298</id>
+		<id>299</id>
 		<glk_word>تۊشکه</glk_word>
 		<glk_example>أ تۊشکه وا نيبه</glk_example>
 		<fa_word>گره</fa_word>
@@ -2683,7 +2692,7 @@
 		<en_example>This knot doesn't untie</en_example>
 	</word>
 	<word>
-		<id>299</id>
+		<id>300</id>
 		<glk_word>تۊقا</glk_word>
 		<glk_example>من گيلان ٚ تۊقايم</glk_example>
 		<fa_word>عاشق</fa_word>
@@ -2692,7 +2701,7 @@
 		<en_example>I'm fond of Gilan</en_example>
 	</word>
 	<word>
-		<id>300</id>
+		<id>301</id>
 		<glk_word>تۊمان</glk_word>
 		<glk_example>مي تۊمان کؤیا نهأ؟</glk_example>
 		<fa_word>شلوار</fa_word>
@@ -2701,7 +2710,7 @@
 		<en_example>Where are my pants?</en_example>
 	</word>
 	<word>
-		<id>301</id>
+		<id>302</id>
 		<glk_word>تۊمان</glk_word>
 		<glk_example>فئلم تۊمانأ بؤسته؟</glk_example>
 		<fa_word>تمام</fa_word>
@@ -2710,7 +2719,7 @@
 		<en_example>Is the movie over?</en_example>
 	</word>
 	<word>
-		<id>302</id>
+		<id>303</id>
 		<glk_word>تۊند</glk_word>
 		<glk_example>پۊر تۊند بۊ</glk_example>
 		<fa_word>تند (بداخلاق)</fa_word>
@@ -2719,7 +2728,7 @@
 		<en_example>He/She was very bad tempered</en_example>
 	</word>
 	<word>
-		<id>303</id>
+		<id>304</id>
 		<glk_word>تۊند</glk_word>
 		<glk_example>تۊند بيأ</glk_example>
 		<fa_word>سریع</fa_word>
@@ -2728,7 +2737,7 @@
 		<en_example>Come quickly</en_example>
 	</word>
 	<word>
-		<id>304</id>
+		<id>305</id>
 		<glk_word>تۊنداتۊند</glk_word>
 		<glk_example>تۊنداتۊند بۊشؤ</glk_example>
 		<fa_word>با شتاب</fa_word>
@@ -2737,7 +2746,7 @@
 		<en_example>He/She went hastily</en_example>
 	</word>
 	<word>
-		<id>305</id>
+		<id>306</id>
 		<glk_word>تۊنگۊله</glk_word>
 		<glk_example>دۊتأ تۊنگۊله بزن</glk_example>
 		<fa_word>تلنگر</fa_word>
@@ -2746,7 +2755,7 @@
 		<en_example>Flick twice</en_example>
 	</word>
 	<word>
-		<id>306</id>
+		<id>307</id>
 		<glk_word>تۊک</glk_word>
 		<glk_example>کيشکائانأ دۊمبالأ کۊني أشان ٚ مأر ترأ تۊک گيره</glk_example>
 		<fa_word>نوک</fa_word>
@@ -2755,7 +2764,7 @@
 		<en_example>When you following chickens their mother will peck you</en_example>
 	</word>
 	<word>
-		<id>307</id>
+		<id>308</id>
 		<glk_word>تۊک</glk_word>
 		<glk_example>تي تۊک خۊن أمؤن دره</glk_example>
 		<fa_word>لب</fa_word>
@@ -2764,7 +2773,7 @@
 		<en_example>Your lip is bleeding</en_example>
 	</word>
 	<word>
-		<id>308</id>
+		<id>309</id>
 		<glk_word>تۊکاپره</glk_word>
 		<glk_example>سجاد ؤ أکبر تۊکاپرهˈ ديبيد</glk_example>
 		<fa_word>جر و بحث</fa_word>
@@ -2773,7 +2782,7 @@
 		<en_example>Farzad and Ahmad were arguing</en_example>
 	</word>
 	<word>
-		<id>309</id>
+		<id>310</id>
 		<glk_word>تۊکه</glk_word>
 		<glk_example>آب تۊکه کۊنه</glk_example>
 		<fa_word>چکه</fa_word>
@@ -2782,7 +2791,7 @@
 		<en_example>Water is dripping</en_example>
 	</word>
 	<word>
-		<id>310</id>
+		<id>311</id>
 		<glk_word>تۊکه</glk_word>
 		<glk_example>ايتأ تۊکه آب مرأ فأدن</glk_example>
 		<fa_word>اندک</fa_word>
@@ -2791,7 +2800,7 @@
 		<en_example>Give me a little bit of water</en_example>
 	</word>
 	<word>
-		<id>311</id>
+		<id>312</id>
 		<glk_word>جأ</glk_word>
 		<glk_example>نادر ٚ جأ فگيفتم</glk_example>
 		<fa_word>از</fa_word>
@@ -2800,7 +2809,7 @@
 		<en_example>I got it from Nader</en_example>
 	</word>
 	<word>
-		<id>312</id>
+		<id>313</id>
 		<glk_word>جأ</glk_word>
 		<glk_example>کي جأ بامؤ دأري؟</glk_example>
 		<fa_word>از جانب</fa_word>
@@ -2809,7 +2818,7 @@
 		<en_example>Who did you come from?</en_example>
 	</word>
 	<word>
-		<id>313</id>
+		<id>314</id>
 		<glk_word>جأ</glk_word>
 		<glk_example>تۊ لیلا جأ بيأ</glk_example>
 		<fa_word>به جاى</fa_word>
@@ -2818,7 +2827,7 @@
 		<en_example>You come instead of Leila</en_example>
 	</word>
 	<word>
-		<id>314</id>
+		<id>315</id>
 		<glk_word>جؤر</glk_word>
 		<glk_example>تي وسيله ٰن کابينت ٚ جؤر نهأ</glk_example>
 		<fa_word>بالا</fa_word>
@@ -2827,7 +2836,7 @@
 		<en_example>Your stuff are on top of the cabinet</en_example>
 	</word>
 	<word>
-		<id>315</id>
+		<id>316</id>
 		<glk_word>جؤرأکش</glk_word>
 		<glk_example>أن تاتایيأ جؤرأکش</glk_example>
 		<fa_word>بارگذاری</fa_word>
@@ -2836,7 +2845,7 @@
 		<en_example>Upload this picture</en_example>
 	</word>
 	<word>
-		<id>316</id>
+		<id>317</id>
 		<glk_word>جابجا</glk_word>
 		<glk_example>تا أنأ بۊگؤفتيم، جابجا بۊشؤ</glk_example>
 		<fa_word>سریع</fa_word>
@@ -2845,7 +2854,7 @@
 		<en_example>When we told him/her, he/she left so fast</en_example>
 	</word>
 	<word>
-		<id>317</id>
+		<id>318</id>
 		<glk_word>جابه</glk_word>
 		<glk_example>پرتخالانأ ديچين جابه دۊرۊن</glk_example>
 		<fa_word>جعبه</fa_word>
@@ -2854,7 +2863,7 @@
 		<en_example>Arrange the oranges in the box</en_example>
 	</word>
 	<word>
-		<id>318</id>
+		<id>319</id>
 		<glk_word>جاجيگا</glk_word>
 		<glk_example>گيلان أمي جاجيگايه</glk_example>
 		<fa_word>جایگاه</fa_word>
@@ -2863,7 +2872,7 @@
 		<en_example>Gilan is our place</en_example>
 	</word>
 	<word>
-		<id>319</id>
+		<id>320</id>
 		<glk_word>جخترأ دأ</glk_word>
 		<glk_example>هرچي أنأ بۊگؤفته-بۊمأ جخترأ دأ</glk_example>
 		<fa_word>فراموش کرد</fa_word>
@@ -2872,7 +2881,7 @@
 		<en_example>He/She forgot whatever I told him/her</en_example>
 	</word>
 	<word>
-		<id>320</id>
+		<id>321</id>
 		<glk_word>جرگه</glk_word>
 		<glk_example>أمي جرگه سي تا آدم-نفر دأره</glk_example>
 		<fa_word>گروه</fa_word>
@@ -2881,7 +2890,7 @@
 		<en_example>Our group has thirty members</en_example>
 	</word>
 	<word>
-		<id>321</id>
+		<id>322</id>
 		<glk_word>جزنه</glk_word>
 		<glk_example>کرأ خؤرأ جزنه أمي جرگه دۊرۊن</glk_example>
 		<fa_word>جا می‌کند</fa_word>
@@ -2890,7 +2899,7 @@
 		<en_example>He/She incorporating himself/herself in our group</en_example>
 	</word>
 	<word>
-		<id>322</id>
+		<id>323</id>
 		<glk_word>جغله</glk_word>
 		<glk_example>مي جغله هف ما دأره</glk_example>
 		<fa_word>نوزاد</fa_word>
@@ -2899,7 +2908,7 @@
 		<en_example>My baby is seven months old</en_example>
 	</word>
 	<word>
-		<id>323</id>
+		<id>324</id>
 		<glk_word>جندره</glk_word>
 		<glk_example>اۊ زناى کيسه أمرأ جندره؟</glk_example>
 		<fa_word>با خشم نگاه می‌کند</fa_word>
@@ -2908,7 +2917,7 @@
 		<en_example>Who is that woman looking at us with anger?</en_example>
 	</word>
 	<word>
-		<id>324</id>
+		<id>325</id>
 		<glk_word>جنگستن دريم</glk_word>
 		<glk_example>شباند ٚ رۊز کرأ جنگستن دريم</glk_example>
 		<fa_word>داریم می‌جنگیم</fa_word>
@@ -2917,7 +2926,7 @@
 		<en_example>We're fighting night and day</en_example>
 	</word>
 	<word>
-		<id>325</id>
+		<id>326</id>
 		<glk_word>جه غرز</glk_word>
 		<glk_example>جه غرز نيما همه بأئيد بۊدۊرۊن</glk_example>
 		<fa_word>به غیر از</fa_word>
@@ -2926,7 +2935,7 @@
 		<en_example>Everyone come inside except Nima</en_example>
 	</word>
 	<word>
-		<id>326</id>
+		<id>327</id>
 		<glk_word>جه مأر بأورده</glk_word>
 		<glk_example>أشان جه مأر بأورده پاچ بيد</glk_example>
 		<fa_word>مادرزاد</fa_word>
@@ -2935,7 +2944,7 @@
 		<en_example>They were short congenitally</en_example>
 	</word>
 	<word>
-		<id>327</id>
+		<id>328</id>
 		<glk_word>جيجا</glk_word>
 		<glk_example>مي دس همه جيجا بؤبؤ</glk_example>
 		<fa_word>زخم</fa_word>
@@ -2944,7 +2953,7 @@
 		<en_example>My whole hand is injured</en_example>
 	</word>
 	<word>
-		<id>328</id>
+		<id>329</id>
 		<glk_word>جيجاماما</glk_word>
 		<glk_example>خۊ وسيله ٰنأ جيجاماما کۊدن دره</glk_example>
 		<fa_word>پنهان کردن</fa_word>
@@ -2953,7 +2962,7 @@
 		<en_example>He/She is hiding his/her stuff</en_example>
 	</word>
 	<word>
-		<id>329</id>
+		<id>330</id>
 		<glk_word>جير</glk_word>
 		<glk_example>مۊرغانه کرک ٚجير نهأ</glk_example>
 		<fa_word>زیر</fa_word>
@@ -2962,7 +2971,7 @@
 		<en_example>There's an egg under the chicken</en_example>
 	</word>
 	<word>
-		<id>330</id>
+		<id>331</id>
 		<glk_word>جيرأکش</glk_word>
 		<glk_example>فئلم جيرأکش بۊبؤسته؟</glk_example>
 		<fa_word>بارگیری</fa_word>
@@ -2971,7 +2980,7 @@
 		<en_example>Has the movie download?</en_example>
 	</word>
 	<word>
-		<id>331</id>
+		<id>332</id>
 		<glk_word>جيليسکستيم</glk_word>
 		<glk_example>ورف ٚ سرأ شؤن ديبيم هأ ايوار جيليسکستيم</glk_example>
 		<fa_word>سُر خوردیم</fa_word>
@@ -2980,7 +2989,7 @@
 		<en_example>We were walking on the snow suddenly we slipped</en_example>
 	</word>
 	<word>
-		<id>332</id>
+		<id>333</id>
 		<glk_word>جيميره</glk_word>
 		<glk_example>هر کي شاد نبه أن ٚ ديل جيميره</glk_example>
 		<fa_word>افسرده می‌شود</fa_word>
@@ -2989,7 +2998,7 @@
 		<en_example>The person who's not happy will be depressed in his/her own heart</en_example>
 	</word>
 	<word>
-		<id>333</id>
+		<id>334</id>
 		<glk_word>جيويشت</glk_word>
 		<glk_example>هأتؤ أمرأ بيده جيويشت</glk_example>
 		<fa_word>در رفت</fa_word>
@@ -2998,7 +3007,7 @@
 		<en_example>The moment he/She saw us he/she ran away</en_example>
 	</word>
 	<word>
-		<id>334</id>
+		<id>335</id>
 		<glk_word>جيويشت</glk_word>
 		<glk_example>مي بال جيويشت</glk_example>
 		<fa_word>در رفت (اعضای بدن)</fa_word>
@@ -3007,7 +3016,7 @@
 		<en_example>My hand dislocated</en_example>
 	</word>
 	<word>
-		<id>335</id>
+		<id>336</id>
 		<glk_word>جکشه</glk_word>
 		<glk_example>خؤرأ جکشه</glk_example>
 		<fa_word>کنار می‌کشد</fa_word>
@@ -3016,7 +3025,7 @@
 		<en_example>He/She pulls aside</en_example>
 	</word>
 	<word>
-		<id>336</id>
+		<id>337</id>
 		<glk_word>جکفت</glk_word>
 		<glk_example>مي دهنأ آب جکفت</glk_example>
 		<fa_word>آب افتاد</fa_word>
@@ -3025,7 +3034,7 @@
 		<en_example>My mouth watered</en_example>
 	</word>
 	<word>
-		<id>337</id>
+		<id>338</id>
 		<glk_word>جۊخۊسانه</glk_word>
 		<glk_example>خۊ پۊلانأ فرش ٚ جير جۊخۊسانه</glk_example>
 		<fa_word>پنهان کرد</fa_word>
@@ -3034,7 +3043,7 @@
 		<en_example>He/She hid his/her moneys under the carpet</en_example>
 	</word>
 	<word>
-		<id>338</id>
+		<id>339</id>
 		<glk_word>جۊخۊفت</glk_word>
 		<glk_example>بۊشؤ دار ٚ پۊشت جۊخۊفت</glk_example>
 		<fa_word>پنهان شد</fa_word>
@@ -3043,7 +3052,7 @@
 		<en_example>He/She went and hid behind the tree</en_example>
 	</word>
 	<word>
-		<id>339</id>
+		<id>340</id>
 		<glk_word>جۊديکي</glk_word>
 		<glk_example>هؤلأ بؤستم مرأ جۊديکي بيگيفت</glk_example>
 		<fa_word>لکنت زبان</fa_word>
@@ -3052,7 +3061,7 @@
 		<en_example>I panicked and I stuttered</en_example>
 	</word>
 	<word>
-		<id>340</id>
+		<id>341</id>
 		<glk_word>جۊرأ بيد</glk_word>
 		<glk_example>زاکان کس کسه مرأ زۊد جۊرأ بيد</glk_example>
 		<fa_word>خو می‌گیرند</fa_word>
@@ -3061,7 +3070,7 @@
 		<en_example>Kids accustom to each other so soon</en_example>
 	</word>
 	<word>
-		<id>341</id>
+		<id>342</id>
 		<glk_word>جۊراف</glk_word>
 		<glk_example>تي جۊرافانأ دۊکۊن</glk_example>
 		<fa_word>جوراب</fa_word>
@@ -3070,7 +3079,7 @@
 		<en_example>Wear your socks</en_example>
 	</word>
 	<word>
-		<id>342</id>
+		<id>343</id>
 		<glk_word>جۊفت</glk_word>
 		<glk_example>ايتأ جۊفت کفش بهئم</glk_example>
 		<fa_word>جفت</fa_word>
@@ -3079,7 +3088,7 @@
 		<en_example>I bought a pair of shoes</en_example>
 	</word>
 	<word>
-		<id>343</id>
+		<id>344</id>
 		<glk_word>جۊل</glk_word>
 		<glk_example>تي سۊرخ ٚ جۊلأ قۊربان</glk_example>
 		<fa_word>لپ</fa_word>
@@ -3088,7 +3097,7 @@
 		<en_example>I would die for your red cheek</en_example>
 	</word>
 	<word>
-		<id>344</id>
+		<id>345</id>
 		<glk_word>جۊلؤ</glk_word>
 		<glk_example>بۊشۊ جۊلؤ</glk_example>
 		<fa_word>جلو</fa_word>
@@ -3097,7 +3106,7 @@
 		<en_example>Go ahead</en_example>
 	</word>
 	<word>
-		<id>345</id>
+		<id>346</id>
 		<glk_word>جۊلف</glk_word>
 		<glk_example>کاسپي دريا جۊلفه</glk_example>
 		<fa_word>عمیق</fa_word>
@@ -3106,7 +3115,7 @@
 		<en_example>Caspian sea is deep</en_example>
 	</word>
 	<word>
-		<id>346</id>
+		<id>347</id>
 		<glk_word>جۊمجۊمه</glk_word>
 		<glk_example>مرأ جۊمجۊمه اۊساد</glk_example>
 		<fa_word>دلشوره</fa_word>
@@ -3115,7 +3124,7 @@
 		<en_example>I got anxious</en_example>
 	</word>
 	<word>
-		<id>347</id>
+		<id>348</id>
 		<glk_word>جۊکۊن</glk_word>
 		<glk_example>أ درزنأ مه ره نخ جۊکۊن</glk_example>
 		<fa_word>سوزن را نخ کن</fa_word>
@@ -3124,7 +3133,7 @@
 		<en_example>Thread this needle for me</en_example>
 	</word>
 	<word>
-		<id>348</id>
+		<id>349</id>
 		<glk_word>چأکۊنم</glk_word>
 		<glk_example>کرأ خانه چأکۊنم</glk_example>
 		<fa_word>می‌سازم</fa_word>
@@ -3133,7 +3142,7 @@
 		<en_example>I am building a house</en_example>
 	</word>
 	<word>
-		<id>349</id>
+		<id>350</id>
 		<glk_word>چأکۊنه</glk_word>
 		<glk_example>بۊشۊ رمضان ٚ ويجا، اۊن تأنه تي کارأ چأکۊنه</glk_example>
 		<fa_word>درست می‌کند</fa_word>
@@ -3142,7 +3151,7 @@
 		<en_example>Go to Ramezan, he can fix your problem</en_example>
 	</word>
 	<word>
-		<id>350</id>
+		<id>351</id>
 		<glk_word>چؤ</glk_word>
 		<glk_example>چؤ دکفتهˈنأ باور کۊدن نوأ</glk_example>
 		<fa_word>شایعه</fa_word>
@@ -3151,7 +3160,7 @@
 		<en_example>Don't believe the rumors</en_example>
 	</word>
 	<word>
-		<id>351</id>
+		<id>352</id>
 		<glk_word>چؤرنيلي</glk_word>
 		<glk_example>أ چؤرنيلي پرهنأ ديرۊ بيهئم</glk_example>
 		<fa_word>بنفش</fa_word>
@@ -3160,7 +3169,7 @@
 		<en_example>I bought this purple shirt yesterday</en_example>
 	</word>
 	<word>
-		<id>352</id>
+		<id>353</id>
 		<glk_word>چئل</glk_word>
 		<glk_example>چئل سال پيش أيأ بامؤبۊم</glk_example>
 		<fa_word>چهل</fa_word>
@@ -3169,7 +3178,7 @@
 		<en_example>I had come here forty years ago</en_example>
 	</word>
 	<word>
-		<id>353</id>
+		<id>354</id>
 		<glk_word>چا</glk_word>
 		<glk_example>بۊشۊ چا جأ آب واغۊش</glk_example>
 		<fa_word>چاه</fa_word>
@@ -3178,7 +3187,7 @@
 		<en_example>Go bring water from the well</en_example>
 	</word>
 	<word>
-		<id>354</id>
+		<id>355</id>
 		<glk_word>چار</glk_word>
 		<glk_example>چار تا کۊئي مرأ فأدن</glk_example>
 		<fa_word>چهار</fa_word>
@@ -3187,7 +3196,7 @@
 		<en_example>Give me four pumpkin</en_example>
 	</word>
 	<word>
-		<id>355</id>
+		<id>356</id>
 		<glk_word>چارپاچه</glk_word>
 		<glk_example>چارپاچه نيشته بۊ</glk_example>
 		<fa_word>چهار زانو</fa_word>
@@ -3196,7 +3205,7 @@
 		<en_example>He/She was sitting cross-legged</en_example>
 	</word>
 	<word>
-		<id>356</id>
+		<id>357</id>
 		<glk_word>چارچاک</glk_word>
 		<glk_example>درأ چارچاک بنأ</glk_example>
 		<fa_word>چارطاق</fa_word>
@@ -3205,7 +3214,7 @@
 		<en_example>He/She left the door wide open</en_example>
 	</word>
 	<word>
-		<id>357</id>
+		<id>358</id>
 		<glk_word>چارکۊنج</glk_word>
 		<glk_example>پارچه  ٰ چارکۊنج واوين</glk_example>
 		<fa_word>مربع</fa_word>
@@ -3214,7 +3223,7 @@
 		<en_example>Cut the cloth in a square shape</en_example>
 	</word>
 	<word>
-		<id>358</id>
+		<id>359</id>
 		<glk_word>چالٚکا</glk_word>
 		<glk_example>چالٚکا ميان دنکفي</glk_example>
 		<fa_word>چاله</fa_word>
@@ -3223,7 +3232,7 @@
 		<en_example>Don't fall inside the pit</en_example>
 	</word>
 	<word>
-		<id>359</id>
+		<id>360</id>
 		<glk_word>چان</glk_word>
 		<glk_example>وحيدأ بيدئم ايتأ کيسه بج بچانأ گيفته بۊ</glk_example>
 		<fa_word>دوش</fa_word>
@@ -3232,7 +3241,7 @@
 		<en_example>I saw Vahid putting a bag of rice on his shoulder</en_example>
 	</word>
 	<word>
-		<id>360</id>
+		<id>361</id>
 		<glk_word>چاپ چاپ</glk_word>
 		<glk_example>بۊلبۊل کرأ چاپ چاپ زنه</glk_example>
 		<fa_word>چهچهه</fa_word>
@@ -3241,7 +3250,7 @@
 		<en_example>The Nightingale is chirping</en_example>
 	</word>
 	<word>
-		<id>361</id>
+		<id>362</id>
 		<glk_word>چاپلا</glk_word>
 		<glk_example>خؤشالي جأ کرأ چاپلا زنه</glk_example>
 		<fa_word>کف زدن</fa_word>
@@ -3250,7 +3259,7 @@
 		<en_example>He/She is clapping because of happiness</en_example>
 	</word>
 	<word>
-		<id>362</id>
+		<id>363</id>
 		<glk_word>چاک</glk_word>
 		<glk_example>غذا بۊ هأ چاکأ پۊرأ کۊده</glk_example>
 		<fa_word>فضاى اطراف</fa_word>
@@ -3259,7 +3268,7 @@
 		<en_example>The smell of food has filled the space around</en_example>
 	</word>
 	<word>
-		<id>363</id>
+		<id>364</id>
 		<glk_word>چرت ٚ چۊلا</glk_word>
 		<glk_example>دئه کرأ چرت ٚ چۊلا گي</glk_example>
 		<fa_word>مزخرف</fa_word>
@@ -3268,7 +3277,7 @@
 		<en_example>You are talking nonsense</en_example>
 	</word>
 	<word>
-		<id>364</id>
+		<id>365</id>
 		<glk_word>چرخ</glk_word>
 		<glk_example>ديرۊ ايتأ چرخ بيهئم</glk_example>
 		<fa_word>دوچرخه</fa_word>
@@ -3277,7 +3286,7 @@
 		<en_example>I bought a bike yesterday</en_example>
 	</word>
 	<word>
-		<id>365</id>
+		<id>366</id>
 		<glk_word>چرخستن</glk_word>
 		<glk_example>الا تي تي  زيمين ٚ دؤر چرخستن دره</glk_example>
 		<fa_word>چرخیدن</fa_word>
@@ -3286,7 +3295,7 @@
 		<en_example>The moon orbiting the Earth</en_example>
 	</word>
 	<word>
-		<id>366</id>
+		<id>367</id>
 		<glk_word>چف</glk_word>
 		<glk_example>أنقد بۊخۊفتي چف بۊکۊدي</glk_example>
 		<fa_word>ورم</fa_word>
@@ -3295,7 +3304,7 @@
 		<en_example>You slept so much that you are swollen</en_example>
 	</word>
 	<word>
-		<id>367</id>
+		<id>368</id>
 		<glk_word>چفت</glk_word>
 		<glk_example>درأ چفتأ کۊدي؟</glk_example>
 		<fa_word>بستن</fa_word>
@@ -3304,7 +3313,7 @@
 		<en_example>Did you close the door?</en_example>
 	</word>
 	<word>
-		<id>368</id>
+		<id>369</id>
 		<glk_word>چفتن</glk_word>
 		<glk_example>سرمائي چفتن دٚوستيم</glk_example>
 		<fa_word>یخ بستن</fa_word>
@@ -3313,7 +3322,7 @@
 		<en_example>We froze from the cold</en_example>
 	</word>
 	<word>
-		<id>369</id>
+		<id>370</id>
 		<glk_word>چمچه</glk_word>
 		<glk_example>چمچه ٰ بيدئي؟</glk_example>
 		<fa_word>ملاقه</fa_word>
@@ -3322,7 +3331,7 @@
 		<en_example>Have you seen the ladle?</en_example>
 	</word>
 	<word>
-		<id>370</id>
+		<id>371</id>
 		<glk_word>چنتا</glk_word>
 		<glk_example>تۊ چنتا آغۊز دأري؟</glk_example>
 		<fa_word>چند عدد</fa_word>
@@ -3331,7 +3340,7 @@
 		<en_example>How many walnuts you have?</en_example>
 	</word>
 	<word>
-		<id>371</id>
+		<id>372</id>
 		<glk_word>چندر</glk_word>
 		<glk_example>شيمي خانه چندر دۊره</glk_example>
 		<fa_word>چه‌قدر</fa_word>
@@ -3340,7 +3349,7 @@
 		<en_example>How far is your home?</en_example>
 	</word>
 	<word>
-		<id>372</id>
+		<id>373</id>
 		<glk_word>چيسه</glk_word>
 		<glk_example>أن چيسه؟</glk_example>
 		<fa_word>چیست</fa_word>
@@ -3349,7 +3358,7 @@
 		<en_example>What is this?</en_example>
 	</word>
 	<word>
-		<id>373</id>
+		<id>374</id>
 		<glk_word>چيشتن</glk_word>
 		<glk_example>کرأ غذائانأ ايتأ ايتأ چيشتن درم</glk_example>
 		<fa_word>مزه کردن</fa_word>
@@ -3358,7 +3367,7 @@
 		<en_example>I'm tasting the foods one by one</en_example>
 	</word>
 	<word>
-		<id>374</id>
+		<id>375</id>
 		<glk_word>چيچال</glk_word>
 		<glk_example>تي دسأ چيچال ٚ آب ٚ مرأ بۊشؤر</glk_example>
 		<fa_word>ولرم</fa_word>
@@ -3367,7 +3376,7 @@
 		<en_example>Wash your hands with lukewarm water</en_example>
 	</word>
 	<word>
-		<id>375</id>
+		<id>376</id>
 		<glk_word>چيچيني</glk_word>
 		<glk_example>ايمرۊ ايتأ چيچيني بيدئم</glk_example>
 		<fa_word>گنجشک</fa_word>
@@ -3376,7 +3385,7 @@
 		<en_example>I saw a sparrows today</en_example>
 	</word>
 	<word>
-		<id>376</id>
+		<id>377</id>
 		<glk_word>چٚسک</glk_word>
 		<glk_example>بۊگؤفتم مي أمرأ بيأ، بۊگؤفت چٚسک</glk_example>
 		<fa_word>نچ</fa_word>
@@ -3385,7 +3394,7 @@
 		<en_example>I said come with me, he/she said nope</en_example>
 	</word>
 	<word>
-		<id>377</id>
+		<id>378</id>
 		<glk_word>چٚلک</glk_word>
 		<glk_example>چرک</glk_example>
 		<fa_word>تی چٚلک ٚ پرهنأ بۊشؤر</fa_word>
@@ -3394,7 +3403,7 @@
 		<en_example>Wash your dirty shirt</en_example>
 	</word>
 	<word>
-		<id>378</id>
+		<id>379</id>
 		<glk_word>چک ٚ پر</glk_word>
 		<glk_example>سينه-آبأ نأنستي هأچين چک ٚ پر زئي</glk_example>
 		<fa_word>دست و پا زدن</fa_word>
@@ -3403,7 +3412,7 @@
 		<en_example>He/She didn't know how to swim he/she was paddling aimlessly</en_example>
 	</word>
 	<word>
-		<id>379</id>
+		<id>380</id>
 		<glk_word>چۊ</glk_word>
 		<glk_example>خؤشک ٚ چۊ هيمه ره خؤبه</glk_example>
 		<fa_word>چوب</fa_word>
@@ -3412,7 +3421,7 @@
 		<en_example>Dry woods are good for firewoods</en_example>
 	</word>
 	<word>
-		<id>380</id>
+		<id>381</id>
 		<glk_word>چۊتؤ</glk_word>
 		<glk_example>أن چۊتؤ کار کۊنه؟</glk_example>
 		<fa_word>چگونه</fa_word>
@@ -3421,7 +3430,7 @@
 		<en_example>How does this work?</en_example>
 	</word>
 	<word>
-		<id>381</id>
+		<id>382</id>
 		<glk_word>چۊل</glk_word>
 		<glk_example>تي کفشأ چۊل بۊکۊدي</glk_example>
 		<fa_word>گل</fa_word>
@@ -3430,7 +3439,7 @@
 		<en_example>You made your shoes muddy</en_example>
 	</word>
 	<word>
-		<id>382</id>
+		<id>383</id>
 		<glk_word>چۊله</glk_word>
 		<glk_example>ايتأ کيبريت چۊله مرأ فأدن</glk_example>
 		<fa_word>چوب کبریت</fa_word>
@@ -3439,7 +3448,7 @@
 		<en_example>Give me a match</en_example>
 	</word>
 	<word>
-		<id>383</id>
+		<id>384</id>
 		<glk_word>چۊم</glk_word>
 		<glk_example>مي چۊم نيدينه</glk_example>
 		<fa_word>چشم</fa_word>
@@ -3448,16 +3457,16 @@
 		<en_example>My eye doesn't see</en_example>
 	</word>
 	<word>
-		<id>384</id>
+		<id>385</id>
 		<glk_word>چۊم دکف</glk_word>
-		<glk_example>أ خانه چۊم دکف بد ني-يه</glk_example>
+		<glk_example>أ خانه چۊم دکف بد نيه</glk_example>
 		<fa_word>چشم انداز</fa_word>
 		<fa_example>چشم انداز این خانه بد نیست</fa_example>
 		<en_word>View</en_word>
 		<en_example>The view of this house is not bad</en_example>
 	</word>
 	<word>
-		<id>385</id>
+		<id>386</id>
 		<glk_word>چۊمليز</glk_word>
 		<glk_example>مرأ چۊمليز بيگيفته</glk_example>
 		<fa_word>نیشگون</fa_word>
@@ -3466,7 +3475,7 @@
 		<en_example>He/She pinched me</en_example>
 	</word>
 	<word>
-		<id>386</id>
+		<id>387</id>
 		<glk_word>حأيوان</glk_word>
 		<glk_example>حأيوانانأ سربسر نهأن نوأ</glk_example>
 		<fa_word>حیوان</fa_word>
@@ -3475,7 +3484,7 @@
 		<en_example>Do not disturb animals</en_example>
 	</word>
 	<word>
-		<id>387</id>
+		<id>388</id>
 		<glk_word>حئيقت</glk_word>
 		<glk_example>حئيقت گي؟</glk_example>
 		<fa_word>حقیقت</fa_word>
@@ -3484,7 +3493,7 @@
 		<en_example>Are you telling this for real?</en_example>
 	</word>
 	<word>
-		<id>388</id>
+		<id>389</id>
 		<glk_word>حق ٚ سأى</glk_word>
 		<glk_example>تي حق ٚ سأيأ بۊکۊن آخربسر چأکۊده به</glk_example>
 		<fa_word>تلاش</fa_word>
@@ -3493,7 +3502,7 @@
 		<en_example>Try and finally it will be ok</en_example>
 	</word>
 	<word>
-		<id>389</id>
+		<id>390</id>
 		<glk_word>خألي</glk_word>
 		<glk_example>اۊنقد کار بۊکۊدم خألي بيس تۊمۊن مرأ فأدأ</glk_example>
 		<fa_word>فقط</fa_word>
@@ -3502,7 +3511,7 @@
 		<en_example>I worked so much but he/she only gave me twenty Tomans</en_example>
 	</word>
 	<word>
-		<id>390</id>
+		<id>391</id>
 		<glk_word>خأندن</glk_word>
 		<glk_example>کيتاب خأندن درم</glk_example>
 		<fa_word>حواندن</fa_word>
@@ -3511,7 +3520,7 @@
 		<en_example>I'm reading the book</en_example>
 	</word>
 	<word>
-		<id>391</id>
+		<id>392</id>
 		<glk_word>خأيه</glk_word>
 		<glk_example>کي خأيه بأيه؟</glk_example>
 		<fa_word>می‌خواهد</fa_word>
@@ -3520,7 +3529,7 @@
 		<en_example>Who wants to come?</en_example>
 	</word>
 	<word>
-		<id>392</id>
+		<id>393</id>
 		<glk_word>خؤرم</glk_word>
 		<glk_example>علي خؤرم زأکه</glk_example>
 		<fa_word>خوب</fa_word>
@@ -3529,7 +3538,7 @@
 		<en_example>Ali is a good kid</en_example>
 	</word>
 	<word>
-		<id>393</id>
+		<id>394</id>
 		<glk_word>خؤرنه</glk_word>
 		<glk_example>أنقد خؤرنه کۊني کي خۊفتن نشأ</glk_example>
 		<fa_word>خروپف</fa_word>
@@ -3538,7 +3547,7 @@
 		<en_example>You snoring so much that no one can sleep</en_example>
 	</word>
 	<word>
-		<id>394</id>
+		<id>395</id>
 		<glk_word>خؤره</glk_word>
 		<glk_example>خؤره بامؤ</glk_example>
 		<fa_word>خودش</fa_word>
@@ -3547,7 +3556,7 @@
 		<en_example>He/She came himself/herself</en_example>
 	</word>
 	<word>
-		<id>395</id>
+		<id>396</id>
 		<glk_word>خؤره خؤره</glk_word>
 		<glk_example>مي کيف ٚ بند خؤره خؤره بؤرسفت</glk_example>
 		<fa_word>خود به خود</fa_word>
@@ -3556,7 +3565,7 @@
 		<en_example>The handle of my bag tore without any reason</en_example>
 	</word>
 	<word>
-		<id>396</id>
+		<id>397</id>
 		<glk_word>خؤشگيل</glk_word>
 		<glk_example>أ گۊل چندر خؤشگيله</glk_example>
 		<fa_word>زیبا</fa_word>
@@ -3565,7 +3574,7 @@
 		<en_example>How beautiful is this flower</en_example>
 	</word>
 	<word>
-		<id>397</id>
+		<id>398</id>
 		<glk_word>خاج</glk_word>
 		<glk_example>ايتأ خاج هيندانه مرأ فأدن</glk_example>
 		<fa_word>برشى از چیزى</fa_word>
@@ -3574,7 +3583,7 @@
 		<en_example>Give me a slice of watermelon</en_example>
 	</word>
 	<word>
-		<id>398</id>
+		<id>399</id>
 		<glk_word>خاخۊر</glk_word>
 		<glk_example>مي خاخۊر ٚ مرأ بۊشؤئيم رستۊران</glk_example>
 		<fa_word>خواهر</fa_word>
@@ -3583,7 +3592,7 @@
 		<en_example>I went to the restaurant with my sister</en_example>
 	</word>
 	<word>
-		<id>399</id>
+		<id>400</id>
 		<glk_word>خاخۊرزا</glk_word>
 		<glk_example>خاخۊرزا مي شين دانشجۊيه</glk_example>
 		<fa_word>خواهرزاده</fa_word>
@@ -3592,7 +3601,7 @@
 		<en_example>My niece is a student</en_example>
 	</word>
 	<word>
-		<id>400</id>
+		<id>401</id>
 		<glk_word>خاش</glk_word>
 		<glk_example>أ مائي پۊر خاش دأره</glk_example>
 		<fa_word>استخوان</fa_word>
@@ -3601,7 +3610,7 @@
 		<en_example>This fish has a lot of bones</en_example>
 	</word>
 	<word>
-		<id>401</id>
+		<id>402</id>
 		<glk_word>خاص ٚ بخت</glk_word>
 		<glk_example>حسۊد ٚ آدم خاص ٚ بخت نيبه</glk_example>
 		<fa_word>خوش‌بخت</fa_word>
@@ -3610,7 +3619,7 @@
 		<en_example>The jealous person won't get blessed</en_example>
 	</word>
 	<word>
-		<id>402</id>
+		<id>403</id>
 		<glk_word>خاطر</glk_word>
 		<glk_example>مرأ خاطر نأيه</glk_example>
 		<fa_word>یاد</fa_word>
@@ -3619,7 +3628,7 @@
 		<en_example>I don't remember</en_example>
 	</word>
 	<word>
-		<id>403</id>
+		<id>404</id>
 		<glk_word>خاطرخا</glk_word>
 		<glk_example>أشان دۊتا خاطرخائي دأشتيد</glk_example>
 		<fa_word>عاشق</fa_word>
@@ -3628,7 +3637,7 @@
 		<en_example>These two people were in love</en_example>
 	</word>
 	<word>
-		<id>404</id>
+		<id>405</id>
 		<glk_word>خال</glk_word>
 		<glk_example>بپا خالانأ نشکني</glk_example>
 		<fa_word>شاخه</fa_word>
@@ -3637,7 +3646,7 @@
 		<en_example>Be careful not to break the branches</en_example>
 	</word>
 	<word>
-		<id>405</id>
+		<id>406</id>
 		<glk_word>خاليواش</glk_word>
 		<glk_example>خاليواش ٚ مرأ درار چأکۊنيدي</glk_example>
 		<fa_word>مرزنگوش</fa_word>
@@ -3646,7 +3655,7 @@
 		<en_example>They make Darar with marjoram</en_example>
 	</word>
 	<word>
-		<id>406</id>
+		<id>407</id>
 		<glk_word>خبرأتر</glk_word>
 		<glk_example>چي خبرأتر؟</glk_example>
 		<fa_word>خبر و احوال</fa_word>
@@ -3655,7 +3664,7 @@
 		<en_example>What's up?</en_example>
 	</word>
 	<word>
-		<id>407</id>
+		<id>408</id>
 		<glk_word>خبرأگير</glk_word>
 		<glk_example>مؤسن ديرۊ بامؤبۊ تي خبرأگير</glk_example>
 		<fa_word>سراغ گرفتن</fa_word>
@@ -3664,7 +3673,7 @@
 		<en_example>Mohsen had come yesterday and he was asking about you</en_example>
 	</word>
 	<word>
-		<id>408</id>
+		<id>409</id>
 		<glk_word>خرابگي</glk_word>
 		<glk_example>دۊمرتبه خرابگي بۊکۊدي؟</glk_example>
 		<fa_word>خراب‌کارى</fa_word>
@@ -3673,7 +3682,7 @@
 		<en_example>You messed up again?</en_example>
 	</word>
 	<word>
-		<id>409</id>
+		<id>410</id>
 		<glk_word>خرت ٚ خشال</glk_word>
 		<glk_example>اۊ خرت ٚ خشالانأ فيشأن</glk_example>
 		<fa_word>وسایل بى‌ارزش</fa_word>
@@ -3682,7 +3691,7 @@
 		<en_example>Throw away those odds and ends</en_example>
 	</word>
 	<word>
-		<id>410</id>
+		<id>411</id>
 		<glk_word>خسته</glk_word>
 		<glk_example>تۊرفانأ خسته بکأشتي</glk_example>
 		<fa_word>متراکم</fa_word>
@@ -3691,7 +3700,7 @@
 		<en_example>You planted those radishes compactly</en_example>
 	</word>
 	<word>
-		<id>411</id>
+		<id>412</id>
 		<glk_word>خفت</glk_word>
 		<glk_example>مرأ خفتأ گيره</glk_example>
 		<fa_word>چندش</fa_word>
@@ -3700,7 +3709,7 @@
 		<en_example>I disgust</en_example>
 	</word>
 	<word>
-		<id>412</id>
+		<id>413</id>
 		<glk_word>خفت</glk_word>
 		<glk_example>دئه مي خفت بسر أمؤن دره</glk_example>
 		<fa_word>تحمل</fa_word>
@@ -3709,7 +3718,7 @@
 		<en_example>I can't endure anymore</en_example>
 	</word>
 	<word>
-		<id>413</id>
+		<id>414</id>
 		<glk_word>خفتي</glk_word>
 		<glk_example>خفتي آدمه</glk_example>
 		<fa_word>کم تحمل</fa_word>
@@ -3718,7 +3727,7 @@
 		<en_example>He/She is intolerant</en_example>
 	</word>
 	<word>
-		<id>414</id>
+		<id>415</id>
 		<glk_word>خفيانگي</glk_word>
 		<glk_example>خۊ کارانأ خفيانگي کۊنه</glk_example>
 		<fa_word>پنهانى</fa_word>
@@ -3727,7 +3736,7 @@
 		<en_example>He/She does his/her job secretly</en_example>
 	</word>
 	<word>
-		<id>415</id>
+		<id>416</id>
 		<glk_word>خٚرٚک</glk_word>
 		<glk_example>أمي بجانأ خٚرٚکأ کۊده</glk_example>
 		<fa_word>شپشک برنج</fa_word>
@@ -3736,7 +3745,7 @@
 		<en_example>There's rice weevil in our rice</en_example>
 	</word>
 	<word>
-		<id>416</id>
+		<id>417</id>
 		<glk_word>خکاره</glk_word>
 		<glk_example>ايتأ پيله خکاره بيهين</glk_example>
 		<fa_word>ماهی‌تابه</fa_word>
@@ -3745,7 +3754,7 @@
 		<en_example>Buy a large frying pan</en_example>
 	</word>
 	<word>
-		<id>417</id>
+		<id>418</id>
 		<glk_word>خۊ</glk_word>
 		<glk_example>هرکي خۊ ماشين ٚ مرأ بأيه</glk_example>
 		<fa_word>خودش</fa_word>
@@ -3754,7 +3763,7 @@
 		<en_example>Anyone come with their own car</en_example>
 	</word>
 	<word>
-		<id>418</id>
+		<id>419</id>
 		<glk_word>خۊج</glk_word>
 		<glk_example>خۊج خۊري؟</glk_example>
 		<fa_word>گلابی وحشی</fa_word>
@@ -3763,7 +3772,7 @@
 		<en_example>Do you eat wild pear?</en_example>
 	</word>
 	<word>
-		<id>419</id>
+		<id>420</id>
 		<glk_word>خۊرانئن</glk_word>
 		<glk_example>زاکأ دوا خۊرانئن درم</glk_example>
 		<fa_word>خوراندن</fa_word>
@@ -3772,7 +3781,7 @@
 		<en_example>I'm feeding medicine to the baby</en_example>
 	</word>
 	<word>
-		<id>420</id>
+		<id>421</id>
 		<glk_word>خۊرکأ</glk_word>
 		<glk_example>خۊرکأ دامان ٚ مئن زيويسته</glk_example>
 		<fa_word>جوجه‌تیغی</fa_word>
@@ -3781,7 +3790,7 @@
 		<en_example>Hedgehog lives in the forest</en_example>
 	</word>
 	<word>
-		<id>421</id>
+		<id>422</id>
 		<glk_word>خۊس</glk_word>
 		<glk_example>نأمم چي ره ايمرۊ خۊس کۊنمه</glk_example>
 		<fa_word>سرفه</fa_word>
@@ -3790,7 +3799,7 @@
 		<en_example>I don't know why I'm coughing today</en_example>
 	</word>
 	<word>
-		<id>422</id>
+		<id>423</id>
 		<glk_word>خۊسانه</glk_word>
 		<glk_example>مهين کرأ خۊ زاکأ خۊسانه</glk_example>
 		<fa_word>می‌خواباند</fa_word>
@@ -3799,7 +3808,7 @@
 		<en_example>Mahin is putting her baby to sleep</en_example>
 	</word>
 	<word>
-		<id>423</id>
+		<id>424</id>
 		<glk_word>خۊسه</glk_word>
 		<glk_example>زأک ٚ ره لالائي بيگي زۊتر خۊسه</glk_example>
 		<fa_word>مى‌خوابد</fa_word>
@@ -3808,7 +3817,7 @@
 		<en_example>Sing lullaby to the baby so he/she sleeps soon</en_example>
 	</word>
 	<word>
-		<id>424</id>
+		<id>425</id>
 		<glk_word>خۊشأدم</glk_word>
 		<glk_example>أيأ بيأ ترأ خۊشأدم</glk_example>
 		<fa_word>ببوسم</fa_word>
@@ -3817,7 +3826,7 @@
 		<en_example>Come here let me kiss you</en_example>
 	</word>
 	<word>
-		<id>425</id>
+		<id>426</id>
 		<glk_word>خۊشانه</glk_word>
 		<glk_example>أمان أشانأ وأده نيگيفته بيم، خۊشانه بامؤبيد</glk_example>
 		<fa_word>خودسرانه</fa_word>
@@ -3826,7 +3835,7 @@
 		<en_example>We didn't invite them, they came arbitrarily</en_example>
 	</word>
 	<word>
-		<id>426</id>
+		<id>427</id>
 		<glk_word>خۊشک</glk_word>
 		<glk_example>سلان همه خۊشکأ بؤستده</glk_example>
 		<fa_word>خشک</fa_word>
@@ -3835,7 +3844,7 @@
 		<en_example>All ponds have dried up</en_example>
 	</word>
 	<word>
-		<id>427</id>
+		<id>428</id>
 		<glk_word>خۊله</glk_word>
 		<glk_example>گرزه بۊشؤ خۊله مئن</glk_example>
 		<fa_word>سوراخ</fa_word>
@@ -3844,7 +3853,7 @@
 		<en_example>The mouse went into the hole</en_example>
 	</word>
 	<word>
-		<id>428</id>
+		<id>429</id>
 		<glk_word>خۊلي</glk_word>
 		<glk_example>خۊلي-يانأ بيچه-ئي؟</glk_example>
 		<fa_word>گوجه‌سبز</fa_word>
@@ -3853,7 +3862,7 @@
 		<en_example>Did you pick the greengages?</en_example>
 	</word>
 	<word>
-		<id>429</id>
+		<id>430</id>
 		<glk_word>خۊمه</glk_word>
 		<glk_example>حجحجي أمي هره سر خۊمه بنأ</glk_example>
 		<fa_word>لانه</fa_word>
@@ -3862,7 +3871,7 @@
 		<en_example>Swallow made a nest on the porch of our house</en_example>
 	</word>
 	<word>
-		<id>430</id>
+		<id>431</id>
 		<glk_word>خۊن ديمير</glk_word>
 		<glk_example>مي پا أنگۊشت خۊن ديمير بؤبؤسته</glk_example>
 		<fa_word>خون مرده</fa_word>
@@ -3871,7 +3880,7 @@
 		<en_example>My toe got bruised</en_example>
 	</word>
 	<word>
-		<id>431</id>
+		<id>432</id>
 		<glk_word>خۊچک</glk_word>
 		<glk_example>أ آشتالۊ خۊچکه</glk_example>
 		<fa_word>هسته جدا</fa_word>
@@ -3880,7 +3889,7 @@
 		<en_example>This peach has easy separable seed</en_example>
 	</word>
 	<word>
-		<id>432</id>
+		<id>433</id>
 		<glk_word>دأني</glk_word>
 		<glk_example>دأني تي برار کؤيأ ايسأ؟</glk_example>
 		<fa_word>می‌دانی</fa_word>
@@ -3889,7 +3898,7 @@
 		<en_example>Do you know where's your brother?</en_example>
 	</word>
 	<word>
-		<id>433</id>
+		<id>434</id>
 		<glk_word>دؤجين</glk_word>
 		<glk_example>ته ره دؤجين بۊکۊن</glk_example>
 		<fa_word>انتخاب</fa_word>
@@ -3898,7 +3907,7 @@
 		<en_example>Make a choice for yourself</en_example>
 	</word>
 	<word>
-		<id>434</id>
+		<id>435</id>
 		<glk_word>دؤر ٚ شر</glk_word>
 		<glk_example>اي نفر کرأ دؤر ٚ شر ٚ جأ أيه</glk_example>
 		<fa_word>دور دست</fa_word>
@@ -3907,7 +3916,7 @@
 		<en_example>Someone is coming from afar</en_example>
 	</word>
 	<word>
-		<id>435</id>
+		<id>436</id>
 		<glk_word>دؤرسفت</glk_word>
 		<glk_example>مي زيبيل ٚ تان دؤرسفت</glk_example>
 		<fa_word>پاره شد</fa_word>
@@ -3916,7 +3925,7 @@
 		<en_example>The bottom of my bag tore</en_example>
 	</word>
 	<word>
-		<id>436</id>
+		<id>437</id>
 		<glk_word>دؤوانئن</glk_word>
 		<glk_example>صؤب تا هسأ مرأ دؤوانئن دره</glk_example>
 		<fa_word>دواندن</fa_word>
@@ -3925,7 +3934,7 @@
 		<en_example>He/She is goofing me off since morning</en_example>
 	</word>
 	<word>
-		<id>437</id>
+		<id>438</id>
 		<glk_word>دؤوستن</glk_word>
 		<glk_example>کرأ دؤوم</glk_example>
 		<fa_word>دویدن</fa_word>
@@ -3934,7 +3943,7 @@
 		<en_example>I'm running</en_example>
 	</word>
 	<word>
-		<id>438</id>
+		<id>439</id>
 		<glk_word>دؤککؤ</glk_word>
 		<glk_example>دؤککؤ بۊخۊردم</glk_example>
 		<fa_word>تعجب</fa_word>
@@ -3943,7 +3952,7 @@
 		<en_example>I got surprised</en_example>
 	</word>
 	<word>
-		<id>439</id>
+		<id>440</id>
 		<glk_word>دئر</glk_word>
 		<glk_example>مي مٚدٚرسه دئرأ بؤ</glk_example>
 		<fa_word>دیر</fa_word>
@@ -3952,7 +3961,7 @@
 		<en_example>I'm late for school</en_example>
 	</word>
 	<word>
-		<id>440</id>
+		<id>441</id>
 		<glk_word>دئن</glk_word>
 		<glk_example>چي دئن دري؟</glk_example>
 		<fa_word>دیدن</fa_word>
@@ -3961,7 +3970,7 @@
 		<en_example>What are you seeing?</en_example>
 	</word>
 	<word>
-		<id>441</id>
+		<id>442</id>
 		<glk_word>دئه</glk_word>
 		<glk_example>ايتأ دئه نان مرأ فأدن</glk_example>
 		<fa_word>دیگر</fa_word>
@@ -3970,7 +3979,7 @@
 		<en_example>Give me another bread</en_example>
 	</word>
 	<word>
-		<id>442</id>
+		<id>443</id>
 		<glk_word>دئه</glk_word>
 		<glk_example>من دئه بازي نۊکۊنم</glk_example>
 		<fa_word>دیگر</fa_word>
@@ -3979,7 +3988,7 @@
 		<en_example>I don't play anymore</en_example>
 	</word>
 	<word>
-		<id>443</id>
+		<id>444</id>
 		<glk_word>داب</glk_word>
 		<glk_example>أن تازه دابه؟</glk_example>
 		<fa_word>روش</fa_word>
@@ -3988,7 +3997,7 @@
 		<en_example>Is it a new method?</en_example>
 	</word>
 	<word>
-		<id>444</id>
+		<id>445</id>
 		<glk_word>دار</glk_word>
 		<glk_example>خۊشک ٚ دار هيمه ره خؤبه</glk_example>
 		<fa_word>درخت</fa_word>
@@ -3997,7 +4006,7 @@
 		<en_example>Dried trees are good for firewood</en_example>
 	</word>
 	<word>
-		<id>445</id>
+		<id>446</id>
 		<glk_word>دار</glk_word>
 		<glk_example>أ دارانأ کي وأوه؟</glk_example>
 		<fa_word>درخت</fa_word>
@@ -4006,7 +4015,7 @@
 		<en_example>Who cut these trees down?</en_example>
 	</word>
 	<word>
-		<id>446</id>
+		<id>447</id>
 		<glk_word>داشت ٚ دارائي</glk_word>
 		<glk_example>بعضي-يان ٚ داشت ٚ دارائي-يأ ايشماردن نشأ</glk_example>
 		<fa_word>ثروت</fa_word>
@@ -4015,7 +4024,7 @@
 		<en_example>You can't count some people's wealth</en_example>
 	</word>
 	<word>
-		<id>447</id>
+		<id>448</id>
 		<glk_word>داشکا</glk_word>
 		<glk_example>آجۊرانأ داشکا أمرأ باور</glk_example>
 		<fa_word>فرغون</fa_word>
@@ -4024,7 +4033,7 @@
 		<en_example>Bring the bricks with wheelbarrow</en_example>
 	</word>
 	<word>
-		<id>448</id>
+		<id>449</id>
 		<glk_word>داغۊله باز</glk_word>
 		<glk_example>تۊ داغۊله بازي</glk_example>
 		<fa_word>جر زن</fa_word>
@@ -4033,7 +4042,7 @@
 		<en_example>You are a cheater</en_example>
 	</word>
 	<word>
-		<id>449</id>
+		<id>450</id>
 		<glk_word>دامان</glk_word>
 		<glk_example>أمأن جۊمه شيم دامان</glk_example>
 		<fa_word>جنگل</fa_word>
@@ -4042,7 +4051,7 @@
 		<en_example>We will go to the forest on Friday</en_example>
 	</word>
 	<word>
-		<id>450</id>
+		<id>451</id>
 		<glk_word>داميشک</glk_word>
 		<glk_example>داميشک ويشتر أمرأ سر زئي</glk_example>
 		<fa_word>قبلن</fa_word>
@@ -4051,7 +4060,7 @@
 		<en_example>You used to visit us more</en_example>
 	</word>
 	<word>
-		<id>451</id>
+		<id>452</id>
 		<glk_word>دباختيم</glk_word>
 		<glk_example>ايمرۊ بازي-يأ دباختيم</glk_example>
 		<fa_word>باختیم</fa_word>
@@ -4060,7 +4069,7 @@
 		<en_example>We lost the game today</en_example>
 	</word>
 	<word>
-		<id>452</id>
+		<id>453</id>
 		<glk_word>دتاوسته</glk_word>
 		<glk_example>آفتاب کؤرأ جه دتاوسته اۊتاق ٚ مئن؟</glk_example>
 		<fa_word>تابیده</fa_word>
@@ -4069,7 +4078,7 @@
 		<en_example>Where does the sun shine into the room?</en_example>
 	</word>
 	<word>
-		<id>453</id>
+		<id>454</id>
 		<glk_word>دخشارده</glk_word>
 		<glk_example>مرأ دخشارده ديفارأ</glk_example>
 		<fa_word>فشار داد</fa_word>
@@ -4078,7 +4087,7 @@
 		<en_example>He/She is pushed me to the wall</en_example>
 	</word>
 	<word>
-		<id>454</id>
+		<id>455</id>
 		<glk_word>درار</glk_word>
 		<glk_example>أمأن خیارأ درار ٚ أمرأ خۊريم</glk_example>
 		<fa_word>نمک سبز</fa_word>
@@ -4087,7 +4096,7 @@
 		<en_example>We eat cucumber with darar</en_example>
 	</word>
 	<word>
-		<id>455</id>
+		<id>456</id>
 		<glk_word>دراز ٚ راشي</glk_word>
 		<glk_example>ايتأ دراز ٚ راشي-يأ دٚوارستيم</glk_example>
 		<fa_word>جاده بلند</fa_word>
@@ -4096,7 +4105,7 @@
 		<en_example>We crossed a long road</en_example>
 	</word>
 	<word>
-		<id>456</id>
+		<id>457</id>
 		<glk_word>درازه</glk_word>
 		<glk_example>درازه بدن</glk_example>
 		<fa_word>ادامه</fa_word>
@@ -4105,7 +4114,7 @@
 		<en_example>(You) Continue</en_example>
 	</word>
 	<word>
-		<id>457</id>
+		<id>458</id>
 		<glk_word>دربند</glk_word>
 		<glk_example>کارأ دربند نۊبۊ</glk_example>
 		<fa_word>علاقمند</fa_word>
@@ -4114,7 +4123,7 @@
 		<en_example>He/She wasn't interested in work</en_example>
 	</word>
 	<word>
-		<id>458</id>
+		<id>459</id>
 		<glk_word>درجک</glk_word>
 		<glk_example>اۊ درجکأ وأکۊن</glk_example>
 		<fa_word>پنجره</fa_word>
@@ -4123,7 +4132,7 @@
 		<en_example>Open that window</en_example>
 	</word>
 	<word>
-		<id>459</id>
+		<id>460</id>
 		<glk_word>درده</glk_word>
 		<glk_example>أمرأ درده دأن نوأ نتأني بۊگۊ نتأنم</glk_example>
 		<fa_word>دق</fa_word>
@@ -4132,7 +4141,7 @@
 		<en_example>Don't make us suffer, just say it if you can't</en_example>
 	</word>
 	<word>
-		<id>460</id>
+		<id>461</id>
 		<glk_word>درزن</glk_word>
 		<glk_example>بۊشۊ اۊ درزنأ مه ره بأور</glk_example>
 		<fa_word>سوزن</fa_word>
@@ -4141,7 +4150,7 @@
 		<en_example>Go and bring me that needle</en_example>
 	</word>
 	<word>
-		<id>461</id>
+		<id>462</id>
 		<glk_word>دره</glk_word>
 		<glk_example>أ خۊم ٚ مئن آب دره</glk_example>
 		<fa_word>هست</fa_word>
@@ -4150,7 +4159,7 @@
 		<en_example>There's water inside the crock</en_example>
 	</word>
 	<word>
-		<id>462</id>
+		<id>463</id>
 		<glk_word>درياگۊش</glk_word>
 		<glk_example>بۊشؤبيم کاسپي دريا درياگۊش اۊچينيم</glk_example>
 		<fa_word>صدف</fa_word>
@@ -4159,7 +4168,7 @@
 		<en_example>We were gone to Caspian sea to collect seashell</en_example>
 	</word>
 	<word>
-		<id>463</id>
+		<id>464</id>
 		<glk_word>دس اۊکۊف</glk_word>
 		<glk_example>کارگأران ٚ دس اۊکۊفأ وا فأدن</glk_example>
 		<fa_word>دستمزد</fa_word>
@@ -4168,7 +4177,7 @@
 		<en_example>Worker's salary must be paid</en_example>
 	</word>
 	<word>
-		<id>464</id>
+		<id>465</id>
 		<glk_word>دس بازار</glk_word>
 		<glk_example>أمرأ دس-بازارأ گيفتي؟</glk_example>
 		<fa_word>مسخره کردن</fa_word>
@@ -4177,7 +4186,7 @@
 		<en_example>Are you making fun of us?</en_example>
 	</word>
 	<word>
-		<id>465</id>
+		<id>466</id>
 		<glk_word>دس بکشه</glk_word>
 		<glk_example>پيچأ بيده نتأنه کؤترأ بيگيره دس بکشه</glk_example>
 		<fa_word>بى‌خیال شد</fa_word>
@@ -4186,16 +4195,16 @@
 		<en_example>The cat saw that it can't hunt the pigeons so it gave up</en_example>
 	</word>
 	<word>
-		<id>466</id>
+		<id>467</id>
 		<glk_word>دس فأرس</glk_word>
-		<glk_example>ميقراض مرأ دس فأرس ني-يه</glk_example>
+		<glk_example>ميقراض مرأ دس فأرس نيه</glk_example>
 		<fa_word>در دسترس</fa_word>
 		<fa_example>قیچى در دسترس من نیست</fa_example>
 		<en_word>Available</en_word>
 		<en_example>The scissors is not available to me</en_example>
 	</word>
 	<word>
-		<id>467</id>
+		<id>468</id>
 		<glk_word>دس پرأ گيفتن</glk_word>
 		<glk_example>أمرأ دس پرأ گيفتي؟</glk_example>
 		<fa_word>مسخره کردن</fa_word>
@@ -4204,7 +4213,7 @@
 		<en_example>Are you mocking us?</en_example>
 	</word>
 	<word>
-		<id>468</id>
+		<id>469</id>
 		<glk_word>دس ٚ تان</glk_word>
 		<glk_example>مي دس ٚ تان مرأ خارش کۊنه</glk_example>
 		<fa_word>کف دست</fa_word>
@@ -4213,7 +4222,7 @@
 		<en_example>My palm is itchy</en_example>
 	</word>
 	<word>
-		<id>469</id>
+		<id>470</id>
 		<glk_word>دسامۊجه</glk_word>
 		<glk_example>أ پيچأ دسامۊجه</glk_example>
 		<fa_word>دست آموز است</fa_word>
@@ -4222,7 +4231,7 @@
 		<en_example>This cat is a trained</en_example>
 	</word>
 	<word>
-		<id>470</id>
+		<id>471</id>
 		<glk_word>دسانئن</glk_word>
 		<glk_example>بجأ دسانئن درم</glk_example>
 		<fa_word>خیساندن</fa_word>
@@ -4231,7 +4240,7 @@
 		<en_example>I'm soaking the rice</en_example>
 	</word>
 	<word>
-		<id>471</id>
+		<id>472</id>
 		<glk_word>دسنماز</glk_word>
 		<glk_example>مي مأر بۊشؤ دسنماز بيگيره</glk_example>
 		<fa_word>وضو</fa_word>
@@ -4240,7 +4249,7 @@
 		<en_example>My mother went to perform ablution</en_example>
 	</word>
 	<word>
-		<id>472</id>
+		<id>473</id>
 		<glk_word>دسکٚلا</glk_word>
 		<glk_example>هۊتؤ دسکٚلا زئيد أمؤن ديبيد</glk_example>
 		<fa_word>کف زدن</fa_word>
@@ -4249,7 +4258,7 @@
 		<en_example>They were clapping while coming</en_example>
 	</word>
 	<word>
-		<id>473</id>
+		<id>474</id>
 		<glk_word>دشان</glk_word>
 		<glk_example>زاکأ پۊتۊ دشان</glk_example>
 		<fa_word>بپوشان</fa_word>
@@ -4258,22 +4267,13 @@
 		<en_example>Cover on the baby with a blanket</en_example>
 	</word>
 	<word>
-		<id>474</id>
+		<id>475</id>
 		<glk_word>دفراز</glk_word>
 		<glk_example>ترأ دفراز پۊشتي-يأ</glk_example>
 		<fa_word>تکیه بده</fa_word>
 		<fa_example>به پشتى تکیه بده</fa_example>
 		<en_word>Lean</en_word>
 		<en_example>Lean on the backrest</en_example>
-	</word>
-	<word>
-		<id>475</id>
-		<glk_word>دللـه</glk_word>
-		<glk_example>آغۊزأ بشکنه-ئي پۊستأ ايور بنه دللـهˈ ايور</glk_example>
-		<fa_word>مغز میانى</fa_word>
-		<fa_example>گردو را شکستى پوست را یک طرف بگذار مغز را یک طرف دیگر</fa_example>
-		<en_word>Nut</en_word>
-		<en_example>When you broke walnut put the shell one side and the nut the other side</en_example>
 	</word>
 	<word>
 		<id>476</id>
@@ -4395,7 +4395,7 @@
 	<word>
 		<id>489</id>
 		<glk_word>ديني-يه</glk_word>
-		<glk_example>نيما حيساب ٚ دۊرۊن پۊل ديني-يه</glk_example>
+		<glk_example>نيما حيساب ٚ دۊرۊن پۊل دينه</glk_example>
 		<fa_word>نیست</fa_word>
 		<fa_example>داخل حساب نیما پول نیست</fa_example>
 		<en_word>There Is Not</en_word>
@@ -4404,7 +4404,7 @@
 	<word>
 		<id>490</id>
 		<glk_word>ديويست</glk_word>
-		<glk_example>ديويست تۊمۊن دئه پۊل ني-يه</glk_example>
+		<glk_example>ديويست تۊمۊن دئه پۊل نيه</glk_example>
 		<fa_word>دویست</fa_word>
 		<fa_example>دویست تومان دیگر پولی نیست</fa_example>
 		<en_word>Two Hundred</en_word>
@@ -4512,7 +4512,7 @@
 	<word>
 		<id>502</id>
 		<glk_word>دۊجا بۊگۊئي</glk_word>
-		<glk_example>دۊجا بۊگۊئي خؤرم کار ني-يه</glk_example>
+		<glk_example>دۊجا بۊگۊئي خؤرم کار نيه</glk_example>
 		<fa_word>خبرچینی</fa_word>
 		<fa_example>خبرچینى کار خوبى نیست</fa_example>
 		<en_word>Tittle-Tattle</en_word>
@@ -4953,7 +4953,7 @@
 	<word>
 		<id>551</id>
 		<glk_word>زوان</glk_word>
-		<glk_example>گيلکي زوانه، لاجه ني-يه</glk_example>
+		<glk_example>گيلکي زوانه، لاجه نيه</glk_example>
 		<fa_word>زبان</fa_word>
 		<fa_example>گیلکى زبان است، لهجه نیست</fa_example>
 		<en_word>Language</en_word>
@@ -5006,15 +5006,6 @@
 	</word>
 	<word>
 		<id>557</id>
-		<glk_word>سال</glk_word>
-		<glk_example>اي سال دئه مي درز تۊمانأ به</glk_example>
-		<fa_word>یک سال</fa_word>
-		<fa_example>یک سال دیگر درسم تمام مى‌شود</fa_example>
-		<en_word>Year</en_word>
-		<en_example>My education will end in one year</en_example>
-	</word>
-	<word>
-		<id>558</id>
 		<glk_word>سامان</glk_word>
 		<glk_example>کؤ سامان شؤن دريم؟</glk_example>
 		<fa_word>جا، مکان</fa_word>
@@ -5023,7 +5014,7 @@
 		<en_example>What place are we going to?</en_example>
 	</word>
 	<word>
-		<id>559</id>
+		<id>558</id>
 		<glk_word>سانچؤ</glk_word>
 		<glk_example>جه وس هوا سرده سانچؤ زئن درم</glk_example>
 		<fa_word>سینه‌پهلو</fa_word>
@@ -5032,7 +5023,7 @@
 		<en_example>It's too cold I'm getting pneumonia</en_example>
 	</word>
 	<word>
-		<id>560</id>
+		<id>559</id>
 		<glk_word>سخت</glk_word>
 		<glk_example>همه-تا کاران سخته</glk_example>
 		<fa_word>سخت</fa_word>
@@ -5041,7 +5032,7 @@
 		<en_example>All jobs are difficult</en_example>
 	</word>
 	<word>
-		<id>561</id>
+		<id>560</id>
 		<glk_word>سختي أمؤن</glk_word>
 		<glk_example>مرأ سختي أيه بشم بيرۊن</glk_example>
 		<fa_word>تنبلى</fa_word>
@@ -5050,7 +5041,7 @@
 		<en_example>I'm feeling lazy to go outside</en_example>
 	</word>
 	<word>
-		<id>562</id>
+		<id>561</id>
 		<glk_word>سر</glk_word>
 		<glk_example>تي وسيله ٰنأ بنه ميز ٚ سر</glk_example>
 		<fa_word>روى</fa_word>
@@ -5059,7 +5050,7 @@
 		<en_example>Put your stuff on the table</en_example>
 	</word>
 	<word>
-		<id>563</id>
+		<id>562</id>
 		<glk_word>سر</glk_word>
 		<glk_example>تۊ کي سر ايسي؟</glk_example>
 		<fa_word>طرفدار</fa_word>
@@ -5068,7 +5059,7 @@
 		<en_example>Whose side are you on?</en_example>
 	</word>
 	<word>
-		<id>564</id>
+		<id>563</id>
 		<glk_word>سر ٚ کؤره</glk_word>
 		<glk_example>مي سر ٚ کؤره مرأ در کۊنه</glk_example>
 		<fa_word>شقیقه</fa_word>
@@ -5077,7 +5068,7 @@
 		<en_example>My temple hurts</en_example>
 	</word>
 	<word>
-		<id>565</id>
+		<id>564</id>
 		<glk_word>سرأ جيري</glk_word>
 		<glk_example>أ سرأ جيري-يأ وا دٚواريم</glk_example>
 		<fa_word>شیب</fa_word>
@@ -5086,7 +5077,7 @@
 		<en_example>We should cross this downhill</en_example>
 	</word>
 	<word>
-		<id>566</id>
+		<id>565</id>
 		<glk_word>سرأ دن</glk_word>
 		<glk_example>مي سفارشانأ سرأ دن</glk_example>
 		<fa_word>ارسال کن</fa_word>
@@ -5095,7 +5086,7 @@
 		<en_example>Send me my orders</en_example>
 	</word>
 	<word>
-		<id>567</id>
+		<id>566</id>
 		<glk_word>سرأ دن</glk_word>
 		<glk_example>اۊ پيچأ زاکأ سرأدن</glk_example>
 		<fa_word>رها کن</fa_word>
@@ -5104,7 +5095,7 @@
 		<en_example>Release that kitten</en_example>
 	</word>
 	<word>
-		<id>568</id>
+		<id>567</id>
 		<glk_word>سراکۊنأ</glk_word>
 		<glk_example>کيتابأ سراکۊنأ بيگيفتي</glk_example>
 		<fa_word>برعکس</fa_word>
@@ -5113,7 +5104,7 @@
 		<en_example>You're holding the book upside down</en_example>
 	</word>
 	<word>
-		<id>569</id>
+		<id>568</id>
 		<glk_word>سربس</glk_word>
 		<glk_example>تي سربسأ بۊگۊ</glk_example>
 		<fa_word>منبع</fa_word>
@@ -5122,7 +5113,7 @@
 		<en_example>Tell me about your source</en_example>
 	</word>
 	<word>
-		<id>570</id>
+		<id>569</id>
 		<glk_word>سربسر</glk_word>
 		<glk_example>مرأ سربسر نهأن نوأ</glk_example>
 		<fa_word>اذیت</fa_word>
@@ -5131,7 +5122,7 @@
 		<en_example>Don't bother me</en_example>
 	</word>
 	<word>
-		<id>571</id>
+		<id>570</id>
 		<glk_word>سربسر</glk_word>
 		<glk_example>هۊتؤ سربسر بنه</glk_example>
 		<fa_word>روى هم</fa_word>
@@ -5140,7 +5131,7 @@
 		<en_example>Leave it overlay</en_example>
 	</word>
 	<word>
-		<id>572</id>
+		<id>571</id>
 		<glk_word>سرد ٚ وا</glk_word>
 		<glk_example>سرد ٚ وا دمه</glk_example>
 		<fa_word>باد سرد</fa_word>
@@ -5149,7 +5140,7 @@
 		<en_example>Cold wind is blowing</en_example>
 	</word>
 	<word>
-		<id>573</id>
+		<id>572</id>
 		<glk_word>سردأ کۊده</glk_word>
 		<glk_example>هوا سردأ کۊده</glk_example>
 		<fa_word>سرد شده است</fa_word>
@@ -5158,7 +5149,7 @@
 		<en_example>The weather has turned cold</en_example>
 	</word>
 	<word>
-		<id>574</id>
+		<id>573</id>
 		<glk_word>سردي</glk_word>
 		<glk_example>بۊشۊ سردي-يأ بأور</glk_example>
 		<fa_word>نردبان</fa_word>
@@ -5167,16 +5158,7 @@
 		<en_example>Go bring the ladder</en_example>
 	</word>
 	<word>
-		<id>575</id>
-		<glk_word>سرسۊم</glk_word>
-		<glk_example>سرسۊم کي بکفتي بزين ترأ حالي-به</glk_example>
-		<fa_word>با سر افتادن</fa_word>
-		<fa_example>با سر که افتادى بعد متوجه مى‌شوى</fa_example>
-		<en_word>Falling Over Your Head</en_word>
-		<en_example>You will understand after you fall over your head</en_example>
-	</word>
-	<word>
-		<id>576</id>
+		<id>574</id>
 		<glk_word>سرفۊکؤ</glk_word>
 		<glk_example>هأى أمرأ سرفۊکؤ زنه</glk_example>
 		<fa_word>سرکوفت</fa_word>
@@ -5185,7 +5167,7 @@
 		<en_example>He/She rebukes us constantly</en_example>
 	</word>
 	<word>
-		<id>577</id>
+		<id>575</id>
 		<glk_word>سرگمجي</glk_word>
 		<glk_example>زأکأن ٚ سرگمجي ره، أشانه کيتاب بخأنيد</glk_example>
 		<fa_word>سرگرم کردن</fa_word>
@@ -5194,7 +5176,7 @@
 		<en_example>To Entertain kids, read a book for them</en_example>
 	</word>
 	<word>
-		<id>578</id>
+		<id>576</id>
 		<glk_word>سس</glk_word>
 		<glk_example>تي پلا چي ره سسه؟</glk_example>
 		<fa_word>بى‌نمک</fa_word>
@@ -5203,7 +5185,7 @@
 		<en_example>Why is your rice tasteless?</en_example>
 	</word>
 	<word>
-		<id>579</id>
+		<id>577</id>
 		<glk_word>سفيان</glk_word>
 		<glk_example>سفيان بۊکۊدم</glk_example>
 		<fa_word>وحشت</fa_word>
@@ -5212,7 +5194,7 @@
 		<en_example>I panicked</en_example>
 	</word>
 	<word>
-		<id>580</id>
+		<id>578</id>
 		<glk_word>سلامال</glk_word>
 		<glk_example>مي سلاماله</glk_example>
 		<fa_word>هم سن</fa_word>
@@ -5221,7 +5203,7 @@
 		<en_example>He/She is the same age as me</en_example>
 	</word>
 	<word>
-		<id>581</id>
+		<id>579</id>
 		<glk_word>سه لنگه</glk_word>
 		<glk_example>اۊ سه لنگه-يأ بأور</glk_example>
 		<fa_word>سه پایه</fa_word>
@@ -5230,7 +5212,7 @@
 		<en_example>Bring me that tripod</en_example>
 	</word>
 	<word>
-		<id>582</id>
+		<id>580</id>
 		<glk_word>سيا</glk_word>
 		<glk_example>مي سيا تۊمانأ بيدئي؟</glk_example>
 		<fa_word>سیاه</fa_word>
@@ -5239,7 +5221,7 @@
 		<en_example>Have you seen my black pants?</en_example>
 	</word>
 	<word>
-		<id>583</id>
+		<id>581</id>
 		<glk_word>سيبيشکا</glk_word>
 		<glk_example>سيبيشکا خۊري؟</glk_example>
 		<fa_word>تخمه آفتابگردان</fa_word>
@@ -5248,7 +5230,7 @@
 		<en_example>Do you eat sunflower seeds?</en_example>
 	</word>
 	<word>
-		<id>584</id>
+		<id>582</id>
 		<glk_word>سيفيد</glk_word>
 		<glk_example>اۊ سيفيد ٚ کفشأ خأيم</glk_example>
 		<fa_word>سفید</fa_word>
@@ -5257,7 +5239,7 @@
 		<en_example>I want those white shoes</en_example>
 	</word>
 	<word>
-		<id>585</id>
+		<id>583</id>
 		<glk_word>سيوا</glk_word>
 		<glk_example>أشانأ سيوا بنه</glk_example>
 		<fa_word>جدا</fa_word>
@@ -5266,7 +5248,7 @@
 		<en_example>keep these separated</en_example>
 	</word>
 	<word>
-		<id>586</id>
+		<id>584</id>
 		<glk_word>سٚبٚج</glk_word>
 		<glk_example>تي سرأ سٚبٚجأ کۊده؟</glk_example>
 		<fa_word>شپش</fa_word>
@@ -5275,7 +5257,7 @@
 		<en_example>Did you get head lice?</en_example>
 	</word>
 	<word>
-		<id>587</id>
+		<id>585</id>
 		<glk_word>سٚفره</glk_word>
 		<glk_example>سٚفره  ٰ بۊشؤستم</glk_example>
 		<fa_word>سفره</fa_word>
@@ -5284,7 +5266,7 @@
 		<en_example>I washed the tablecloth</en_example>
 	</word>
 	<word>
-		<id>588</id>
+		<id>586</id>
 		<glk_word>سٚند</glk_word>
 		<glk_example>تي سٚند چقده؟</glk_example>
 		<fa_word>سن</fa_word>
@@ -5293,7 +5275,7 @@
 		<en_example>How old are you?</en_example>
 	</word>
 	<word>
-		<id>589</id>
+		<id>587</id>
 		<glk_word>سٚودا</glk_word>
 		<glk_example>خليل بۊشؤ بازار سٚودا بۊکۊنه</glk_example>
 		<fa_word>معامله</fa_word>
@@ -5302,7 +5284,7 @@
 		<en_example>Khalil went to the bazaar to trade</en_example>
 	</word>
 	<word>
-		<id>590</id>
+		<id>588</id>
 		<glk_word>سک</glk_word>
 		<glk_example>سکان پيچائان ٚ وأسي لاب کۊديد</glk_example>
 		<fa_word>سگ</fa_word>
@@ -5311,7 +5293,7 @@
 		<en_example>Dogs were barking because of cats</en_example>
 	</word>
 	<word>
-		<id>591</id>
+		<id>589</id>
 		<glk_word>سۊ</glk_word>
 		<glk_example>بۊخاري سۊ زياده</glk_example>
 		<fa_word>شعله</fa_word>
@@ -5320,7 +5302,7 @@
 		<en_example>The flame of the heater is too high</en_example>
 	</word>
 	<word>
-		<id>592</id>
+		<id>590</id>
 		<glk_word>سۊ</glk_word>
 		<glk_example>الا تي تي سۊ کۊنه</glk_example>
 		<fa_word>روشنایى</fa_word>
@@ -5329,7 +5311,7 @@
 		<en_example>The moon shines</en_example>
 	</word>
 	<word>
-		<id>593</id>
+		<id>591</id>
 		<glk_word>سۊبۊل</glk_word>
 		<glk_example>أ سأکۊته-یأ سۊبۊلأ کۊده</glk_example>
 		<fa_word>کک</fa_word>
@@ -5338,7 +5320,7 @@
 		<en_example>This puppy has fleas</en_example>
 	</word>
 	<word>
-		<id>594</id>
+		<id>592</id>
 		<glk_word>سۊبۊک</glk_word>
 		<glk_example>أ کفش چندر سۊبۊکه</glk_example>
 		<fa_word>سبک</fa_word>
@@ -5347,7 +5329,7 @@
 		<en_example>These shoes are so light</en_example>
 	</word>
 	<word>
-		<id>595</id>
+		<id>593</id>
 		<glk_word>سۊج</glk_word>
 		<glk_example>مي گۊلي مرأ سۊج کۊنه</glk_example>
 		<fa_word>سوزش</fa_word>
@@ -5356,7 +5338,7 @@
 		<en_example>My throat is burning</en_example>
 	</word>
 	<word>
-		<id>596</id>
+		<id>594</id>
 		<glk_word>سۊج</glk_word>
 		<glk_example>هوا سۊج دأره</glk_example>
 		<fa_word>سوز</fa_word>
@@ -5365,7 +5347,7 @@
 		<en_example>The weather is burning cold</en_example>
 	</word>
 	<word>
-		<id>597</id>
+		<id>595</id>
 		<glk_word>سۊرخ</glk_word>
 		<glk_example>أ سۊرخ ٚ پرهنأ دۊکۊن</glk_example>
 		<fa_word>قرمز</fa_word>
@@ -5374,7 +5356,7 @@
 		<en_example>Wear this red shirt</en_example>
 	</word>
 	<word>
-		<id>598</id>
+		<id>596</id>
 		<glk_word>سۊستي</glk_word>
 		<glk_example>سۊستي کۊدن نوأ</glk_example>
 		<fa_word>تنبلى</fa_word>
@@ -5383,7 +5365,7 @@
 		<en_example>Don't be lazy</en_example>
 	</word>
 	<word>
-		<id>599</id>
+		<id>597</id>
 		<glk_word>سۊفته</glk_word>
 		<glk_example>تا هسأ سۊفته نۊکۊديم</glk_example>
 		<fa_word>دشت</fa_word>
@@ -5392,7 +5374,7 @@
 		<en_example>I didn't get my first sale of the day so far</en_example>
 	</word>
 	<word>
-		<id>600</id>
+		<id>598</id>
 		<glk_word>سۊماپالان</glk_word>
 		<glk_example>کابينت ٚ جأ سۊماپالانأ مرأ فأدن</glk_example>
 		<fa_word>آبکش</fa_word>
@@ -5401,7 +5383,7 @@
 		<en_example>Give me the colander from the cabinet</en_example>
 	</word>
 	<word>
-		<id>601</id>
+		<id>599</id>
 		<glk_word>سۊک</glk_word>
 		<glk_example>سردي-يأ سۊک بني کفه</glk_example>
 		<fa_word>عمودی</fa_word>
@@ -5410,7 +5392,7 @@
 		<en_example>If you put the ladder vertically it will fall</en_example>
 	</word>
 	<word>
-		<id>602</id>
+		<id>600</id>
 		<glk_word>سۊکۊله</glk_word>
 		<glk_example>سۊکۊله کۊکۊره کۊ کۊدن دره</glk_example>
 		<fa_word>خروس</fa_word>
@@ -5419,7 +5401,7 @@
 		<en_example>Rooster is crowing</en_example>
 	</word>
 	<word>
-		<id>603</id>
+		<id>601</id>
 		<glk_word>سۊکۊنج</glk_word>
 		<glk_example>سۊکۊنج سۊتأ کۊنج دره</glk_example>
 		<fa_word>مثلث</fa_word>
@@ -5428,7 +5410,7 @@
 		<en_example>Triangle has three angles</en_example>
 	</word>
 	<word>
-		<id>604</id>
+		<id>602</id>
 		<glk_word>شأ</glk_word>
 		<glk_example>چي شأ کۊدن؟</glk_example>
 		<fa_word>مى‌شود</fa_word>
@@ -5437,7 +5419,7 @@
 		<en_example>What can be done?</en_example>
 	</word>
 	<word>
-		<id>605</id>
+		<id>603</id>
 		<glk_word>شأل</glk_word>
 		<glk_example>شأل دۊتا أمي کرکانأ ببرد</glk_example>
 		<fa_word>شغال</fa_word>
@@ -5446,7 +5428,7 @@
 		<en_example>The jackal took two of our chickens</en_example>
 	</word>
 	<word>
-		<id>606</id>
+		<id>604</id>
 		<glk_word>شؤت</glk_word>
 		<glk_example>اۊ شؤتأ مرأ فأدن</glk_example>
 		<fa_word>فرچه</fa_word>
@@ -5455,7 +5437,7 @@
 		<en_example>Give me the brush</en_example>
 	</word>
 	<word>
-		<id>607</id>
+		<id>605</id>
 		<glk_word>شؤن</glk_word>
 		<glk_example>شؤن ٚ مؤقه مرأ دۊخان</glk_example>
 		<fa_word>رفتن</fa_word>
@@ -5464,7 +5446,7 @@
 		<en_example>Call me when it's time to go</en_example>
 	</word>
 	<word>
-		<id>608</id>
+		<id>606</id>
 		<glk_word>شؤن أمؤن</glk_word>
 		<glk_example>أمي شؤن أمؤن خۊ جأ سر مأنه</glk_example>
 		<fa_word>رفت و آمد</fa_word>
@@ -5473,7 +5455,7 @@
 		<en_example>Our commute will stay like this</en_example>
 	</word>
 	<word>
-		<id>609</id>
+		<id>607</id>
 		<glk_word>شب</glk_word>
 		<glk_example>شب دکفته</glk_example>
 		<fa_word>شب</fa_word>
@@ -5482,7 +5464,7 @@
 		<en_example>It's night</en_example>
 	</word>
 	<word>
-		<id>610</id>
+		<id>608</id>
 		<glk_word>شباند ٚرۊز</glk_word>
 		<glk_example>نؤرۊزبل ٚ ره شباند ٚرۊز بيداريم</glk_example>
 		<fa_word>شب و روز</fa_word>
@@ -5491,7 +5473,7 @@
 		<en_example>We're awake day and night for Nowruzbal</en_example>
 	</word>
 	<word>
-		<id>611</id>
+		<id>609</id>
 		<glk_word>شل</glk_word>
 		<glk_example>چي ره شل شلکأ را شي؟</glk_example>
 		<fa_word>لنگ</fa_word>
@@ -5500,7 +5482,7 @@
 		<en_example>Why are you limping?</en_example>
 	</word>
 	<word>
-		<id>612</id>
+		<id>610</id>
 		<glk_word>شلار</glk_word>
 		<glk_example>هأی خۊ گبأ شلار دأئي</glk_example>
 		<fa_word>کش دادن</fa_word>
@@ -5509,7 +5491,7 @@
 		<en_example>He/She was constantly prolonging his/her words</en_example>
 	</word>
 	<word>
-		<id>613</id>
+		<id>611</id>
 		<glk_word>شلخت</glk_word>
 		<glk_example>ايتأ پيله شلخت بيهئم</glk_example>
 		<fa_word>غاز</fa_word>
@@ -5518,7 +5500,7 @@
 		<en_example>I bought a big goose</en_example>
 	</word>
 	<word>
-		<id>614</id>
+		<id>612</id>
 		<glk_word>شلله</glk_word>
 		<glk_example>مي پلا شلله بؤبؤ</glk_example>
 		<fa_word>خمیر شدن پلو</fa_word>
@@ -5527,7 +5509,7 @@
 		<en_example>My rice got mushy</en_example>
 	</word>
 	<word>
-		<id>615</id>
+		<id>613</id>
 		<glk_word>شه</glk_word>
 		<glk_example>أيأ چقد گرمه، شه بزم</glk_example>
 		<fa_word>عرق</fa_word>
@@ -5536,7 +5518,7 @@
 		<en_example>It's too hot here, I sweat</en_example>
 	</word>
 	<word>
-		<id>616</id>
+		<id>614</id>
 		<glk_word>شواله</glk_word>
 		<glk_example>تش شواله کشه</glk_example>
 		<fa_word>شعله</fa_word>
@@ -5545,7 +5527,7 @@
 		<en_example>The fire is flaming</en_example>
 	</word>
 	<word>
-		<id>617</id>
+		<id>615</id>
 		<glk_word>شيب</glk_word>
 		<glk_example>شيب بزن</glk_example>
 		<fa_word>سوت</fa_word>
@@ -5554,7 +5536,7 @@
 		<en_example>Whistle</en_example>
 	</word>
 	<word>
-		<id>618</id>
+		<id>616</id>
 		<glk_word>شيش</glk_word>
 		<glk_example>أمان شيش نفر بيم</glk_example>
 		<fa_word>شش</fa_word>
@@ -5563,7 +5545,7 @@
 		<en_example>We were six people</en_example>
 	</word>
 	<word>
-		<id>619</id>
+		<id>617</id>
 		<glk_word>شيمي</glk_word>
 		<glk_example>اۊى سفر أمان بامؤئيم أى سفر شيمي نؤبه-يه</glk_example>
 		<fa_word>شما</fa_word>
@@ -5572,7 +5554,7 @@
 		<en_example>We came last time now it's your turn</en_example>
 	</word>
 	<word>
-		<id>620</id>
+		<id>618</id>
 		<glk_word>شکمدار</glk_word>
 		<glk_example>شکمدار ٚ زناکانأ مأنه</glk_example>
 		<fa_word>حامله</fa_word>
@@ -5581,7 +5563,7 @@
 		<en_example>He/She looks like a pregnant woman</en_example>
 	</word>
 	<word>
-		<id>621</id>
+		<id>619</id>
 		<glk_word>شۊتۊر</glk_word>
 		<glk_example>شۊتۊر بيابان ٚ مئن زيويسته</glk_example>
 		<fa_word>شتر</fa_word>
@@ -5590,7 +5572,7 @@
 		<en_example>Camel lives in the desert</en_example>
 	</word>
 	<word>
-		<id>622</id>
+		<id>620</id>
 		<glk_word>شۊرۊم</glk_word>
 		<glk_example>شۊرۊم بيگيفته</glk_example>
 		<fa_word>مه</fa_word>
@@ -5599,7 +5581,7 @@
 		<en_example>It's foggy</en_example>
 	</word>
 	<word>
-		<id>623</id>
+		<id>621</id>
 		<glk_word>شۊماره</glk_word>
 		<glk_example>سيرۊس قايقران ٚ شۊماره ۹ بۊ</glk_example>
 		<fa_word>شماره</fa_word>
@@ -5608,7 +5590,7 @@
 		<en_example>Siroos Ghayeghran's number was 9</en_example>
 	</word>
 	<word>
-		<id>624</id>
+		<id>622</id>
 		<glk_word>شۊمان</glk_word>
 		<glk_example>شۊمان بيشيد</glk_example>
 		<fa_word>شما</fa_word>
@@ -5617,7 +5599,7 @@
 		<en_example>You go</en_example>
 	</word>
 	<word>
-		<id>625</id>
+		<id>623</id>
 		<glk_word>صؤب</glk_word>
 		<glk_example>من صؤبان زۊد شم کار ٚ سر</glk_example>
 		<fa_word>صبح</fa_word>
@@ -5626,7 +5608,7 @@
 		<en_example>I go to work early in the morning</en_example>
 	</word>
 	<word>
-		<id>626</id>
+		<id>624</id>
 		<glk_word>صبر</glk_word>
 		<glk_example>صبر بزه</glk_example>
 		<fa_word>عطسه</fa_word>
@@ -5635,7 +5617,7 @@
 		<en_example>He/She sneezed</en_example>
 	</word>
 	<word>
-		<id>627</id>
+		<id>625</id>
 		<glk_word>صۊندؤق</glk_word>
 		<glk_example>صۊندؤق ٚ دۊرۊن بنأم</glk_example>
 		<fa_word>صندوق</fa_word>
@@ -5644,7 +5626,7 @@
 		<en_example>I put it inside the coffer</en_example>
 	</word>
 	<word>
-		<id>628</id>
+		<id>626</id>
 		<glk_word>عأيدبيني</glk_word>
 		<glk_example>ايمسال کؤرؤنا وأسي عأيدبيني نأريم</glk_example>
 		<fa_word>عید دیدنى</fa_word>
@@ -5653,7 +5635,7 @@
 		<en_example>This year we don't visit family in the Eid because of Corona</en_example>
 	</word>
 	<word>
-		<id>629</id>
+		<id>627</id>
 		<glk_word>عأينک</glk_word>
 		<glk_example>مي عأينکأ بيدئي؟</glk_example>
 		<fa_word>عینک</fa_word>
@@ -5662,7 +5644,7 @@
 		<en_example>Have you seen my glasses?</en_example>
 	</word>
 	<word>
-		<id>630</id>
+		<id>628</id>
 		<glk_word>عار ؤ مۊر</glk_word>
 		<glk_example>أن ٚ عار ؤ مۊر بشکفته</glk_example>
 		<fa_word>غرور</fa_word>
@@ -5671,7 +5653,7 @@
 		<en_example>His/Her pride was hurt</en_example>
 	</word>
 	<word>
-		<id>631</id>
+		<id>629</id>
 		<glk_word>عارنامۊس</glk_word>
 		<glk_example>أمي مرأ عارنامۊسي دأره</glk_example>
 		<fa_word>رودربایستى</fa_word>
@@ -5680,7 +5662,7 @@
 		<en_example>He/She is being too formal with us</en_example>
 	</word>
 	<word>
-		<id>632</id>
+		<id>630</id>
 		<glk_word>عسکي</glk_word>
 		<glk_example>کي عسکي بزه؟</glk_example>
 		<fa_word>عطسه</fa_word>
@@ -5689,7 +5671,7 @@
 		<en_example>Who sneezed?</en_example>
 	</word>
 	<word>
-		<id>633</id>
+		<id>631</id>
 		<glk_word>عم پسرزا</glk_word>
 		<glk_example>تي عم پسر زأکه؟</glk_example>
 		<fa_word>بچه پسرعمه</fa_word>
@@ -5698,7 +5680,7 @@
 		<en_example>Is he/she your cousin's son/daughter?</en_example>
 	</word>
 	<word>
-		<id>634</id>
+		<id>632</id>
 		<glk_word>عمجان</glk_word>
 		<glk_example>ديرۊ بۊشؤم مي عمجان ٚ خانه</glk_example>
 		<fa_word>عمه</fa_word>
@@ -5707,7 +5689,7 @@
 		<en_example>I went to my aunt's house yesterday</en_example>
 	</word>
 	<word>
-		<id>635</id>
+		<id>633</id>
 		<glk_word>عمجان دؤختر</glk_word>
 		<glk_example>فردأ مي عمجان دؤختر ٚ خانه ايسائيم</glk_example>
 		<fa_word>دخترعمه</fa_word>
@@ -5716,7 +5698,7 @@
 		<en_example>We are at my cousin's house tomorrow</en_example>
 	</word>
 	<word>
-		<id>636</id>
+		<id>634</id>
 		<glk_word>عمجان پسر</glk_word>
 		<glk_example>مي عمجان پسر رشت ايسأ</glk_example>
 		<fa_word>پسرعمه</fa_word>
@@ -5725,16 +5707,16 @@
 		<en_example>My cousin is in Rasht</en_example>
 	</word>
 	<word>
-		<id>637</id>
+		<id>635</id>
 		<glk_word>عنقص</glk_word>
-		<glk_example>أن ٚ کاران عنقص ني-يه</glk_example>
+		<glk_example>أن ٚ کاران عنقص نيه</glk_example>
 		<fa_word>از روى عمد</fa_word>
 		<fa_example>کارهایش از روى عمد نیست</fa_example>
 		<en_word>On Purpose</en_word>
 		<en_example>His acts are not on purpose</en_example>
 	</word>
 	<word>
-		<id>638</id>
+		<id>636</id>
 		<glk_word>عوض</glk_word>
 		<glk_example>أن همه پۊل فأدأئي اۊن ٚ عوض چي فأگيفتي؟</glk_example>
 		<fa_word>به جاى</fa_word>
@@ -5743,7 +5725,7 @@
 		<en_example>You spent a lot of money, what did you get in return?</en_example>
 	</word>
 	<word>
-		<id>639</id>
+		<id>637</id>
 		<glk_word>عوض دکش</glk_word>
 		<glk_example>أمي پرهنانأ عوض دکش بۊکۊديم</glk_example>
 		<fa_word>معاوضه</fa_word>
@@ -5752,16 +5734,16 @@
 		<en_example>We exchanged our shirts</en_example>
 	</word>
 	<word>
-		<id>640</id>
+		<id>638</id>
 		<glk_word>عيلاج</glk_word>
-		<glk_example>حسودي-يأ هيچ عيلاج ني-يه</glk_example>
+		<glk_example>حسودي-يأ هيچ عيلاج نيه</glk_example>
 		<fa_word>مداوا</fa_word>
 		<fa_example>حسادت اصلن مداوا نمی‌شود</fa_example>
 		<en_word>Cure</en_word>
 		<en_example>There's no Cure for jealousy</en_example>
 	</word>
 	<word>
-		<id>641</id>
+		<id>639</id>
 		<glk_word>عيلاوه</glk_word>
 		<glk_example>ايتأ دئه عيلاوهˈ کۊن</glk_example>
 		<fa_word>اضافه</fa_word>
@@ -5770,7 +5752,7 @@
 		<en_example>Add another one</en_example>
 	</word>
 	<word>
-		<id>642</id>
+		<id>640</id>
 		<glk_word>غۊرصه</glk_word>
 		<glk_example>غۊرصه خۊردن نوأ</glk_example>
 		<fa_word>غصه</fa_word>
@@ -5779,7 +5761,7 @@
 		<en_example>Don't be sad</en_example>
 	</word>
 	<word>
-		<id>643</id>
+		<id>641</id>
 		<glk_word>فأدأ</glk_word>
 		<glk_example>ترأ چي فأدأ؟</glk_example>
 		<fa_word>داد</fa_word>
@@ -5788,7 +5770,7 @@
 		<en_example>What did he/she gave to you?</en_example>
 	</word>
 	<word>
-		<id>644</id>
+		<id>642</id>
 		<glk_word>فأده</glk_word>
 		<glk_example>تي نظر أمي پۊلأ فأده؟</glk_example>
 		<fa_word>می‌دهد</fa_word>
@@ -5797,7 +5779,7 @@
 		<en_example>Do you think he/she gives us our money?</en_example>
 	</word>
 	<word>
-		<id>645</id>
+		<id>643</id>
 		<glk_word>فأرسه</glk_word>
 		<glk_example>شانس بأوردم ماسۊ مرأ فأرسه</glk_example>
 		<fa_word>کمک کرد</fa_word>
@@ -5806,7 +5788,7 @@
 		<en_example>I was lucky that Masoo helped me</en_example>
 	</word>
 	<word>
-		<id>646</id>
+		<id>644</id>
 		<glk_word>فأمستن</glk_word>
 		<glk_example>أ مؤضۊ فأمستن أنقد سخته؟</glk_example>
 		<fa_word>فهمیدن</fa_word>
@@ -5815,7 +5797,7 @@
 		<en_example>Is this so hard to understand?</en_example>
 	</word>
 	<word>
-		<id>647</id>
+		<id>645</id>
 		<glk_word>فأندر</glk_word>
 		<glk_example>مرأ فأندر</glk_example>
 		<fa_word>نگاه کن</fa_word>
@@ -5824,7 +5806,7 @@
 		<en_example>look at me</en_example>
 	</word>
 	<word>
-		<id>648</id>
+		<id>646</id>
 		<glk_word>فأکش</glk_word>
 		<glk_example>أ لافندأ فأکش</glk_example>
 		<fa_word>بکش</fa_word>
@@ -5833,7 +5815,7 @@
 		<en_example>Pull this rope</en_example>
 	</word>
 	<word>
-		<id>649</id>
+		<id>647</id>
 		<glk_word>فأکش</glk_word>
 		<glk_example>دئه مي کله فأکش نأره</glk_example>
 		<fa_word>کشش</fa_word>
@@ -5842,7 +5824,7 @@
 		<en_example>My brain can't focus anymore</en_example>
 	</word>
 	<word>
-		<id>650</id>
+		<id>648</id>
 		<glk_word>فأکش</glk_word>
 		<glk_example>من گم وا بدن هأى فأکش دأن دره</glk_example>
 		<fa_word>ادامه</fa_word>
@@ -5851,7 +5833,7 @@
 		<en_example>I'm telling him/her to stop but he/she continues</en_example>
 	</word>
 	<word>
-		<id>651</id>
+		<id>649</id>
 		<glk_word>فؤقا</glk_word>
 		<glk_example>آهينأ  فؤقا گيل ٚ دۊرۊن</glk_example>
 		<fa_word>فرو کن</fa_word>
@@ -5860,7 +5842,7 @@
 		<en_example>Dip the iron in the mud</en_example>
 	</word>
 	<word>
-		<id>652</id>
+		<id>650</id>
 		<glk_word>فئلم</glk_word>
 		<glk_example>أ فئلمأ بيدئي؟</glk_example>
 		<fa_word>فیلم</fa_word>
@@ -5869,7 +5851,7 @@
 		<en_example>Have you seen this movie?</en_example>
 	</word>
 	<word>
-		<id>653</id>
+		<id>651</id>
 		<glk_word>فادار</glk_word>
 		<glk_example>بۊشۊ تي زاکأ فادار</glk_example>
 		<fa_word>سرپا بگیر</fa_word>
@@ -5878,7 +5860,7 @@
 		<en_example>Go and hold your baby over the toilet</en_example>
 	</word>
 	<word>
-		<id>654</id>
+		<id>652</id>
 		<glk_word>فارسانه</glk_word>
 		<glk_example>بؤشؤ مأمدأ فارسانه</glk_example>
 		<fa_word>رساند</fa_word>
@@ -5887,7 +5869,7 @@
 		<en_example>He went to give Mohamad a ride</en_example>
 	</word>
 	<word>
-		<id>655</id>
+		<id>653</id>
 		<glk_word>فاش</glk_word>
 		<glk_example>فاش دأن دره</glk_example>
 		<fa_word>فحش</fa_word>
@@ -5896,7 +5878,7 @@
 		<en_example>He is cursing</en_example>
 	</word>
 	<word>
-		<id>656</id>
+		<id>654</id>
 		<glk_word>فال</glk_word>
 		<glk_example>أ پرهن ته ره فاله</glk_example>
 		<fa_word>گشاد</fa_word>
@@ -5905,7 +5887,7 @@
 		<en_example>This shirt is loose for you</en_example>
 	</word>
 	<word>
-		<id>657</id>
+		<id>655</id>
 		<glk_word>فاکشيم</glk_word>
 		<glk_example>بيأ أ ميزأ فأکشيم ببريم اۊرأ</glk_example>
 		<fa_word>بکشیم</fa_word>
@@ -5914,7 +5896,7 @@
 		<en_example>Let's pull this table over there</en_example>
 	</word>
 	<word>
-		<id>658</id>
+		<id>656</id>
 		<glk_word>فترات</glk_word>
 		<glk_example>أشان دئه فترات کاشتن دريد</glk_example>
 		<fa_word>بیداد</fa_word>
@@ -5923,7 +5905,7 @@
 		<en_example>They are doing injustice</en_example>
 	</word>
 	<word>
-		<id>659</id>
+		<id>657</id>
 		<glk_word>فته کۊدن</glk_word>
 		<glk_example>دئه أمرأ فته کۊدن دره</glk_example>
 		<fa_word>به تنگ آوردن</fa_word>
@@ -5932,7 +5914,7 @@
 		<en_example>He/She is annoying us</en_example>
 	</word>
 	<word>
-		<id>660</id>
+		<id>658</id>
 		<glk_word>فجه</glk_word>
 		<glk_example>أيأ چي فجه؟</glk_example>
 		<fa_word>ریخته</fa_word>
@@ -5941,7 +5923,7 @@
 		<en_example>What's spilled here?</en_example>
 	</word>
 	<word>
-		<id>661</id>
+		<id>659</id>
 		<glk_word>فرخ</glk_word>
 		<glk_example>أن اۊن ٚ مرأ فرخ کۊنه</glk_example>
 		<fa_word>تفاوت</fa_word>
@@ -5950,7 +5932,7 @@
 		<en_example>This is different from that</en_example>
 	</word>
 	<word>
-		<id>662</id>
+		<id>660</id>
 		<glk_word>فسفاله</glk_word>
 		<glk_example>چائي فسفالهˈ فيشان</glk_example>
 		<fa_word>تفاله</fa_word>
@@ -5959,7 +5941,7 @@
 		<en_example>Throw away the tea residue</en_example>
 	</word>
 	<word>
-		<id>663</id>
+		<id>661</id>
 		<glk_word>فسک</glk_word>
 		<glk_example>مي فسکأ بۊرۊز ندي</glk_example>
 		<fa_word>راز</fa_word>
@@ -5968,7 +5950,7 @@
 		<en_example>Don't reveal my secret</en_example>
 	</word>
 	<word>
-		<id>664</id>
+		<id>662</id>
 		<glk_word>ففه</glk_word>
 		<glk_example>ففه خۊري؟</glk_example>
 		<fa_word>جگر سفید</fa_word>
@@ -5977,7 +5959,7 @@
 		<en_example>Would you eat white liver?</en_example>
 	</word>
 	<word>
-		<id>665</id>
+		<id>663</id>
 		<glk_word>فلنگي</glk_word>
 		<glk_example>چي ره فلنگي؟</glk_example>
 		<fa_word>می‌لنگی</fa_word>
@@ -5986,7 +5968,7 @@
 		<en_example>Why are you limping?</en_example>
 	</word>
 	<word>
-		<id>666</id>
+		<id>664</id>
 		<glk_word>فلگان</glk_word>
 		<glk_example>سٚفره  ٰ فلگان</glk_example>
 		<fa_word>بتکان</fa_word>
@@ -5995,7 +5977,7 @@
 		<en_example>Shake the tablecloth</en_example>
 	</word>
 	<word>
-		<id>667</id>
+		<id>665</id>
 		<glk_word>فيت</glk_word>
 		<glk_example>أمرأ فيت دأن دره</glk_example>
 		<fa_word>تحریک</fa_word>
@@ -6004,7 +5986,7 @@
 		<en_example>He/She is provoking us</en_example>
 	</word>
 	<word>
-		<id>668</id>
+		<id>666</id>
 		<glk_word>فيريني</glk_word>
 		<glk_example>فيريني خۊري؟</glk_example>
 		<fa_word>فرنی</fa_word>
@@ -6013,7 +5995,7 @@
 		<en_example>Would you eat porridge?</en_example>
 	</word>
 	<word>
-		<id>669</id>
+		<id>667</id>
 		<glk_word>فيشان</glk_word>
 		<glk_example>مۊس بۊکۊده نانأ فيشان</glk_example>
 		<fa_word>دور بریز</fa_word>
@@ -6022,25 +6004,16 @@
 		<en_example>Throw away the moldy bread</en_example>
 	</word>
 	<word>
-		<id>670</id>
+		<id>668</id>
 		<glk_word>فيللي</glk_word>
-		<glk_example>فيللي تاودن خيابان ٚ دۊرۊن خؤرم کار ني-يه</glk_example>
+		<glk_example>فيللي تاودن خيابان ٚ دۊرۊن خؤرم کار نيه</glk_example>
 		<fa_word>آب دهان</fa_word>
 		<fa_example>آب دهان انداختن در خیابان کار خوبى نیست</fa_example>
 		<en_word>Spit</en_word>
 		<en_example>Spitting in the street is not a good thing</en_example>
 	</word>
 	<word>
-		<id>671</id>
-		<glk_word>فيللي</glk_word>
-		<glk_example>فيللي تاودأ</glk_example>
-		<fa_word>آب دهان</fa_word>
-		<fa_example>آب دهان انداخت</fa_example>
-		<en_word>Spit</en_word>
-		<en_example>He/She spat</en_example>
-	</word>
-	<word>
-		<id>672</id>
+		<id>669</id>
 		<glk_word>فينگي</glk_word>
 		<glk_example>چي ره فينگي-يان ٚ مأنستن گب زني؟</glk_example>
 		<fa_word>تو دماغى</fa_word>
@@ -6049,7 +6022,7 @@
 		<en_example>Why are you snuffling?</en_example>
 	</word>
 	<word>
-		<id>673</id>
+		<id>670</id>
 		<glk_word>فيچال</glk_word>
 		<glk_example>فيچال أن ٚ آبأ بيگير</glk_example>
 		<fa_word>بچلان</fa_word>
@@ -6058,7 +6031,7 @@
 		<en_example>Wring it and take its water</en_example>
 	</word>
 	<word>
-		<id>674</id>
+		<id>671</id>
 		<glk_word>فچم</glk_word>
 		<glk_example>أمأن بجار ٚ مئن فچم کار کۊنيم</glk_example>
 		<fa_word>خمیده</fa_word>
@@ -6067,7 +6040,7 @@
 		<en_example>We bend over to work in the rice field</en_example>
 	</word>
 	<word>
-		<id>675</id>
+		<id>672</id>
 		<glk_word>فک</glk_word>
 		<glk_example>فک بأورده</glk_example>
 		<fa_word>بدبیارى</fa_word>
@@ -6076,7 +6049,7 @@
 		<en_example>He/She is misfortunate</en_example>
 	</word>
 	<word>
-		<id>676</id>
+		<id>673</id>
 		<glk_word>فگيفتم</glk_word>
 		<glk_example>ايمرۊ حۊقۊق فگيفتم</glk_example>
 		<fa_word>گرفتم</fa_word>
@@ -6085,7 +6058,7 @@
 		<en_example>I got salary today</en_example>
 	</word>
 	<word>
-		<id>677</id>
+		<id>674</id>
 		<glk_word>فۊ</glk_word>
 		<glk_example>فۊ بزن سردأ به بزين بۊخۊر</glk_example>
 		<fa_word>فوت</fa_word>
@@ -6094,7 +6067,7 @@
 		<en_example>Blow it until it's cool and then eat</en_example>
 	</word>
 	<word>
-		<id>678</id>
+		<id>675</id>
 		<glk_word>فۊبرده</glk_word>
 		<glk_example>تا کيکأ بأورديم فۊبرده</glk_example>
 		<fa_word>بلعید</fa_word>
@@ -6103,7 +6076,7 @@
 		<en_example>He/She swallowed the cake as soon as we bring it</en_example>
 	</word>
 	<word>
-		<id>679</id>
+		<id>676</id>
 		<glk_word>فۊتۊرکسته</glk_word>
 		<glk_example>شال أمي کرکانأ فۊتۊرکسته</glk_example>
 		<fa_word>حمله کرد</fa_word>
@@ -6112,7 +6085,7 @@
 		<en_example>Jackal attacked our chickens</en_example>
 	</word>
 	<word>
-		<id>680</id>
+		<id>677</id>
 		<glk_word>فۊداشتن</glk_word>
 		<glk_example>کي بۊ فۊداشته؟</glk_example>
 		<fa_word>شلیک کردن</fa_word>
@@ -6121,7 +6094,7 @@
 		<en_example>Who was the one shooting?</en_example>
 	</word>
 	<word>
-		<id>681</id>
+		<id>678</id>
 		<glk_word>فۊرانه</glk_word>
 		<glk_example>أن ٚ کاران همهˈ فۊرانه</glk_example>
 		<fa_word>دور می‌کند</fa_word>
@@ -6130,7 +6103,7 @@
 		<en_example>His/Her behavior keeps everyone away</en_example>
 	</word>
 	<word>
-		<id>682</id>
+		<id>679</id>
 		<glk_word>فۊندؤق</glk_word>
 		<glk_example>چنتا فۊندؤق دأري؟</glk_example>
 		<fa_word>فندق</fa_word>
@@ -6139,7 +6112,7 @@
 		<en_example>How many hazelnuts do you have?</en_example>
 	</word>
 	<word>
-		<id>683</id>
+		<id>680</id>
 		<glk_word>فۊچين</glk_word>
 		<glk_example>تي چۊمانأ فۊچين بۊخۊس</glk_example>
 		<fa_word>چشم‌ها را ببند</fa_word>
@@ -6148,7 +6121,7 @@
 		<en_example>Close your eyes and sleep</en_example>
 	</word>
 	<word>
-		<id>684</id>
+		<id>681</id>
 		<glk_word>فۊکۊده</glk_word>
 		<glk_example>شيرأ فۊکۊده فرش ٚ سر</glk_example>
 		<fa_word>ریخت</fa_word>
@@ -6157,7 +6130,7 @@
 		<en_example>He/She spilled the milk on the carpet</en_example>
 	</word>
 	<word>
-		<id>685</id>
+		<id>682</id>
 		<glk_word>فۊکۊن فيشان</glk_word>
 		<glk_example>أيأ هميشک فۊکۊن فيشانه</glk_example>
 		<fa_word>ریخت و پاش</fa_word>
@@ -6166,7 +6139,7 @@
 		<en_example>It's always messy here</en_example>
 	</word>
 	<word>
-		<id>686</id>
+		<id>683</id>
 		<glk_word>فۊگۊردسته</glk_word>
 		<glk_example>فۊگۊردسته خۊفته</glk_example>
 		<fa_word>روى شکم خوابیدن</fa_word>
@@ -6175,7 +6148,7 @@
 		<en_example>He/She is sleeping on the stomach</en_example>
 	</word>
 	<word>
-		<id>687</id>
+		<id>684</id>
 		<glk_word>فۊگۊردسته</glk_word>
 		<glk_example>أمي خانه ديفار فۊگۊردسته</glk_example>
 		<fa_word>واژگون شد</fa_word>
@@ -6184,7 +6157,7 @@
 		<en_example>The wall of our house was knocked down</en_example>
 	</word>
 	<word>
-		<id>688</id>
+		<id>685</id>
 		<glk_word>قؤوت</glk_word>
 		<glk_example>أن ٚ دسأ قؤوت دينه</glk_example>
 		<fa_word>توان</fa_word>
@@ -6193,7 +6166,7 @@
 		<en_example>His hand has no strength</en_example>
 	</word>
 	<word>
-		<id>689</id>
+		<id>686</id>
 		<glk_word>قاتؤق</glk_word>
 		<glk_example>ايپچه قاتؤق دۊکۊن کاسه مئن</glk_example>
 		<fa_word>خورش</fa_word>
@@ -6202,7 +6175,7 @@
 		<en_example>Serve some stew in the bowl</en_example>
 	</word>
 	<word>
-		<id>690</id>
+		<id>687</id>
 		<glk_word>قار</glk_word>
 		<glk_example>مي مرأ قاره</glk_example>
 		<fa_word>قهر</fa_word>
@@ -6211,7 +6184,7 @@
 		<en_example>He/She is angry with me</en_example>
 	</word>
 	<word>
-		<id>691</id>
+		<id>688</id>
 		<glk_word>قاق</glk_word>
 		<glk_example>خبرأ کي بيشتاوستيم قاقأ بؤستيم</glk_example>
 		<fa_word>حیران</fa_word>
@@ -6220,7 +6193,7 @@
 		<en_example>I was wandering when I heard the news</en_example>
 	</word>
 	<word>
-		<id>692</id>
+		<id>689</id>
 		<glk_word>قاينا</glk_word>
 		<glk_example>بيلاخره بتأنستم اۊنأ قاينا بۊکۊنم</glk_example>
 		<fa_word>متقاعد</fa_word>
@@ -6229,7 +6202,7 @@
 		<en_example>I could finally convinced him/her</en_example>
 	</word>
 	<word>
-		<id>693</id>
+		<id>690</id>
 		<glk_word>قيش</glk_word>
 		<glk_example>مي قيشأ بيدئي؟</glk_example>
 		<fa_word>کمربند</fa_word>
@@ -6238,7 +6211,7 @@
 		<en_example>Have you not seen my belt?</en_example>
 	</word>
 	<word>
-		<id>694</id>
+		<id>691</id>
 		<glk_word>قٚزٚنج</glk_word>
 		<glk_example>ايپچه پۊل قٚزٚنج بۊکۊدم</glk_example>
 		<fa_word>پس انداز</fa_word>
@@ -6247,7 +6220,7 @@
 		<en_example>I saved some money</en_example>
 	</word>
 	<word>
-		<id>695</id>
+		<id>692</id>
 		<glk_word>قۊشمه مۊ</glk_word>
 		<glk_example>بۊشۊ تي قۊشمه مۊيأ چأکۊن</glk_example>
 		<fa_word>آشفته مو</fa_word>
@@ -6256,7 +6229,7 @@
 		<en_example>Go fix your disheveled hair</en_example>
 	</word>
 	<word>
-		<id>696</id>
+		<id>693</id>
 		<glk_word>کأشکأرأت</glk_word>
 		<glk_example>ايتأ کأشکأرأت دار ٚ جؤر نیشته</glk_example>
 		<fa_word>زاغ</fa_word>
@@ -6265,7 +6238,7 @@
 		<en_example>A magpie is sitting on the tree</en_example>
 	</word>
 	<word>
-		<id>697</id>
+		<id>694</id>
 		<glk_word>کؤتر</glk_word>
 		<glk_example>کؤترانأ سرأدن</glk_example>
 		<fa_word>کبوتر</fa_word>
@@ -6274,7 +6247,7 @@
 		<en_example>Release the pigeons</en_example>
 	</word>
 	<word>
-		<id>698</id>
+		<id>695</id>
 		<glk_word>کؤر</glk_word>
 		<glk_example>اۊ کؤرأ فأندر</glk_example>
 		<fa_word>دختر</fa_word>
@@ -6283,7 +6256,7 @@
 		<en_example>Look at that girl</en_example>
 	</word>
 	<word>
-		<id>699</id>
+		<id>696</id>
 		<glk_word>کؤرأ</glk_word>
 		<glk_example>کؤرأ بيشيم؟</glk_example>
 		<fa_word>کدام طرف</fa_word>
@@ -6292,7 +6265,7 @@
 		<en_example>Which direction do we go?</en_example>
 	</word>
 	<word>
-		<id>700</id>
+		<id>697</id>
 		<glk_word>کؤل</glk_word>
 		<glk_example>بنأ خۊ کؤل ٚ سر</glk_example>
 		<fa_word>شانه</fa_word>
@@ -6301,7 +6274,7 @@
 		<en_example>He/She put it on his/her shoulder</en_example>
 	</word>
 	<word>
-		<id>701</id>
+		<id>698</id>
 		<glk_word>کؤل</glk_word>
 		<glk_example>أ چاقۊ کؤله</glk_example>
 		<fa_word>کند</fa_word>
@@ -6310,7 +6283,7 @@
 		<en_example>This knife is dull</en_example>
 	</word>
 	<word>
-		<id>702</id>
+		<id>699</id>
 		<glk_word>کؤيأ</glk_word>
 		<glk_example>مي شارژر کؤيأ نهأ؟</glk_example>
 		<fa_word>کجا</fa_word>
@@ -6319,7 +6292,7 @@
 		<en_example>Where is my charger?</en_example>
 	</word>
 	<word>
-		<id>703</id>
+		<id>700</id>
 		<glk_word>کؤيتأ</glk_word>
 		<glk_example>کؤيتأ دسکش تي شين ايسه؟</glk_example>
 		<fa_word>کدام یک</fa_word>
@@ -6328,7 +6301,7 @@
 		<en_example>Which one is your glove?</en_example>
 	</word>
 	<word>
-		<id>704</id>
+		<id>701</id>
 		<glk_word>کؤيدانه</glk_word>
 		<glk_example>کؤيدانه-يأ گي؟</glk_example>
 		<fa_word>کدام یک</fa_word>
@@ -6337,7 +6310,7 @@
 		<en_example>Which one do you say?</en_example>
 	</word>
 	<word>
-		<id>705</id>
+		<id>702</id>
 		<glk_word>کئخۊدامردي</glk_word>
 		<glk_example>تي کئخۊدامردي ته ره بدر خۊره</glk_example>
 		<fa_word>داورى</fa_word>
@@ -6346,7 +6319,7 @@
 		<en_example>Your judgement have only use for yourself</en_example>
 	</word>
 	<word>
-		<id>706</id>
+		<id>703</id>
 		<glk_word>کئن کئن</glk_word>
 		<glk_example>کئن کئن دأشتي أکه أئي</glk_example>
 		<fa_word>این پا آن پا کردن</fa_word>
@@ -6355,7 +6328,7 @@
 		<en_example>He/She was lingering to see when will you come</en_example>
 	</word>
 	<word>
-		<id>707</id>
+		<id>704</id>
 		<glk_word>کئواني</glk_word>
 		<glk_example>مي پيله مآر ايتأ کئواني-يه</glk_example>
 		<fa_word>کدبانو</fa_word>
@@ -6364,7 +6337,7 @@
 		<en_example>My grandmother is a dame</en_example>
 	</word>
 	<word>
-		<id>708</id>
+		<id>705</id>
 		<glk_word>کاباسي</glk_word>
 		<glk_example>کاباسي بأورديم</glk_example>
 		<fa_word>نحسی</fa_word>
@@ -6373,7 +6346,7 @@
 		<en_example>We've been cursed</en_example>
 	</word>
 	<word>
-		<id>709</id>
+		<id>706</id>
 		<glk_word>کاس</glk_word>
 		<glk_example>تي کاس ٚ چۊمأ خۊش دأرم</glk_example>
 		<fa_word>آبی</fa_word>
@@ -6382,7 +6355,7 @@
 		<en_example>I love your blue eyes</en_example>
 	</word>
 	<word>
-		<id>710</id>
+		<id>707</id>
 		<glk_word>کال</glk_word>
 		<glk_example>أ به کاله</glk_example>
 		<fa_word>نارس</fa_word>
@@ -6391,7 +6364,7 @@
 		<en_example>This quince is unripe</en_example>
 	</word>
 	<word>
-		<id>711</id>
+		<id>708</id>
 		<glk_word>کاکا</glk_word>
 		<glk_example>ايپچه کاکا چأکۊن بۊخۊريم</glk_example>
 		<fa_word>پنکیک</fa_word>
@@ -6400,7 +6373,7 @@
 		<en_example>Make some pancakes to eat</en_example>
 	</word>
 	<word>
-		<id>712</id>
+		<id>709</id>
 		<glk_word>کخ</glk_word>
 		<glk_example>أ شامپؤ کخ نۊکۊنه</glk_example>
 		<fa_word>کف</fa_word>
@@ -6409,7 +6382,7 @@
 		<en_example>This shampoo doesn't foam</en_example>
 	</word>
 	<word>
-		<id>713</id>
+		<id>710</id>
 		<glk_word>کرأ</glk_word>
 		<glk_example>کرأ شم</glk_example>
 		<fa_word>همین الان</fa_word>
@@ -6418,7 +6391,7 @@
 		<en_example>I'm going right now</en_example>
 	</word>
 	<word>
-		<id>714</id>
+		<id>711</id>
 		<glk_word>کرد ٚکار</glk_word>
 		<glk_example>تي کرد ٚ کارأ چأکۊن</glk_example>
 		<fa_word>رفتار</fa_word>
@@ -6427,7 +6400,7 @@
 		<en_example>Correct your behavior</en_example>
 	</word>
 	<word>
-		<id>715</id>
+		<id>712</id>
 		<glk_word>کرچ</glk_word>
 		<glk_example>پۊر کرچه</glk_example>
 		<fa_word>ترد</fa_word>
@@ -6436,7 +6409,7 @@
 		<en_example>It's very crispy</en_example>
 	</word>
 	<word>
-		<id>716</id>
+		<id>713</id>
 		<glk_word>کرک</glk_word>
 		<glk_example>کرکان کتکتاس کۊنيدي</glk_example>
 		<fa_word>مرغ</fa_word>
@@ -6445,7 +6418,7 @@
 		<en_example>Hens go cluck cluck</en_example>
 	</word>
 	<word>
-		<id>717</id>
+		<id>714</id>
 		<glk_word>کش</glk_word>
 		<glk_example>اۊن کيسه اۊ کش نيشته؟</glk_example>
 		<fa_word>گوشه</fa_word>
@@ -6454,7 +6427,7 @@
 		<en_example>Who is that sitting in the corner?</en_example>
 	</word>
 	<word>
-		<id>718</id>
+		<id>715</id>
 		<glk_word>کشه</glk_word>
 		<glk_example>بيأ مي کشه</glk_example>
 		<fa_word>آغوش</fa_word>
@@ -6463,7 +6436,7 @@
 		<en_example>Come to my embrace</en_example>
 	</word>
 	<word>
-		<id>719</id>
+		<id>716</id>
 		<glk_word>کشک</glk_word>
 		<glk_example>دۊمرتبه کشکأ بؤستي؟</glk_example>
 		<fa_word>لوس</fa_word>
@@ -6472,7 +6445,7 @@
 		<en_example>Are you being spoiled again?</en_example>
 	</word>
 	<word>
-		<id>720</id>
+		<id>717</id>
 		<glk_word>کفته</glk_word>
 		<glk_example>تي ميداد زيمين ٚ سر کفته</glk_example>
 		<fa_word>افتاده است</fa_word>
@@ -6481,7 +6454,7 @@
 		<en_example>Your pencil has fallen on the ground</en_example>
 	</word>
 	<word>
-		<id>721</id>
+		<id>718</id>
 		<glk_word>کل</glk_word>
 		<glk_example>أ مردأی کله</glk_example>
 		<fa_word>کچل</fa_word>
@@ -6490,7 +6463,7 @@
 		<en_example>This man is bald</en_example>
 	</word>
 	<word>
-		<id>722</id>
+		<id>719</id>
 		<glk_word>کلانه</glk_word>
 		<glk_example>بۊشۊ اۊ کلانه ٰ بأور</glk_example>
 		<fa_word>منقل</fa_word>
@@ -6499,7 +6472,7 @@
 		<en_example>Go bring that brazier</en_example>
 	</word>
 	<word>
-		<id>723</id>
+		<id>720</id>
 		<glk_word>کلاچ</glk_word>
 		<glk_example>کلاچ پینیرأ اۊساد</glk_example>
 		<fa_word>کلاغ</fa_word>
@@ -6508,7 +6481,7 @@
 		<en_example>The crow took the cheese</en_example>
 	</word>
 	<word>
-		<id>724</id>
+		<id>721</id>
 		<glk_word>کلاچ ملاچي</glk_word>
 		<glk_example>أميرحۊسئن ايتأ کلاچ ملاچي پرهن دۊکۊده بۊ</glk_example>
 		<fa_word>سیاه و سفید</fa_word>
@@ -6517,7 +6490,7 @@
 		<en_example>Amir Hossein was wearing a black and white shirt</en_example>
 	</word>
 	<word>
-		<id>725</id>
+		<id>722</id>
 		<glk_word>کلماجين</glk_word>
 		<glk_example>أ سئب کلماجينه</glk_example>
 		<fa_word>کرم‌خورده</fa_word>
@@ -6526,7 +6499,7 @@
 		<en_example>This apple is wormy</en_example>
 	</word>
 	<word>
-		<id>726</id>
+		<id>723</id>
 		<glk_word>کله</glk_word>
 		<glk_example>بۊشۊ کله ٰ وأگيران</glk_example>
 		<fa_word>اجاق</fa_word>
@@ -6535,7 +6508,7 @@
 		<en_example>Go turn the stove on</en_example>
 	</word>
 	<word>
-		<id>727</id>
+		<id>724</id>
 		<glk_word>کي</glk_word>
 		<glk_example>کي تأنه مي مرأ بأيه؟</glk_example>
 		<fa_word>چه کسى</fa_word>
@@ -6544,7 +6517,7 @@
 		<en_example>Who can come with me?</en_example>
 	</word>
 	<word>
-		<id>728</id>
+		<id>725</id>
 		<glk_word>کي</glk_word>
 		<glk_example>أتؤ نيه کي...</glk_example>
 		<fa_word>که</fa_word>
@@ -6553,7 +6526,7 @@
 		<en_example>It's not like that...</en_example>
 	</word>
 	<word>
-		<id>729</id>
+		<id>726</id>
 		<glk_word>کيتاب</glk_word>
 		<glk_example>أ کيتاب مي شينه</glk_example>
 		<fa_word>کتاب</fa_word>
@@ -6562,7 +6535,7 @@
 		<en_example>This book is mine</en_example>
 	</word>
 	<word>
-		<id>730</id>
+		<id>727</id>
 		<glk_word>کيس</glk_word>
 		<glk_example>مي رختان کيس بۊخۊرده</glk_example>
 		<fa_word>چروک لباس</fa_word>
@@ -6571,7 +6544,7 @@
 		<en_example>My clothes are wrinkled</en_example>
 	</word>
 	<word>
-		<id>731</id>
+		<id>728</id>
 		<glk_word>کيشؤ</glk_word>
 		<glk_example>میداد کيشؤ دۊرۊن ننأبۊ</glk_example>
 		<fa_word>کشو</fa_word>
@@ -6580,7 +6553,7 @@
 		<en_example>The pencil wasn't in the drawer</en_example>
 	</word>
 	<word>
-		<id>732</id>
+		<id>729</id>
 		<glk_word>کيشکا</glk_word>
 		<glk_example>کيشکائان مۊرغانه جأ بيرۊن أیيد</glk_example>
 		<fa_word>جوجه</fa_word>
@@ -6589,7 +6562,7 @@
 		<en_example>Chickens come out of eggs</en_example>
 	</word>
 	<word>
-		<id>733</id>
+		<id>730</id>
 		<glk_word>کٚتٚل</glk_word>
 		<glk_example>بۊشۊ ايتأ کٚتٚل مه ره بأور بينيشينم</glk_example>
 		<fa_word>چهارپایه کوچک</fa_word>
@@ -6598,7 +6571,7 @@
 		<en_example>Go bring me a small stool to sit on</en_example>
 	</word>
 	<word>
-		<id>734</id>
+		<id>731</id>
 		<glk_word>کٚوار</glk_word>
 		<glk_example>أمأن کٚوار ٚ أمرأ غذا چأکۊنیم</glk_example>
 		<fa_word>تره</fa_word>
@@ -6607,7 +6580,7 @@
 		<en_example>We make food with chives</en_example>
 	</word>
 	<word>
-		<id>735</id>
+		<id>732</id>
 		<glk_word>کٚکٚج</glk_word>
 		<glk_example>سبزي-يان ٚ دۊرۊن کٚکٚج مرأ ويشتر خۊش أيه</glk_example>
 		<fa_word>شاهی</fa_word>
@@ -6616,7 +6589,7 @@
 		<en_example>I love garden cress the most among the vegetables</en_example>
 	</word>
 	<word>
-		<id>736</id>
+		<id>733</id>
 		<glk_word>کۊ</glk_word>
 		<glk_example>بیأ بيشيم کۊ</glk_example>
 		<fa_word>کوه</fa_word>
@@ -6625,7 +6598,7 @@
 		<en_example>Let's go to the mountain</en_example>
 	</word>
 	<word>
-		<id>737</id>
+		<id>734</id>
 		<glk_word>کۊجدانه</glk_word>
 		<glk_example>مي کۊجدانه برارأ بيدئي؟</glk_example>
 		<fa_word>کوچک</fa_word>
@@ -6634,7 +6607,7 @@
 		<en_example>Have you seen my little brother?</en_example>
 	</word>
 	<word>
-		<id>738</id>
+		<id>735</id>
 		<glk_word>کۊدن</glk_word>
 		<glk_example>چي کۊدن دري؟</glk_example>
 		<fa_word>انجام دادن</fa_word>
@@ -6643,7 +6616,7 @@
 		<en_example>What are you doing?</en_example>
 	</word>
 	<word>
-		<id>739</id>
+		<id>736</id>
 		<glk_word>کۊر ٚ قۊقۊ</glk_word>
 		<glk_example>کۊر ٚ قۊقۊيأ فأندر</glk_example>
 		<fa_word>جغد</fa_word>
@@ -6652,7 +6625,7 @@
 		<en_example>Look at the owl</en_example>
 	</word>
 	<word>
-		<id>740</id>
+		<id>737</id>
 		<glk_word>کۊرش</glk_word>
 		<glk_example>مي غذا کۊرشأ بؤ</glk_example>
 		<fa_word>جزغاله</fa_word>
@@ -6661,7 +6634,7 @@
 		<en_example>My food got burnt</en_example>
 	</word>
 	<word>
-		<id>741</id>
+		<id>738</id>
 		<glk_word>کۊشتن</glk_word>
 		<glk_example>پۊتارانأ کۊشتن نوأئيد</glk_example>
 		<fa_word>کشتن</fa_word>
@@ -6670,7 +6643,7 @@
 		<en_example>Do not kill the ants</en_example>
 	</word>
 	<word>
-		<id>742</id>
+		<id>739</id>
 		<glk_word>کۊلک</glk_word>
 		<glk_example>کاموا کۊلکأ بؤسته</glk_example>
 		<fa_word>درهم</fa_word>
@@ -6679,7 +6652,7 @@
 		<en_example>The yarn has been tangled</en_example>
 	</word>
 	<word>
-		<id>743</id>
+		<id>740</id>
 		<glk_word>کۊمۊش</glk_word>
 		<glk_example>کۊمۊشأ فأندر</glk_example>
 		<fa_word>لاک‌پشت</fa_word>
@@ -6688,7 +6661,7 @@
 		<en_example>Look at the turtle</en_example>
 	</word>
 	<word>
-		<id>744</id>
+		<id>741</id>
 		<glk_word>کۊناکۊنا</glk_word>
 		<glk_example>کۊچه دوسته بۊ کۊناکۊنا وأگردستيم</glk_example>
 		<fa_word>عقب‌عقب</fa_word>
@@ -6697,7 +6670,7 @@
 		<en_example>The alley was closed we had to go backwards</en_example>
 	</word>
 	<word>
-		<id>745</id>
+		<id>742</id>
 		<glk_word>کۊنه</glk_word>
 		<glk_example>أ دارأ کۊنه سخته</glk_example>
 		<fa_word>ریشه</fa_word>
@@ -6706,7 +6679,7 @@
 		<en_example>The root of this tree is strong</en_example>
 	</word>
 	<word>
-		<id>746</id>
+		<id>743</id>
 		<glk_word>کۊنه مۊنه</glk_word>
 		<glk_example>کۊنه مۊنه کۊدن نوأ</glk_example>
 		<fa_word>تردید</fa_word>
@@ -6715,7 +6688,7 @@
 		<en_example>Do not doubt</en_example>
 	</word>
 	<word>
-		<id>747</id>
+		<id>744</id>
 		<glk_word>کۊنۊس</glk_word>
 		<glk_example>کۊنۊس خأیي؟</glk_example>
 		<fa_word>ازگیل</fa_word>
@@ -6724,7 +6697,7 @@
 		<en_example>Do you want common medlar?</en_example>
 	</word>
 	<word>
-		<id>748</id>
+		<id>745</id>
 		<glk_word>کۊکلا</glk_word>
 		<glk_example>کۊکلا ديچئن دره</glk_example>
 		<fa_word>توطئه</fa_word>
@@ -6733,7 +6706,7 @@
 		<en_example>He/She is conspiring</en_example>
 	</word>
 	<word>
-		<id>749</id>
+		<id>746</id>
 		<glk_word>گؤرخانه</glk_word>
 		<glk_example>ايمرۊ گؤرخانه وارش بۊ</glk_example>
 		<fa_word>رعد</fa_word>
@@ -6742,7 +6715,7 @@
 		<en_example>Today was raining with thunder</en_example>
 	</word>
 	<word>
-		<id>750</id>
+		<id>747</id>
 		<glk_word>گؤزکا</glk_word>
 		<glk_example>گؤزکايأ بيده-ئي؟</glk_example>
 		<fa_word>قۊرباغه</fa_word>
@@ -6751,7 +6724,7 @@
 		<en_example>Did you see the frog?</en_example>
 	</word>
 	<word>
-		<id>751</id>
+		<id>748</id>
 		<glk_word>گئسه</glk_word>
 		<glk_example>خۊ مۊئانأ گئسه کۊنه</glk_example>
 		<fa_word>بافتن مو</fa_word>
@@ -6760,7 +6733,7 @@
 		<en_example>He/She braids his/her hair</en_example>
 	</word>
 	<word>
-		<id>752</id>
+		<id>749</id>
 		<glk_word>گاب</glk_word>
 		<glk_example>رجب خۊ گابأ فۊرؤختن دره</glk_example>
 		<fa_word>گاو</fa_word>
@@ -6769,7 +6742,7 @@
 		<en_example>Rajab is selling his cow</en_example>
 	</word>
 	<word>
-		<id>753</id>
+		<id>750</id>
 		<glk_word>گاره</glk_word>
 		<glk_example>جغله ٰ ببر گاره دۊرۊن بۊخۊسان</glk_example>
 		<fa_word>گهواره</fa_word>
@@ -6778,7 +6751,7 @@
 		<en_example>Put the baby in the cradle to sleep</en_example>
 	</word>
 	<word>
-		<id>754</id>
+		<id>751</id>
 		<glk_word>گاز</glk_word>
 		<glk_example>مي گاز مرأ در کۊنه</glk_example>
 		<fa_word>دندان</fa_word>
@@ -6787,7 +6760,7 @@
 		<en_example>My tooth hurts</en_example>
 	</word>
 	<word>
-		<id>755</id>
+		<id>752</id>
 		<glk_word>گاز ايشکره</glk_word>
 		<glk_example>ديشب خۊفته-بي گاز ايشکره کۊدي</glk_example>
 		<fa_word>ساییدن دندان‌ها به هم</fa_word>
@@ -6796,7 +6769,7 @@
 		<en_example>You were grating your teeth together when you were sleeping last night</en_example>
 	</word>
 	<word>
-		<id>756</id>
+		<id>753</id>
 		<glk_word>گاچ</glk_word>
 		<glk_example>تي پا گاچه مگه؟</glk_example>
 		<fa_word>پاى ناراست</fa_word>
@@ -6805,7 +6778,7 @@
 		<en_example>Are you bow legged?</en_example>
 	</word>
 	<word>
-		<id>757</id>
+		<id>754</id>
 		<glk_word>گاگٚلٚف</glk_word>
 		<glk_example>گاگٚلٚف أرأ دٚوار کۊنم</glk_example>
 		<fa_word>بعضی اوقات</fa_word>
@@ -6814,7 +6787,7 @@
 		<en_example>Sometimes I pass through this way</en_example>
 	</word>
 	<word>
-		<id>758</id>
+		<id>755</id>
 		<glk_word>گب</glk_word>
 		<glk_example>أ گب کي گؤفتن درم اۊرارسالان ٚ شينه</glk_example>
 		<fa_word>سخن</fa_word>
@@ -6823,7 +6796,7 @@
 		<en_example>These words I'm telling you are from years ago</en_example>
 	</word>
 	<word>
-		<id>759</id>
+		<id>756</id>
 		<glk_word>گب</glk_word>
 		<glk_example>مي أمرأ گب بزن</glk_example>
 		<fa_word>سخن</fa_word>
@@ -6832,7 +6805,7 @@
 		<en_example>Speak to me</en_example>
 	</word>
 	<word>
-		<id>760</id>
+		<id>757</id>
 		<glk_word>گب جکشه</glk_word>
 		<glk_example>بۊزۊر خأستي مي جا گب جکشه</glk_example>
 		<fa_word>حرف بکشد</fa_word>
@@ -6841,7 +6814,7 @@
 		<en_example>He/She wanted to make me talk forcefully</en_example>
 	</word>
 	<word>
-		<id>761</id>
+		<id>758</id>
 		<glk_word>گب خبربر</glk_word>
 		<glk_example>گب خبربر ٚ أمرأ گب زئن نوأ</glk_example>
 		<fa_word>خبرچین</fa_word>
@@ -6850,7 +6823,7 @@
 		<en_example>Don't talk to the gossiper</en_example>
 	</word>
 	<word>
-		<id>762</id>
+		<id>759</id>
 		<glk_word>گب گب ٚ سر</glk_word>
 		<glk_example>گب گب ٚ سر بأورده</glk_example>
 		<fa_word>حرف تو حرف</fa_word>
@@ -6859,7 +6832,7 @@
 		<en_example>He/She interrupted the subject with another subject</en_example>
 	</word>
 	<word>
-		<id>763</id>
+		<id>760</id>
 		<glk_word>گرا دن</glk_word>
 		<glk_example>گرا دن بأيه</glk_example>
 		<fa_word>سُر بده</fa_word>
@@ -6868,7 +6841,7 @@
 		<en_example>Slip it to me</en_example>
 	</word>
 	<word>
-		<id>764</id>
+		<id>761</id>
 		<glk_word>گراپئت</glk_word>
 		<glk_example>گراپئتأ بيدين</glk_example>
 		<fa_word>کج و کوله</fa_word>
@@ -6877,7 +6850,16 @@
 		<en_example>Look at that disfigured</en_example>
 	</word>
 	<word>
-		<id>765</id>
+		<id>762</id>
+		<glk_word>گرد ٚ گيج</glk_word>
+		<glk_example>بيشيم لایجؤن گرد ٚ گيج بزنيم</glk_example>
+		<fa_word>گشت و گذار</fa_word>
+		<fa_example>برویم لاهیجان گشت و گذار کنیم</fa_example>
+		<en_word>Ramble</en_word>
+		<en_example>Let's go and ramble around Lahijan</en_example>
+	</word>
+	<word>
+		<id>763</id>
 		<glk_word>گرد ٚکله</glk_word>
 		<glk_example>أمي گرد ٚ کلهˈ لاف دکفته</glk_example>
 		<fa_word>دورهمی</fa_word>
@@ -6886,7 +6868,7 @@
 		<en_example>Our gathering got canceled</en_example>
 	</word>
 	<word>
-		<id>766</id>
+		<id>764</id>
 		<glk_word>گردستن</glk_word>
 		<glk_example>هرأ گردستن ديبيم</glk_example>
 		<fa_word>قدم زدن</fa_word>
@@ -6895,7 +6877,7 @@
 		<en_example>We were walking around here</en_example>
 	</word>
 	<word>
-		<id>767</id>
+		<id>765</id>
 		<glk_word>گردن پسه</glk_word>
 		<glk_example>مي گردن پسه-يأ جۊش بزه</glk_example>
 		<fa_word>پشت گردن</fa_word>
@@ -6904,7 +6886,7 @@
 		<en_example>There's pimple on my nape</en_example>
 	</word>
 	<word>
-		<id>768</id>
+		<id>766</id>
 		<glk_word>گرديم</glk_word>
 		<glk_example>هرأ گرديم</glk_example>
 		<fa_word>قدم می‌زنیم</fa_word>
@@ -6913,7 +6895,7 @@
 		<en_example>We are walking around here</en_example>
 	</word>
 	<word>
-		<id>769</id>
+		<id>767</id>
 		<glk_word>گرزه</glk_word>
 		<glk_example>گرزه خۊراک آغۊزه</glk_example>
 		<fa_word>موش</fa_word>
@@ -6922,7 +6904,7 @@
 		<en_example>The food of the mouse is walnuts</en_example>
 	</word>
 	<word>
-		<id>770</id>
+		<id>768</id>
 		<glk_word>گرزک</glk_word>
 		<glk_example>گرزک مرأ بگشته</glk_example>
 		<fa_word>زنبور</fa_word>
@@ -6931,7 +6913,7 @@
 		<en_example>The bee stung me</en_example>
 	</word>
 	<word>
-		<id>771</id>
+		<id>769</id>
 		<glk_word>گرمش</glk_word>
 		<glk_example>گرمش أمؤن دره</glk_example>
 		<fa_word>باد گرم</fa_word>
@@ -6940,7 +6922,7 @@
 		<en_example>Warm wind is blowing</en_example>
 	</word>
 	<word>
-		<id>772</id>
+		<id>770</id>
 		<glk_word>گرگر</glk_word>
 		<glk_example>زاکان ٚ گرگر ونأشته بۊخۊسم</glk_example>
 		<fa_word>سر و صدا</fa_word>
@@ -6949,7 +6931,7 @@
 		<en_example>the noise from the kids didn't let me sleep</en_example>
 	</word>
 	<word>
-		<id>773</id>
+		<id>771</id>
 		<glk_word>گلاس</glk_word>
 		<glk_example>درجکأ گلاس بۊم</glk_example>
 		<fa_word>خیره</fa_word>
@@ -6958,7 +6940,7 @@
 		<en_example>I was staring to the window</en_example>
 	</word>
 	<word>
-		<id>774</id>
+		<id>772</id>
 		<glk_word>گمج</glk_word>
 		<glk_example>گمج ٚ مئن آغۊز قاتؤق چأکۊن</glk_example>
 		<fa_word>گمج</fa_word>
@@ -6967,7 +6949,7 @@
 		<en_example>Make the fesenjan in the gamaj</en_example>
 	</word>
 	<word>
-		<id>775</id>
+		<id>773</id>
 		<glk_word>گه</glk_word>
 		<glk_example>خؤره گه</glk_example>
 		<fa_word>می‌گوید</fa_word>
@@ -6976,7 +6958,7 @@
 		<en_example>He/She says that from himself/herself</en_example>
 	</word>
 	<word>
-		<id>776</id>
+		<id>774</id>
 		<glk_word>گيج گيجي</glk_word>
 		<glk_example>مرأ گيج گيجي دأن نوأ</glk_example>
 		<fa_word>قلقلک</fa_word>
@@ -6985,7 +6967,7 @@
 		<en_example>Don't tickle me</en_example>
 	</word>
 	<word>
-		<id>777</id>
+		<id>775</id>
 		<glk_word>گيرينجي</glk_word>
 		<glk_example>گيرينجي مۊ مرأ خۊش أيه</glk_example>
 		<fa_word>موى فر</fa_word>
@@ -6994,7 +6976,7 @@
 		<en_example>I like curly hair</en_example>
 	</word>
 	<word>
-		<id>778</id>
+		<id>776</id>
 		<glk_word>گٚزٚر</glk_word>
 		<glk_example>گزر ٚ آب چۊم ٚ ره خؤبه</glk_example>
 		<fa_word>هویج</fa_word>
@@ -7003,7 +6985,7 @@
 		<en_example>Carrot juice is good for the eyes</en_example>
 	</word>
 	<word>
-		<id>779</id>
+		<id>777</id>
 		<glk_word>گٚل</glk_word>
 		<glk_example>ميرزا کۊچي خان ايتأ پيله گٚل بۊ</glk_example>
 		<fa_word>شخصیت</fa_word>
@@ -7012,7 +6994,7 @@
 		<en_example>Mirza Kuchak Khan was a great person</en_example>
 	</word>
 	<word>
-		<id>780</id>
+		<id>778</id>
 		<glk_word>گٚلٚف</glk_word>
 		<glk_example>گٚلٚف بينيشينيد</glk_example>
 		<fa_word>با فاصله</fa_word>
@@ -7021,7 +7003,7 @@
 		<en_example>Sit with distance</en_example>
 	</word>
 	<word>
-		<id>781</id>
+		<id>779</id>
 		<glk_word>گۊد</glk_word>
 		<glk_example>مي مرد ٚ گۊدان ديرۊ بامؤبيد أمي خانه</glk_example>
 		<fa_word>خانواده</fa_word>
@@ -7030,7 +7012,7 @@
 		<en_example>Yesterday my husband's family came to our house</en_example>
 	</word>
 	<word>
-		<id>782</id>
+		<id>780</id>
 		<glk_word>گۊده</glk_word>
 		<glk_example>خۊ رختانأ گۊده بۊکۊد</glk_example>
 		<fa_word>قلمبه</fa_word>
@@ -7039,7 +7021,7 @@
 		<en_example>He/She squeezed his/her clothes</en_example>
 	</word>
 	<word>
-		<id>783</id>
+		<id>781</id>
 		<glk_word>گۊزارش</glk_word>
 		<glk_example>ايمشب وا مي گۊزارشأ تۊمانأ کۊنم</glk_example>
 		<fa_word>گزارش</fa_word>
@@ -7048,7 +7030,7 @@
 		<en_example>I have to finish my report tonight</en_example>
 	</word>
 	<word>
-		<id>784</id>
+		<id>782</id>
 		<glk_word>گۊش ٚ کۊن</glk_word>
 		<glk_example>مي گۊش ٚ کۊن بۊگؤفته</glk_example>
 		<fa_word>دم گوش</fa_word>
@@ -7057,7 +7039,7 @@
 		<en_example>He/She whispered beside my ear</en_example>
 	</word>
 	<word>
-		<id>785</id>
+		<id>783</id>
 		<glk_word>گۊل</glk_word>
 		<glk_example>أ گۊلأ ته ره بيهئم</glk_example>
 		<fa_word>گل</fa_word>
@@ -7066,7 +7048,7 @@
 		<en_example>I bought this flower for you</en_example>
 	</word>
 	<word>
-		<id>786</id>
+		<id>784</id>
 		<glk_word>گۊلاز</glk_word>
 		<glk_example>أمي گۊلاز أن ٚ کي گيلکيم</glk_example>
 		<fa_word>افتخار</fa_word>
@@ -7075,7 +7057,7 @@
 		<en_example>This is our honor that we are Gilak</en_example>
 	</word>
 	<word>
-		<id>787</id>
+		<id>785</id>
 		<glk_word>گۊلدان</glk_word>
 		<glk_example>مي گۊلدان بشکفته</glk_example>
 		<fa_word>گلدان</fa_word>
@@ -7084,7 +7066,7 @@
 		<en_example>My flower pot broke</en_example>
 	</word>
 	<word>
-		<id>788</id>
+		<id>786</id>
 		<glk_word>گۊلي</glk_word>
 		<glk_example>مي گۊلي مرأ در کۊنه</glk_example>
 		<fa_word>گلو</fa_word>
@@ -7093,7 +7075,7 @@
 		<en_example>My throat hurts</en_example>
 	</word>
 	<word>
-		<id>789</id>
+		<id>787</id>
 		<glk_word>گۊمار</glk_word>
 		<glk_example>گۊمار ٚ پۊشت جۊخۊفت</glk_example>
 		<fa_word>بوته‌های خار</fa_word>
@@ -7102,7 +7084,7 @@
 		<en_example>He/She hid behind the thorn bushes</en_example>
 	</word>
 	<word>
-		<id>790</id>
+		<id>788</id>
 		<glk_word>گۊمگۊمه</glk_word>
 		<glk_example>مي گۊش ٚ کۊن گۊمگۊمه کۊدي</glk_example>
 		<fa_word>پچ پچ</fa_word>
@@ -7111,7 +7093,7 @@
 		<en_example>He/She whispered beside my ear</en_example>
 	</word>
 	<word>
-		<id>791</id>
+		<id>789</id>
 		<glk_word>لؤجنک</glk_word>
 		<glk_example>بۊشۊ لؤجنکأ دود پيچأ نأيه بۊدۊرۊن</glk_example>
 		<fa_word>دریچه پشت‌بام</fa_word>
@@ -7120,7 +7102,7 @@
 		<en_example>Go and close the dormer so cat won't come inside</en_example>
 	</word>
 	<word>
-		<id>792</id>
+		<id>790</id>
 		<glk_word>لؤفٚت</glk_word>
 		<glk_example>تي پا سر بئس هي کس ٚ لؤفٚتأ کشئن نوأ</glk_example>
 		<fa_word>منت</fa_word>
@@ -7129,7 +7111,7 @@
 		<en_example>Stand on your feet and don't stoop to a favor</en_example>
 	</word>
 	<word>
-		<id>793</id>
+		<id>791</id>
 		<glk_word>لا</glk_word>
 		<glk_example>أ کاغذأ بنه تي دفتر ٚ لا</glk_example>
 		<fa_word>بین دو چیز</fa_word>
@@ -7138,7 +7120,7 @@
 		<en_example>Put this paper between your notebook</en_example>
 	</word>
 	<word>
-		<id>794</id>
+		<id>792</id>
 		<glk_word>لا</glk_word>
 		<glk_example>هرچي زأمت بکشه-بيمأ لا بۊکۊد</glk_example>
 		<fa_word>تباه</fa_word>
@@ -7147,7 +7129,7 @@
 		<en_example>He/She ruined all of our hard work</en_example>
 	</word>
 	<word>
-		<id>795</id>
+		<id>793</id>
 		<glk_word>لابدان</glk_word>
 		<glk_example>لابدانأ‌ بيگير</glk_example>
 		<fa_word>عنکبوت</fa_word>
@@ -7156,7 +7138,7 @@
 		<en_example>Catch the spider</en_example>
 	</word>
 	<word>
-		<id>796</id>
+		<id>794</id>
 		<glk_word>لار</glk_word>
 		<glk_example>أ تۊرف لاره</glk_example>
 		<fa_word>پوک</fa_word>
@@ -7165,7 +7147,7 @@
 		<en_example>This radish is hollow inside</en_example>
 	</word>
 	<word>
-		<id>797</id>
+		<id>795</id>
 		<glk_word>لافند</glk_word>
 		<glk_example>لافندأ کؤيأ بنأئي؟</glk_example>
 		<fa_word>طناب</fa_word>
@@ -7174,7 +7156,7 @@
 		<en_example>Where did you put the rope?</en_example>
 	</word>
 	<word>
-		<id>798</id>
+		<id>796</id>
 		<glk_word>لانتي</glk_word>
 		<glk_example>أ لانتيأ بيدين</glk_example>
 		<fa_word>مار</fa_word>
@@ -7183,7 +7165,7 @@
 		<en_example>Look at this snake</en_example>
 	</word>
 	<word>
-		<id>799</id>
+		<id>797</id>
 		<glk_word>لانتۊز</glk_word>
 		<glk_example>چي ره لانتۊز تأوده؟</glk_example>
 		<fa_word>جفتک</fa_word>
@@ -7192,7 +7174,7 @@
 		<en_example>Why is he/she kicking?</en_example>
 	</word>
 	<word>
-		<id>800</id>
+		<id>798</id>
 		<glk_word>لته</glk_word>
 		<glk_example>اۊ لته ٰ مرأ فأدن ميزأ پأکۊنم</glk_example>
 		<fa_word>دستمال</fa_word>
@@ -7201,7 +7183,7 @@
 		<en_example>Give me the handkerchief to clean the table</en_example>
 	</word>
 	<word>
-		<id>801</id>
+		<id>799</id>
 		<glk_word>لس</glk_word>
 		<glk_example>غذا خۊردن ٚ پسي آدم لسأ به</glk_example>
 		<fa_word>شل و وارفته</fa_word>
@@ -7210,7 +7192,16 @@
 		<en_example>One become flimsy after eating</en_example>
 	</word>
 	<word>
-		<id>802</id>
+		<id>800</id>
+		<glk_word>لقد دمج</glk_word>
+		<glk_example>گۊلانأ لقد دمج نوا کۊدن</glk_example>
+		<fa_word>لگدمال</fa_word>
+		<fa_example>گل‌ها را لگدمال نکن</fa_example>
+		<en_word>Trample</en_word>
+		<en_example>Don't trample the flowers</en_example>
+	</word>
+	<word>
+		<id>801</id>
 		<glk_word>لپه</glk_word>
 		<glk_example>لپه ٰ تأود</glk_example>
 		<fa_word>توپ</fa_word>
@@ -7219,7 +7210,7 @@
 		<en_example>Throw the ball</en_example>
 	</word>
 	<word>
-		<id>803</id>
+		<id>802</id>
 		<glk_word>لچه</glk_word>
 		<glk_example>چیچینی دار ٚ لچه نیشته</glk_example>
 		<fa_word>فراز</fa_word>
@@ -7228,7 +7219,7 @@
 		<en_example>Sparrow is sitting on the top of the tree</en_example>
 	</word>
 	<word>
-		<id>804</id>
+		<id>803</id>
 		<glk_word>لۊاس</glk_word>
 		<glk_example>لۊاس دامان ٚ مئن زيويسته</glk_example>
 		<fa_word>روباه</fa_word>
@@ -7237,7 +7228,7 @@
 		<en_example>The fox lives in the jungle</en_example>
 	</word>
 	<word>
-		<id>805</id>
+		<id>804</id>
 		<glk_word>لۊچ</glk_word>
 		<glk_example>لۊچي مگه؟</glk_example>
 		<fa_word>چپ چشم</fa_word>
@@ -7246,7 +7237,7 @@
 		<en_example>Are you cross-eyed?</en_example>
 	</word>
 	<word>
-		<id>806</id>
+		<id>805</id>
 		<glk_word>لۊچان</glk_word>
 		<glk_example>أمرأ لۊچان زنه</glk_example>
 		<fa_word>پشت چشم نازک کردن</fa_word>
@@ -7255,7 +7246,7 @@
 		<en_example>He/She rolling his/her eyes at us</en_example>
 	</word>
 	<word>
-		<id>807</id>
+		<id>806</id>
 		<glk_word>مأر</glk_word>
 		<glk_example>مي مأر بۊشؤ کار ٚ سر</glk_example>
 		<fa_word>مادر</fa_word>
@@ -7264,7 +7255,7 @@
 		<en_example>My mother has gone to work</en_example>
 	</word>
 	<word>
-		<id>808</id>
+		<id>807</id>
 		<glk_word>مأر ٚ مرد</glk_word>
 		<glk_example>بعضي-تأ زأکان مأر ٚ مرد دأريدي</glk_example>
 		<fa_word>ناپدرى</fa_word>
@@ -7273,7 +7264,7 @@
 		<en_example>Some kids have a stepfather</en_example>
 	</word>
 	<word>
-		<id>809</id>
+		<id>808</id>
 		<glk_word>مأنستن</glk_word>
 		<glk_example>خۊ پئر ٚ مأنستن گب زنه</glk_example>
 		<fa_word>مانند</fa_word>
@@ -7282,7 +7273,7 @@
 		<en_example>He/She speaks like his father</en_example>
 	</word>
 	<word>
-		<id>810</id>
+		<id>809</id>
 		<glk_word>مئخ</glk_word>
 		<glk_example>بچمسته مئخانأ فيشان</glk_example>
 		<fa_word>میخ</fa_word>
@@ -7291,7 +7282,7 @@
 		<en_example>Throw away crooked nails</en_example>
 	</word>
 	<word>
-		<id>811</id>
+		<id>810</id>
 		<glk_word>مئوه</glk_word>
 		<glk_example>مئوه ٰنأ بۊشؤستي؟</glk_example>
 		<fa_word>میوه</fa_word>
@@ -7300,7 +7291,7 @@
 		<en_example>Did you wash the fruits?</en_example>
 	</word>
 	<word>
-		<id>812</id>
+		<id>811</id>
 		<glk_word>ما</glk_word>
 		<glk_example>ايتأ ما بدن</glk_example>
 		<fa_word>بوسه</fa_word>
@@ -7309,7 +7300,7 @@
 		<en_example>Give me a kiss</en_example>
 	</word>
 	<word>
-		<id>813</id>
+		<id>812</id>
 		<glk_word>ما</glk_word>
 		<glk_example>أ ما وا بشم مۊسافرت</glk_example>
 		<fa_word>ماه</fa_word>
@@ -7318,7 +7309,7 @@
 		<en_example>I should go on a trip this month</en_example>
 	</word>
 	<word>
-		<id>814</id>
+		<id>813</id>
 		<glk_word>مائي</glk_word>
 		<glk_example>أکبر دۊتا سيفيد مائي بيهه-بۊ</glk_example>
 		<fa_word>ماهی</fa_word>
@@ -7327,7 +7318,7 @@
 		<en_example>Akbar had bought two Caspian white fish</en_example>
 	</word>
 	<word>
-		<id>815</id>
+		<id>814</id>
 		<glk_word>مات</glk_word>
 		<glk_example>چي ره ماتأ زئي؟</glk_example>
 		<fa_word>حیران</fa_word>
@@ -7336,7 +7327,7 @@
 		<en_example>Why are you astonished?</en_example>
 	</word>
 	<word>
-		<id>816</id>
+		<id>815</id>
 		<glk_word>ماتؤر</glk_word>
 		<glk_example>مي ماتؤر رؤشنأ نيبه</glk_example>
 		<fa_word>موتور</fa_word>
@@ -7345,7 +7336,7 @@
 		<en_example>My motorcycle doesn't start</en_example>
 	</word>
 	<word>
-		<id>817</id>
+		<id>816</id>
 		<glk_word>ماده</glk_word>
 		<glk_example>مي ماده مرأ در کۊنه</glk_example>
 		<fa_word>معده</fa_word>
@@ -7354,13 +7345,22 @@
 		<en_example>My stomach hurts</en_example>
 	</word>
 	<word>
-		<id>818</id>
+		<id>817</id>
 		<glk_word>ماز</glk_word>
 		<glk_example>اۊ مازأ مرأ وأسينم مي کفشأ</glk_example>
 		<fa_word>واکس</fa_word>
 		<fa_example>آن واکس را بده به کفش‌ام بمالم</fa_example>
 		<en_word>Wax</en_word>
 		<en_example>Give me that wax to applying it to my shoes</en_example>
+	</word>
+	<word>
+		<id>818</id>
+		<glk_word>مازۊ</glk_word>
+		<glk_example>مي مازۊ در کۊنه</glk_example>
+		<fa_word>ستون فقرات</fa_word>
+		<fa_example>ستون فقراتم درد می‌کند</fa_example>
+		<en_word>Backbone</en_word>
+		<en_example>My backbone hurts</en_example>
 	</word>
 	<word>
 		<id>819</id>
@@ -7437,11 +7437,11 @@
 	<word>
 		<id>827</id>
 		<glk_word>مترس</glk_word>
-		<glk_example>باقلا باغ ٚ مترسه</glk_example>
+		<glk_example>باغ ٚ مترسه</glk_example>
 		<fa_word>مترسک</fa_word>
-		<fa_example>مترسک باغ باقلا است</fa_example>
+		<fa_example>مترسک باغ است</fa_example>
 		<en_word>Scarecrow</en_word>
-		<en_example>He's the scarecrow of the bean garden</en_example>
+		<en_example>It's the scarecrow of the garden</en_example>
 	</word>
 	<word>
 		<id>828</id>
@@ -8949,7 +8949,7 @@
 	<word>
 		<id>995</id>
 		<glk_word>هيزار</glk_word>
-		<glk_example>هيزار ريال دئه پۊل ني-يه</glk_example>
+		<glk_example>هيزار ريال دئه پۊل نيه</glk_example>
 		<fa_word>هزار</fa_word>
 		<fa_example>هزار ریال دیگر پول نیست</fa_example>
 		<en_word>Thousand</en_word>
