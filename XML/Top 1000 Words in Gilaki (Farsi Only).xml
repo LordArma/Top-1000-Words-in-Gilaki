@@ -53,7 +53,7 @@
 		<id>8</id>
 		<glk_word>آدم-نفر</glk_word>
 		<glk_example>شيمي آدم -نفران کؤيأ ايسأئيد؟</glk_example>
-		<fa_word>اعضا</fa_word>
+		<fa_word>عضو</fa_word>
 		<fa_example>اعضای شما کجا هستند؟</fa_example>
 	</word>
 	<word>
@@ -121,1291 +121,1291 @@
 	</word>
 	<word>
 		<id>18</id>
-		<glk_word>اي مۊشته</glk_word>
-		<glk_example>اي مۊشته بج مرأ فأدن</glk_example>
-		<fa_word>یک مشت</fa_word>
-		<fa_example>یک مشت برنج به من بده</fa_example>
-	</word>
-	<word>
-		<id>19</id>
 		<glk_word>اي وخت</glk_word>
 		<glk_example>اي وخت پۊر ترأ خأستيم</glk_example>
 		<fa_word>زمانی</fa_word>
 		<fa_example>زمانی تو را خیلى می‌خواستم</fa_example>
 	</word>
 	<word>
-		<id>20</id>
+		<id>19</id>
 		<glk_word>اي ور</glk_word>
 		<glk_example>أن ٚ رختان هرتأ اي ور کفته</glk_example>
 		<fa_word>یک گوشه</fa_word>
 		<fa_example>هرکدام از لباس‌هایش یک گوشه افتاده است</fa_example>
 	</word>
 	<word>
-		<id>21</id>
+		<id>20</id>
 		<glk_word>اي وري</glk_word>
 		<glk_example>أ تابلؤ چي ره اي وري نهأ؟</glk_example>
 		<fa_word>کج</fa_word>
 		<fa_example>برای چه این تابلو کج است؟</fa_example>
 	</word>
 	<word>
-		<id>22</id>
+		<id>21</id>
 		<glk_word>اي پئم</glk_word>
 		<glk_example>اي پئم سيبيشکا مرأ فأدي؟</glk_example>
 		<fa_word>یک مشت</fa_word>
 		<fa_example>یک مشت تخمه آفتابگردان به من مى‌دهى؟</fa_example>
 	</word>
 	<word>
-		<id>23</id>
+		<id>22</id>
 		<glk_word>ايتأ</glk_word>
 		<glk_example>ايتأ کاغذ مرأ فأدن</glk_example>
 		<fa_word>یک</fa_word>
 		<fa_example>یک کاغذ به من بده</fa_example>
 	</word>
 	<word>
-		<id>24</id>
+		<id>23</id>
 		<glk_word>ايجانا</glk_word>
 		<glk_example>من ؤ ميعاد ايجانا بۊشؤئيم بيرۊن</glk_example>
 		<fa_word>با هم</fa_word>
 		<fa_example>من و میعاد با هم بیرون رفتیم</fa_example>
 	</word>
 	<word>
-		<id>25</id>
+		<id>24</id>
 		<glk_word>ايدانه</glk_word>
 		<glk_example>ايدانه کۊئي خأيم</glk_example>
 		<fa_word>یک عدد</fa_word>
 		<fa_example>یک عدد کدو مى‌خواهم</fa_example>
 	</word>
 	<word>
-		<id>26</id>
+		<id>25</id>
 		<glk_word>ايدفأ</glk_word>
 		<glk_example>ايدفأ بامؤم شيمي خانه</glk_example>
-		<fa_word>یک‌بار</fa_word>
-		<fa_example>یک‌بار به خانه شما آمدم</fa_example>
+		<fa_word>یک بار</fa_word>
+		<fa_example>یک بار به خانه شما آمدم</fa_example>
 	</word>
 	<word>
-		<id>27</id>
+		<id>26</id>
 		<glk_word>ايدفأئي</glk_word>
 		<glk_example>ناصر ايدفأئي بامؤ اۊتاق ٚ دۊرۊن</glk_example>
 		<fa_word>ناگهان</fa_word>
 		<fa_example>ناصر ناگهان داخل اتاق آمد</fa_example>
 	</word>
 	<word>
-		<id>28</id>
+		<id>27</id>
 		<glk_word>ايدقه</glk_word>
 		<glk_example>ايدقه بئس</glk_example>
 		<fa_word>یک دقیقه</fa_word>
 		<fa_example>یک دقیقه صبر کن</fa_example>
 	</word>
 	<word>
-		<id>29</id>
+		<id>28</id>
 		<glk_word>ايرۊز</glk_word>
 		<glk_example>ايرۊز دئه بمانسته مي تعطيلي-يان تۊمانأ به</glk_example>
-		<fa_word>یک‌روز</fa_word>
-		<fa_example>یک‌روز دیگر مانده تا تعطیلاتم تمام شود</fa_example>
+		<fa_word>یک روز</fa_word>
+		<fa_example>یک روز دیگر مانده تا تعطیلاتم تمام شود</fa_example>
 	</word>
 	<word>
-		<id>30</id>
+		<id>29</id>
 		<glk_word>ايزه</glk_word>
 		<glk_example>ايزه بۊشۊ اۊشنتر</glk_example>
 		<fa_word>کمى</fa_word>
 		<fa_example>کمى آن طرف‌تر برو</fa_example>
 	</word>
 	<word>
-		<id>31</id>
+		<id>30</id>
 		<glk_word>ايسأبيد</glk_word>
 		<glk_example>ديشب همه أمي خانه ايسابيد</glk_example>
 		<fa_word>بودند</fa_word>
 		<fa_example>همه دیشب خانه ما بودند</fa_example>
 	</word>
 	<word>
-		<id>32</id>
+		<id>31</id>
 		<glk_word>ايستۊل</glk_word>
 		<glk_example>أشأن چۊب ٚ جأ ایستۊل چأکۊنيد</glk_example>
 		<fa_word>صندلی</fa_word>
 		<fa_example>آن‌ها از چوب صندلی می‌سازند</fa_example>
 	</word>
 	<word>
-		<id>33</id>
+		<id>32</id>
 		<glk_word>ايسم</glk_word>
 		<glk_example>تي ايسم چيسه؟</glk_example>
 		<fa_word>نام</fa_word>
 		<fa_example>نام تو چیست؟</fa_example>
 	</word>
 	<word>
-		<id>34</id>
+		<id>33</id>
 		<glk_word>ايسيد؟</glk_word>
 		<glk_example>شۊمان چن نفر ايسيد؟</glk_example>
 		<fa_word>هستید؟</fa_word>
 		<fa_example>شما چند نفر هستید؟</fa_example>
 	</word>
 	<word>
-		<id>35</id>
+		<id>34</id>
 		<glk_word>ايسکمۊ</glk_word>
 		<glk_example>بۊشۊ دۊکان دۊتا ايسکمۊ بيهين</glk_example>
 		<fa_word>بستنی یخی</fa_word>
 		<fa_example>برو مغازه دو عدد بستنی یخی بخر</fa_example>
 	</word>
 	<word>
-		<id>36</id>
+		<id>35</id>
 		<glk_word>ايشتاو</glk_word>
 		<glk_example>هأی أمرأ ايشتاو ديهه</glk_example>
 		<fa_word>هشدار</fa_word>
 		<fa_example>مدام به ما هشدار می‌دهد</fa_example>
 	</word>
 	<word>
-		<id>37</id>
+		<id>36</id>
 		<glk_word>ايشتاوي</glk_word>
 		<glk_example>ايشتاوي چي گمه؟</glk_example>
 		<fa_word>می‌شنوی</fa_word>
 		<fa_example>می‌شنوی چه می‌گویم؟</fa_example>
 	</word>
 	<word>
-		<id>38</id>
+		<id>37</id>
 		<glk_word>ايششه</glk_word>
 		<glk_example>ايششه، لانتي</glk_example>
 		<fa_word>اه (لفظ تنفر)</fa_word>
 		<fa_example>اه، مار</fa_example>
 	</word>
 	<word>
-		<id>39</id>
+		<id>38</id>
 		<glk_word>ايشماردن</glk_word>
 		<glk_example>مي زأى ايشماردنأ نأنه</glk_example>
 		<fa_word>شمارش</fa_word>
 		<fa_example>بچه من شمارش بلد نیست</fa_example>
 	</word>
 	<word>
-		<id>40</id>
+		<id>39</id>
 		<glk_word>ايشکؤر</glk_word>
 		<glk_example>کيشکائان ٚ رئم ايشکؤر فۊکۊن</glk_example>
 		<fa_word>خرده‌برنج</fa_word>
 		<fa_example>برای جوجه‌ها هم خرده‌برنج بریز</fa_example>
 	</word>
 	<word>
-		<id>41</id>
+		<id>40</id>
 		<glk_word>ايشکنئن</glk_word>
 		<glk_example>چي-يأ ايشکنئن دري؟</glk_example>
 		<fa_word>شکستن</fa_word>
 		<fa_example>دارى چه چیزى را مى‌شکنى؟</fa_example>
 	</word>
 	<word>
-		<id>42</id>
+		<id>41</id>
 		<glk_word>ايمرۊ</glk_word>
 		<glk_example>ايمرۊ بۊشؤم کيتابخانه</glk_example>
 		<fa_word>امروز</fa_word>
 		<fa_example>امروز به کتابخانه رفتم</fa_example>
 	</word>
 	<word>
-		<id>43</id>
+		<id>42</id>
 		<glk_word>اينسان</glk_word>
 		<glk_example>اينسان بۊبۊ</glk_example>
 		<fa_word>انسان</fa_word>
 		<fa_example>انسان باش</fa_example>
 	</word>
 	<word>
-		<id>44</id>
+		<id>43</id>
 		<glk_word>ايوار ايوار</glk_word>
 		<glk_example>ايوار ايوار شئطان مرأ گه . . .</glk_example>
 		<fa_word>گهگاه</fa_word>
 		<fa_example>گهگاه شیطان به من مى‌گوید . . .</fa_example>
 	</word>
 	<word>
-		<id>45</id>
+		<id>44</id>
 		<glk_word>ايواردم</glk_word>
 		<glk_example>ايواردم وا بشم بازار</glk_example>
 		<fa_word>یک بار دیگر</fa_word>
 		<fa_example>یک بار دیگر باید به بازار بروم</fa_example>
 	</word>
 	<word>
-		<id>46</id>
+		<id>45</id>
 		<glk_word>ايوارٚکي</glk_word>
 		<glk_example>ايوارٚکي بۊگۊ نأيم ترأ راحتأ کۊن</glk_example>
-		<fa_word>به یک‌باره</fa_word>
+		<fa_word>به یک باره</fa_word>
 		<fa_example>به یک باره بگو نمى‌آیم خودت را خلاص کن</fa_example>
 	</word>
 	<word>
-		<id>47</id>
+		<id>46</id>
 		<glk_word>ايپيچم</glk_word>
 		<glk_example>گۊش نۊکۊني ايپيچم ترأيأ</glk_example>
 		<fa_word>برخورد تندی می‌کنم</fa_word>
 		<fa_example>توجه نکنى برخورد تندى با تو مى‌کنم</fa_example>
 	</word>
 	<word>
-		<id>48</id>
+		<id>47</id>
 		<glk_word>ايپچه</glk_word>
 		<glk_example>ايپچه پلا مه ره دۊکۊن</glk_example>
 		<fa_word>کمی</fa_word>
 		<fa_example>کمى پلو براى من بریز</fa_example>
 	</word>
 	<word>
-		<id>49</id>
+		<id>48</id>
 		<glk_word>ايچي</glk_word>
 		<glk_example>ايچي خأيم ترأ بگم</glk_example>
 		<fa_word>یک‌چیز</fa_word>
 		<fa_example>یک‌چیز مى‌خواهم به تو بگویم</fa_example>
 	</word>
 	<word>
-		<id>50</id>
+		<id>49</id>
 		<glk_word>اۊتاق</glk_word>
 		<glk_example>مي اۊتاق کؤيتأ ايسه؟</glk_example>
 		<fa_word>اتاق</fa_word>
 		<fa_example>اتاق من کدام یک است؟</fa_example>
 	</word>
 	<word>
-		<id>51</id>
+		<id>50</id>
 		<glk_word>اۊدۊشتن</glk_word>
 		<glk_example>سۊمبۊر ٚ مأنستن أمي خۊنأ اۊدۊشتن دريد</glk_example>
 		<fa_word>مکیدن</fa_word>
 		<fa_example>مانند زالو دارند خون ما را مى‌دوشند</fa_example>
 	</word>
 	<word>
-		<id>52</id>
+		<id>51</id>
 		<glk_word>اۊرشين</glk_word>
 		<glk_example>کترأيأ اۊسادم قاتؤقا اۊرشين بزئم</glk_example>
 		<fa_word>هم زدن</fa_word>
 		<fa_example>کفگیر چوبى را برداشتم خورش را هم زدم</fa_example>
 	</word>
 	<word>
-		<id>53</id>
+		<id>52</id>
 		<glk_word>اۊسان</glk_word>
 		<glk_example>قاقؤشاقانأ اۊسان بأور</glk_example>
 		<fa_word>بردار</fa_word>
 		<fa_example>قاشق‌ها را بردار بیاور</fa_example>
 	</word>
 	<word>
-		<id>54</id>
+		<id>53</id>
 		<glk_word>اۊسه کۊد</glk_word>
 		<glk_example>أ کيتابأ کي اۊسه کۊد؟</glk_example>
 		<fa_word>فرستاد</fa_word>
 		<fa_example>این کتاب را چه کسی فرستاد؟</fa_example>
 	</word>
 	<word>
-		<id>55</id>
+		<id>54</id>
 		<glk_word>اۊشان</glk_word>
 		<glk_example>اۊشان کيسيد؟</glk_example>
 		<fa_word>آن‌ها</fa_word>
-		<fa_example>آن‌ها چه کسانى هستند؟</fa_example>
+		<fa_example>آن‌ها کیستند؟</fa_example>
 	</word>
 	<word>
-		<id>56</id>
+		<id>55</id>
 		<glk_word>اۊشکؤفت</glk_word>
 		<glk_example>آب مرأ اۊشکؤفت</glk_example>
 		<fa_word>در گلو گیر کرد</fa_word>
 		<fa_example>آب در گلویم گیر کرد</fa_example>
 	</word>
 	<word>
-		<id>57</id>
+		<id>56</id>
 		<glk_word>اۊن</glk_word>
 		<glk_example>اۊن چيسه؟</glk_example>
 		<fa_word>آن</fa_word>
 		<fa_example>آن چیست؟</fa_example>
 	</word>
 	<word>
-		<id>58</id>
+		<id>57</id>
 		<glk_word>اۊيأ</glk_word>
 		<glk_example>مهين ٚ کيف اۊيأ نهأ</glk_example>
 		<fa_word>آن‌جا</fa_word>
 		<fa_example>کیف مهین آن‌جا است</fa_example>
 	</word>
 	<word>
-		<id>59</id>
+		<id>58</id>
 		<glk_word>اۊچين</glk_word>
 		<glk_example>تي کيتابانأ اۊچين</glk_example>
 		<fa_word>جمع کن</fa_word>
 		<fa_example>کتاب‌هایت را جمع کن</fa_example>
 	</word>
 	<word>
-		<id>60</id>
+		<id>59</id>
 		<glk_word>اۊکۊف</glk_word>
 		<glk_example>أمه ره اۊکۊف دره</glk_example>
 		<fa_word>شگون</fa_word>
 		<fa_example>براى ما شگون دارد</fa_example>
 	</word>
 	<word>
-		<id>61</id>
+		<id>60</id>
 		<glk_word>أ</glk_word>
 		<glk_example>شۊفاژأ چأکۊدي؟</glk_example>
 		<fa_word>را</fa_word>
 		<fa_example>شوفاژ را تعمیر کردی؟</fa_example>
 	</word>
 	<word>
-		<id>62</id>
+		<id>61</id>
 		<glk_word>أتؤ</glk_word>
 		<glk_example>أتؤ نيه</glk_example>
 		<fa_word>چنین</fa_word>
 		<fa_example>چنین نیست</fa_example>
 	</word>
 	<word>
-		<id>63</id>
+		<id>62</id>
 		<glk_word>أجۊر</glk_word>
 		<glk_example>أجۊر چي-يان مرأ حالي نيه</glk_example>
 		<fa_word>این‌گونه</fa_word>
 		<fa_example>این‌گونه چیزها را متوجه نمى‌شوم</fa_example>
 	</word>
 	<word>
-		<id>64</id>
+		<id>63</id>
 		<glk_word>أذب</glk_word>
 		<glk_example>مي برار أذبه</glk_example>
 		<fa_word>مجرد</fa_word>
 		<fa_example>برادرم مجرد است</fa_example>
 	</word>
 	<word>
-		<id>65</id>
+		<id>64</id>
 		<glk_word>أرايم</glk_word>
 		<glk_example>أرايم بيأ</glk_example>
 		<fa_word>این‌طرف هم</fa_word>
 		<fa_example>این‌طرف هم بیا</fa_example>
 	</word>
 	<word>
-		<id>66</id>
+		<id>65</id>
 		<glk_word>أرسۊ</glk_word>
 		<glk_example>تي أرسۊئانأ پاکۊن</glk_example>
 		<fa_word>اشک</fa_word>
 		<fa_example>اشک‌‌هایت را پاک کن</fa_example>
 	</word>
 	<word>
-		<id>67</id>
+		<id>66</id>
 		<glk_word>أزازيل</glk_word>
 		<glk_example>أ أزازيل ٚ زاکانأ فأندر</glk_example>
 		<fa_word>بسیار شیطان</fa_word>
 		<fa_example>این بچه‌هاى بسیار شیطان را نگاه کن</fa_example>
 	</word>
 	<word>
-		<id>68</id>
+		<id>67</id>
 		<glk_word>أسباب</glk_word>
 		<glk_example>ايپچه أسباب بأورم بۊخۊري؟</glk_example>
 		<fa_word>خوراکى</fa_word>
 		<fa_example>کمى خوراکى بیاورم بخورى؟</fa_example>
 	</word>
 	<word>
-		<id>69</id>
+		<id>68</id>
 		<glk_word>أشان</glk_word>
 		<glk_example>أشان کي أمؤن دريد کيسيد؟</glk_example>
 		<fa_word>ایشان</fa_word>
 		<fa_example>ایشان که دارند مى‌آیند چه کسانى هستند؟</fa_example>
 	</word>
 	<word>
-		<id>70</id>
+		<id>69</id>
 		<glk_word>أشبل</glk_word>
 		<glk_example>مائي أشبل ٚ مرأ کۊکۊ چأکۊنيدي</glk_example>
 		<fa_word>تخم ماهى</fa_word>
 		<fa_example>با تخم ماهى کوکو درست مى‌کنند</fa_example>
 	</word>
 	<word>
-		<id>71</id>
+		<id>70</id>
 		<glk_word>ألؤغ</glk_word>
 		<glk_example>باغ ٚ مئن ایتأ ألؤغ بیدئم</glk_example>
 		<fa_word>عقاب</fa_word>
 		<fa_example>در باغ یک عقاب دیدم</fa_example>
 	</word>
 	<word>
-		<id>72</id>
+		<id>71</id>
 		<glk_word>ألاو</glk_word>
 		<glk_example>جه وس هوا سرده أمي دهنأ ألاو بيرۊن أيه</glk_example>
 		<fa_word>بخار</fa_word>
 		<fa_example>از بس هوا سرد است از دهان ما بخار خارج مى‌شود</fa_example>
 	</word>
 	<word>
-		<id>73</id>
+		<id>72</id>
 		<glk_word>ألباقي</glk_word>
 		<glk_example>شير ٚ ألباقي-يأ دۊکۊن جا دۊرۊن</glk_example>
 		<fa_word>باقى‌مانده</fa_word>
 		<fa_example>باقى‌مانده شیر را داخل ظرف بریز</fa_example>
 	</word>
 	<word>
-		<id>74</id>
+		<id>73</id>
 		<glk_word>ألنگ</glk_word>
 		<glk_example>مرأ ألنگ بزه بکفتم</glk_example>
 		<fa_word>پشت پا</fa_word>
 		<fa_example>به من پشت پا زد افتادم</fa_example>
 	</word>
 	<word>
-		<id>75</id>
+		<id>74</id>
 		<glk_word>أمأن</glk_word>
 		<glk_example>أمأن دۊ نفريم</glk_example>
 		<fa_word>ما</fa_word>
 		<fa_example>ما دو نفر هستیم</fa_example>
 	</word>
 	<word>
-		<id>76</id>
+		<id>75</id>
 		<glk_word>أمؤن</glk_word>
 		<glk_example>ورزشگا جأ أمؤن درم</glk_example>
 		<fa_word>آمدن</fa_word>
 		<fa_example>دارم از استادیوم مى‌آیم</fa_example>
 	</word>
 	<word>
-		<id>77</id>
+		<id>76</id>
 		<glk_word>أمبست</glk_word>
 		<glk_example>أ دؤغ پۊر أمبسته</glk_example>
 		<fa_word>غلیظ</fa_word>
 		<fa_example>این دوغ خیلى غلیظ است</fa_example>
 	</word>
 	<word>
-		<id>78</id>
+		<id>77</id>
 		<glk_word>أمرأ</glk_word>
 		<glk_example>من تي أمرأ أيم</glk_example>
 		<fa_word>با</fa_word>
 		<fa_example>من با تو مى‌آیم</fa_example>
 	</word>
 	<word>
-		<id>79</id>
+		<id>78</id>
 		<glk_word>أمي</glk_word>
 		<glk_example>شۊمانم أمي أمرأ أئيدي؟</glk_example>
 		<fa_word>ما</fa_word>
 		<fa_example>شما هم با ما مى‌آیید؟</fa_example>
 	</word>
 	<word>
-		<id>80</id>
+		<id>79</id>
 		<glk_word>أن</glk_word>
 		<glk_example>أن چيسه؟</glk_example>
 		<fa_word>این</fa_word>
 		<fa_example>این چیست؟</fa_example>
 	</word>
 	<word>
-		<id>81</id>
+		<id>80</id>
 		<glk_word>أنديفه</glk_word>
 		<glk_example>أ ساعت چارصد تۊمۊن أنديفه دأره؟</glk_example>
 		<fa_word>ارزش</fa_word>
 		<fa_example>این ساعت چهارصد تومن ارزش دارد؟</fa_example>
 	</word>
 	<word>
-		<id>82</id>
+		<id>81</id>
 		<glk_word>أنگاره</glk_word>
 		<glk_example>چي ره أنقد أنگاره بيده-ئي؟</glk_example>
 		<fa_word>تدارک</fa_word>
 		<fa_example>براى چه این‌قدر تدارک دیده‌اى؟</fa_example>
 	</word>
 	<word>
-		<id>83</id>
+		<id>82</id>
 		<glk_word>أوانگاره</glk_word>
 		<glk_example>هأچين أمه ره أوانگاره بيده-ئيم</glk_example>
 		<fa_word>دردسر</fa_word>
 		<fa_example>بیخود براى خودمان دردسر درست کردیم</fa_example>
 	</word>
 	<word>
-		<id>84</id>
+		<id>83</id>
 		<glk_word>أوري</glk_word>
 		<glk_example>مي کافشينأ أوري؟</glk_example>
 		<fa_word>می‌آوری</fa_word>
 		<fa_example>کاپشن من را مى‌آورى؟</fa_example>
 	</word>
 	<word>
-		<id>85</id>
+		<id>84</id>
 		<glk_word>أولي</glk_word>
 		<glk_example>تي أولي زاکه؟</glk_example>
 		<fa_word>اول</fa_word>
 		<fa_example>فرزند اولت است؟</fa_example>
 	</word>
 	<word>
-		<id>86</id>
+		<id>85</id>
 		<glk_word>أوير</glk_word>
 		<glk_example>مي ساعتأ أويرأ کۊدم</glk_example>
 		<fa_word>گم</fa_word>
 		<fa_example>ساعتم را گم کردم</fa_example>
 	</word>
 	<word>
-		<id>87</id>
+		<id>86</id>
 		<glk_word>أويستي</glk_word>
 		<glk_example>أشان دۊتا أويستي-يأ مأنيدي</glk_example>
 		<fa_word>هوو</fa_word>
 		<fa_example>این دو نفر مانند هوو هم هستند</fa_example>
 	</word>
 	<word>
-		<id>88</id>
+		<id>87</id>
 		<glk_word>أيأ</glk_word>
 		<glk_example>تي کيليدانأ أيأ بنأ بۊم</glk_example>
 		<fa_word>این‌جا</fa_word>
 		<fa_example>کلیدهایت را این‌جا گذاشته بودم</fa_example>
 	</word>
 	<word>
-		<id>89</id>
+		<id>88</id>
 		<glk_word>أياز</glk_word>
 		<glk_example>أياز بينيشته گۊلان ٚ سر</glk_example>
 		<fa_word>شبنم</fa_word>
 		<fa_example>شبنم روى گل‌ها نشسته است</fa_example>
 	</word>
 	<word>
-		<id>90</id>
+		<id>89</id>
 		<glk_word>أپچ</glk_word>
 		<glk_example>أن خۊج أپچه</glk_example>
 		<fa_word>بی‌مزه</fa_word>
 		<fa_example>این گلابی وحشی بی‌مزه است</fa_example>
 	</word>
 	<word>
-		<id>91</id>
+		<id>90</id>
 		<glk_word>أژدم</glk_word>
 		<glk_example>تي پلا أژدمه</glk_example>
 		<fa_word>بسیار شور</fa_word>
 		<fa_example>پلو تو بسیار شور است</fa_example>
 	</word>
 	<word>
-		<id>92</id>
+		<id>91</id>
 		<glk_word>أکه</glk_word>
 		<glk_example>أکه تأنيم بازي بۊکۊنيم؟</glk_example>
 		<fa_word>چه وقت</fa_word>
 		<fa_example>چه وقت مى‌توانیم بازى کنیم؟</fa_example>
 	</word>
 	<word>
-		<id>93</id>
+		<id>92</id>
 		<glk_word>بأور</glk_word>
 		<glk_example>بۊشۊ مي کيفأ بأور</glk_example>
 		<fa_word>بیاور</fa_word>
 		<fa_example>برو کیفم را بیاور</fa_example>
 	</word>
 	<word>
-		<id>94</id>
+		<id>93</id>
 		<glk_word>بؤبؤسته</glk_word>
 		<glk_example>أ پلا دئه بؤبؤسته</glk_example>
 		<fa_word>آماده</fa_word>
 		<fa_example>این پلو دیگر آماده است</fa_example>
 	</word>
 	<word>
-		<id>95</id>
+		<id>94</id>
 		<glk_word>بؤبؤسته</glk_word>
 		<glk_example>چي بؤبؤسته؟</glk_example>
 		<fa_word>شده است</fa_word>
 		<fa_example>چه شده است؟</fa_example>
 	</word>
 	<word>
-		<id>96</id>
+		<id>95</id>
 		<glk_word>بؤبؤسته</glk_word>
 		<glk_example>مهسا مرد ٚ ره بؤبؤسته</glk_example>
 		<fa_word>شوهر کردن</fa_word>
 		<fa_example>مهسا شوهر کرد</fa_example>
 	</word>
 	<word>
-		<id>97</id>
+		<id>96</id>
 		<glk_word>بؤرسفته</glk_word>
 		<glk_example>مي کيف ٚ بند بؤرسفته</glk_example>
 		<fa_word>پاره شد</fa_word>
 		<fa_example>بند کیفم پاره شد</fa_example>
 	</word>
 	<word>
-		<id>98</id>
+		<id>97</id>
 		<glk_word>بؤرسن</glk_word>
 		<glk_example>دئه بؤرسن</glk_example>
 		<fa_word>تمام کن</fa_word>
 		<fa_example>دیگر تمام کن</fa_example>
 	</word>
 	<word>
-		<id>99</id>
+		<id>98</id>
 		<glk_word>بؤق</glk_word>
 		<glk_example>ماشين ٚ شيشه بؤق بۊکۊده</glk_example>
 		<fa_word>بخار</fa_word>
 		<fa_example>شیشه ماشین بخار کرده است</fa_example>
 	</word>
 	<word>
-		<id>100</id>
+		<id>99</id>
 		<glk_word>بئس</glk_word>
 		<glk_example>ايمشبأ أمي خانه بئس</glk_example>
 		<fa_word>بمان</fa_word>
 		<fa_example>امشب را در خانه ما بمان</fa_example>
 	</word>
 	<word>
-		<id>101</id>
+		<id>100</id>
 		<glk_word>بئس</glk_word>
 		<glk_example>ايپچه بئس</glk_example>
 		<fa_word>صبر کن</fa_word>
 		<fa_example>کمی صبر کن</fa_example>
 	</word>
 	<word>
-		<id>102</id>
+		<id>101</id>
 		<glk_word>بئگان</glk_word>
 		<glk_example>هۊيأ بئگان</glk_example>
 		<fa_word>بیفکن</fa_word>
 		<fa_example>همان‌جا بیفکن</fa_example>
 	</word>
 	<word>
-		<id>103</id>
+		<id>102</id>
 		<glk_word>باتم</glk_word>
 		<glk_example>آخربسر خۊ باتمأ فأرسأ</glk_example>
 		<fa_word>سزای عمل</fa_word>
 		<fa_example>او در انتها به سزای عملش رسید</fa_example>
 	</word>
 	<word>
-		<id>104</id>
+		<id>103</id>
 		<glk_word>بار بامؤئيد</glk_word>
 		<glk_example>گيلکان نترس بار بامؤئيد</glk_example>
 		<fa_word>تربیت شده‌اند</fa_word>
 		<fa_example>گیلک‌ها شجاع تربیت شده‌اند</fa_example>
 	</word>
 	<word>
-		<id>105</id>
+		<id>104</id>
 		<glk_word>باش</glk_word>
 		<glk_example>خۊ پيله برارأ باشه</glk_example>
 		<fa_word>پیروز</fa_word>
 		<fa_example>بر برادر بزرگ‌اش پیروز است</fa_example>
 	</word>
 	<word>
-		<id>106</id>
+		<id>105</id>
 		<glk_word>باقي بمأنسته</glk_word>
-		<glk_example>أن ٚ باقي بمانسته ٰ چي بۊکۊنم؟</glk_example>
+		<glk_example>أن ٚ باقي بمانسته  ٰ چي بۊکۊنم؟</glk_example>
 		<fa_word>باقى‌مانده</fa_word>
 		<fa_example>باقى‌مانده این را چه کنم؟</fa_example>
 	</word>
 	<word>
-		<id>107</id>
+		<id>106</id>
 		<glk_word>بال</glk_word>
 		<glk_example>مي بالأ بيگير</glk_example>
 		<fa_word>دست</fa_word>
 		<fa_example>دستم را بگیر</fa_example>
 	</word>
 	<word>
-		<id>108</id>
+		<id>107</id>
 		<glk_word>بال زئن</glk_word>
 		<glk_example>أن ٚ پئر أنأ بال بزه</glk_example>
 		<fa_word>حمایت کردن</fa_word>
 		<fa_example>پدرش از او حمایت کرد</fa_example>
 	</word>
 	<word>
-		<id>109</id>
+		<id>108</id>
 		<glk_word>بالاخا</glk_word>
 		<glk_example>أمي بالاخا ويريشته</glk_example>
 		<fa_word>هواخواه</fa_word>
 		<fa_example>به هواخواهى ما برخاست</fa_example>
 	</word>
 	<word>
-		<id>110</id>
+		<id>109</id>
 		<glk_word>بامؤخته</glk_word>
 		<glk_example>بامؤخته آدمأ همه دۊس دأريدي</glk_example>
 		<fa_word>با ادب</fa_word>
 		<fa_example>آدم با ادب را همه دوست دارند</fa_example>
 	</word>
 	<word>
-		<id>111</id>
+		<id>110</id>
 		<glk_word>بامؤختي</glk_word>
 		<glk_example>اۊشاني کي بۊگؤفتمه بامؤختي؟</glk_example>
 		<fa_word>یاد گرفتی</fa_word>
 		<fa_example>آن‌هایى که گفتم را یاد گرفتى؟</fa_example>
 	</word>
 	<word>
-		<id>112</id>
+		<id>111</id>
 		<glk_word>ببه</glk_word>
 		<glk_example>أگه أتؤ ببه</glk_example>
 		<fa_word>باشد</fa_word>
 		<fa_example>اگر چنین باشد</fa_example>
 	</word>
 	<word>
-		<id>113</id>
+		<id>112</id>
 		<glk_word>ببه</glk_word>
 		<glk_example>من گب خبربري نۊکۊنم هرچي خأيه ببه بدأ ببه</glk_example>
 		<fa_word>بشود</fa_word>
 		<fa_example>من خبرچینى نمى‌کنم هرچه مى‌خواهد بشود بگذار بشود</fa_example>
 	</word>
 	<word>
-		<id>114</id>
+		<id>113</id>
 		<glk_word>بتپسته</glk_word>
 		<glk_example>يخچال أسباب ٚ جأ بتپسته-يه</glk_example>
 		<fa_word>پر</fa_word>
 		<fa_example>یخچال پر از وسایل است</fa_example>
 	</word>
 	<word>
-		<id>115</id>
+		<id>114</id>
 		<glk_word>بج</glk_word>
 		<glk_example>ايمسال بج گيرانأ بؤسته</glk_example>
 		<fa_word>برنج</fa_word>
 		<fa_example>امسال برنج گران شده است</fa_example>
 	</word>
 	<word>
-		<id>116</id>
+		<id>115</id>
 		<glk_word>بجار</glk_word>
 		<glk_example>أگه کاري نۊکۊنيم أمي بجاران همه دس جه شيدي</glk_example>
 		<fa_word>شالیزار</fa_word>
 		<fa_example>اگر کارى نکنیم تمام شالیزارهاى‌مان  از دست مى‌روند</fa_example>
 	</word>
 	<word>
-		<id>117</id>
+		<id>116</id>
 		<glk_word>بجارکار</glk_word>
 		<glk_example>بجارکار کۊدن دره</glk_example>
 		<fa_word>کشاورزی (در شالیزار)</fa_word>
 		<fa_example>در شالیزار کشاورزی مى‌کند</fa_example>
 	</word>
 	<word>
-		<id>118</id>
+		<id>117</id>
 		<glk_word>بجاوسته</glk_word>
 		<glk_example>کي خۊ بجاوسته آدامسأ تاودأ خيابان ٚ دۊرۊن؟</glk_example>
 		<fa_word>جویده</fa_word>
 		<fa_example>چه کسى آدامس جویده‌اش را در خیابان انداخت؟</fa_example>
 	</word>
 	<word>
-		<id>119</id>
+		<id>118</id>
 		<glk_word>بجسته</glk_word>
 		<glk_example>مي دس ٚ رگ بجسته</glk_example>
 		<fa_word>برجسته</fa_word>
 		<fa_example>رگ دستم برجسته شد</fa_example>
 	</word>
 	<word>
-		<id>120</id>
+		<id>119</id>
 		<glk_word>بخألي</glk_word>
 		<glk_example>بخألي آخري سال ببه</glk_example>
 		<fa_word>به گمانم</fa_word>
 		<fa_example>به گمانم سال آخر باشد</fa_example>
 	</word>
 	<word>
-		<id>121</id>
+		<id>120</id>
 		<glk_word>بدأ</glk_word>
 		<glk_example>بدأ بيدينم چي تأنم بۊکۊنم</glk_example>
 		<fa_word>بگذار</fa_word>
 		<fa_example>بگذار ببینم چه مى‌توانم بکنم</fa_example>
 	</word>
 	<word>
-		<id>122</id>
+		<id>121</id>
 		<glk_word>بدگيل</glk_word>
 		<glk_example>أ ويلایان چندي بدگيل ايسيد</glk_example>
 		<fa_word>زشت</fa_word>
 		<fa_example>این ویلاها چقدر زشت هستند</fa_example>
 	</word>
 	<word>
-		<id>123</id>
+		<id>122</id>
 		<glk_word>برأر</glk_word>
 		<glk_example>مي برار بۊشؤ ايجباري</glk_example>
 		<fa_word>برادر</fa_word>
 		<fa_example>برادرم به سربازی رفته است</fa_example>
 	</word>
 	<word>
-		<id>124</id>
+		<id>123</id>
 		<glk_word>برار زن</glk_word>
 		<glk_example>أفشين ٚ برارزن مي ريفئقه</glk_example>
 		<fa_word>زن برادر</fa_word>
 		<fa_example>زن برادر افشین با من دوست است</fa_example>
 	</word>
 	<word>
-		<id>125</id>
+		<id>124</id>
 		<glk_word>برارزا</glk_word>
 		<glk_example>مي برارزا بۊشؤ مٚدٚرسه</glk_example>
 		<fa_word>برادرزاده</fa_word>
 		<fa_example>برادرزاده‌ام به مدرسه رفته است</fa_example>
 	</word>
 	<word>
-		<id>126</id>
+		<id>125</id>
 		<glk_word>بردن</glk_word>
 		<glk_example>تقي زن ببرده</glk_example>
 		<fa_word>ازدواج (با زن)</fa_word>
 		<fa_example>تقى زن گرفته است</fa_example>
 	</word>
 	<word>
-		<id>127</id>
+		<id>126</id>
 		<glk_word>برسه</glk_word>
 		<glk_example>أ خۊرمالۊئان برسه</glk_example>
 		<fa_word>پخته</fa_word>
 		<fa_example>این خرمالوها پخته است</fa_example>
 	</word>
 	<word>
-		<id>128</id>
+		<id>127</id>
 		<glk_word>بزن بزن</glk_word>
 		<glk_example>ديرۊ أمي کۊچه سر بزن بزن بۊ</glk_example>
 		<fa_word>درگیرى</fa_word>
 		<fa_example>دیروز سر کوچه ما درگیرى بود</fa_example>
 	</word>
 	<word>
-		<id>129</id>
+		<id>128</id>
 		<glk_word>بسته</glk_word>
 		<glk_example>بسته کۊني؟</glk_example>
 		<fa_word>شرط</fa_word>
 		<fa_example>شرط مى‌بندى؟</fa_example>
 	</word>
 	<word>
-		<id>130</id>
+		<id>129</id>
 		<glk_word>بسر تأودأ</glk_word>
 		<glk_example>مأمد مرأ بسر تأودأ بشم بانک</glk_example>
 		<fa_word>یادآورى کرد</fa_word>
 		<fa_example>محمد به من یادآورى کرد به بانک بروم</fa_example>
 	</word>
 	<word>
-		<id>131</id>
+		<id>130</id>
 		<glk_word>بسر دکفتم</glk_word>
 		<glk_example>بسر دکفتم ايمسال بشم دانشگا</glk_example>
 		<fa_word>تصمیم گرفتم</fa_word>
 		<fa_example>تصمیم گرفتم امسال به دانشگاه بروم</fa_example>
 	</word>
 	<word>
-		<id>132</id>
+		<id>131</id>
 		<glk_word>بسچي</glk_word>
 		<glk_example>بسچي کي أيم</glk_example>
 		<fa_word>به‌طور قطع و یقین</fa_word>
 		<fa_example>به‌طور قطع و یقین مى‌آیم</fa_example>
 	</word>
 	<word>
-		<id>133</id>
+		<id>132</id>
 		<glk_word>بشکفت</glk_word>
 		<glk_example>ورف ٚ سينگيني جأ أ دار بشکفت</glk_example>
 		<fa_word>شکست</fa_word>
 		<fa_example>این درخت از سنگینی برف شکست</fa_example>
 	</word>
 	<word>
-		<id>134</id>
+		<id>133</id>
 		<glk_word>بل</glk_word>
 		<glk_example>أن ٚ بل بل ٚ گۊشأ فأندر</glk_example>
 		<fa_word>پهن و درشت</fa_word>
 		<fa_example>گوش‌های پهن و درشت‌اش را نگاه کن</fa_example>
 	</word>
 	<word>
-		<id>135</id>
+		<id>134</id>
 		<glk_word>بمأنستم</glk_word>
 		<glk_example>دئه بمأنستم</glk_example>
 		<fa_word>از پا افتادنم</fa_word>
 		<fa_example>دیگر از پا افتادم</fa_example>
 	</word>
 	<word>
-		<id>136</id>
+		<id>135</id>
 		<glk_word>بمأنسته</glk_word>
 		<glk_example>أ نان بمانسته-يه</glk_example>
 		<fa_word>بیات</fa_word>
 		<fa_example>این نان بیات است</fa_example>
 	</word>
 	<word>
-		<id>137</id>
+		<id>136</id>
 		<glk_word>بمرده</glk_word>
 		<glk_example>کؤرؤنا وأسي دأني چن نفر بمرده؟</glk_example>
 		<fa_word>مرده</fa_word>
 		<fa_example>به خاطر کرونا می‌دانی چند نفر مرده است؟</fa_example>
 	</word>
 	<word>
-		<id>138</id>
+		<id>137</id>
 		<glk_word>بنأ اۊسان</glk_word>
 		<glk_example>آدم وا خۊ بنأ اۊسانأ بدأنه</glk_example>
 		<fa_word>راه و روش زندگى</fa_word>
 		<fa_example>آدم باید راه و روش زندگى خودش را بداند</fa_example>
 	</word>
 	<word>
-		<id>139</id>
+		<id>138</id>
 		<glk_word>بندام</glk_word>
 		<glk_example>بندام ٚ آدم ٚ مرأ نوأسي نيشتن</glk_example>
 		<fa_word>بدنام</fa_word>
 		<fa_example>با آدم بدنام نباید ارتباط داشت</fa_example>
 	</word>
 	<word>
-		<id>140</id>
+		<id>139</id>
 		<glk_word>بنماسته</glk_word>
 		<glk_example>خؤرأ أمرأ بنماسته</glk_example>
 		<fa_word>نشان داد</fa_word>
 		<fa_example>خودش را به ما نشان داد</fa_example>
 	</word>
 	<word>
-		<id>141</id>
+		<id>140</id>
 		<glk_word>بنه</glk_word>
 		<glk_example>تي ماشينأ هأيأ بنه</glk_example>
 		<fa_word>بگذار</fa_word>
 		<fa_example>ماشین‌ات را همین‌جا بگذار</fa_example>
 	</word>
 	<word>
-		<id>142</id>
+		<id>141</id>
 		<glk_word>به</glk_word>
 		<glk_example>أ راديؤ چأکۊده به؟</glk_example>
 		<fa_word>مى‌شود</fa_word>
 		<fa_example>این رادیو درست مى‌شود؟</fa_example>
 	</word>
 	<word>
-		<id>143</id>
+		<id>142</id>
 		<glk_word>به زرف</glk_word>
 		<glk_example>پئله-يأ به زرف بزه زيمين بشکنه</glk_example>
 		<fa_word>محکم</fa_word>
 		<fa_example>نعلبکى را محکم به زمین زد شکست</fa_example>
 	</word>
 	<word>
-		<id>144</id>
+		<id>143</id>
 		<glk_word>به فسکأ دأ</glk_word>
 		<glk_example>أمرأ به فسکأ دأ</glk_example>
 		<fa_word>لو داد</fa_word>
 		<fa_example>ما را لو داد</fa_example>
 	</word>
 	<word>
-		<id>145</id>
+		<id>144</id>
 		<glk_word>بي</glk_word>
 		<glk_example>تۊ ناصر ٚ أمرأ بي</glk_example>
 		<fa_word>بودى</fa_word>
 		<fa_example>تو با ناصر بودى</fa_example>
 	</word>
 	<word>
-		<id>146</id>
+		<id>145</id>
 		<glk_word>بي</glk_word>
 		<glk_example>مي أمرأ ريفئقأ بي؟</glk_example>
 		<fa_word>مى‌شوى</fa_word>
 		<fa_example>با من دوست مى‌شوی؟</fa_example>
 	</word>
 	<word>
-		<id>147</id>
+		<id>146</id>
 		<glk_word>بي شناق</glk_word>
 		<glk_example>بعضي-يان پۊر بي شناقيد</glk_example>
 		<fa_word>حق نشناس</fa_word>
 		<fa_example>بعضى‌ها خیلی حق نشناس هستند</fa_example>
 	</word>
 	<word>
-		<id>148</id>
+		<id>147</id>
 		<glk_word>بي پا</glk_word>
 		<glk_example>گيلان ٚ بجاران همه بي پا بؤستن دره</glk_example>
 		<fa_word>نابود</fa_word>
 		<fa_example>تمام شالیزارهاى گیلان دارد نابود مى‌شود</fa_example>
 	</word>
 	<word>
-		<id>149</id>
+		<id>148</id>
 		<glk_word>بي پۊشت</glk_word>
 		<glk_example>خۊدا بۊکۊنه هي کس بي پۊشت نبه</glk_example>
 		<fa_word>تنها</fa_word>
 		<fa_example>خدا کند هیچ کس تنها نباشد</fa_example>
 	</word>
 	<word>
-		<id>150</id>
+		<id>149</id>
 		<glk_word>بي چنگ ؤ مۊشت</glk_word>
 		<glk_example>آدم نوأ بي چنگ ؤ مۊشت ببه</glk_example>
 		<fa_word>بى‌عرضه</fa_word>
 		<fa_example>آدم نباید بى‌عرضه باشد</fa_example>
 	</word>
 	<word>
-		<id>151</id>
+		<id>150</id>
 		<glk_word>بياره</glk_word>
 		<glk_example>هرکي وا بياره خۊ گبأ بزنه</glk_example>
 		<fa_word>جرأت کند</fa_word>
 		<fa_example>هرکس باید جرأت کند سخن خود را بگوید</fa_example>
 	</word>
 	<word>
-		<id>152</id>
+		<id>151</id>
 		<glk_word>بيافتي</glk_word>
 		<glk_example>وأمج ولکي بيافتي</glk_example>
 		<fa_word>پیدا کردی</fa_word>
 		<fa_example>جستجو کن شاید پیدا کردى</fa_example>
 	</word>
 	<word>
-		<id>153</id>
+		<id>152</id>
 		<glk_word>بيبيشته</glk_word>
 		<glk_example>بيبيشته بج خأيم</glk_example>
 		<fa_word>سرخ شده</fa_word>
 		<fa_example>برنج سرخ شده مى‌خواهم</fa_example>
 	</word>
 	<word>
-		<id>154</id>
+		<id>153</id>
 		<glk_word>بيجير</glk_word>
 		<glk_example>بيأ بيجير</glk_example>
 		<fa_word>پایین</fa_word>
 		<fa_example>بیا پایین</fa_example>
 	</word>
 	<word>
-		<id>155</id>
+		<id>154</id>
 		<glk_word>بيرۊن</glk_word>
 		<glk_example>بۊشۊ بيرۊن</glk_example>
 		<fa_word>بیرون</fa_word>
 		<fa_example>برو بیرون</fa_example>
 	</word>
 	<word>
-		<id>156</id>
+		<id>155</id>
 		<glk_word>بيسپاردم</glk_word>
 		<glk_example>مرجانأ بيسپاردم</glk_example>
 		<fa_word>سفارش کردم</fa_word>
 		<fa_example>به مرجان سفارش کردم</fa_example>
 	</word>
 	<word>
-		<id>157</id>
+		<id>156</id>
 		<glk_word>بينا کۊده</glk_word>
 		<glk_example>سعيد ديرۊ تا هسأ بينا کۊده درز خأندن</glk_example>
 		<fa_word>شروع کرد</fa_word>
 		<fa_example>سعید از دیروز تا حالا شروع کرده درس بخواند</fa_example>
 	</word>
 	<word>
-		<id>158</id>
+		<id>157</id>
 		<glk_word>بينيش</glk_word>
 		<glk_example>أيأ بينيش</glk_example>
 		<fa_word>بنشین</fa_word>
 		<fa_example>اینجا بنشین</fa_example>
 	</word>
 	<word>
-		<id>159</id>
+		<id>158</id>
 		<glk_word>بينيويشته-کس</glk_word>
 		<glk_example>أ کيتاب ٚ بينيويشته-کس کيسه؟</glk_example>
 		<fa_word>نویسنده</fa_word>
 		<fa_example>نویسنده این کتاب چه کسى است؟</fa_example>
 	</word>
 	<word>
-		<id>160</id>
+		<id>159</id>
 		<glk_word>بيچه-ئي</glk_word>
 		<glk_example>اۊ کۊنۊسأ بيچه-ئي؟</glk_example>
 		<fa_word>چیدی</fa_word>
 		<fa_example>آن ازگیل را چیدى؟</fa_example>
 	</word>
 	<word>
-		<id>161</id>
+		<id>160</id>
 		<glk_word>بيگيفت</glk_word>
 		<glk_example>مي پۊلأ بيگيفت</glk_example>
 		<fa_word>گرفت</fa_word>
 		<fa_example>پولم را گرفت</fa_example>
 	</word>
 	<word>
-		<id>162</id>
+		<id>161</id>
 		<glk_word>بٚسٚر</glk_word>
 		<glk_example>چار ما بسر وا بشم پاریس</glk_example>
 		<fa_word>در میان</fa_word>
 		<fa_example>چهار ماه در میان باید به پاریس بروم</fa_example>
 	</word>
 	<word>
-		<id>163</id>
+		<id>162</id>
 		<glk_word>بچمسته</glk_word>
 		<glk_example>أنقد بجارکار بۊکۊدد أشان ٚ کمر بچمسته دأره</glk_example>
 		<fa_word>خمیده</fa_word>
 		<fa_example>آن‌قدر در شالیزارها کار کرده‌اند کمرشان خمیده شده است</fa_example>
 	</word>
 	<word>
-		<id>164</id>
+		<id>163</id>
 		<glk_word>بچنگأ دأ</glk_word>
 		<glk_example>خۊ پۊلانأ همهˈ بچنگأ دأ</glk_example>
 		<fa_word>از دست داد</fa_word>
 		<fa_example>تمام پول‌هایش را از دست داد</fa_example>
 	</word>
 	<word>
-		<id>165</id>
+		<id>164</id>
 		<glk_word>بچکسته</glk_word>
 		<glk_example>کارن بچکسته فني کاران ٚ ره</glk_example>
 		<fa_word>شایسته</fa_word>
 		<fa_example>کارن براى کارهاى فنى شایسته است</fa_example>
 	</word>
 	<word>
-		<id>166</id>
+		<id>165</id>
 		<glk_word>بچۊک</glk_word>
 		<glk_example>وحيدأ بيدئم بچۊک نيشته بۊ</glk_example>
 		<fa_word>چمباتمه</fa_word>
 		<fa_example>وحید را دیدم چمباتمه نشسته بود</fa_example>
 	</word>
 	<word>
-		<id>167</id>
+		<id>166</id>
 		<glk_word>بکأشته</glk_word>
 		<glk_example>أ گۊلانأ حسن بکأشته</glk_example>
 		<fa_word>کاشته</fa_word>
 		<fa_example>این گل‌ها را حسن کاشته</fa_example>
 	</word>
 	<word>
-		<id>168</id>
+		<id>167</id>
 		<glk_word>بکشه-ئي</glk_word>
 		<glk_example>چي بکشه-ئي؟</glk_example>
 		<fa_word>رسم کردی</fa_word>
 		<fa_example>چه چیزى رسم کردى؟</fa_example>
 	</word>
 	<word>
-		<id>169</id>
+		<id>168</id>
 		<glk_word>بکشه-ئي</glk_word>
 		<glk_example>أشانأ بکشه-ئي</glk_example>
 		<fa_word>وزن کردی</fa_word>
 		<fa_example>این‌ها را وزن کردى</fa_example>
 	</word>
 	<word>
-		<id>170</id>
+		<id>169</id>
 		<glk_word>بکفت</glk_word>
 		<glk_example>زأی دار ٚ جه بکفت</glk_example>
 		<fa_word>افتاد</fa_word>
 		<fa_example>بچه از درخت افتاد</fa_example>
 	</word>
 	<word>
-		<id>171</id>
+		<id>170</id>
 		<glk_word>بکفته راشي</glk_word>
 		<glk_example>أرأ شؤن نوأ بکفته راشي-يه</glk_example>
 		<fa_word>جاده متروکه</fa_word>
 		<fa_example>از این راه نرو جاده متروکه است</fa_example>
 	</word>
 	<word>
-		<id>172</id>
+		<id>171</id>
 		<glk_word>بگردستيد</glk_word>
 		<glk_example>أول أمرأ بگردستيد</glk_example>
 		<fa_word>بازرسى کردند</fa_word>
 		<fa_example>ابتدا ما را بازرسى کردند</fa_example>
 	</word>
 	<word>
-		<id>173</id>
+		<id>172</id>
 		<glk_word>بگشت</glk_word>
 		<glk_example>نأنم چي مرأ بگشت</glk_example>
 		<fa_word>نیش زد</fa_word>
 		<fa_example>نمى‌دانم چه چیزى مرا نیش زد</fa_example>
 	</word>
 	<word>
-		<id>174</id>
+		<id>173</id>
 		<glk_word>بگنسته</glk_word>
 		<glk_example>آغۊز بگنسته مي سرأ</glk_example>
 		<fa_word>برخورد کرد</fa_word>
 		<fa_example>گردو به سرم برخورد کرد</fa_example>
 	</word>
 	<word>
-		<id>175</id>
+		<id>174</id>
 		<glk_word>بگيلأ کۊن</glk_word>
 		<glk_example>أ گبانأ هأيأ بگيلأ کۊن</glk_example>
 		<fa_word>دفن کن</fa_word>
 		<fa_example>این حرف‌ها را همین‌جا دفن کن</fa_example>
 	</word>
 	<word>
-		<id>176</id>
+		<id>175</id>
 		<glk_word>بۊ</glk_word>
 		<glk_example>تي کار بۊ؟</glk_example>
 		<fa_word>بود</fa_word>
 		<fa_example>کار تو بود؟</fa_example>
 	</word>
 	<word>
-		<id>177</id>
+		<id>176</id>
 		<glk_word>بۊجؤر</glk_word>
 		<glk_example>بۊشۊ بۊجؤر</glk_example>
 		<fa_word>بالا</fa_word>
 		<fa_example>برو بالا</fa_example>
 	</word>
 	<word>
-		<id>178</id>
+		<id>177</id>
 		<glk_word>بۊجؤر اۊتاق</glk_word>
 		<glk_example>زاکانأ ببر بۊجؤر اۊتاق</glk_example>
 		<fa_word>اتاق بالا</fa_word>
 		<fa_example>بچه‌‌ها را به اتاق بالا ببر</fa_example>
 	</word>
 	<word>
-		<id>179</id>
+		<id>178</id>
 		<glk_word>بۊخۊس</glk_word>
 		<glk_example>دئره، بۊشۊ بۊخۊس</glk_example>
 		<fa_word>بخواب</fa_word>
 		<fa_example>دیروقت است، برو بخواب</fa_example>
 	</word>
 	<word>
-		<id>180</id>
+		<id>179</id>
 		<glk_word>بۊدۊج</glk_word>
 		<glk_example>تأني مي پرهنأ بۊدۊجي؟</glk_example>
 		<fa_word>بدوز</fa_word>
 		<fa_example>می‌توانی پیراهنم را بدوزی؟</fa_example>
 	</word>
 	<word>
-		<id>181</id>
+		<id>180</id>
 		<glk_word>بۊدۊرۊن</glk_word>
 		<glk_example>بۊشۊ بۊدۊرۊن</glk_example>
 		<fa_word>داخل</fa_word>
 		<fa_example>برو داخل</fa_example>
 	</word>
 	<word>
-		<id>182</id>
+		<id>181</id>
 		<glk_word>بۊرۊز</glk_word>
 		<glk_example>تي فسکأ بۊرۊز دأن نوأ</glk_example>
 		<fa_word>فاش</fa_word>
 		<fa_example>رازت را فاش نکن</fa_example>
 	</word>
 	<word>
-		<id>183</id>
+		<id>182</id>
 		<glk_word>بۊز</glk_word>
 		<glk_example>مي پا بۊز مرأ در کۊنه</glk_example>
 		<fa_word>پاشنه پا</fa_word>
 		<fa_example>پاشنه پایم درد مى‌کند</fa_example>
 	</word>
 	<word>
-		<id>184</id>
+		<id>183</id>
 		<glk_word>بۊسۊجانه</glk_word>
 		<glk_example>غذايأ همهˈ بۊسۊجانه</glk_example>
 		<fa_word>سوزاند</fa_word>
 		<fa_example>تمام غذا را سوزاند</fa_example>
 	</word>
 	<word>
-		<id>185</id>
+		<id>184</id>
 		<glk_word>بۊشؤستم</glk_word>
 		<glk_example>تي رختانأ بۊشؤستم</glk_example>
 		<fa_word>شستم</fa_word>
 		<fa_example>لباس‌هایت را شستم</fa_example>
 	</word>
 	<word>
-		<id>186</id>
+		<id>185</id>
 		<glk_word>بۊفۊرؤختم</glk_word>
 		<glk_example>مي گۊشي-يأ تازگي-يان بۊفرؤختم</glk_example>
 		<fa_word>فروختم</fa_word>
 		<fa_example>گوشى‌ام را به‌تازگی فروختم</fa_example>
 	</word>
 	<word>
-		<id>187</id>
+		<id>186</id>
 		<glk_word>بۊچۊلکسته</glk_word>
 		<glk_example>أمي باغچه گۊلان بۊچۊلکسته</glk_example>
 		<fa_word>پژمرده</fa_word>
 		<fa_example>گل‌هاى باغچه ما پژمرده شد</fa_example>
 	</word>
 	<word>
-		<id>188</id>
+		<id>187</id>
 		<glk_word>بۊک بۊکۊده</glk_word>
 		<glk_example>ايمرۊ چي ره بۊک بۊکۊده-ئي؟</glk_example>
 		<fa_word>پکر</fa_word>
 		<fa_example>براى چه امروز پکر هستى؟</fa_example>
 	</word>
 	<word>
-		<id>189</id>
+		<id>188</id>
 		<glk_word>بۊکۊشيد</glk_word>
-		<glk_example>أشان خأئيد همه ٰ بۊکۊشيد</glk_example>
+		<glk_example>أشان خأئيد همه  ٰ بۊکۊشيد</glk_example>
 		<fa_word>بکشند</fa_word>
 		<fa_example>ایشان می‌خواهند همه را بکشند</fa_example>
 	</word>
 	<word>
-		<id>190</id>
+		<id>189</id>
 		<glk_word>بۊگرؤختيم</glk_word>
 		<glk_example>صابخانه کي بامؤ أمان بۊگرؤختيم</glk_example>
 		<fa_word>فرار کردیم</fa_word>
 		<fa_example>صاحب‌خانه که آمد ما فرار کردیم</fa_example>
 	</word>
 	<word>
-		<id>191</id>
+		<id>190</id>
 		<glk_word>بۊگۊ بيشتاو</glk_word>
 		<glk_example>شيمي بۊگۊ بيشتاوأ نيشتاوستم</glk_example>
 		<fa_word>گفتگو</fa_word>
 		<fa_example>گفتگوى شما را نشنیدم</fa_example>
 	</word>
 	<word>
-		<id>192</id>
+		<id>191</id>
 		<glk_word>بۊگۊ مۊگۊ</glk_word>
 		<glk_example>مي دۊماغ خارش کۊنه بۊگۊ مۊگۊيه</glk_example>
 		<fa_word>غیبت</fa_word>
 		<fa_example>بینى‌ام مى‌خارد غیبت‌ام را مى‌کنند</fa_example>
 	</word>
 	<word>
-		<id>193</id>
+		<id>192</id>
 		<glk_word>پئر</glk_word>
 		<glk_example>مي پئر بۊشؤ کار ٚ سر</glk_example>
 		<fa_word>پدر</fa_word>
 		<fa_example>پدرم سر کار رفت</fa_example>
 	</word>
 	<word>
-		<id>194</id>
+		<id>193</id>
 		<glk_word>پئر ؤ مأر</glk_word>
 		<glk_example>مي پئر ؤ مأر بخانه نئسائيد</glk_example>
 		<fa_word>پدر و مادر</fa_word>
 		<fa_example>پدر و مادرم خانه نیستند</fa_example>
 	</word>
 	<word>
-		<id>195</id>
+		<id>194</id>
 		<glk_word>پئر ٚ زن</glk_word>
 		<glk_example>همه-تا پئر ٚ زنان کي بد ني-ئيد</glk_example>
 		<fa_word>نامادرى</fa_word>
 		<fa_example>تمام نامادرى‌ها که بد نیستند</fa_example>
 	</word>
 	<word>
-		<id>196</id>
+		<id>195</id>
 		<glk_word>پئله</glk_word>
 		<glk_example>چائي-يأ دۊکۊن پئله دۊرۊن</glk_example>
 		<fa_word>نعلبکی</fa_word>
 		<fa_example>چای را درون نعلبکی بریز</fa_example>
 	</word>
 	<word>
-		<id>197</id>
+		<id>196</id>
 		<glk_word>پئنج</glk_word>
 		<glk_example>پئنج تا نان خأيم</glk_example>
 		<fa_word>پنج</fa_word>
 		<fa_example>پنج عدد نان مى‌خواهم</fa_example>
 	</word>
 	<word>
-		<id>198</id>
+		<id>197</id>
 		<glk_word>پئنجا</glk_word>
 		<glk_example>زري-يم خۊ پئنجا ريالأ فأدأ</glk_example>
 		<fa_word>پنجاه</fa_word>
 		<fa_example>زری هم پنجاه ریال‌اش را داد</fa_example>
 	</word>
 	<word>
-		<id>199</id>
+		<id>198</id>
 		<glk_word>پا تۊک</glk_word>
 		<glk_example>تي پا تۊک ٚ سر بئس خانه دۊرۊنأ فأندر</glk_example>
 		<fa_word>نوک پا</fa_word>
 		<fa_example>روى نوک پایت بایست داخل خانه را نگاه کن</fa_example>
 	</word>
 	<word>
-		<id>200</id>
+		<id>199</id>
 		<glk_word>پابرانده</glk_word>
 		<glk_example>پابرانده صارا شؤن نوأ</glk_example>
 		<fa_word>پابرهنه</fa_word>
 		<fa_example>پابرهنه به حیاط نرو</fa_example>
 	</word>
 	<word>
-		<id>201</id>
+		<id>200</id>
 		<glk_word>پاخت</glk_word>
 		<glk_example>مي دۊماغ پاخته</glk_example>
 		<fa_word>پهن</fa_word>
 		<fa_example>دماغ من پهن است</fa_example>
+	</word>
+	<word>
+		<id>201</id>
+		<glk_word>پادۊش</glk_word>
+		<glk_example>أشن پادۊش ٚ جأ کفش چأکۊنيد</glk_example>
+		<fa_word>چرم</fa_word>
+		<fa_example>آن‌ها از چرم کفش می‌سازند</fa_example>
 	</word>
 	<word>
 		<id>202</id>
@@ -1452,7 +1452,7 @@
 	<word>
 		<id>208</id>
 		<glk_word>پت</glk_word>
-		<glk_example>أمي مؤبل ٚ دسته ٰ پت بزه</glk_example>
+		<glk_example>أمي مؤبل ٚ دسته  ٰ پت بزه</glk_example>
 		<fa_word>کرم چوب‌خوار</fa_word>
 		<fa_example>دسته مبل ما را کرم چوب‌خوار خورده است</fa_example>
 	</word>
@@ -2075,7 +2075,7 @@
 	<word>
 		<id>297</id>
 		<glk_word>تۊرتۊره</glk_word>
-		<glk_example>پارچهˈ همهˈ تۊرتۊره  ٰ کۊد</glk_example>
+		<glk_example>پارچهˈ همهˈ تۊرتۊره   ٰ کۊد</glk_example>
 		<fa_word>پاره پاره</fa_word>
 		<fa_example>تمام پارچه را پاره‌پاره کرد</fa_example>
 	</word>
@@ -2201,7 +2201,7 @@
 	<word>
 		<id>315</id>
 		<glk_word>جؤر</glk_word>
-		<glk_example>تي وسيله ٰن کابينت ٚ جؤر نهأ</glk_example>
+		<glk_example>تي وسيله  ٰن کابينت ٚ جؤر نهأ</glk_example>
 		<fa_word>بالا</fa_word>
 		<fa_example>وسایل‌ات بالاى کابینت است</fa_example>
 	</word>
@@ -2299,7 +2299,7 @@
 	<word>
 		<id>329</id>
 		<glk_word>جيجاماما</glk_word>
-		<glk_example>خۊ وسيله ٰنأ جيجاماما کۊدن دره</glk_example>
+		<glk_example>خۊ وسيله  ٰنأ جيجاماما کۊدن دره</glk_example>
 		<fa_word>پنهان کردن</fa_word>
 		<fa_example>دارد وسیله‌هایش را پنهان می‌کند</fa_example>
 	</word>
@@ -2342,7 +2342,7 @@
 		<id>335</id>
 		<glk_word>جيويشت</glk_word>
 		<glk_example>مي بال جيويشت</glk_example>
-		<fa_word>در رفت (اعضای بدن)</fa_word>
+		<fa_word>در رفت</fa_word>
 		<fa_example>دستم در رفت</fa_example>
 	</word>
 	<word>
@@ -2502,7 +2502,7 @@
 	<word>
 		<id>358</id>
 		<glk_word>چارکۊنج</glk_word>
-		<glk_example>پارچه  ٰ چارکۊنج واوين</glk_example>
+		<glk_example>پارچه   ٰ چارکۊنج واوين</glk_example>
 		<fa_word>مربع</fa_word>
 		<fa_example>پارچه را به شکل مربع ببر</fa_example>
 	</word>
@@ -2586,7 +2586,7 @@
 	<word>
 		<id>370</id>
 		<glk_word>چمچه</glk_word>
-		<glk_example>چمچه ٰ بيدئي؟</glk_example>
+		<glk_example>چمچه  ٰ بيدئي؟</glk_example>
 		<fa_word>ملاقه</fa_word>
 		<fa_example>ملاقه را دیده‌ای؟</fa_example>
 	</word>
@@ -2601,8 +2601,8 @@
 		<id>372</id>
 		<glk_word>چندر</glk_word>
 		<glk_example>شيمي خانه چندر دۊره</glk_example>
-		<fa_word>چه‌قدر</fa_word>
-		<fa_example>خانۀ شما چه قدر دور است</fa_example>
+		<fa_word>چه قدر</fa_word>
+		<fa_example>خانه شما چه قدر دور است</fa_example>
 	</word>
 	<word>
 		<id>373</id>
@@ -2704,423 +2704,423 @@
 	</word>
 	<word>
 		<id>387</id>
+		<glk_word>چۊچۊل</glk_word>
+		<glk_example>چۊچۊل دار ٚ جأ جؤر شؤن دره</glk_example>
+		<fa_word>مارمولک</fa_word>
+		<fa_example>مارمولک در حال بالا رفتن از درخت است</fa_example>
+	</word>
+	<word>
+		<id>388</id>
 		<glk_word>حأيوان</glk_word>
 		<glk_example>حأيوانانأ سربسر نهأن نوأ</glk_example>
 		<fa_word>حیوان</fa_word>
 		<fa_example>حیوان‌ها را آزار و اذیت نکن</fa_example>
 	</word>
 	<word>
-		<id>388</id>
+		<id>389</id>
 		<glk_word>حئيقت</glk_word>
 		<glk_example>حئيقت گي؟</glk_example>
 		<fa_word>حقیقت</fa_word>
 		<fa_example>حقیقت را مى‌گویی؟</fa_example>
 	</word>
 	<word>
-		<id>389</id>
+		<id>390</id>
 		<glk_word>حق ٚ سأى</glk_word>
 		<glk_example>تي حق ٚ سأيأ بۊکۊن آخربسر چأکۊده به</glk_example>
 		<fa_word>تلاش</fa_word>
 		<fa_example>تلاش کن سرانجام درست مى‌شود</fa_example>
 	</word>
 	<word>
-		<id>390</id>
+		<id>391</id>
 		<glk_word>خألي</glk_word>
 		<glk_example>اۊنقد کار بۊکۊدم خألي بيس تۊمۊن مرأ فأدأ</glk_example>
 		<fa_word>فقط</fa_word>
 		<fa_example>آن قدر کار کردم فقط بیست تومان به من داد</fa_example>
 	</word>
 	<word>
-		<id>391</id>
+		<id>392</id>
 		<glk_word>خأندن</glk_word>
 		<glk_example>کيتاب خأندن درم</glk_example>
 		<fa_word>حواندن</fa_word>
 		<fa_example>دارم کتاب می‌خوانم</fa_example>
 	</word>
 	<word>
-		<id>392</id>
+		<id>393</id>
 		<glk_word>خأيه</glk_word>
 		<glk_example>کي خأيه بأيه؟</glk_example>
 		<fa_word>می‌خواهد</fa_word>
 		<fa_example>چه کسى مى‌خواهد بیاید؟</fa_example>
 	</word>
 	<word>
-		<id>393</id>
+		<id>394</id>
 		<glk_word>خؤرم</glk_word>
 		<glk_example>علي خؤرم زأکه</glk_example>
 		<fa_word>خوب</fa_word>
 		<fa_example>على بچه خوبى است</fa_example>
 	</word>
 	<word>
-		<id>394</id>
+		<id>395</id>
 		<glk_word>خؤرنه</glk_word>
 		<glk_example>أنقد خؤرنه کۊني کي خۊفتن نشأ</glk_example>
 		<fa_word>خروپف</fa_word>
 		<fa_example>آن قدر خروپف مى‌کنى که نمى‌شود خوابید</fa_example>
 	</word>
 	<word>
-		<id>395</id>
+		<id>396</id>
 		<glk_word>خؤره</glk_word>
 		<glk_example>خؤره بامؤ</glk_example>
 		<fa_word>خودش</fa_word>
 		<fa_example>خودش آمد</fa_example>
 	</word>
 	<word>
-		<id>396</id>
+		<id>397</id>
 		<glk_word>خؤره خؤره</glk_word>
 		<glk_example>مي کيف ٚ بند خؤره خؤره بؤرسفت</glk_example>
 		<fa_word>خود به خود</fa_word>
 		<fa_example>بند کیفم خود به خود پاره شد</fa_example>
 	</word>
 	<word>
-		<id>397</id>
+		<id>398</id>
 		<glk_word>خؤشگيل</glk_word>
 		<glk_example>أ گۊل چندر خؤشگيله</glk_example>
 		<fa_word>زیبا</fa_word>
 		<fa_example>این گل چه قدر زیباست</fa_example>
 	</word>
 	<word>
-		<id>398</id>
+		<id>399</id>
 		<glk_word>خاج</glk_word>
 		<glk_example>ايتأ خاج هيندانه مرأ فأدن</glk_example>
 		<fa_word>برشى از چیزى</fa_word>
 		<fa_example>یک برش هندوانه به من بده</fa_example>
 	</word>
 	<word>
-		<id>399</id>
+		<id>400</id>
 		<glk_word>خاخۊر</glk_word>
 		<glk_example>مي خاخۊر ٚ مرأ بۊشؤئيم رستۊران</glk_example>
 		<fa_word>خواهر</fa_word>
 		<fa_example>با خواهرم به رستوران رفتیم</fa_example>
 	</word>
 	<word>
-		<id>400</id>
+		<id>401</id>
 		<glk_word>خاخۊرزا</glk_word>
 		<glk_example>خاخۊرزا مي شين دانشجۊيه</glk_example>
 		<fa_word>خواهرزاده</fa_word>
 		<fa_example>خواهرزاده من دانشجو است</fa_example>
 	</word>
 	<word>
-		<id>401</id>
+		<id>402</id>
 		<glk_word>خاش</glk_word>
 		<glk_example>أ مائي پۊر خاش دأره</glk_example>
 		<fa_word>استخوان</fa_word>
 		<fa_example>این ماهى استخوان زیاد دارد</fa_example>
 	</word>
 	<word>
-		<id>402</id>
+		<id>403</id>
 		<glk_word>خاص ٚ بخت</glk_word>
 		<glk_example>حسۊد ٚ آدم خاص ٚ بخت نيبه</glk_example>
 		<fa_word>خوش‌بخت</fa_word>
 		<fa_example>آدم حسود خوش‌بخت نمى‌شود</fa_example>
 	</word>
 	<word>
-		<id>403</id>
+		<id>404</id>
 		<glk_word>خاطر</glk_word>
 		<glk_example>مرأ خاطر نأيه</glk_example>
 		<fa_word>یاد</fa_word>
 		<fa_example>یادم نمى‌آید</fa_example>
 	</word>
 	<word>
-		<id>404</id>
+		<id>405</id>
 		<glk_word>خاطرخا</glk_word>
 		<glk_example>أشان دۊتا خاطرخائي دأشتيد</glk_example>
 		<fa_word>عاشق</fa_word>
 		<fa_example>این دو نفر عاشق هم بودند</fa_example>
 	</word>
 	<word>
-		<id>405</id>
+		<id>406</id>
 		<glk_word>خال</glk_word>
 		<glk_example>بپا خالانأ نشکني</glk_example>
 		<fa_word>شاخه</fa_word>
 		<fa_example>مواظب باش شاخه‌ها را نشکنی</fa_example>
 	</word>
 	<word>
-		<id>406</id>
+		<id>407</id>
 		<glk_word>خاليواش</glk_word>
 		<glk_example>خاليواش ٚ مرأ درار چأکۊنيدي</glk_example>
 		<fa_word>مرزنگوش</fa_word>
 		<fa_example>با مرزنگوش نمک سبز درست می‌کنند</fa_example>
 	</word>
 	<word>
-		<id>407</id>
+		<id>408</id>
 		<glk_word>خبرأتر</glk_word>
 		<glk_example>چي خبرأتر؟</glk_example>
 		<fa_word>خبر و احوال</fa_word>
 		<fa_example>چه خبر و احوال؟</fa_example>
 	</word>
 	<word>
-		<id>408</id>
+		<id>409</id>
 		<glk_word>خبرأگير</glk_word>
 		<glk_example>مؤسن ديرۊ بامؤبۊ تي خبرأگير</glk_example>
 		<fa_word>سراغ گرفتن</fa_word>
 		<fa_example>محسن دیروز آمده بود و سراغ تو را می‌گرفت</fa_example>
 	</word>
 	<word>
-		<id>409</id>
+		<id>410</id>
 		<glk_word>خرابگي</glk_word>
 		<glk_example>دۊمرتبه خرابگي بۊکۊدي؟</glk_example>
 		<fa_word>خراب‌کارى</fa_word>
 		<fa_example>دوباره خراب‌کارى کردى؟</fa_example>
 	</word>
 	<word>
-		<id>410</id>
+		<id>411</id>
 		<glk_word>خرت ٚ خشال</glk_word>
 		<glk_example>اۊ خرت ٚ خشالانأ فيشأن</glk_example>
 		<fa_word>وسایل بى‌ارزش</fa_word>
 		<fa_example>آن وسایل بى‌ارزش را دور بیانداز</fa_example>
 	</word>
 	<word>
-		<id>411</id>
+		<id>412</id>
 		<glk_word>خسته</glk_word>
 		<glk_example>تۊرفانأ خسته بکأشتي</glk_example>
 		<fa_word>متراکم</fa_word>
 		<fa_example>ترب‌ها را متراکم کاشتى</fa_example>
 	</word>
 	<word>
-		<id>412</id>
+		<id>413</id>
 		<glk_word>خفت</glk_word>
 		<glk_example>مرأ خفتأ گيره</glk_example>
 		<fa_word>چندش</fa_word>
 		<fa_example>چندش‌ام می‌شود</fa_example>
 	</word>
 	<word>
-		<id>413</id>
+		<id>414</id>
 		<glk_word>خفت</glk_word>
 		<glk_example>دئه مي خفت بسر أمؤن دره</glk_example>
 		<fa_word>تحمل</fa_word>
 		<fa_example>دیگر دارد تحمل‌ام تمام مى‌شود</fa_example>
 	</word>
 	<word>
-		<id>414</id>
+		<id>415</id>
 		<glk_word>خفتي</glk_word>
 		<glk_example>خفتي آدمه</glk_example>
 		<fa_word>کم تحمل</fa_word>
 		<fa_example>آدم کم تحملى است</fa_example>
 	</word>
 	<word>
-		<id>415</id>
+		<id>416</id>
 		<glk_word>خفيانگي</glk_word>
 		<glk_example>خۊ کارانأ خفيانگي کۊنه</glk_example>
 		<fa_word>پنهانى</fa_word>
 		<fa_example>کارهایش را مخفیانه انجام مى‌دهد</fa_example>
 	</word>
 	<word>
-		<id>416</id>
+		<id>417</id>
 		<glk_word>خٚرٚک</glk_word>
 		<glk_example>أمي بجانأ خٚرٚکأ کۊده</glk_example>
 		<fa_word>شپشک برنج</fa_word>
 		<fa_example>برنج‌هاى ما را شپشک زده است</fa_example>
 	</word>
 	<word>
-		<id>417</id>
+		<id>418</id>
 		<glk_word>خکاره</glk_word>
 		<glk_example>ايتأ پيله خکاره بيهين</glk_example>
 		<fa_word>ماهی‌تابه</fa_word>
 		<fa_example>یک ماهی‌تابه بزرگ بخر</fa_example>
 	</word>
 	<word>
-		<id>418</id>
+		<id>419</id>
 		<glk_word>خۊ</glk_word>
 		<glk_example>هرکي خۊ ماشين ٚ مرأ بأيه</glk_example>
 		<fa_word>خودش</fa_word>
 		<fa_example>هرکس با ماشین خودش بیاید</fa_example>
 	</word>
 	<word>
-		<id>419</id>
+		<id>420</id>
 		<glk_word>خۊج</glk_word>
 		<glk_example>خۊج خۊري؟</glk_example>
 		<fa_word>گلابی وحشی</fa_word>
 		<fa_example>گلابی وحشی می‌خوری؟</fa_example>
 	</word>
 	<word>
-		<id>420</id>
+		<id>421</id>
 		<glk_word>خۊرانئن</glk_word>
 		<glk_example>زاکأ دوا خۊرانئن درم</glk_example>
 		<fa_word>خوراندن</fa_word>
 		<fa_example>به بچه دارو مى‌خورانم</fa_example>
 	</word>
 	<word>
-		<id>421</id>
+		<id>422</id>
 		<glk_word>خۊرکأ</glk_word>
 		<glk_example>خۊرکأ دامان ٚ مئن زيويسته</glk_example>
 		<fa_word>جوجه‌تیغی</fa_word>
 		<fa_example>جوجه‌تیغی در جنگل زندگی می‌کند</fa_example>
 	</word>
 	<word>
-		<id>422</id>
+		<id>423</id>
 		<glk_word>خۊس</glk_word>
 		<glk_example>نأمم چي ره ايمرۊ خۊس کۊنمه</glk_example>
 		<fa_word>سرفه</fa_word>
 		<fa_example>نمى‌دانم براى چه امروز سرفه مى‌کنم</fa_example>
 	</word>
 	<word>
-		<id>423</id>
+		<id>424</id>
 		<glk_word>خۊسانه</glk_word>
 		<glk_example>مهين کرأ خۊ زاکأ خۊسانه</glk_example>
 		<fa_word>می‌خواباند</fa_word>
 		<fa_example>مهین دارد بچه‌اش را مى‌خواباند</fa_example>
 	</word>
 	<word>
-		<id>424</id>
+		<id>425</id>
 		<glk_word>خۊسه</glk_word>
 		<glk_example>زأک ٚ ره لالائي بيگي زۊتر خۊسه</glk_example>
 		<fa_word>مى‌خوابد</fa_word>
 		<fa_example>براى بچه لالایى بگویى زودتر مى‌خوابد</fa_example>
 	</word>
 	<word>
-		<id>425</id>
+		<id>426</id>
 		<glk_word>خۊشأدم</glk_word>
 		<glk_example>أيأ بيأ ترأ خۊشأدم</glk_example>
 		<fa_word>ببوسم</fa_word>
 		<fa_example>این‌جا بیا تو را ببوسم</fa_example>
 	</word>
 	<word>
-		<id>426</id>
+		<id>427</id>
 		<glk_word>خۊشانه</glk_word>
 		<glk_example>أمان أشانأ وأده نيگيفته بيم، خۊشانه بامؤبيد</glk_example>
 		<fa_word>خودسرانه</fa_word>
 		<fa_example>ما آن‌ها را دعوت نکرده بودیم، خودسرانه آمده بودند</fa_example>
 	</word>
 	<word>
-		<id>427</id>
+		<id>428</id>
 		<glk_word>خۊشک</glk_word>
 		<glk_example>سلان همه خۊشکأ بؤستده</glk_example>
 		<fa_word>خشک</fa_word>
 		<fa_example>آبگیرها همه خشک شده‌اند</fa_example>
 	</word>
 	<word>
-		<id>428</id>
+		<id>429</id>
 		<glk_word>خۊله</glk_word>
 		<glk_example>گرزه بۊشؤ خۊله مئن</glk_example>
 		<fa_word>سوراخ</fa_word>
 		<fa_example>موش درون سوراخ رفت</fa_example>
 	</word>
 	<word>
-		<id>429</id>
+		<id>430</id>
 		<glk_word>خۊلي</glk_word>
 		<glk_example>خۊلي-يانأ بيچه-ئي؟</glk_example>
 		<fa_word>گوجه‌سبز</fa_word>
 		<fa_example>گوجه‌سبزها را چیدی؟</fa_example>
 	</word>
 	<word>
-		<id>430</id>
+		<id>431</id>
 		<glk_word>خۊمه</glk_word>
 		<glk_example>حجحجي أمي هره سر خۊمه بنأ</glk_example>
 		<fa_word>لانه</fa_word>
 		<fa_example>پرستو بالاى ایوان خانه ما لانه گذاشته است</fa_example>
 	</word>
 	<word>
-		<id>431</id>
+		<id>432</id>
 		<glk_word>خۊن ديمير</glk_word>
 		<glk_example>مي پا أنگۊشت خۊن ديمير بؤبؤسته</glk_example>
 		<fa_word>خون مرده</fa_word>
 		<fa_example>انگشت پای من خون مرده شده است</fa_example>
 	</word>
 	<word>
-		<id>432</id>
+		<id>433</id>
 		<glk_word>خۊچک</glk_word>
 		<glk_example>أ آشتالۊ خۊچکه</glk_example>
 		<fa_word>هسته جدا</fa_word>
 		<fa_example>این هلو هسته جدا است</fa_example>
 	</word>
 	<word>
-		<id>433</id>
+		<id>434</id>
 		<glk_word>دأني</glk_word>
 		<glk_example>دأني تي برار کؤيأ ايسأ؟</glk_example>
 		<fa_word>می‌دانی</fa_word>
 		<fa_example>می‌دانی برادرت کجا است؟</fa_example>
 	</word>
 	<word>
-		<id>434</id>
+		<id>435</id>
 		<glk_word>دؤجين</glk_word>
 		<glk_example>ته ره دؤجين بۊکۊن</glk_example>
 		<fa_word>انتخاب</fa_word>
 		<fa_example>برای خودت انتخاب کن</fa_example>
 	</word>
 	<word>
-		<id>435</id>
+		<id>436</id>
 		<glk_word>دؤر ٚ شر</glk_word>
 		<glk_example>اي نفر کرأ دؤر ٚ شر ٚ جأ أيه</glk_example>
 		<fa_word>دور دست</fa_word>
 		<fa_example>یک نفر دارد از دور دست مى‌آید</fa_example>
 	</word>
 	<word>
-		<id>436</id>
+		<id>437</id>
 		<glk_word>دؤرسفت</glk_word>
 		<glk_example>مي زيبيل ٚ تان دؤرسفت</glk_example>
 		<fa_word>پاره شد</fa_word>
 		<fa_example>کف زنبیلم پاره شد</fa_example>
 	</word>
 	<word>
-		<id>437</id>
+		<id>438</id>
 		<glk_word>دؤوانئن</glk_word>
 		<glk_example>صؤب تا هسأ مرأ دؤوانئن دره</glk_example>
 		<fa_word>دواندن</fa_word>
 		<fa_example>از صبح تا حالا دارند من را سر مى‌دواند</fa_example>
 	</word>
 	<word>
-		<id>438</id>
+		<id>439</id>
 		<glk_word>دؤوستن</glk_word>
 		<glk_example>کرأ دؤوم</glk_example>
 		<fa_word>دویدن</fa_word>
 		<fa_example>دارم مى‌دوم</fa_example>
 	</word>
 	<word>
-		<id>439</id>
+		<id>440</id>
 		<glk_word>دؤککؤ</glk_word>
 		<glk_example>دؤککؤ بۊخۊردم</glk_example>
 		<fa_word>تعجب</fa_word>
 		<fa_example>تعجب کردم</fa_example>
 	</word>
 	<word>
-		<id>440</id>
+		<id>441</id>
 		<glk_word>دئر</glk_word>
 		<glk_example>مي مٚدٚرسه دئرأ بؤ</glk_example>
 		<fa_word>دیر</fa_word>
 		<fa_example>مدرسه‌ام دیر شد</fa_example>
 	</word>
 	<word>
-		<id>441</id>
+		<id>442</id>
 		<glk_word>دئن</glk_word>
 		<glk_example>چي دئن دري؟</glk_example>
 		<fa_word>دیدن</fa_word>
 		<fa_example>چه داری می‌بینی؟</fa_example>
 	</word>
 	<word>
-		<id>442</id>
+		<id>443</id>
 		<glk_word>دئه</glk_word>
 		<glk_example>ايتأ دئه نان مرأ فأدن</glk_example>
 		<fa_word>دیگر</fa_word>
 		<fa_example>یک نان دیگر به من بده</fa_example>
 	</word>
 	<word>
-		<id>443</id>
+		<id>444</id>
 		<glk_word>دئه</glk_word>
 		<glk_example>من دئه بازي نۊکۊنم</glk_example>
 		<fa_word>دیگر</fa_word>
 		<fa_example>من دیگر بازى نمى‌کنم</fa_example>
 	</word>
 	<word>
-		<id>444</id>
+		<id>445</id>
 		<glk_word>داب</glk_word>
 		<glk_example>أن تازه دابه؟</glk_example>
 		<fa_word>روش</fa_word>
 		<fa_example>این روش جدید است؟</fa_example>
 	</word>
 	<word>
-		<id>445</id>
+		<id>446</id>
 		<glk_word>دار</glk_word>
 		<glk_example>خۊشک ٚ دار هيمه ره خؤبه</glk_example>
 		<fa_word>درخت</fa_word>
 		<fa_example>درخت خشک برای هیزم خوب است</fa_example>
-	</word>
-	<word>
-		<id>446</id>
-		<glk_word>دار</glk_word>
-		<glk_example>أ دارانأ کي وأوه؟</glk_example>
-		<fa_word>درخت</fa_word>
-		<fa_example>این درخت‌ها را چه‌کسی برید؟</fa_example>
 	</word>
 	<word>
 		<id>447</id>
@@ -3271,17 +3271,17 @@
 	</word>
 	<word>
 		<id>468</id>
-		<glk_word>دس پرأ گيفتن</glk_word>
-		<glk_example>أمرأ دس پرأ گيفتي؟</glk_example>
-		<fa_word>مسخره کردن</fa_word>
-		<fa_example>ما را مسخره مى‌کنى؟</fa_example>
-	</word>
-	<word>
-		<id>469</id>
 		<glk_word>دس ٚ تان</glk_word>
 		<glk_example>مي دس ٚ تان مرأ خارش کۊنه</glk_example>
 		<fa_word>کف دست</fa_word>
 		<fa_example>کف دستم مى‌خارد</fa_example>
+	</word>
+	<word>
+		<id>469</id>
+		<glk_word>دس پرأ گيفتن</glk_word>
+		<glk_example>أمرأ دس پرأ گيفتي؟</glk_example>
+		<fa_word>مسخره کردن</fa_word>
+		<fa_example>ما را مسخره مى‌کنى؟</fa_example>
 	</word>
 	<word>
 		<id>470</id>
@@ -3440,7 +3440,7 @@
 	<word>
 		<id>492</id>
 		<glk_word>دٚوارستم</glk_word>
-		<glk_example>ديرۊ شيمي کۊچه ٰ دٚوارستم</glk_example>
+		<glk_example>ديرۊ شيمي کۊچه  ٰ دٚوارستم</glk_example>
 		<fa_word>عبور کردم</fa_word>
 		<fa_example>دیروز از کوچه شما عبور کردم</fa_example>
 	</word>
@@ -3923,7 +3923,7 @@
 	<word>
 		<id>561</id>
 		<glk_word>سر</glk_word>
-		<glk_example>تي وسيله ٰنأ بنه ميز ٚ سر</glk_example>
+		<glk_example>تي وسيله  ٰنأ بنه ميز ٚ سر</glk_example>
 		<fa_word>روى</fa_word>
 		<fa_example>وسایل‌ات را روی میز بگذار</fa_example>
 	</word>
@@ -4091,7 +4091,7 @@
 	<word>
 		<id>585</id>
 		<glk_word>سٚفره</glk_word>
-		<glk_example>سٚفره  ٰ بۊشؤستم</glk_example>
+		<glk_example>سٚفره   ٰ بۊشؤستم</glk_example>
 		<fa_word>سفره</fa_word>
 		<fa_example>سفره را شستم</fa_example>
 	</word>
@@ -4644,7 +4644,7 @@
 	<word>
 		<id>664</id>
 		<glk_word>فلگان</glk_word>
-		<glk_example>سٚفره  ٰ فلگان</glk_example>
+		<glk_example>سٚفره   ٰ فلگان</glk_example>
 		<fa_word>بتکان</fa_word>
 		<fa_example>سفره را بتکان</fa_example>
 	</word>
@@ -5029,7 +5029,7 @@
 	<word>
 		<id>719</id>
 		<glk_word>کلانه</glk_word>
-		<glk_example>بۊشۊ اۊ کلانه ٰ بأور</glk_example>
+		<glk_example>بۊشۊ اۊ کلانه  ٰ بأور</glk_example>
 		<fa_word>منقل</fa_word>
 		<fa_example>برو آن منقل را بیاور</fa_example>
 	</word>
@@ -5057,7 +5057,7 @@
 	<word>
 		<id>723</id>
 		<glk_word>کله</glk_word>
-		<glk_example>بۊشۊ کله ٰ وأگيران</glk_example>
+		<glk_example>بۊشۊ کله  ٰ وأگيران</glk_example>
 		<fa_word>اجاق</fa_word>
 		<fa_example>برو اجاق را روشن کن</fa_example>
 	</word>
@@ -5246,7 +5246,7 @@
 	<word>
 		<id>750</id>
 		<glk_word>گاره</glk_word>
-		<glk_example>جغله ٰ ببر گاره دۊرۊن بۊخۊسان</glk_example>
+		<glk_example>جغله  ٰ ببر گاره دۊرۊن بۊخۊسان</glk_example>
 		<fa_word>گهواره</fa_word>
 		<fa_example>نوزاد را ببر در گهواره بخوابان</fa_example>
 	</word>
@@ -5582,7 +5582,7 @@
 	<word>
 		<id>798</id>
 		<glk_word>لته</glk_word>
-		<glk_example>اۊ لته ٰ مرأ فأدن ميزأ پأکۊنم</glk_example>
+		<glk_example>اۊ لته  ٰ مرأ فأدن ميزأ پأکۊنم</glk_example>
 		<fa_word>دستمال</fa_word>
 		<fa_example>آن دستمال را به من بده میز را تمیز کنم</fa_example>
 	</word>
@@ -5603,7 +5603,7 @@
 	<word>
 		<id>801</id>
 		<glk_word>لپه</glk_word>
-		<glk_example>لپه ٰ تأود</glk_example>
+		<glk_example>لپه  ٰ تأود</glk_example>
 		<fa_word>توپ</fa_word>
 		<fa_example>توپ را پرتاب کن</fa_example>
 	</word>
@@ -5666,7 +5666,7 @@
 	<word>
 		<id>810</id>
 		<glk_word>مئوه</glk_word>
-		<glk_example>مئوه ٰنأ بۊشؤستي؟</glk_example>
+		<glk_example>مئوه  ٰنأ بۊشؤستي؟</glk_example>
 		<fa_word>میوه</fa_word>
 		<fa_example>میوه‌ها را شستی؟</fa_example>
 	</word>
@@ -5833,31 +5833,31 @@
 	</word>
 	<word>
 		<id>834</id>
-		<glk_word>مرد ٚ خاخۊرزا</glk_word>
-		<glk_example>مي مرد ٚ خاخۊرزا أمي خانه ايسأ</glk_example>
-		<fa_word>خواهرزاده شوهر</fa_word>
-		<fa_example>خواهرزاده شوهرم خانه ما است</fa_example>
-	</word>
-	<word>
-		<id>835</id>
 		<glk_word>مرد ٚ برار</glk_word>
 		<glk_example>مي مرد ٚ برار ٚ خانه هأ کۊچه دۊرۊنه</glk_example>
 		<fa_word>برادر شوهر</fa_word>
 		<fa_example>خانه برادر شوهرم داخل همین کوچه است</fa_example>
 	</word>
 	<word>
-		<id>836</id>
+		<id>835</id>
 		<glk_word>مرد ٚ برار زن</glk_word>
 		<glk_example>تي مرد ٚ برار زنأ بيدئم</glk_example>
 		<fa_word>زن برادر شوهر</fa_word>
 		<fa_example>زن برادر شوهرت را دیدم</fa_example>
 	</word>
 	<word>
-		<id>837</id>
+		<id>836</id>
 		<glk_word>مرد ٚ خاخۊر</glk_word>
 		<glk_example>مي مرد ٚ خاخۊر بۊشؤ خارج</glk_example>
 		<fa_word>خواهر شوهر</fa_word>
 		<fa_example>خواهر شوهرم به خارج رفته است</fa_example>
+	</word>
+	<word>
+		<id>837</id>
+		<glk_word>مرد ٚ خاخۊرزا</glk_word>
+		<glk_example>مي مرد ٚ خاخۊرزا أمي خانه ايسأ</glk_example>
+		<fa_word>خواهرزاده شوهر</fa_word>
+		<fa_example>خواهرزاده شوهرم خانه ما است</fa_example>
 	</word>
 	<word>
 		<id>838</id>
@@ -5925,7 +5925,7 @@
 	<word>
 		<id>847</id>
 		<glk_word>مچه</glk_word>
-		<glk_example>أمين خۊ مچه ٰ عمل بۊکۊده</glk_example>
+		<glk_example>أمين خۊ مچه  ٰ عمل بۊکۊده</glk_example>
 		<fa_word>چانه</fa_word>
 		<fa_example>امین چانه‌اش را عمل کرده است</fa_example>
 	</word>
@@ -6471,7 +6471,7 @@
 	<word>
 		<id>925</id>
 		<glk_word>وارسي</glk_word>
-		<glk_example>ايپچه اۊشنتر همه ٰ وارسي کۊديد</glk_example>
+		<glk_example>ايپچه اۊشنتر همه  ٰ وارسي کۊديد</glk_example>
 		<fa_word>بازرسی</fa_word>
 		<fa_example>کمى آن طرف‌تر همه را بازرسی می‌کردند</fa_example>
 	</word>
@@ -6597,7 +6597,7 @@
 	<word>
 		<id>943</id>
 		<glk_word>واليشتن</glk_word>
-		<glk_example>گاب خۊ مانده ٰ واليشتن دره</glk_example>
+		<glk_example>گاب خۊ مانده  ٰ واليشتن دره</glk_example>
 		<fa_word>لیسیدن</fa_word>
 		<fa_example>گاو دارد گوساله‌اش را مى‌لیسد</fa_example>
 	</word>
