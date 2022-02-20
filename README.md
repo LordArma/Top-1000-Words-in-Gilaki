@@ -8,6 +8,7 @@ Another project base on this list is ["Gilaki Word" page on Instagram](https://i
 ## Something is Wrong
 If you found that something is wrong, please open an issue. For example if you think some meanings are wrong or there are some mistakes, please open an issue for each word.
 <br/>
+<br/>
 DON NOT CORRECT THEM DIRECTLY!
 
 ## Last Update

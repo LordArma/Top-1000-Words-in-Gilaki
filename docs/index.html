@@ -9,17 +9,33 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vazir-font/27.2.2/font-face.min.css" />
   <meta name=theme-color content="#00afff">
   <style>
+    :root {
+      --main-color: #00afff;
+      --border-radius: 8px;
+      --border-color: #ddd;
+    }
+
     body {
       margin: 0;
       padding: 0;
       text-align: center;
       font-family: "Vazir", Arial, sans-serif;
-      border-top: solid 3px #00afff;
+      border-top: solid 3px var(--main-color);
+    }
+
+    #app {
+      opacity: .1;
+      transition: opacity .5s;
+    }
+
+    body.is-mounted #app {
+      opacity: 1;
     }
 
     .container {
       max-width: 960px;
       margin: auto;
+      padding: 0 16px;
     }
 
     a {
@@ -28,13 +44,21 @@
     }
 
     h1 {
-      padding-left: 10px;
-      padding-right: 10px;
+      padding-left: 16px;
+      padding-right: 16px;
+      font-size: 1.6rem;
     }
 
-    h5 {
-      color: gray;
+    .repo-link {
       font-size: .9rem;
+      padding: 0 16px;
+      color: grey;
+    }
+    .repo-link a {
+      display: inline-block;
+      cursor: pointer;
+      padding: 0 16px;
+      color: #1064d9;
     }
 
     .lang-switch span {
@@ -43,82 +67,107 @@
     }
 
     .list {
-      border: solid 1px #ccc;
+      border: solid 1px var(--border-color);
       width: 100%;
       box-sizing: border-box;
-      border-radius: 2px;
       overflow: visible;
+      border-radius: var(--border-radius);
     }
 
-    table {
-      width: 100%;
-      border: none;
-      border-collapse: collapse;
-      overflow: visible;
-    }
-
-    table tr {
-      border-bottom: solid 1px #ccc;
-      height: 40px;
+    .list-item {
+      border-bottom: solid 1px var(--border-color);
+      height: 52px;
       overflow: hidden;
+      display: flex;
+      align-items: center;
     }
 
-    table tr:last-child {
+    .list-item:last-child {
       border-bottom: none;
     }
 
-    table tr.head {
-      background-color: #eee;
+    .list-item.head {
+      background-color: #f2f2f2;
       font-weight: bold;
       user-select: none;
       border-radius: 2px 2px 0 0;
+      border-radius: var(--border-radius) var(--border-radius) 0 0;
     }
 
-    table td,
-    table th {
+    .list-item.head .col {
+      line-height: 2.5rem;
+    }
+
+    .list-item .col {
       text-align: right;
       display: inline-block;
       box-sizing: border-box;
       vertical-align: top;
-      padding: 8px;
-      font-size: 16px;
+      padding: 8px 16px;
+      font-size: 0.9rem;
+      line-height: 1.4;
+      max-height: 52px;
     }
 
-    table .col-no {
+    .list .col-no {
       width: 4%;
     }
 
-    table .col-word {
+    .list .col-word {
       width: 16%;
     }
 
-    table .col-example {
+    .list .col-example {
       width: 34%;
       text-align: center;
     }
 
-    table .col-word-head {
+    .list .col-word-head {
       width: 16%;
       text-align: center;
     }
 
-    table .col-example-head {
+    .list .col-example-head {
       width: 34%;
       text-align: center;
+    }
+
+    .input-wrapper {
+      width: 100%;
+      padding: 16px;
+      box-sizing: border-box;
+      border: solid 1px var(--border-color);
+      outline: none;
+      border-radius: 50px;
+      max-width: 500px;
+      margin: 20px auto;
+      height: 50px;
+      transition: border-color 0.1s, box-shadow 0.1s;
     }
 
     .text-field {
-      width: 100%;
-      height: 50px;
-      padding: 10px;
-      box-sizing: border-box;
-      font-size: 24px;
-      font-family: Vazir, Arial, sans-serif;
-      border: solid 1px #ddd;
-      margin-top: 20px;
-      margin-bottom: 20px;
+      line-height: 25px;
+      background-color: transparent;
+      border: none;
+      margin: 0;
+      padding: 0 0 0 16px;
+      font-size: 1rem;
+      color: rgba(0,0,0,.87);
+      word-wrap: break-word;
       outline: none;
-      border-radius: 2px;
+      display: flex;
+      flex: 1;
+      -webkit-tap-highlight-color: transparent;
+      width: 100%;
+      font-family: Vazir, Arial, sans-serif;
+
+      height: 39px !important;
+      line-height: 1;
+      margin-top: -12px;
+    }
+    .input-wrapper:focus-within {
+      box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+      border-color: rgba(223,225,229,0);
     }
 
     .not-found-message {
@@ -129,8 +178,8 @@
     .not-found-message span {
       background-color: #eee;
       display: inline-block;
-      padding: 0 6px;
-      border-radius: 2px;
+      padding: 0 16px;
+      border-radius: var(--border-radius);
     }
 
     .btn {
@@ -138,6 +187,39 @@
       padding: 8px;
       font-weight: bold;
       cursor: pointer;
+    }
+
+    .fab {
+      background-color: var(--main-color);
+      border-radius: 50%;
+      box-shadow:
+        0px 3px 5px -1px rgb(0 0 0 / 20%),
+        0px 6px 10px 0px rgb(0 0 0 / 14%),
+        0px 1px 18px 0px rgb(0 0 0 / 12%);
+      display: inline-flex;
+      position: fixed;
+      bottom: 16px;
+      left: 16px;
+      align-items: center;
+      justify-content: center;
+      box-sizing: border-box;
+      width: 56px;
+      height: 56px;
+      padding: 0;
+      border: none;
+      fill: currentColor;
+      cursor: pointer;
+      user-select: none;
+      overflow: hidden;
+      transition:
+        box-shadow 280ms cubic-bezier(0.4, 0, 0.2, 1),
+        opacity 15ms linear 30ms,
+        transform 270ms 0ms cubic-bezier(0, 0, 0.2, 1);
+      color: #fff;
+    }
+
+    .fab svg {
+      fill: #fff;
     }
 
     .footer {
@@ -153,43 +235,19 @@
     }
 
     @media screen and (max-width: 600px) {
-      .list {
-        border-right: none;
-        border-left: none;
-      }
-
-      table {
-        border: 0;
-      }
-
-      table tr.head {
+      .list-item.head {
         display: none;
       }
 
-      table caption {
-        font-size: 1.3em;
-      }
-
-      table thead {
-        border: none;
-        clip: rect(0 0 0 0);
-        height: 1px;
-        margin: -1px;
-        overflow: hidden;
-        padding: 0;
-        position: absolute;
-        width: 1px;
-      }
-
-      table tr {
-        border-bottom: 3px solid #ddd;
+      .list-item {
+        border-bottom: 3px solid var(--border-color);
         display: block;
         height: auto;
         margin-bottom: .625em;
       }
 
-      table td {
-        border-bottom: 1px solid #ddd;
+      .list-item .col {
+        border-bottom: 1px solid var(--border-color);
         display: block;
         font-size: 12px;
         padding: 2px 8px;
@@ -197,7 +255,7 @@
         width: auto !important;
       }
 
-      table td::before {
+      .list-item .col::before {
         /*
         * aria-label has no advantage, it won't be read inside a table
         content: attr(aria-label);
@@ -210,7 +268,7 @@
         text-transform: uppercase;
       }
 
-      table td:last-child {
+      .list-item .col:last-child {
         border-bottom: 0;
       }
     }
@@ -229,65 +287,63 @@
 <body>
   <div id="app">
     <div class="container">
-      <h1><a href="index.html">{{ t('title') }}</a></h1>
-      <a href="https://github.com/LordArma/Top-1000-Words-in-Gilaki">
-        <h5>{{ t('githubRepository') }}</h5>
-      </a>
-      <div class="lang-switch">
-        <span @click="switchLang">
-          {{ t('langSwitchText') }}
-        </span>
+      <h1><a href="index.html" v-text="t('title')">هزار کلمه پرکاربرد در گیلکی</a></h1>
+      <div class="repo-link">
+        <a href="https://github.com/LordArma/Top-1000-Words-in-Gilaki" v-text="t('githubRepository')"></a>
+        <span> | </span>
+        <a @click="switchLang" v-text="t('langSwitchText')"></a>
       </div>
-      <input :value="query" @input="onInput" class="text-field" :dir="query.length > 0 ? 'auto' : 'rtl'" placeholder="..." />
+      <div class="input-wrapper">
+        <input
+          ref="searchInput"
+          :value="query"
+          dir="auto"
+          :placeholder="t('search')"
+          :style="{textAlign: lang === 'fa' ? 'right' : 'left'}"
+          class="text-field"
+          @input="onInput"
+        />
+      </div>
       <div v-if="loaded" class="list">
-        <table>
-          <thead>
-            <tr class="list-item head">
-              <th class="col-word-head">{{ t('gilakiWord') }}</th>
-              <th class="col-example-head">{{ t('gilakiExample') }}</th>
-
-                <th class="col-word-head">{{ t('translatedWord') }}</th>
-              <th class="col-example-head">{{ t('translatedExample') }}</th>
-            </tr>
-          </thead>
-          <tbody name="fade-list" is="transition-group">
-            <tr v-for="record in items" :key="record.id" class="list-item">
-              <td class="col-word" :data-label="t('gilakiWord')">
-                <a :href="record.gilakiUrl" target="_blank">
-                  {{ record.gilakiWord }}
-                </a>
-              </td>
-              <td class="col-example" :data-label="t('gilakiExample')">
-                {{ record.gilakiExample }}
-              </td>
-
-              <td class="col-word" dir="auto" :data-label="t('translatedWord')">
-                <a :href="record.translatedUrl" target="_blank">
-                  {{ record.translatedWord }}
-                </a>
-              </td>
-              <td class="col-example" dir="auto" :data-label="t('translatedExample')">
-                {{ record.translatedExample }}
-              </td>
-            </tr>
-          </tbody>
-        </table>
+        <div class="list-item head">
+          <div class="col col-word-head"><span v-text="t('gilakiWord')"></span></div>
+          <div class="col col-example-head"><span v-text="t('gilakiExample')"></span></div>
+          <div class="col col-word-head"><span v-text="t('translatedWord')"></span></div>
+          <div class="col col-example-head"><span v-text="t('translatedExample')"></span></div>
+        </div>
+        <div v-for="record in items" :key="record.id" class="list-item">
+          <div class="col col-word" :data-label="t('gilakiWord')">
+            <a :href="record.gilakiUrl" target="_blank" v-text="record.gilakiWord"></a>
+          </div>
+          <div class="col col-example" :data-label="t('gilakiExample')">
+            <span v-text="record.gilakiExample"></span>
+          </div>
+          <div class="col col-word" dir="auto" :data-label="t('translatedWord')">
+            <a :href="record.translatedUrl" target="_blank" v-text="record.translatedWord"></a>
+          </div>
+          <div class="col col-example" dir="auto" :data-label="t('translatedExample')">
+            <span v-text="record.translatedExample"></span>
+          </div>
+        </div>
         <div v-if="collapsed && items.length === visibleItemsLimit" @click="showAll" class="btn">
-          {{ t('showAll') }}
+          <span v-text="t('showAll')"></span>
         </div>
         <div v-if="items.length === 0" class="not-found-message">
-          {{ t('wordNotFound') }}
+          <span v-text="t('wordNotFound')"></span>
         </div>
       </div>
       <div v-else-if="loading" class="loading">
-        {{ t('loading') }}
+        <span v-text="t('loading')"></span>
       </div>
       <div v-else-if="failed" @click="loadData" class="loading-failed">
-        {{ t('errorTryAgain') }}
+        <span v-text="t('errorTryAgain')"></span>
       </div>
       <div class="footer">
         <p>&nbsp;</p>
       </div>
+      <button @click="switchLang" class="fab">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M12.87 15.07l-2.54-2.51.03-.03c1.74-1.94 2.98-4.17 3.71-6.53H17V4h-7V2H8v2H1v1.99h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12zm-2.62 7l1.62-4.33L19.12 17h-3.24z"/></svg>
+      </button>
     </div>
   </div>
 
@@ -305,7 +361,7 @@
     ]
     var translations = {
       fa: {
-        'title': 'هزار کلمه پر کاربرد در گیلکی',
+        'title': 'هزار کلمه پرکاربرد در گیلکی',
         'gilakiWord': 'کلمه گیلکی',
         'gilakiExample': 'مثال گیلکی',
         'translatedWord': 'کلمه فارسی',
@@ -315,7 +371,8 @@
         'loading': 'بارگذاری...',
         'wordNotFound': 'کلمه پیدا نشد',
         'errorTryAgain': 'خطا! مجددا تلاش کنید',
-        'langSwitchText': 'English Version',
+        'langSwitchText': 'English',
+        'search': 'جستجو',
       },
       en: {
         'title': 'Top 1000 Words in Gilaki',
@@ -328,7 +385,8 @@
         'loading': 'Loading...',
         'wordNotFound': 'Word not found',
         'errorTryAgain': 'Error! try again',
-        'langSwitchText': 'نسخه فارسی',
+        'langSwitchText': 'فارسی',
+        'search': 'Search',
       }
     };
     function updateWordsMap (items, lang) {
@@ -375,18 +433,22 @@
             this.updatePageTitle();
             if (this.loaded) {
               updateWordsMap(words, this.lang);
-              this.applyFiltering();
+              this.applyFiltering(true);
             }
           },
           onInput: function (e) {
             this.query = e.target.value;
             this.applyFiltering();
           },
-          applyFiltering: function () {
+          applyFiltering: function (noReset) {
             const q = this.query.toLowerCase();
             if (q.length === 0) {
-              this.items = wordsMap.slice(0, this.visibleItemsLimit);
-              this.collapsed = true;
+              if (this.collapsed || !noReset) {
+                this.items = wordsMap.slice(0, this.visibleItemsLimit);
+                this.collapsed = true
+              } else {
+                this.items = wordsMap;
+              }
             } else {
               var res = [];
               var cc = 0;
@@ -446,6 +508,10 @@
         },
         mounted: function () {
           this.loadData();
+          setTimeout(function () {
+            document.body.classList.add('is-mounted');
+            document.body.querySelector('input').focus();
+          }, 0);
         }
       })
     }
