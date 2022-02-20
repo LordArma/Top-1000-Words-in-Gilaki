@@ -64,423 +64,423 @@
     },
     {
         "id": 10,
-        "glk_word": "آغۊز",
-        "glk_example": "آغۊز خۊري؟",
-        "en_word": "Walnut",
-        "en_example": "Do you eat walnut?"
-    },
-    {
-        "id": 11,
         "glk_word": "آلاخان والاخان",
         "glk_example": "آلاخان والاخاني جأ بئتره",
         "en_word": "Homeless",
         "en_example": "It is better than being homeless"
     },
     {
-        "id": 12,
+        "id": 11,
         "glk_word": "آها",
         "glk_example": "آها، منم أيم",
         "en_word": "Yes",
         "en_example": "Yes, I come too"
     },
     {
-        "id": 13,
+        "id": 12,
         "glk_word": "آهين",
         "glk_example": "مي دۊکان آهين پۊرد ٚ ور نهأ",
         "en_word": "Iron",
         "en_example": "My shop is next to the iron bridge"
     },
     {
-        "id": 14,
+        "id": 13,
         "glk_word": "آوج",
         "glk_example": "هرچي زنگ بزئم آوجأ ندأ",
         "en_word": "Answer",
         "en_example": "Whatever I called he/she didn't answer"
     },
     {
-        "id": 15,
+        "id": 14,
         "glk_word": "ارجئن ارجئن",
         "glk_example": "﻿کاغذانأ همهˈ ارجئن ارجئنأ کۊده",
         "en_word": "Shred",
         "en_example": "He/She shred all the papers"
     },
     {
-        "id": 16,
+        "id": 15,
         "glk_word": "اي",
         "glk_example": "اي ميليۊن تۊمۊن پۊل خأیم",
         "en_word": "One",
         "en_example": "I need one million Tomans cash"
     },
     {
-        "id": 17,
+        "id": 16,
         "glk_word": "اي فچم",
         "glk_example": "ترأ بيدينم اي فچم ماچي دهم",
         "en_word": "A Lot",
         "en_example": "If I see you I'll give you a lot of kisses"
     },
     {
-        "id": 18,
+        "id": 17,
         "glk_word": "اي وخت",
         "glk_example": "اي وخت پۊر ترأ خأستيم",
         "en_word": "Once",
         "en_example": "I once wanted you so much"
     },
     {
-        "id": 19,
+        "id": 18,
         "glk_word": "اي ور",
         "glk_example": "أن ٚ رختان هرتأ اي ور کفته",
         "en_word": "One Corner",
         "en_example": "Each one of his/her clothes lies in one corner"
     },
     {
-        "id": 20,
+        "id": 19,
         "glk_word": "اي وري",
         "glk_example": "أ تابلؤ چي ره اي وري نهأ؟",
         "en_word": "Crooked",
         "en_example": "Why is this board crooked?"
     },
     {
-        "id": 21,
+        "id": 20,
         "glk_word": "اي پئم",
         "glk_example": "اي پئم سيبيشکا مرأ فأدي؟",
         "en_word": "A Fistful",
         "en_example": "Will you give me a fistful of sunflower seeds?"
     },
     {
-        "id": 22,
+        "id": 21,
         "glk_word": "ايتأ",
         "glk_example": "ايتأ کاغذ مرأ فأدن",
         "en_word": "A",
         "en_example": "Give me a paper"
     },
     {
-        "id": 23,
+        "id": 22,
         "glk_word": "ايجانا",
         "glk_example": "من ؤ ميعاد ايجانا بۊشؤئيم بيرۊن",
         "en_word": "Together",
         "en_example": "Miad and I went out together"
     },
     {
-        "id": 24,
+        "id": 23,
         "glk_word": "ايدانه",
         "glk_example": "ايدانه کۊئي خأيم",
         "en_word": "One",
         "en_example": "I want one pumpkin"
     },
     {
-        "id": 25,
+        "id": 24,
         "glk_word": "ايدفأ",
         "glk_example": "ايدفأ بامؤم شيمي خانه",
         "en_word": "Once",
         "en_example": "I once came to your home"
     },
     {
-        "id": 26,
+        "id": 25,
         "glk_word": "ايدفأئي",
         "glk_example": "ناصر ايدفأئي بامؤ اۊتاق ٚ دۊرۊن",
         "en_word": "Suddenly",
         "en_example": "Nasser suddenly entered the room"
     },
     {
-        "id": 27,
+        "id": 26,
         "glk_word": "ايدقه",
         "glk_example": "ايدقه بئس",
         "en_word": "A Minute",
         "en_example": "Wait a minute"
     },
     {
-        "id": 28,
+        "id": 27,
         "glk_word": "ايرۊز",
         "glk_example": "ايرۊز دئه بمانسته مي تعطيلي-يان تۊمانأ به",
         "en_word": "One Day",
         "en_example": "One day remains until my holidays end"
     },
     {
-        "id": 29,
+        "id": 28,
         "glk_word": "ايزه",
         "glk_example": "ايزه بۊشۊ اۊشنتر",
         "en_word": "A Little Bit",
         "en_example": "Move over a little bit"
     },
     {
-        "id": 30,
+        "id": 29,
         "glk_word": "ايسأبيد",
         "glk_example": "ديشب همه أمي خانه ايسابيد",
         "en_word": "They Were",
         "en_example": "They were all in our house last night"
     },
     {
-        "id": 31,
+        "id": 30,
         "glk_word": "ايستۊل",
         "glk_example": "أشأن چۊب ٚ جأ ایستۊل چأکۊنيد",
         "en_word": "Chair",
         "en_example": "They make chair out of wood"
     },
     {
-        "id": 32,
+        "id": 31,
         "glk_word": "ايسم",
         "glk_example": "تي ايسم چيسه؟",
         "en_word": "Name",
         "en_example": "What's your name?"
     },
     {
-        "id": 33,
+        "id": 32,
         "glk_word": "ايسيد؟",
         "glk_example": "شۊمان چن نفر ايسيد؟",
         "en_word": "Are You?",
         "en_example": "How many people are you?"
     },
     {
-        "id": 34,
+        "id": 33,
         "glk_word": "ايسکمۊ",
         "glk_example": "بۊشۊ دۊکان دۊتا ايسکمۊ بيهين",
         "en_word": "Ice Pop",
         "en_example": "Go to the shop and buy two ice pops"
     },
     {
-        "id": 35,
+        "id": 34,
         "glk_word": "ايشتاو",
         "glk_example": "هأی أمرأ ايشتاو ديهه",
         "en_word": "Warning",
         "en_example": "He/She constantly warning us"
     },
     {
-        "id": 36,
+        "id": 35,
         "glk_word": "ايشتاوي",
         "glk_example": "ايشتاوي چي گمه؟",
         "en_word": "Do You Hear",
         "en_example": "Do you hear what I'm saying?"
     },
     {
-        "id": 37,
+        "id": 36,
         "glk_word": "ايششه",
         "glk_example": "ايششه، لانتي",
         "en_word": "Ew",
         "en_example": "Ew, snake"
     },
     {
-        "id": 38,
+        "id": 37,
         "glk_word": "ايشماردن",
         "glk_example": "مي زأى ايشماردنأ نأنه",
         "en_word": "Count",
         "en_example": "My kid doesn't know how to count"
     },
     {
-        "id": 39,
+        "id": 38,
         "glk_word": "ايشکؤر",
         "glk_example": "کيشکائان ٚ رئم ايشکؤر فۊکۊن",
         "en_word": "Rice Crumbs",
         "en_example": "Sprinkle rice crumbs for chickens too"
     },
     {
-        "id": 40,
+        "id": 39,
         "glk_word": "ايشکنئن",
         "glk_example": "چي-يأ ايشکنئن دري؟",
         "en_word": "Break",
         "en_example": "What are you breaking?"
     },
     {
-        "id": 41,
+        "id": 40,
         "glk_word": "ايمرۊ",
         "glk_example": "ايمرۊ بۊشؤم کيتابخانه",
         "en_word": "Today",
         "en_example": "Today I went to the library"
     },
     {
-        "id": 42,
+        "id": 41,
         "glk_word": "اينسان",
         "glk_example": "اينسان بۊبۊ",
         "en_word": "Human",
         "en_example": "Be human"
     },
     {
-        "id": 43,
+        "id": 42,
         "glk_word": "ايوار ايوار",
         "glk_example": "ايوار ايوار شئطان مرأ گه…",
         "en_word": "Occasionally",
         "en_example": "Occasionally, Satan tells me…"
     },
     {
-        "id": 44,
+        "id": 43,
         "glk_word": "ايواردم",
         "glk_example": "ايواردم وا بشم بازار",
         "en_word": "Once Again",
         "en_example": "I have to go to the market once again"
     },
     {
-        "id": 45,
+        "id": 44,
         "glk_word": "ايوارٚکي",
         "glk_example": "ايوارٚکي بۊگۊ نأيم ترأ راحتأ کۊن",
         "en_word": "Suddenly",
         "en_example": "Suddenly say I'm not comming and get rif of yourself"
     },
     {
-        "id": 46,
+        "id": 45,
         "glk_word": "ايپيچم",
         "glk_example": "گۊش نۊکۊني ايپيچم ترأيأ",
         "en_word": "I'll be aggressive",
         "en_example": "I'll be aggressive if you don't pay attention"
     },
     {
-        "id": 47,
+        "id": 46,
         "glk_word": "ايپچه",
         "glk_example": "ايپچه پلا مه ره دۊکۊن",
         "en_word": "A little bit",
         "en_example": "Serve me a little bit of rice"
     },
     {
-        "id": 48,
+        "id": 47,
         "glk_word": "ايچي",
         "glk_example": "ايچي خأيم ترأ بگم",
         "en_word": "Something",
         "en_example": "I want to tell you something"
     },
     {
-        "id": 49,
+        "id": 48,
         "glk_word": "اۊتاق",
         "glk_example": "مي اۊتاق کؤيتأ ايسه؟",
         "en_word": "Room",
         "en_example": "Which one is my room?"
     },
     {
-        "id": 50,
+        "id": 49,
         "glk_word": "اۊدۊشتن",
         "glk_example": "سۊمبۊر ٚ مأنستن أمي خۊنأ اۊدۊشتن دريد",
         "en_word": "Suck",
         "en_example": "They're sucking our blood like a leech"
     },
     {
-        "id": 51,
+        "id": 50,
         "glk_word": "اۊرشين",
         "glk_example": "کترأيأ اۊسادم قاتؤقا اۊرشين بزئم",
         "en_word": "Stir",
         "en_example": "I picked up wooden spoon and stir the stew"
     },
     {
-        "id": 52,
+        "id": 51,
         "glk_word": "اۊسان",
         "glk_example": "قاقؤشاقانأ اۊسان بأور",
         "en_word": "Pick Up",
         "en_example": "Pick up the spoons and bring them"
     },
     {
-        "id": 53,
+        "id": 52,
         "glk_word": "اۊسه کۊد",
         "glk_example": "أ کيتابأ کي اۊسه کۊد؟",
         "en_word": "Sent",
         "en_example": "Who sent this book?"
     },
     {
-        "id": 54,
+        "id": 53,
         "glk_word": "اۊشان",
         "glk_example": "اۊشان کيسيد؟",
         "en_word": "They",
         "en_example": "Who are they?"
     },
     {
-        "id": 55,
+        "id": 54,
         "glk_word": "اۊشکؤفت",
         "glk_example": "آب مرأ اۊشکؤفت",
         "en_word": "Choked",
         "en_example": "I choked on water"
     },
     {
-        "id": 56,
+        "id": 55,
         "glk_word": "اۊن",
         "glk_example": "اۊن چيسه؟",
         "en_word": "That",
         "en_example": "What is that?"
     },
     {
-        "id": 57,
+        "id": 56,
         "glk_word": "اۊيأ",
         "glk_example": "مهين ٚ کيف اۊيأ نهأ",
         "en_word": "Over There",
         "en_example": "Mahin's Bag is over there"
     },
     {
-        "id": 58,
+        "id": 57,
         "glk_word": "اۊچين",
         "glk_example": "تي کيتابانأ اۊچين",
         "en_word": "Collect",
         "en_example": "Collect your book"
     },
     {
-        "id": 59,
+        "id": 58,
         "glk_word": "اۊکۊف",
         "glk_example": "أمه ره اۊکۊف دره",
         "en_word": "Presage",
         "en_example": "It has presage for us"
     },
     {
-        "id": 60,
+        "id": 59,
         "glk_word": "أ",
         "glk_example": "شۊفاژأ چأکۊدي؟",
         "en_word": "The",
         "en_example": "Did you repair the radiator?"
     },
     {
-        "id": 61,
+        "id": 60,
         "glk_word": "أتؤ",
         "glk_example": "أتؤ نيه",
         "en_word": "Like This",
         "en_example": "It's not like this"
     },
     {
-        "id": 62,
+        "id": 61,
         "glk_word": "أجۊر",
         "glk_example": "أجۊر چي-يان مرأ حالي نيه",
         "en_word": "Such",
         "en_example": "I don't understand such things"
     },
     {
-        "id": 63,
+        "id": 62,
         "glk_word": "أذب",
         "glk_example": "مي برار أذبه",
         "en_word": "Single",
         "en_example": "My brother is single"
     },
     {
-        "id": 64,
+        "id": 63,
         "glk_word": "أرايم",
         "glk_example": "أرايم بيأ",
         "en_word": "This Way Too",
         "en_example": "Come this way too"
     },
     {
-        "id": 65,
+        "id": 64,
         "glk_word": "أرسۊ",
         "glk_example": "تي أرسۊئانأ پاکۊن",
         "en_word": "Tear",
         "en_example": "Wipe your tears"
     },
     {
-        "id": 66,
+        "id": 65,
         "glk_word": "أزازيل",
         "glk_example": "أ أزازيل ٚ زاکانأ فأندر",
         "en_word": "Very Naughty",
         "en_example": "Look at these very Naughty kids"
     },
     {
-        "id": 67,
+        "id": 66,
         "glk_word": "أسباب",
         "glk_example": "ايپچه أسباب بأورم بۊخۊري؟",
         "en_word": "Snack",
         "en_example": "Should I get you some snack to eat?"
     },
     {
-        "id": 68,
+        "id": 67,
         "glk_word": "أشان",
         "glk_example": "أشان کي أمؤن دريد کيسيد؟",
         "en_word": "They",
         "en_example": "Who are they coming?"
     },
     {
-        "id": 69,
+        "id": 68,
         "glk_word": "أشبل",
         "glk_example": "مائي أشبل ٚ مرأ کۊکۊ چأکۊنيدي",
         "en_word": "Fish Egg",
         "en_example": "They make cutlet with fish egg"
+    },
+    {
+        "id": 69,
+        "glk_word": "أغۊز",
+        "glk_example": "أغۊز خۊري؟",
+        "en_word": "Walnut",
+        "en_example": "Do you eat walnut?"
     },
     {
         "id": 70,
@@ -730,7 +730,7 @@
     {
         "id": 105,
         "glk_word": "باقي بمأنسته",
-        "glk_example": "أن ٚ باقي بمانسته   ٰ چي بۊکۊنم؟",
+        "glk_example": "أن ٚ باقي بمانسته    ٰ چي بۊکۊنم؟",
         "en_word": "Remaining",
         "en_example": "What shuld I do with the remaining?"
     },
@@ -1206,7 +1206,7 @@
     {
         "id": 173,
         "glk_word": "بگنسته",
-        "glk_example": "آغۊز بگنسته مي سرأ",
+        "glk_example": "أغۊز بگنسته مي سرأ",
         "en_word": "Hit",
         "en_example": "Walnut hit my head"
     },
@@ -1311,7 +1311,7 @@
     {
         "id": 188,
         "glk_word": "بۊکۊشيد",
-        "glk_example": "أشان خأئيد همه   ٰ بۊکۊشيد",
+        "glk_example": "أشان خأئيد همه    ٰ بۊکۊشيد",
         "en_word": "Kill",
         "en_example": "They want to kill everybody"
     },
@@ -1430,7 +1430,7 @@
     {
         "id": 205,
         "glk_word": "پاچ",
-        "glk_example": "أمي آغۊز دار هني پاچه",
+        "glk_example": "أمي أغۊز دار هني پاچه",
         "en_word": "Short",
         "en_example": "Our walnut tree is still short"
     },
@@ -1451,7 +1451,7 @@
     {
         "id": 208,
         "glk_word": "پت",
-        "glk_example": "أمي مؤبل ٚ دسته   ٰ پت بزه",
+        "glk_example": "أمي مؤبل ٚ دسته    ٰ پت بزه",
         "en_word": "Woodworm",
         "en_example": "The handle of our sofa has been eaten by woodworm"
     },
@@ -2074,7 +2074,7 @@
     {
         "id": 297,
         "glk_word": "تۊرتۊره",
-        "glk_example": "پارچهˈ همهˈ تۊرتۊره    ٰ کۊد",
+        "glk_example": "پارچهˈ همهˈ تۊرتۊره     ٰ کۊد",
         "en_word": "Shredded",
         "en_example": "He/She shredded all the cloth"
     },
@@ -2200,7 +2200,7 @@
     {
         "id": 315,
         "glk_word": "جؤر",
-        "glk_example": "تي وسيله   ٰن کابينت ٚ جؤر نهأ",
+        "glk_example": "تي وسيله    ٰن کابينت ٚ جؤر نهأ",
         "en_word": "Top",
         "en_example": "Your stuff are on top of the cabinet"
     },
@@ -2298,7 +2298,7 @@
     {
         "id": 329,
         "glk_word": "جيجاماما",
-        "glk_example": "خۊ وسيله   ٰنأ جيجاماما کۊدن دره",
+        "glk_example": "خۊ وسيله    ٰنأ جيجاماما کۊدن دره",
         "en_word": "Hide",
         "en_example": "He/She is hiding his/her stuff"
     },
@@ -2501,7 +2501,7 @@
     {
         "id": 358,
         "glk_word": "چارکۊنج",
-        "glk_example": "پارچه    ٰ چارکۊنج واوين",
+        "glk_example": "پارچه     ٰ چارکۊنج واوين",
         "en_word": "Square",
         "en_example": "Cut the cloth in a square shape"
     },
@@ -2585,14 +2585,14 @@
     {
         "id": 370,
         "glk_word": "چمچه",
-        "glk_example": "چمچه   ٰ بيدئي؟",
+        "glk_example": "چمچه    ٰ بيدئي؟",
         "en_word": "Ladle",
         "en_example": "Have you seen the ladle?"
     },
     {
         "id": 371,
         "glk_word": "چنتا",
-        "glk_example": "تۊ چنتا آغۊز دأري؟",
+        "glk_example": "تۊ چنتا أغۊز دأري؟",
         "en_word": "How Many",
         "en_example": "How many walnuts you have?"
     },
@@ -3397,7 +3397,7 @@
     {
         "id": 486,
         "glk_word": "ديمه",
-        "glk_example": "تي آغۊزان ديمه بنن",
+        "glk_example": "تي أغۊزان ديمه بنن",
         "en_word": "Aside",
         "en_example": "Put aside your walnuts"
     },
@@ -3439,7 +3439,7 @@
     {
         "id": 492,
         "glk_word": "دٚوارستم",
-        "glk_example": "ديرۊ شيمي کۊچه   ٰ دٚوارستم",
+        "glk_example": "ديرۊ شيمي کۊچه    ٰ دٚوارستم",
         "en_word": "I Was Passing By",
         "en_example": "I was passing by your alley yesterday"
     },
@@ -3922,7 +3922,7 @@
     {
         "id": 561,
         "glk_word": "سر",
-        "glk_example": "تي وسيله   ٰنأ بنه ميز ٚ سر",
+        "glk_example": "تي وسيله    ٰنأ بنه ميز ٚ سر",
         "en_word": "On",
         "en_example": "Put your stuff on the table"
     },
@@ -4090,7 +4090,7 @@
     {
         "id": 585,
         "glk_word": "سٚفره",
-        "glk_example": "سٚفره    ٰ بۊشؤستم",
+        "glk_example": "سٚفره     ٰ بۊشؤستم",
         "en_word": "Tablecloth",
         "en_example": "I washed the tablecloth"
     },
@@ -4264,7 +4264,7 @@
     },
     {
         "id": 610,
-        "glk_word": "شلار",
+        "glk_word": "شلار دأئن",
         "glk_example": "هأی خۊ گبأ شلار دأئي",
         "en_word": "Prolong",
         "en_example": "He/She was constantly prolonging his/her words"
@@ -4643,7 +4643,7 @@
     {
         "id": 664,
         "glk_word": "فلگان",
-        "glk_example": "سٚفره    ٰ فلگان",
+        "glk_example": "سٚفره     ٰ فلگان",
         "en_word": "Shake",
         "en_example": "Shake the tablecloth"
     },
@@ -5028,7 +5028,7 @@
     {
         "id": 719,
         "glk_word": "کلانه",
-        "glk_example": "بۊشۊ اۊ کلانه   ٰ بأور",
+        "glk_example": "بۊشۊ اۊ کلانه    ٰ بأور",
         "en_word": "Brazier",
         "en_example": "Go bring that brazier"
     },
@@ -5056,7 +5056,7 @@
     {
         "id": 723,
         "glk_word": "کله",
-        "glk_example": "بۊشۊ کله   ٰ وأگيران",
+        "glk_example": "بۊشۊ کله    ٰ وأگيران",
         "en_word": "Stove",
         "en_example": "Go turn the stove on"
     },
@@ -5245,7 +5245,7 @@
     {
         "id": 750,
         "glk_word": "گاره",
-        "glk_example": "جغله   ٰ ببر گاره دۊرۊن بۊخۊسان",
+        "glk_example": "جغله    ٰ ببر گاره دۊرۊن بۊخۊسان",
         "en_word": "Cradle",
         "en_example": "Put the baby in the cradle to sleep"
     },
@@ -5364,7 +5364,7 @@
     {
         "id": 767,
         "glk_word": "گرزه",
-        "glk_example": "گرزه خۊراک آغۊزه",
+        "glk_example": "گرزه خۊراک أغۊزه",
         "en_word": "Mouse",
         "en_example": "The food of the mouse is walnuts"
     },
@@ -5399,7 +5399,7 @@
     {
         "id": 772,
         "glk_word": "گمج",
-        "glk_example": "گمج ٚ مئن آغۊز قاتؤق چأکۊن",
+        "glk_example": "گمج ٚ مئن أغۊز قاتؤق چأکۊن",
         "en_word": "Gamaj",
         "en_example": "Make the fesenjan in the gamaj"
     },
@@ -5581,7 +5581,7 @@
     {
         "id": 798,
         "glk_word": "لته",
-        "glk_example": "اۊ لته   ٰ مرأ فأدن ميزأ پأکۊنم",
+        "glk_example": "اۊ لته    ٰ مرأ فأدن ميزأ پأکۊنم",
         "en_word": "Handkerchief",
         "en_example": "Give me the handkerchief to clean the table"
     },
@@ -5602,7 +5602,7 @@
     {
         "id": 801,
         "glk_word": "لپه",
-        "glk_example": "لپه   ٰ تأود",
+        "glk_example": "لپه    ٰ تأود",
         "en_word": "Ball",
         "en_example": "Throw the ball"
     },
@@ -5665,7 +5665,7 @@
     {
         "id": 810,
         "glk_word": "مئوه",
-        "glk_example": "مئوه   ٰنأ بۊشؤستي؟",
+        "glk_example": "مئوه    ٰنأ بۊشؤستي؟",
         "en_word": "Fruit",
         "en_example": "Did you wash the fruits?"
     },
@@ -5924,7 +5924,7 @@
     {
         "id": 847,
         "glk_word": "مچه",
-        "glk_example": "أمين خۊ مچه   ٰ عمل بۊکۊده",
+        "glk_example": "أمين خۊ مچه    ٰ عمل بۊکۊده",
         "en_word": "Chin",
         "en_example": "Amin got a chin surgery"
     },
@@ -6470,7 +6470,7 @@
     {
         "id": 925,
         "glk_word": "وارسي",
-        "glk_example": "ايپچه اۊشنتر همه   ٰ وارسي کۊديد",
+        "glk_example": "ايپچه اۊشنتر همه    ٰ وارسي کۊديد",
         "en_word": "Inspection",
         "en_example": "A little further they were inspecting everyone"
     },
@@ -6596,7 +6596,7 @@
     {
         "id": 943,
         "glk_word": "واليشتن",
-        "glk_example": "گاب خۊ مانده   ٰ واليشتن دره",
+        "glk_example": "گاب خۊ مانده    ٰ واليشتن دره",
         "en_word": "Licking",
         "en_example": "Cow is licking its calf"
     },
