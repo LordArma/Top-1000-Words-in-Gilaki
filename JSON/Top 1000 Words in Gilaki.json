@@ -2084,7 +2084,7 @@
         "glk_example": "هأ پيلکي رۊخان مائي نأره",
         "fa_word": "بزرگى",
         "fa_example": "رودخانه به این بزرگی ماهی ندارد",
-        "en_word": "Such A Big...",
+        "en_word": "Such A Big…",
         "en_example": "Such a big river but doesn't have any fish"
     },
     {
@@ -6518,11 +6518,11 @@
     {
         "id": 725,
         "glk_word": "کي",
-        "glk_example": "أتؤ نيه کي...",
+        "glk_example": "أتؤ نيه کي…",
         "fa_word": "که",
-        "fa_example": "اینطور نیست که...",
+        "fa_example": "اینطور نیست که…",
         "en_word": "That",
-        "en_example": "It's not like that..."
+        "en_example": "It's not like that…"
     },
     {
         "id": 726,
@@ -7401,9 +7401,9 @@
         "id": 823,
         "glk_word": "ماقؤل",
         "glk_example": "ماقؤل بۊگؤفتم",
-        "fa_word": "چه خوب شد که...",
+        "fa_word": "چه خوب شد که…",
         "fa_example": "چه خوب شد که گفتم",
-        "en_word": "It's Good That...",
+        "en_word": "It's Good That…",
         "en_example": "It's good that I said that"
     },
     {

@@ -21,6 +21,9 @@ You can easily visit [Top 1000 Words in Gilaki Helper](https://github.com/LordAr
 Do you like this project? You can donate Bitcoins here:
 <br/>
 bc1qx7arvae99jv0s2qnaf3v9qaxr6f22p4cpwuaph
+<br/>
+<br/>
+یا می‌توانید از طریق کارت‌های بانکی ایرانی در ["اینجا"](https://aqayepardakht.ir/alireza) از این پروژه حمایت کنید.
 
 ## Contributors
 [Arma](https://github.com/LordArma)

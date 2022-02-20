@@ -1620,7 +1620,7 @@
         "id": 232,
         "glk_word": "پيلکي",
         "glk_example": "هأ پيلکي رۊخان مائي نأره",
-        "en_word": "Such A Big...",
+        "en_word": "Such A Big…",
         "en_example": "Such a big river but doesn't have any fish"
     },
     {
@@ -5070,9 +5070,9 @@
     {
         "id": 725,
         "glk_word": "کي",
-        "glk_example": "أتؤ نيه کي...",
+        "glk_example": "أتؤ نيه کي…",
         "en_word": "That",
-        "en_example": "It's not like that..."
+        "en_example": "It's not like that…"
     },
     {
         "id": 726,
@@ -5757,7 +5757,7 @@
         "id": 823,
         "glk_word": "ماقؤل",
         "glk_example": "ماقؤل بۊگؤفتم",
-        "en_word": "It's Good That...",
+        "en_word": "It's Good That…",
         "en_example": "It's good that I said that"
     },
     {
