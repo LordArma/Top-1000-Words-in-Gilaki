@@ -299,7 +299,7 @@
           :value="query"
           dir="auto"
           :placeholder="t('search')"
-          :style="{textAlign: lang === 'fa' ? 'right' : 'left'}"
+          :style="{textAlign: query.length ? 'initial' : lang === 'en' ? 'left' : 'right'}"
           class="text-field"
           @input="onInput"
         />
@@ -351,12 +351,11 @@
   <script>
     var dataSource = './Top 1000 Words in Gilaki.min.json';
     var words = [];
-    var wordsMapRaw = [];
     var wordsMap = [];
     var searchKeys = [
       'gilakiWord',
-      'gilakiExample',
       'translatedWord',
+      'gilakiExample',
       'translatedExample',
     ]
     var translations = {
@@ -451,23 +450,31 @@
               }
             } else {
               var res = [];
-              var cc = 0;
+              var scores = {};
               this.collapsed = false;
+              var maxWordLength = 500;
               for (var i = 0; i < wordsMap.length; i++) {
                 var o = wordsMap[i];
                 for (var ii = 0; ii < searchKeys.length; ii++) {
                   var key = searchKeys[ii];
-                  if (o[key].toLowerCase().substring(0, q.length) === q) {
+                  var value = o[key].toLowerCase();
+                  var resIndex = value.indexOf(q);
+                  if (resIndex !== -1) {
                     res.push(o);
-                    cc++;
+                    scores[o.id] = (
+                      wordsMap.length *
+                      (searchKeys.length - ii) +
+                      (maxWordLength - resIndex) +
+                      (q.length === value.length ? 1 : 0)
+                    );
                     break;
                   }
                 }
-                if (cc === this.visibleItemsLimit) {
-                  break;
-                }
               };
-              this.items = res;
+              res.sort(function(a, b) {
+                return scores[b.id] - scores[a.id]
+              })
+              this.items = res.slice(0, this.visibleItemsLimit);
             }
           },
           loadData: function (cb) {
