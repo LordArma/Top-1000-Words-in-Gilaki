@@ -3,7 +3,7 @@ Top 1000 words in Gilaki with English & Farsi translation. You can download them
 You can also search in this list without download anything here: [Top 1000 Words in Gilaki](https://Gil1000.ir).
 <br/>
 <br/>
-Another projects based on this list are ["Learn Gilaki"](https://www.instagram.com/learngilaki) and ["آموزش گیلکی"](https://instagram.com/gilakiword) pages on Instagram.
+Another projects based on this list are ["Learn Gilaki"](https://www.instagram.com/LearningGilaki) and ["آموزش گیلکی"](https://instagram.com/GilakiWord) pages on Instagram.
 
 ## Something is Wrong
 If you found that something is wrong, please open an issue. For example if you think some meanings are wrong or there are some mistakes, please open an issue for each word.
