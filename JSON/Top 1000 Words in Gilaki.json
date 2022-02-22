@@ -222,7 +222,7 @@
         "fa_word": "ناگهان",
         "fa_example": "ناصر ناگهان داخل اتاق آمد",
         "en_word": "Suddenly",
-        "en_example": "Nasser suddenly entered the room"
+        "en_example": "Naser suddenly entered the room"
     },
     {
         "id": 26,
@@ -561,8 +561,8 @@
         "id": 63,
         "glk_word": "أرايم",
         "glk_example": "أرايم بيأ",
-        "fa_word": "این‌طرف هم",
-        "fa_example": "این‌طرف هم بیا",
+        "fa_word": "این طرف هم",
+        "fa_example": "این طرف هم بیا",
         "en_word": "This Way Too",
         "en_example": "Come this way too"
     },
@@ -632,11 +632,11 @@
     {
         "id": 71,
         "glk_word": "ألاو",
-        "glk_example": "جه وس هوا سرده أمي دهنأ ألاو بيرۊن أيه",
+        "glk_example": "هوا سرده أمي دهنأ ألاو بيرۊن أيه",
         "fa_word": "بخار",
-        "fa_example": "از بس هوا سرد است از دهان ما بخار خارج مى‌شود",
+        "fa_example": "هوا سرد است از دهان ما بخار خارج مى‌شود",
         "en_word": "Steam",
-        "en_example": "It's too cold that steam come from our mouth"
+        "en_example": "It's cold that steam come from our mouth"
     },
     {
         "id": 72,
@@ -724,7 +724,7 @@
         "glk_word": "أنگاره",
         "glk_example": "چي ره أنقد أنگاره بيده-ئي؟",
         "fa_word": "تدارک",
-        "fa_example": "براى چه این‌قدر تدارک دیده‌اى؟",
+        "fa_example": "براى چه این قدر تدارک دیده‌اى؟",
         "en_word": "Prepare",
         "en_example": "Why did you prepare this much?"
     },
@@ -1173,8 +1173,8 @@
         "id": 131,
         "glk_word": "بسچي",
         "glk_example": "بسچي کي أيم",
-        "fa_word": "به‌طور قطع و یقین",
-        "fa_example": "به‌طور قطع و یقین مى‌آیم",
+        "fa_word": "پس چی",
+        "fa_example": "پس چی که مى‌آیم",
         "en_word": "Definitely",
         "en_example": "I'll definitely come"
     },
@@ -1316,9 +1316,9 @@
     {
         "id": 147,
         "glk_word": "بي پا",
-        "glk_example": "گيلان ٚ بجاران همه بي پا بؤستن دره",
+        "glk_example": "گيلان ٚ بجاران همه بي پا بؤستن دريد",
         "fa_word": "نابود",
-        "fa_example": "تمام شالیزارهاى گیلان دارد نابود مى‌شود",
+        "fa_example": "تمام شالیزارهاى گیلان دارند نابود مى‌شوند",
         "en_word": "Destroyed",
         "en_example": "All of Gilan's rice fields are being destroyed"
     },
@@ -1931,8 +1931,8 @@
         "glk_example": "أشانأ ببر اۊ پس ٚ پۊشت تأود",
         "fa_word": "در آخرها",
         "fa_example": "این‌ها را ببر در آن آخرها بینداز",
-        "en_word": "In The Weeks",
-        "en_example": "Tiger on those weeks"
+        "en_word": "Far Away",
+        "en_example": "Take these and throw them far away"
     },
     {
         "id": 216,
@@ -1941,7 +1941,7 @@
         "fa_word": "پسربچه",
         "fa_example": "پسربچه است، هوس می‌کند",
         "en_word": "Little Boy",
-        "en_example": "he's a little boy, he craves"
+        "en_example": "He's a little boy, he craves"
     },
     {
         "id": 217,
@@ -2432,7 +2432,7 @@
     {
         "id": 271,
         "glk_word": "ترکمه",
-        "glk_example": "أ زأى چقد ترکمه-يه؟",
+        "glk_example": "أ زأى چندر ترکمه-يه؟",
         "fa_word": "حرف نشنو",
         "fa_example": "این بچه چه‌قدر حرف نشنو است؟",
         "en_word": "Disobedient",
@@ -5015,11 +5015,11 @@
     {
         "id": 558,
         "glk_word": "سانچؤ",
-        "glk_example": "جه وس هوا سرده سانچؤ زئن درم",
-        "fa_word": "سینه‌پهلو",
-        "fa_example": "از بس هوا سرد است داریم سینه‌پهلو می‌کنم",
+        "glk_example": "هوا سرده سانچؤ زئن درم",
+        "fa_word": "سینه پهلو",
+        "fa_example": "هوا سرد است دارم سینه پهلو می‌کنم",
         "en_word": "Pneumonia",
-        "en_example": "It's too cold I'm getting pneumonia"
+        "en_example": "It's cold I'm getting pneumonia"
     },
     {
         "id": 559,
@@ -5510,9 +5510,9 @@
     {
         "id": 613,
         "glk_word": "شه",
-        "glk_example": "أيأ چقد گرمه، شه بزم",
+        "glk_example": "أيأ چندر گرمه، شه بزم",
         "fa_word": "عرق",
-        "fa_example": "این‌جا چه‌قدر گرم است، عرق زدم",
+        "fa_example": "این‌جا چه قدر گرم است، عرق زدم",
         "en_word": "Sweat",
         "en_example": "It's too hot here, I sweat"
     },
@@ -5791,7 +5791,7 @@
         "glk_word": "فأمستن",
         "glk_example": "أ مؤضۊ فأمستن أنقد سخته؟",
         "fa_word": "فهمیدن",
-        "fa_example": "فهمیدن این موضوع این‌قدر سخت است؟",
+        "fa_example": "فهمیدن این موضوع این قدر سخت است؟",
         "en_word": "Understand",
         "en_example": "Is this so hard to understand?"
     },

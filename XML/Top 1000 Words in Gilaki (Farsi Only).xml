@@ -438,8 +438,8 @@
 		<id>63</id>
 		<glk_word>أرايم</glk_word>
 		<glk_example>أرايم بيأ</glk_example>
-		<fa_word>این‌طرف هم</fa_word>
-		<fa_example>این‌طرف هم بیا</fa_example>
+		<fa_word>این طرف هم</fa_word>
+		<fa_example>این طرف هم بیا</fa_example>
 	</word>
 	<word>
 		<id>64</id>
@@ -493,9 +493,9 @@
 	<word>
 		<id>71</id>
 		<glk_word>ألاو</glk_word>
-		<glk_example>جه وس هوا سرده أمي دهنأ ألاو بيرۊن أيه</glk_example>
+		<glk_example>هوا سرده أمي دهنأ ألاو بيرۊن أيه</glk_example>
 		<fa_word>بخار</fa_word>
-		<fa_example>از بس هوا سرد است از دهان ما بخار خارج مى‌شود</fa_example>
+		<fa_example>هوا سرد است از دهان ما بخار خارج مى‌شود</fa_example>
 	</word>
 	<word>
 		<id>72</id>
@@ -565,7 +565,7 @@
 		<glk_word>أنگاره</glk_word>
 		<glk_example>چي ره أنقد أنگاره بيده-ئي؟</glk_example>
 		<fa_word>تدارک</fa_word>
-		<fa_example>براى چه این‌قدر تدارک دیده‌اى؟</fa_example>
+		<fa_example>براى چه این قدر تدارک دیده‌اى؟</fa_example>
 	</word>
 	<word>
 		<id>82</id>
@@ -914,8 +914,8 @@
 		<id>131</id>
 		<glk_word>بسچي</glk_word>
 		<glk_example>بسچي کي أيم</glk_example>
-		<fa_word>به‌طور قطع و یقین</fa_word>
-		<fa_example>به‌طور قطع و یقین مى‌آیم</fa_example>
+		<fa_word>پس چی</fa_word>
+		<fa_example>پس چی که مى‌آیم</fa_example>
 	</word>
 	<word>
 		<id>132</id>
@@ -1025,9 +1025,9 @@
 	<word>
 		<id>147</id>
 		<glk_word>بي پا</glk_word>
-		<glk_example>گيلان ٚ بجاران همه بي پا بؤستن دره</glk_example>
+		<glk_example>گيلان ٚ بجاران همه بي پا بؤستن دريد</glk_example>
 		<fa_word>نابود</fa_word>
-		<fa_example>تمام شالیزارهاى گیلان دارد نابود مى‌شود</fa_example>
+		<fa_example>تمام شالیزارهاى گیلان دارند نابود مى‌شوند</fa_example>
 	</word>
 	<word>
 		<id>148</id>
@@ -1893,7 +1893,7 @@
 	<word>
 		<id>271</id>
 		<glk_word>ترکمه</glk_word>
-		<glk_example>أ زأى چقد ترکمه-يه؟</glk_example>
+		<glk_example>أ زأى چندر ترکمه-يه؟</glk_example>
 		<fa_word>حرف نشنو</fa_word>
 		<fa_example>این بچه چه‌قدر حرف نشنو است؟</fa_example>
 	</word>
@@ -3902,9 +3902,9 @@
 	<word>
 		<id>558</id>
 		<glk_word>سانچؤ</glk_word>
-		<glk_example>جه وس هوا سرده سانچؤ زئن درم</glk_example>
-		<fa_word>سینه‌پهلو</fa_word>
-		<fa_example>از بس هوا سرد است داریم سینه‌پهلو می‌کنم</fa_example>
+		<glk_example>هوا سرده سانچؤ زئن درم</glk_example>
+		<fa_word>سینه پهلو</fa_word>
+		<fa_example>هوا سرد است دارم سینه پهلو می‌کنم</fa_example>
 	</word>
 	<word>
 		<id>559</id>
@@ -4287,9 +4287,9 @@
 	<word>
 		<id>613</id>
 		<glk_word>شه</glk_word>
-		<glk_example>أيأ چقد گرمه، شه بزم</glk_example>
+		<glk_example>أيأ چندر گرمه، شه بزم</glk_example>
 		<fa_word>عرق</fa_word>
-		<fa_example>این‌جا چه‌قدر گرم است، عرق زدم</fa_example>
+		<fa_example>این‌جا چه قدر گرم است، عرق زدم</fa_example>
 	</word>
 	<word>
 		<id>614</id>
@@ -4506,7 +4506,7 @@
 		<glk_word>فأمستن</glk_word>
 		<glk_example>أ مؤضۊ فأمستن أنقد سخته؟</glk_example>
 		<fa_word>فهمیدن</fa_word>
-		<fa_example>فهمیدن این موضوع این‌قدر سخت است؟</fa_example>
+		<fa_example>فهمیدن این موضوع این قدر سخت است؟</fa_example>
 	</word>
 	<word>
 		<id>645</id>

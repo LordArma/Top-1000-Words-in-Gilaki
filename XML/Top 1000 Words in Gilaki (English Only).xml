@@ -173,7 +173,7 @@
 		<glk_word>ايدفأئي</glk_word>
 		<glk_example>ناصر ايدفأئي بامؤ اۊتاق ٚ دۊرۊن</glk_example>
 		<en_word>Suddenly</en_word>
-		<en_example>Nasser suddenly entered the room</en_example>
+		<en_example>Naser suddenly entered the room</en_example>
 	</word>
 	<word>
 		<id>26</id>
@@ -493,9 +493,9 @@
 	<word>
 		<id>71</id>
 		<glk_word>ألاو</glk_word>
-		<glk_example>جه وس هوا سرده أمي دهنأ ألاو بيرۊن أيه</glk_example>
+		<glk_example>هوا سرده أمي دهنأ ألاو بيرۊن أيه</glk_example>
 		<en_word>Steam</en_word>
-		<en_example>It's too cold that steam come from our mouth</en_example>
+		<en_example>It's cold that steam come from our mouth</en_example>
 	</word>
 	<word>
 		<id>72</id>
@@ -1025,7 +1025,7 @@
 	<word>
 		<id>147</id>
 		<glk_word>بي پا</glk_word>
-		<glk_example>گيلان ٚ بجاران همه بي پا بؤستن دره</glk_example>
+		<glk_example>گيلان ٚ بجاران همه بي پا بؤستن دريد</glk_example>
 		<en_word>Destroyed</en_word>
 		<en_example>All of Gilan's rice fields are being destroyed</en_example>
 	</word>
@@ -1502,15 +1502,15 @@
 		<id>215</id>
 		<glk_word>پس ٚ پۊشت</glk_word>
 		<glk_example>أشانأ ببر اۊ پس ٚ پۊشت تأود</glk_example>
-		<en_word>In The Weeks</en_word>
-		<en_example>Tiger on those weeks</en_example>
+		<en_word>Far Away</en_word>
+		<en_example>Take these and throw them far away</en_example>
 	</word>
 	<word>
 		<id>216</id>
 		<glk_word>پسرزأک</glk_word>
 		<glk_example>پسرزأکه، أن ٚ تامأ دکفه</glk_example>
 		<en_word>Little Boy</en_word>
-		<en_example>he's a little boy, he craves</en_example>
+		<en_example>He's a little boy, he craves</en_example>
 	</word>
 	<word>
 		<id>217</id>
@@ -1893,7 +1893,7 @@
 	<word>
 		<id>271</id>
 		<glk_word>ترکمه</glk_word>
-		<glk_example>أ زأى چقد ترکمه-يه؟</glk_example>
+		<glk_example>أ زأى چندر ترکمه-يه؟</glk_example>
 		<en_word>Disobedient</en_word>
 		<en_example>How is this kid so disobedient?</en_example>
 	</word>
@@ -3902,9 +3902,9 @@
 	<word>
 		<id>558</id>
 		<glk_word>سانچؤ</glk_word>
-		<glk_example>جه وس هوا سرده سانچؤ زئن درم</glk_example>
+		<glk_example>هوا سرده سانچؤ زئن درم</glk_example>
 		<en_word>Pneumonia</en_word>
-		<en_example>It's too cold I'm getting pneumonia</en_example>
+		<en_example>It's cold I'm getting pneumonia</en_example>
 	</word>
 	<word>
 		<id>559</id>
@@ -4287,7 +4287,7 @@
 	<word>
 		<id>613</id>
 		<glk_word>شه</glk_word>
-		<glk_example>أيأ چقد گرمه، شه بزم</glk_example>
+		<glk_example>أيأ چندر گرمه، شه بزم</glk_example>
 		<en_word>Sweat</en_word>
 		<en_example>It's too hot here, I sweat</en_example>
 	</word>

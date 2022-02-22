@@ -172,7 +172,7 @@
         "glk_word": "ايدفأئي",
         "glk_example": "ناصر ايدفأئي بامؤ اۊتاق ٚ دۊرۊن",
         "en_word": "Suddenly",
-        "en_example": "Nasser suddenly entered the room"
+        "en_example": "Naser suddenly entered the room"
     },
     {
         "id": 26,
@@ -492,9 +492,9 @@
     {
         "id": 71,
         "glk_word": "ألاو",
-        "glk_example": "جه وس هوا سرده أمي دهنأ ألاو بيرۊن أيه",
+        "glk_example": "هوا سرده أمي دهنأ ألاو بيرۊن أيه",
         "en_word": "Steam",
-        "en_example": "It's too cold that steam come from our mouth"
+        "en_example": "It's cold that steam come from our mouth"
     },
     {
         "id": 72,
@@ -1024,7 +1024,7 @@
     {
         "id": 147,
         "glk_word": "بي پا",
-        "glk_example": "گيلان ٚ بجاران همه بي پا بؤستن دره",
+        "glk_example": "گيلان ٚ بجاران همه بي پا بؤستن دريد",
         "en_word": "Destroyed",
         "en_example": "All of Gilan's rice fields are being destroyed"
     },
@@ -1501,15 +1501,15 @@
         "id": 215,
         "glk_word": "پس ٚ پۊشت",
         "glk_example": "أشانأ ببر اۊ پس ٚ پۊشت تأود",
-        "en_word": "In The Weeks",
-        "en_example": "Tiger on those weeks"
+        "en_word": "Far Away",
+        "en_example": "Take these and throw them far away"
     },
     {
         "id": 216,
         "glk_word": "پسرزأک",
         "glk_example": "پسرزأکه، أن ٚ تامأ دکفه",
         "en_word": "Little Boy",
-        "en_example": "he's a little boy, he craves"
+        "en_example": "He's a little boy, he craves"
     },
     {
         "id": 217,
@@ -1892,7 +1892,7 @@
     {
         "id": 271,
         "glk_word": "ترکمه",
-        "glk_example": "أ زأى چقد ترکمه-يه؟",
+        "glk_example": "أ زأى چندر ترکمه-يه؟",
         "en_word": "Disobedient",
         "en_example": "How is this kid so disobedient?"
     },
@@ -3901,9 +3901,9 @@
     {
         "id": 558,
         "glk_word": "سانچؤ",
-        "glk_example": "جه وس هوا سرده سانچؤ زئن درم",
+        "glk_example": "هوا سرده سانچؤ زئن درم",
         "en_word": "Pneumonia",
-        "en_example": "It's too cold I'm getting pneumonia"
+        "en_example": "It's cold I'm getting pneumonia"
     },
     {
         "id": 559,
@@ -4286,7 +4286,7 @@
     {
         "id": 613,
         "glk_word": "شه",
-        "glk_example": "أيأ چقد گرمه، شه بزم",
+        "glk_example": "أيأ چندر گرمه، شه بزم",
         "en_word": "Sweat",
         "en_example": "It's too hot here, I sweat"
     },
