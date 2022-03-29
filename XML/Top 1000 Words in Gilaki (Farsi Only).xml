@@ -731,7 +731,7 @@
 	<word>
 		<id>105</id>
 		<glk_word>باقي بمأنسته</glk_word>
-		<glk_example>أن ٚ باقي بمانسته    ٰ چي بۊکۊنم؟</glk_example>
+		<glk_example>أن ٚ باقي بمانسته     ٰ چي بۊکۊنم؟</glk_example>
 		<fa_word>باقى‌مانده</fa_word>
 		<fa_example>باقى‌مانده این را چه کنم؟</fa_example>
 	</word>
@@ -1312,7 +1312,7 @@
 	<word>
 		<id>188</id>
 		<glk_word>بۊکۊشيد</glk_word>
-		<glk_example>أشان خأئيد همه    ٰ بۊکۊشيد</glk_example>
+		<glk_example>أشان خأئيد همه     ٰ بۊکۊشيد</glk_example>
 		<fa_word>بکشند</fa_word>
 		<fa_example>ایشان می‌خواهند همه را بکشند</fa_example>
 	</word>
@@ -1452,7 +1452,7 @@
 	<word>
 		<id>208</id>
 		<glk_word>پت</glk_word>
-		<glk_example>أمي مؤبل ٚ دسته    ٰ پت بزه</glk_example>
+		<glk_example>أمي مؤبل ٚ دسته     ٰ پت بزه</glk_example>
 		<fa_word>کرم چوب‌خوار</fa_word>
 		<fa_example>دسته مبل ما را کرم چوب‌خوار خورده است</fa_example>
 	</word>
@@ -2075,7 +2075,7 @@
 	<word>
 		<id>297</id>
 		<glk_word>تۊرتۊره</glk_word>
-		<glk_example>پارچهˈ همهˈ تۊرتۊره     ٰ کۊد</glk_example>
+		<glk_example>پارچهˈ همهˈ تۊرتۊره      ٰ کۊد</glk_example>
 		<fa_word>پاره پاره</fa_word>
 		<fa_example>تمام پارچه را پاره‌پاره کرد</fa_example>
 	</word>
@@ -2159,7 +2159,7 @@
 	<word>
 		<id>309</id>
 		<glk_word>تۊکاپره</glk_word>
-		<glk_example>سجاد ؤ أکبر تۊکاپرهˈ ديبيد</glk_example>
+		<glk_example>فرزاد ؤ أحمد تۊکاپرهˈ ديبيد</glk_example>
 		<fa_word>جر و بحث</fa_word>
 		<fa_example>فرزاد و احمد جر و بحث مى‌کردند</fa_example>
 	</word>
@@ -2201,7 +2201,7 @@
 	<word>
 		<id>315</id>
 		<glk_word>جؤر</glk_word>
-		<glk_example>تي وسيله    ٰن کابينت ٚ جؤر نهأ</glk_example>
+		<glk_example>تي وسيله     ٰن کابينت ٚ جؤر نهأ</glk_example>
 		<fa_word>بالا</fa_word>
 		<fa_example>وسایل‌ات بالاى کابینت است</fa_example>
 	</word>
@@ -2299,7 +2299,7 @@
 	<word>
 		<id>329</id>
 		<glk_word>جيجاماما</glk_word>
-		<glk_example>خۊ وسيله    ٰنأ جيجاماما کۊدن دره</glk_example>
+		<glk_example>خۊ وسيله     ٰنأ جيجاماما کۊدن دره</glk_example>
 		<fa_word>پنهان کردن</fa_word>
 		<fa_example>دارد وسیله‌هایش را پنهان می‌کند</fa_example>
 	</word>
@@ -2502,7 +2502,7 @@
 	<word>
 		<id>358</id>
 		<glk_word>چارکۊنج</glk_word>
-		<glk_example>پارچه     ٰ چارکۊنج واوين</glk_example>
+		<glk_example>پارچه      ٰ چارکۊنج واوين</glk_example>
 		<fa_word>مربع</fa_word>
 		<fa_example>پارچه را به شکل مربع ببر</fa_example>
 	</word>
@@ -2586,7 +2586,7 @@
 	<word>
 		<id>370</id>
 		<glk_word>چمچه</glk_word>
-		<glk_example>چمچه    ٰ بيدئي؟</glk_example>
+		<glk_example>چمچه     ٰ بيدئي؟</glk_example>
 		<fa_word>ملاقه</fa_word>
 		<fa_example>ملاقه را دیده‌ای؟</fa_example>
 	</word>
@@ -3440,7 +3440,7 @@
 	<word>
 		<id>492</id>
 		<glk_word>دٚوارستم</glk_word>
-		<glk_example>ديرۊ شيمي کۊچه    ٰ دٚوارستم</glk_example>
+		<glk_example>ديرۊ شيمي کۊچه     ٰ دٚوارستم</glk_example>
 		<fa_word>عبور کردم</fa_word>
 		<fa_example>دیروز از کوچه شما عبور کردم</fa_example>
 	</word>
@@ -3923,7 +3923,7 @@
 	<word>
 		<id>561</id>
 		<glk_word>سر</glk_word>
-		<glk_example>تي وسيله    ٰنأ بنه ميز ٚ سر</glk_example>
+		<glk_example>تي وسيله     ٰنأ بنه ميز ٚ سر</glk_example>
 		<fa_word>روى</fa_word>
 		<fa_example>وسایل‌ات را روی میز بگذار</fa_example>
 	</word>
@@ -4091,7 +4091,7 @@
 	<word>
 		<id>585</id>
 		<glk_word>سٚفره</glk_word>
-		<glk_example>سٚفره     ٰ بۊشؤستم</glk_example>
+		<glk_example>سٚفره      ٰ بۊشؤستم</glk_example>
 		<fa_word>سفره</fa_word>
 		<fa_example>سفره را شستم</fa_example>
 	</word>
@@ -4644,7 +4644,7 @@
 	<word>
 		<id>664</id>
 		<glk_word>فلگان</glk_word>
-		<glk_example>سٚفره     ٰ فلگان</glk_example>
+		<glk_example>سٚفره      ٰ فلگان</glk_example>
 		<fa_word>بتکان</fa_word>
 		<fa_example>سفره را بتکان</fa_example>
 	</word>
@@ -5029,7 +5029,7 @@
 	<word>
 		<id>719</id>
 		<glk_word>کلانه</glk_word>
-		<glk_example>بۊشۊ اۊ کلانه    ٰ بأور</glk_example>
+		<glk_example>بۊشۊ اۊ کلانه     ٰ بأور</glk_example>
 		<fa_word>منقل</fa_word>
 		<fa_example>برو آن منقل را بیاور</fa_example>
 	</word>
@@ -5057,7 +5057,7 @@
 	<word>
 		<id>723</id>
 		<glk_word>کله</glk_word>
-		<glk_example>بۊشۊ کله    ٰ وأگيران</glk_example>
+		<glk_example>بۊشۊ کله     ٰ وأگيران</glk_example>
 		<fa_word>اجاق</fa_word>
 		<fa_example>برو اجاق را روشن کن</fa_example>
 	</word>
@@ -5246,7 +5246,7 @@
 	<word>
 		<id>750</id>
 		<glk_word>گاره</glk_word>
-		<glk_example>جغله    ٰ ببر گاره دۊرۊن بۊخۊسان</glk_example>
+		<glk_example>جغله     ٰ ببر گاره دۊرۊن بۊخۊسان</glk_example>
 		<fa_word>گهواره</fa_word>
 		<fa_example>نوزاد را ببر در گهواره بخوابان</fa_example>
 	</word>
@@ -5582,7 +5582,7 @@
 	<word>
 		<id>798</id>
 		<glk_word>لته</glk_word>
-		<glk_example>اۊ لته    ٰ مرأ فأدن ميزأ پأکۊنم</glk_example>
+		<glk_example>اۊ لته     ٰ مرأ فأدن ميزأ پأکۊنم</glk_example>
 		<fa_word>دستمال</fa_word>
 		<fa_example>آن دستمال را به من بده میز را تمیز کنم</fa_example>
 	</word>
@@ -5603,7 +5603,7 @@
 	<word>
 		<id>801</id>
 		<glk_word>لپه</glk_word>
-		<glk_example>لپه    ٰ تأود</glk_example>
+		<glk_example>لپه     ٰ تأود</glk_example>
 		<fa_word>توپ</fa_word>
 		<fa_example>توپ را پرتاب کن</fa_example>
 	</word>
@@ -5666,7 +5666,7 @@
 	<word>
 		<id>810</id>
 		<glk_word>مئوه</glk_word>
-		<glk_example>مئوه    ٰنأ بۊشؤستي؟</glk_example>
+		<glk_example>مئوه     ٰنأ بۊشؤستي؟</glk_example>
 		<fa_word>میوه</fa_word>
 		<fa_example>میوه‌ها را شستی؟</fa_example>
 	</word>
@@ -5925,7 +5925,7 @@
 	<word>
 		<id>847</id>
 		<glk_word>مچه</glk_word>
-		<glk_example>أمين خۊ مچه    ٰ عمل بۊکۊده</glk_example>
+		<glk_example>أمين خۊ مچه     ٰ عمل بۊکۊده</glk_example>
 		<fa_word>چانه</fa_word>
 		<fa_example>امین چانه‌اش را عمل کرده است</fa_example>
 	</word>
@@ -6471,7 +6471,7 @@
 	<word>
 		<id>925</id>
 		<glk_word>وارسي</glk_word>
-		<glk_example>ايپچه اۊشنتر همه    ٰ وارسي کۊديد</glk_example>
+		<glk_example>ايپچه اۊشنتر همه     ٰ وارسي کۊديد</glk_example>
 		<fa_word>بازرسی</fa_word>
 		<fa_example>کمى آن طرف‌تر همه را بازرسی می‌کردند</fa_example>
 	</word>
@@ -6520,7 +6520,7 @@
 	<word>
 		<id>932</id>
 		<glk_word>واسئن</glk_word>
-		<glk_example>اۊن چیسه تي دينأ وأسئن دري؟</glk_example>
+		<glk_example>اۊن چیسه تي ديمأ وأسئن دري؟</glk_example>
 		<fa_word>مالیدن</fa_word>
 		<fa_example>آن چیست داری به صورتت می‌مالی؟</fa_example>
 	</word>
@@ -6597,7 +6597,7 @@
 	<word>
 		<id>943</id>
 		<glk_word>واليشتن</glk_word>
-		<glk_example>گاب خۊ مانده    ٰ واليشتن دره</glk_example>
+		<glk_example>گاب خۊ مانده     ٰ واليشتن دره</glk_example>
 		<fa_word>لیسیدن</fa_word>
 		<fa_example>گاو دارد گوساله‌اش را مى‌لیسد</fa_example>
 	</word>
@@ -6737,7 +6737,7 @@
 	<word>
 		<id>963</id>
 		<glk_word>ولگ</glk_word>
-		<glk_example>مي اينستا ولگأ دأري؟</glk_example>
+		<glk_example>مي اينستاگرام ولگأ دأري؟</glk_example>
 		<fa_word>صفحه</fa_word>
 		<fa_example>صفحه اینستاگرام من را دارى؟</fa_example>
 	</word>

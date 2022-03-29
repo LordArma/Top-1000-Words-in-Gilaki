@@ -731,7 +731,7 @@
 	<word>
 		<id>105</id>
 		<glk_word>باقي بمأنسته</glk_word>
-		<glk_example>أن ٚ باقي بمانسته    ٰ چي بۊکۊنم؟</glk_example>
+		<glk_example>أن ٚ باقي بمانسته     ٰ چي بۊکۊنم؟</glk_example>
 		<en_word>Remaining</en_word>
 		<en_example>What shuld I do with the remaining?</en_example>
 	</word>
@@ -1312,7 +1312,7 @@
 	<word>
 		<id>188</id>
 		<glk_word>بۊکۊشيد</glk_word>
-		<glk_example>أشان خأئيد همه    ٰ بۊکۊشيد</glk_example>
+		<glk_example>أشان خأئيد همه     ٰ بۊکۊشيد</glk_example>
 		<en_word>Kill</en_word>
 		<en_example>They want to kill everybody</en_example>
 	</word>
@@ -1452,7 +1452,7 @@
 	<word>
 		<id>208</id>
 		<glk_word>پت</glk_word>
-		<glk_example>أمي مؤبل ٚ دسته    ٰ پت بزه</glk_example>
+		<glk_example>أمي مؤبل ٚ دسته     ٰ پت بزه</glk_example>
 		<en_word>Woodworm</en_word>
 		<en_example>The handle of our sofa has been eaten by woodworm</en_example>
 	</word>
@@ -2075,7 +2075,7 @@
 	<word>
 		<id>297</id>
 		<glk_word>تۊرتۊره</glk_word>
-		<glk_example>پارچهˈ همهˈ تۊرتۊره     ٰ کۊد</glk_example>
+		<glk_example>پارچهˈ همهˈ تۊرتۊره      ٰ کۊد</glk_example>
 		<en_word>Shredded</en_word>
 		<en_example>He/She shredded all the cloth</en_example>
 	</word>
@@ -2159,7 +2159,7 @@
 	<word>
 		<id>309</id>
 		<glk_word>تۊکاپره</glk_word>
-		<glk_example>سجاد ؤ أکبر تۊکاپرهˈ ديبيد</glk_example>
+		<glk_example>فرزاد ؤ أحمد تۊکاپرهˈ ديبيد</glk_example>
 		<en_word>Argue</en_word>
 		<en_example>Farzad and Ahmad were arguing</en_example>
 	</word>
@@ -2201,7 +2201,7 @@
 	<word>
 		<id>315</id>
 		<glk_word>جؤر</glk_word>
-		<glk_example>تي وسيله    ٰن کابينت ٚ جؤر نهأ</glk_example>
+		<glk_example>تي وسيله     ٰن کابينت ٚ جؤر نهأ</glk_example>
 		<en_word>Top</en_word>
 		<en_example>Your stuff are on top of the cabinet</en_example>
 	</word>
@@ -2299,7 +2299,7 @@
 	<word>
 		<id>329</id>
 		<glk_word>جيجاماما</glk_word>
-		<glk_example>خۊ وسيله    ٰنأ جيجاماما کۊدن دره</glk_example>
+		<glk_example>خۊ وسيله     ٰنأ جيجاماما کۊدن دره</glk_example>
 		<en_word>Hide</en_word>
 		<en_example>He/She is hiding his/her stuff</en_example>
 	</word>
@@ -2502,7 +2502,7 @@
 	<word>
 		<id>358</id>
 		<glk_word>چارکۊنج</glk_word>
-		<glk_example>پارچه     ٰ چارکۊنج واوين</glk_example>
+		<glk_example>پارچه      ٰ چارکۊنج واوين</glk_example>
 		<en_word>Square</en_word>
 		<en_example>Cut the cloth in a square shape</en_example>
 	</word>
@@ -2586,7 +2586,7 @@
 	<word>
 		<id>370</id>
 		<glk_word>چمچه</glk_word>
-		<glk_example>چمچه    ٰ بيدئي؟</glk_example>
+		<glk_example>چمچه     ٰ بيدئي؟</glk_example>
 		<en_word>Ladle</en_word>
 		<en_example>Have you seen the ladle?</en_example>
 	</word>
@@ -3440,7 +3440,7 @@
 	<word>
 		<id>492</id>
 		<glk_word>دٚوارستم</glk_word>
-		<glk_example>ديرۊ شيمي کۊچه    ٰ دٚوارستم</glk_example>
+		<glk_example>ديرۊ شيمي کۊچه     ٰ دٚوارستم</glk_example>
 		<en_word>I Was Passing By</en_word>
 		<en_example>I was passing by your alley yesterday</en_example>
 	</word>
@@ -3923,7 +3923,7 @@
 	<word>
 		<id>561</id>
 		<glk_word>سر</glk_word>
-		<glk_example>تي وسيله    ٰنأ بنه ميز ٚ سر</glk_example>
+		<glk_example>تي وسيله     ٰنأ بنه ميز ٚ سر</glk_example>
 		<en_word>On</en_word>
 		<en_example>Put your stuff on the table</en_example>
 	</word>
@@ -4091,7 +4091,7 @@
 	<word>
 		<id>585</id>
 		<glk_word>سٚفره</glk_word>
-		<glk_example>سٚفره     ٰ بۊشؤستم</glk_example>
+		<glk_example>سٚفره      ٰ بۊشؤستم</glk_example>
 		<en_word>Tablecloth</en_word>
 		<en_example>I washed the tablecloth</en_example>
 	</word>
@@ -4644,7 +4644,7 @@
 	<word>
 		<id>664</id>
 		<glk_word>فلگان</glk_word>
-		<glk_example>سٚفره     ٰ فلگان</glk_example>
+		<glk_example>سٚفره      ٰ فلگان</glk_example>
 		<en_word>Shake</en_word>
 		<en_example>Shake the tablecloth</en_example>
 	</word>
@@ -5029,7 +5029,7 @@
 	<word>
 		<id>719</id>
 		<glk_word>کلانه</glk_word>
-		<glk_example>بۊشۊ اۊ کلانه    ٰ بأور</glk_example>
+		<glk_example>بۊشۊ اۊ کلانه     ٰ بأور</glk_example>
 		<en_word>Brazier</en_word>
 		<en_example>Go bring that brazier</en_example>
 	</word>
@@ -5057,7 +5057,7 @@
 	<word>
 		<id>723</id>
 		<glk_word>کله</glk_word>
-		<glk_example>بۊشۊ کله    ٰ وأگيران</glk_example>
+		<glk_example>بۊشۊ کله     ٰ وأگيران</glk_example>
 		<en_word>Stove</en_word>
 		<en_example>Go turn the stove on</en_example>
 	</word>
@@ -5246,7 +5246,7 @@
 	<word>
 		<id>750</id>
 		<glk_word>گاره</glk_word>
-		<glk_example>جغله    ٰ ببر گاره دۊرۊن بۊخۊسان</glk_example>
+		<glk_example>جغله     ٰ ببر گاره دۊرۊن بۊخۊسان</glk_example>
 		<en_word>Cradle</en_word>
 		<en_example>Put the baby in the cradle to sleep</en_example>
 	</word>
@@ -5582,7 +5582,7 @@
 	<word>
 		<id>798</id>
 		<glk_word>لته</glk_word>
-		<glk_example>اۊ لته    ٰ مرأ فأدن ميزأ پأکۊنم</glk_example>
+		<glk_example>اۊ لته     ٰ مرأ فأدن ميزأ پأکۊنم</glk_example>
 		<en_word>Handkerchief</en_word>
 		<en_example>Give me the handkerchief to clean the table</en_example>
 	</word>
@@ -5603,7 +5603,7 @@
 	<word>
 		<id>801</id>
 		<glk_word>لپه</glk_word>
-		<glk_example>لپه    ٰ تأود</glk_example>
+		<glk_example>لپه     ٰ تأود</glk_example>
 		<en_word>Ball</en_word>
 		<en_example>Throw the ball</en_example>
 	</word>
@@ -5666,7 +5666,7 @@
 	<word>
 		<id>810</id>
 		<glk_word>مئوه</glk_word>
-		<glk_example>مئوه    ٰنأ بۊشؤستي؟</glk_example>
+		<glk_example>مئوه     ٰنأ بۊشؤستي؟</glk_example>
 		<en_word>Fruit</en_word>
 		<en_example>Did you wash the fruits?</en_example>
 	</word>
@@ -5925,7 +5925,7 @@
 	<word>
 		<id>847</id>
 		<glk_word>مچه</glk_word>
-		<glk_example>أمين خۊ مچه    ٰ عمل بۊکۊده</glk_example>
+		<glk_example>أمين خۊ مچه     ٰ عمل بۊکۊده</glk_example>
 		<en_word>Chin</en_word>
 		<en_example>Amin got a chin surgery</en_example>
 	</word>
@@ -6471,7 +6471,7 @@
 	<word>
 		<id>925</id>
 		<glk_word>وارسي</glk_word>
-		<glk_example>ايپچه اۊشنتر همه    ٰ وارسي کۊديد</glk_example>
+		<glk_example>ايپچه اۊشنتر همه     ٰ وارسي کۊديد</glk_example>
 		<en_word>Inspection</en_word>
 		<en_example>A little further they were inspecting everyone</en_example>
 	</word>
@@ -6520,7 +6520,7 @@
 	<word>
 		<id>932</id>
 		<glk_word>واسئن</glk_word>
-		<glk_example>اۊن چیسه تي دينأ وأسئن دري؟</glk_example>
+		<glk_example>اۊن چیسه تي ديمأ وأسئن دري؟</glk_example>
 		<en_word>Rub</en_word>
 		<en_example>What are you rubbing to your face?</en_example>
 	</word>
@@ -6597,7 +6597,7 @@
 	<word>
 		<id>943</id>
 		<glk_word>واليشتن</glk_word>
-		<glk_example>گاب خۊ مانده    ٰ واليشتن دره</glk_example>
+		<glk_example>گاب خۊ مانده     ٰ واليشتن دره</glk_example>
 		<en_word>Licking</en_word>
 		<en_example>Cow is licking its calf</en_example>
 	</word>
@@ -6737,7 +6737,7 @@
 	<word>
 		<id>963</id>
 		<glk_word>ولگ</glk_word>
-		<glk_example>مي اينستا ولگأ دأري؟</glk_example>
+		<glk_example>مي اينستاگرام ولگأ دأري؟</glk_example>
 		<en_word>Page</en_word>
 		<en_example>Do you have my Instagram page?</en_example>
 	</word>
